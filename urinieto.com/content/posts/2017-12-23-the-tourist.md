@@ -1,0 +1,14 @@
+---
+title: The Tourist
+author: uri
+type: post
+date: 2017-12-23T18:46:12+00:00
+url: /2017/12/the-tourist/
+categories:
+  - covers
+  - vídeos
+
+---
+We&#8217;re all tourists. Slowing down for Christmas.
+
+[![](http://img.youtube.com/vi/ikSBA7krVUk/0.jpg)](https://youtube.com/watch?v=ikSBA7krVUk) 
