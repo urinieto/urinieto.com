@@ -3,6 +3,7 @@ title: About Me
 author: admin
 type: page
 date: 2008-09-28T22:52:34+00:00
+menu: "about"
 
 ---
 Hello World! I am Oriol Nieto (aka Uri Nieto), a Scientist at <a href="http://www.pandora.com" target="_blank">Pandora</a>, a Doctor in Music Technology, Computer Scientist, and almost a Musician born in [Barcelona][1] in 1983.

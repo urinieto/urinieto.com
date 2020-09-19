@@ -1,7 +1,31 @@
-baseURL = "http://example.org/"
+baseURL = "http://urinieto.com/"
+url = "http://urinieto.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Uri Nieto"
 theme = "ananke"
+# sectionPagesMenu = "main"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[menu]
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        title = "Blog section"
+        url = "/posts/"
+        weight = -110
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About section"
+        url = "/about/"
+        weight = -210
+
+    [[menu.main]]
+        identifier = "cv"
+        name = "CV"
+        title = "CV section"
+        url = "/cv/"
+        weight = -100
