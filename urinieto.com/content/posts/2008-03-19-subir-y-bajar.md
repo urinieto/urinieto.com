@@ -21,5 +21,5 @@ Este es, sin duda, uno de los mejores cortos de animación que haya visto nunca.
 Conejílopes, ¿dónde estáis? 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

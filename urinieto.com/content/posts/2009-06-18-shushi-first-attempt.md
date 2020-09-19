@@ -14,6 +14,6 @@ We made some maki with crab, salmon, cucumber, avocado and Philadelphia, and som
 
 So, there it goes my little tribute to Bobby Shaftoe.
 
-[<img class="aligncenter size-medium wp-image-508" title="sushi" src="/wp-content/uploads/2009/06/sushi-500x375.jpg" alt="sushi" width="500" height="375" />][1]
+[{{< img class="aligncenter size-medium wp-image-508" title="sushi" src="/wp-content/uploads/2009/06/sushi-500x375.jpg" alt="sushi" width="500" height="375" >}}][1]
 
  [1]: /wp-content/uploads/2009/06/sushi.jpg

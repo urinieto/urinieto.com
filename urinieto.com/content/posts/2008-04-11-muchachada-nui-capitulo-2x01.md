@@ -23,5 +23,5 @@ Voy finidísima.
 Gracias ed1115, one more time. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

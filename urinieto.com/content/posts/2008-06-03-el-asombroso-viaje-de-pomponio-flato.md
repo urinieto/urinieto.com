@@ -13,7 +13,7 @@ categories:
   - eduardo mendoza
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg" border="0" >}}][1]
 
 Un regalo de Madre de Sant Jordi. Y muy entretenido. Hacía tiempo que no leía un libro de estos que estan en los escaparates de todas las librerías y me lo pasaba tan bien. Bueno, es un libro simpático.
 
@@ -24,7 +24,7 @@ Un libro corto y de fácil lectura que te entretiene. Y poca cosa más, aparte d
 Un libro no freak para gente no freak. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s1600-h/_grandeel_asombroso_viaje_de_pomponio.jpg

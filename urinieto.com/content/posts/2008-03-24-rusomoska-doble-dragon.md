@@ -18,5 +18,5 @@ Aquí la segunda obra maestra de nuestro magnífico grupo de logística. Se llam
 [youtube=http://www.youtube.com/watch?v=3lAM_gwvNSc&hl=es] 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

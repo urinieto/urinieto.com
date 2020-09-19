@@ -18,5 +18,5 @@ What the fuck is wrong with this incredibly stupid human race?
 [youtube=http://www.youtube.com/watch?v=Y5RAxay3jg8&hl=en] 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

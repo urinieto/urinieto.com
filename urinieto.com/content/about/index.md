@@ -6,13 +6,15 @@ date: 2008-09-28T22:52:34+00:00
 menu: "about"
 
 ---
-Hello World! I am Oriol Nieto (aka Uri Nieto), a Scientist at <a href="http://www.pandora.com" target="_blank">Pandora</a>, a Doctor in Music Technology, Computer Scientist, and almost a Musician born in [Barcelona][1] in 1983.
+Hello World! I am Oriol Nieto (aka Uri Nieto), a Staff Scientist at <a href="http://www.pandora.com" target="_blank">Pandora</a>.
 
-<img src="http://urinieto.com/wp-content/uploads/2008/09/uri.png" alt="" title="uri" width="240" height="350" class="aligncenter size-full wp-image-1312" /> 
+<div class="center">
+    <img src="/wp-content/uploads/2008/09/uri.png" alt="" title="uri" width="240" height="350" class="" />
+</div>
+
+I hold a [Ph.D in Music Data Science][6] from the **New York University**. You can see all my publications, including my Ph.D Dissertation, <a href="http://marl.smusic.nyu.edu/nieto/publications.php" target="_blank">here</a>. My interests focus on music information retrieval, large scale recommendation systems, and machine learning with especial emphasis on deep architectures.
 
 I sing, play guitar, violin, and drums for the psychedelic, depressive, humorous, transatlantic, and transcontinental band <a href="https://www.facebook.com/labossadurina" target="_blank">La Bossa d&#8217;Urina</a>. I was the singer, guitarist and violinist of [Sargon][2] for 10 years, and I am the creator of the [SCREAMINATOR][3], the [Growl Hero][4], and the [Ultimate Screaming Lessons][5]. I am also the director of **Jarl&#8217;em All Studios**, in <strike>Harlem</strike> <strike>Brooklyn</strike> Oakland, California. This just means that I have a mini home studio and that I like to give fancy names to random things.
-
-I hold a [Ph.D in Music Technology][6] from the **New York University**. You can see all my publications, including my Ph.D Dissertation, <a href="http://marl.smusic.nyu.edu/nieto/publications.php" target="_blank">here</a>. My interests focus on Music Information Retrieval, Music Cognition, and Machine Learning, focusing on Music Structural Analysis (aka Music Segmentation) but I&#8217;ve also done a bunch of research on Human Computer Interaction for Musical Interfaces and Extreme Vocal Effects.
 
 I was the teacher of the courses [C Programming for Music Technology][7] and <a href="http://marl.smusic.nyu.edu/nieto/iOS/" target="_blank">Applications on iOS Platform</a> at NYU. I also worked alongside with [Jordan Rudess][8] from [Dream Theater][9] and Kevin Chartier developing some cool Music Apps for the iOS Platform. I helped them with the [MorphWiz][10] and the [SketchWiz][11], really cool apps you can find on the AppStore. I also [develop iOS apps myself][12].
 

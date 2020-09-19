@@ -18,12 +18,12 @@ He focused on his extraordinary [cover of Slim Shady][4] (by Eminem), and he sho
 
 Thanks for coming Eyal, we had a great time!
 
-[<img src="/wp-content/uploads/2011/10/Eyal41-500x333.jpg" alt="" title="Eyal4" width="500" height="333" class="aligncenter size-medium wp-image-1278" />][5]
+[{{< img src="/wp-content/uploads/2011/10/Eyal41-500x333.jpg" alt="" title="Eyal4" width="500" height="333" class="aligncenter size-medium wp-image-1278" >}}][5]
 
-[<img src="/wp-content/uploads/2011/10/Eyal3-500x333.jpg" alt="" title="Eyal3" width="500" height="333" class="aligncenter size-medium wp-image-1279" />][6]
+[{{< img src="/wp-content/uploads/2011/10/Eyal3-500x333.jpg" alt="" title="Eyal3" width="500" height="333" class="aligncenter size-medium wp-image-1279" >}}][6]
 
 <div id="attachment_1276" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/10/Eyal1.jpg"><img src="/wp-content/uploads/2011/10/Eyal1-500x333.jpg" alt="" title="Eyal1" width="500" height="333" class="size-medium wp-image-1276" /></a>
+  <a href="/wp-content/uploads/2011/10/Eyal1.jpg">{{< img src="/wp-content/uploads/2011/10/Eyal1-500x333.jpg" alt="" title="Eyal1" width="500" height="333" class="size-medium wp-image-1276" >}}</a>
   
   <p class="wp-caption-text">
     In my office!

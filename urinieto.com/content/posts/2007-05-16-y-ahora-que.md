@@ -14,7 +14,7 @@ categories:
 ---
 Después de tanto tiempo, por fin hoy he visto esto:
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg" border="0" >}}][1]
 
 Y ahora qué.
 

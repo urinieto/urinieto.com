@@ -22,7 +22,7 @@ Madre mía. Stephenson se nos va al futuro otra vez. Esto puede ser demasiado bu
 Ya se puede reservar en [Amazon][4]. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://en.wikipedia.org/wiki/Neal_Stephenson

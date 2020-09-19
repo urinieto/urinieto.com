@@ -16,7 +16,7 @@ However, more people were coming, so in the end I think around 200 people gather
 
 Then my friends told me why this was such a _secret_ event: This talk was organized by the [Stanford says no to war][2] movement and what they want is to kick out [Condoleeza Rice from her place at Stanford University][3]. She is now a Professor of Political Science and Senior Fellow, by courtesy of the Hoover Institution at Stanford. I didn&#8217;t even know Rice was here at Stanford. And&#8230; well, of course I was happy an event like that was held but at the same sad because of the few people we were there.
 
-[<img src="/wp-content/uploads/2009/10/chomskyevent1-500x666.jpg" alt="chomskyevent1" title="chomskyevent1" width="500" height="666" class="aligncenter size-medium wp-image-603" />][4]
+[{{< img src="/wp-content/uploads/2009/10/chomskyevent1-500x666.jpg" alt="chomskyevent1" title="chomskyevent1" width="500" height="666" class="aligncenter size-medium wp-image-603" >}}][4]
 
 Some Professors and Graduate Students gave short speeches before Chomsky&#8217;s turn. Eighty years old, raspy voice, but with an amazing presence up there in the (small) stage. He gave a 10minute speech and I enjoyed every piece of it. This guy is a genius. We owe him so much. Among other things he strongly criticized the Nüremberg Tribunals, and he subliminally suggested a way to end up with this economic crisis. Enjoy: (http://www.youtube.com/watch?v=PjOStiS0jRg)
 

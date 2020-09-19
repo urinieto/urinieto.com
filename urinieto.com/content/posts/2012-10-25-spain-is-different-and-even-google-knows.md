@@ -10,6 +10,6 @@ categories:
 ---
 Even Google knows that my country is a fucking joke. Or at least our president. Or the image we spaniards have towards him. Take a look at the default Google images for many other presidents, our beloved Mariano is at the very end.
 
-[<img src="/wp-content/uploads/2012/10/SpainDifferent-230x1000.png" alt="" title="SpainDifferent" width="230" height="1000" class="aligncenter size-medium wp-image-1655" />][1]
+[{{< img src="/wp-content/uploads/2012/10/SpainDifferent-230x1000.png" alt="" title="SpainDifferent" width="230" height="1000" class="aligncenter size-medium wp-image-1655" >}}][1]
 
  [1]: /wp-content/uploads/2012/10/SpainDifferent.png

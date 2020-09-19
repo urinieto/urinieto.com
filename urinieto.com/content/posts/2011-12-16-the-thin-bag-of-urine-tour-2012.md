@@ -17,11 +17,11 @@ Serà increïble. Serà gratuït. Tocaré amb en Daniel Bolsa Madrid i amb en Ma
 
 **El dijous 12 de Gener a Barcelona**, al **Bar Macondo a les 21:30h**. Aquí teniu el cartell:
 
-[<img src="/wp-content/uploads/2011/12/ThinBagOfUrine-Macondo-500x707.jpg" alt="" title="ThinBagOfUrine-Macondo" width="500" height="707" class="aligncenter size-medium wp-image-1410" />][1]
+[{{< img src="/wp-content/uploads/2011/12/ThinBagOfUrine-Macondo-500x707.jpg" alt="" title="ThinBagOfUrine-Macondo" width="500" height="707" class="aligncenter size-medium wp-image-1410" >}}][1]
 
 I el concert final de gira, celebrant tantes hores de ruta, serà a Granollers, **el divendres 13 de Gener, a les 22h, a l&#8217;esquerda**:
 
-[<img src="/wp-content/uploads/2011/12/Esquerda-500x707.jpg" alt="" title="Esquerda" width="500" height="707" class="aligncenter size-medium wp-image-1416" />][2]
+[{{< img src="/wp-content/uploads/2011/12/Esquerda-500x707.jpg" alt="" title="Esquerda" width="500" height="707" class="aligncenter size-medium wp-image-1416" >}}][2]
 
 Veniu, que hi haurà huevada! Tinc ganes titans!
 

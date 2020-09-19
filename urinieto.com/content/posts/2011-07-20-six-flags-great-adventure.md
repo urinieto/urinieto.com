@@ -13,12 +13,12 @@ A couple of weeks ago I went to Six Flags Great Adventure and it was extremely a
 
 Yes, 13 fucking roller coasters.
 
-[<img src="/wp-content/uploads/2011/07/SixFlags1-500x375.jpg" alt="" title="SixFlags1" width="500" height="375" class="aligncenter size-medium wp-image-1222" />][1]
+[{{< img src="/wp-content/uploads/2011/07/SixFlags1-500x375.jpg" alt="" title="SixFlags1" width="500" height="375" class="aligncenter size-medium wp-image-1222" >}}][1]
 
 On of them, [Kingda Ka][2], is the tallest (and until November last year the fastest) roller coaster on Earth (around 140m, or 450ft, and 200 km/h or 128 mph). Amazing!
 
 <div id="attachment_1225" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/KingdaKa.jpg"><img src="/wp-content/uploads/2011/07/KingdaKa-500x375.jpg" alt="" title="KingdaKa" width="500" height="375" class="size-medium wp-image-1225" /></a>
+  <a href="/wp-content/uploads/2011/07/KingdaKa.jpg">{{< img src="/wp-content/uploads/2011/07/KingdaKa-500x375.jpg" alt="" title="KingdaKa" width="500" height="375" class="size-medium wp-image-1225" >}}</a>
   
   <p class="wp-caption-text">
     Kingda Ka and El Toro on the background
@@ -33,7 +33,7 @@ I made a stupid montage about it:
 And here some pics:
 
 <div id="attachment_1227" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/Nitro.jpg"><img src="/wp-content/uploads/2011/07/Nitro-e1311267818916-500x666.jpg" alt="" title="Nitro" width="500" height="666" class="size-medium wp-image-1227" /></a>
+  <a href="/wp-content/uploads/2011/07/Nitro.jpg">{{< img src="/wp-content/uploads/2011/07/Nitro-e1311267818916-500x666.jpg" alt="" title="Nitro" width="500" height="666" class="size-medium wp-image-1227" >}}</a>
   
   <p class="wp-caption-text">
     Nitro, one of my favorites, you feel like flying all the time
@@ -41,7 +41,7 @@ And here some pics:
 </div>
 
 <div id="attachment_1228" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/GreenLantern.jpg"><img src="/wp-content/uploads/2011/07/GreenLantern-500x375.jpg" alt="" title="GreenLantern" width="500" height="375" class="size-medium wp-image-1228" /></a>
+  <a href="/wp-content/uploads/2011/07/GreenLantern.jpg">{{< img src="/wp-content/uploads/2011/07/GreenLantern-500x375.jpg" alt="" title="GreenLantern" width="500" height="375" class="size-medium wp-image-1228" >}}</a>
   
   <p class="wp-caption-text">
     Green Lantern, the new coaster of 2011
@@ -49,7 +49,7 @@ And here some pics:
 </div>
 
 <div id="attachment_1229" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/El-Toro.jpg"><img src="/wp-content/uploads/2011/07/El-Toro-500x375.jpg" alt="" title="El Toro" width="500" height="375" class="size-medium wp-image-1229" /></a>
+  <a href="/wp-content/uploads/2011/07/El-Toro.jpg">{{< img src="/wp-content/uploads/2011/07/El-Toro-500x375.jpg" alt="" title="El Toro" width="500" height="375" class="size-medium wp-image-1229" >}}</a>
   
   <p class="wp-caption-text">
     El Toro, the craziest one (yep, even more than Kingda Ka!). So good!
@@ -57,7 +57,7 @@ And here some pics:
 </div>
 
 <div id="attachment_1230" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/Superman2.jpg"><img src="/wp-content/uploads/2011/07/Superman2-500x375.jpg" alt="" title="Superman2" width="500" height="375" class="size-medium wp-image-1230" /></a>
+  <a href="/wp-content/uploads/2011/07/Superman2.jpg">{{< img src="/wp-content/uploads/2011/07/Superman2-500x375.jpg" alt="" title="Superman2" width="500" height="375" class="size-medium wp-image-1230" >}}</a>
   
   <p class="wp-caption-text">
     Superman. Yeah, you literally fly. Amazing, one of the bests
@@ -65,7 +65,7 @@ And here some pics:
 </div>
 
 <div id="attachment_1231" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/Superman.jpg"><img src="/wp-content/uploads/2011/07/Superman-500x375.jpg" alt="" title="Superman" width="500" height="375" class="size-medium wp-image-1231" /></a>
+  <a href="/wp-content/uploads/2011/07/Superman.jpg">{{< img src="/wp-content/uploads/2011/07/Superman-500x375.jpg" alt="" title="Superman" width="500" height="375" class="size-medium wp-image-1231" >}}</a>
   
   <p class="wp-caption-text">
     Superman with Green Lantern in the background

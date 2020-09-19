@@ -11,7 +11,7 @@ categories:
 I&#8217;m moving out. I switch coasts. So I wanted to go to [The Mission District][1] one last time, my favorite part of one of the most amazing cities I&#8217;ve ever been to. I&#8217;m gonna miss San Francisco so much, and especially this district originally founded by the priest [Francisco Palóu][2] in 1776. Its colors, its buildings, its food, its people. And also its weather (no seasons at all, compared to the snow I&#8217;m gonna suffer in NY in the winter).
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_1582" href="http://www.flickr.com/photos/enochrooted/4870500672/"><img class="aligncenter" src="http://farm5.static.flickr.com/4081/4870500672_cb062d146b.jpg" alt="IMG_1582" /></a>
+  <a class="flickr-image aligncenter" title="IMG_1582" href="http://www.flickr.com/photos/enochrooted/4870500672/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4081/4870500672_cb062d146b.jpg" alt="IMG_1582" >}}</a>
 </p>
 
 Good bye San Francisco.

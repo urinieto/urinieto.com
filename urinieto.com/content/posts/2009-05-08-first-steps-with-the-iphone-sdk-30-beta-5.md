@@ -8,7 +8,7 @@ categories:
   - iphone
 
 ---
-<img src="/wp-content/uploads/2009/05/iphone-3-new-1.jpg" alt="iphone-3-new-1" title="iphone-3-new-1" width="536" height="417" class="aligncenter size-full wp-image-438" />
+{{< img src="/wp-content/uploads/2009/05/iphone-3-new-1.jpg" alt="iphone-3-new-1" title="iphone-3-new-1" width="536" height="417" class="aligncenter size-full wp-image-438" >}}
 
 After reading [this][1] I finally had a good reason to install the new SDK for the iPhone. It seems like the guys from Apple want people to update to their firmwares as soon as they can, and now they make the developers make sure their new software works in the 3.0 version before uploading it to the AppStore.
 

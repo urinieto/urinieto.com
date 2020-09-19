@@ -18,7 +18,7 @@ You can listen to La Bossa d&#8217;Urina here:
   * [iTunes][7]
   * [Amazon][8]
 
-[<img src="/wp-content/uploads/2015/12/LBDU-500x500.jpg" alt="LBDU" width="500" height="500" class="aligncenter size-medium wp-image-1963" />][9]
+[{{< img src="/wp-content/uploads/2015/12/LBDU-500x500.jpg" alt="LBDU" width="500" height="500" class="aligncenter size-medium wp-image-1963" >}}][9]
 
  [1]: http://www.labossadurina.com
  [2]: http://www.thenewraemon.com/

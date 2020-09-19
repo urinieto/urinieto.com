@@ -8,7 +8,7 @@ categories:
   - books
 
 ---
-<img class="aligncenter size-full wp-image-420" title="theroad-cormac" src="/wp-content/uploads/2009/05/theroad-cormac.jpg" alt="theroad-cormac" width="314" height="500" />
+{{< img class="aligncenter size-full wp-image-420" title="theroad-cormac" src="/wp-content/uploads/2009/05/theroad-cormac.jpg" alt="theroad-cormac" width="314" height="500" >}}
 
 Primer McCarthy en mi cerebro olvidadizo. Lo vi en un Opencor de Madrid, mientras no tenía nada que hacer pues [Jeremy Enigk][1] estaba haciendo las pruebas de sonido. Me gustó bastante la peli de [&#8220;No es país para viejos&#8221;][2], que está basada en otra novela de Cormac McCarthy, así que al ver &#8220;La Carretera&#8221; me picó la curiosidad, me lo compré, y me lo empecé a leer mientras escuchaba la voz rota de Jeremy.
 

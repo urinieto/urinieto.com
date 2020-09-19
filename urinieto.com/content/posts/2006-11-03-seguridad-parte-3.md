@@ -16,7 +16,7 @@ No hay dos sin tres.
 
 Lo he conseguido. Funciona. Ya puedes logearte desde tu plugin para tiddlywiki a tu server de moodle. Flipa. 
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/importsecurity.jpg" border="0" alt="" />][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/importsecurity.jpg" border="0" alt="" >}}][1]  
 El código de sesiones y logins de moodle es enorme y bastante complejo y &#8220;spaghetti&#8221;, pero he conseguido encontrar la manera de entenderlo y usar las partes que me importaban a mi plugin.
 
 He creado un nuevo archivo para la wiki (por si había pocos), el wssecurity.php, donde he puesto todas las funciones de seguridad del web service.

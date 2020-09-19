@@ -29,7 +29,7 @@ Creo es un problema bastante difícil, y yo necesité varias pistas para poderlo
 
 Os dejo una foto para que os entre la inspiración.
 
-[<img src="/wp-content/uploads/2009/11/PuertoEscondido.jpg" alt="PuertoEscondido" title="PuertoEscondido" width="474" height="355" class="aligncenter size-full wp-image-637" />][2]
+[{{< img src="/wp-content/uploads/2009/11/PuertoEscondido.jpg" alt="PuertoEscondido" title="PuertoEscondido" width="474" height="355" class="aligncenter size-full wp-image-637" >}}][2]
 
 ¿Pistas? Seguid leyendo.
 

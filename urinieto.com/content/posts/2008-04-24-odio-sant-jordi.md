@@ -17,5 +17,5 @@ categories:
 <span style="font-weight:bold;">EDITO</span>: Sólo hicieron una mierda de Sant Jordi en la mierda de Cataluña. Por Dios, quien me mandó vivir aquí. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

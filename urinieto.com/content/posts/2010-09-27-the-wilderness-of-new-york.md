@@ -11,7 +11,7 @@ categories:
 Just got to New York two weeks ago. And this city is wild. Giant buildings. Giant people. Giant parks. Giant jewish Spiral Curls. Giant avenues. Giant trains. Giant rats. Loving this place so far.
 
 <p style="text-align: center;">
-  <a class="flickr-image alignnone" title="IMG_3022" href="http://www.flickr.com/photos/enochrooted/5030670782/"><img class="aligncenter" src="http://farm5.static.flickr.com/4083/5030670782_60d87b5e82_z.jpg" alt="IMG_3022" /></a>
+  <a class="flickr-image alignnone" title="IMG_3022" href="http://www.flickr.com/photos/enochrooted/5030670782/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4083/5030670782_60d87b5e82_z.jpg" alt="IMG_3022" >}}</a>
 </p>
 
 I live in a cozy little apartment in Harlem, next to Morningside, close to Central Park. I am trying to become a New Yorker by wearing blue shoes, an almost-jewish hat, hipster sun glasses, and go running in Central Park, but still I feel like a tourist. But who doesn&#8217;t in NY?

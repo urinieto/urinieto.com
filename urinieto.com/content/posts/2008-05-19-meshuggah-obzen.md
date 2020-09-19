@@ -13,7 +13,7 @@ categories:
   - music
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://4.bp.blogspot.com/_WEHvyZj_jiU/SDFEIvZ2UwI/AAAAAAAABJQ/tfsek9XHvRs/s320/ObZencover.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://4.bp.blogspot.com/_WEHvyZj_jiU/SDFEIvZ2UwI/AAAAAAAABJQ/tfsek9XHvRs/s320/ObZencover.jpg" border="0" >}}][1]
 
 Se han superado. Meshuggah han hecho una obra maestra. Este disco es el Zen de la música extrema. Del death metal técnico. O lo que sea que hagan Meshuggah. Este disco es inclasificable y exageradamente bueno.
 
@@ -26,7 +26,7 @@ Puf, mierda.
 Me encanta este disco. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://4.bp.blogspot.com/_WEHvyZj_jiU/SDFEIvZ2UwI/AAAAAAAABJQ/tfsek9XHvRs/s1600-h/ObZencover.jpg

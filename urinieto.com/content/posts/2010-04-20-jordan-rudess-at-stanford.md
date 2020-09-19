@@ -20,7 +20,7 @@ I still can&#8217;t believe that I managed to bring Jordan from the east coast a
 
 You can&#8217;t miss it!
 
-[<img src="/wp-content/uploads/2010/04/JordanRudess1-500x707.jpg" alt="SLOrkastic Jordan Rudess" title="SLOrkastic Jordan Rudess" width="500" height="707" class="aligncenter size-medium wp-image-845" />][5]
+[{{< img src="/wp-content/uploads/2010/04/JordanRudess1-500x707.jpg" alt="SLOrkastic Jordan Rudess" title="SLOrkastic Jordan Rudess" width="500" height="707" class="aligncenter size-medium wp-image-845" >}}][5]
 
  [1]: https://ccrma.stanford.edu/courses/128/
  [2]: http://maps.google.com/maps?f=q&hl=en&q=660+Lomita+Dr,+Stanford,+CA&ie=UTF8&hq=&hnear=660+Lomita+Dr,+Stanford,+Santa+Clara,+California+94305&t=h&z=16

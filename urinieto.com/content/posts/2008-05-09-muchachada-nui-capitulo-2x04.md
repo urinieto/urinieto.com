@@ -20,5 +20,5 @@ Parte 1:
 [youtube=http://www.youtube.com/watch?v=3O5zfdL2gxE&hl=es] 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

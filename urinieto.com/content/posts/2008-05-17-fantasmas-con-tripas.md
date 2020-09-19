@@ -13,7 +13,7 @@ categories:
   - chuck palahniuk
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://4.bp.blogspot.com/_WEHvyZj_jiU/SC8cEPZ2UvI/AAAAAAAABJI/IKPzc5uFuu4/s320/haunted06.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://4.bp.blogspot.com/_WEHvyZj_jiU/SC8cEPZ2UvI/AAAAAAAABJI/IKPzc5uFuu4/s320/haunted06.jpg" border="0" >}}][1]
 
 Lo más asqueroso que haya leído nunca. Lo más animal, degradante y perturbador que haya pasado nunca por mi mente. Esto es <span style="font-weight:bold;">Haunted</span> (Fantasmas en la versión traducida), de <span style="font-weight:bold;">Chuck Palahniuk</span>, el escritor de El Club de la Lucha.
 
@@ -30,7 +30,7 @@ Aún así, el libro está muy bien. Me lo he pasado bien. Aunque ahora carzca de
 Lo recomiendo, por supuesto, a mentes enfermas como la mía. A fantasmas con tripas. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://4.bp.blogspot.com/_WEHvyZj_jiU/SC8cEPZ2UvI/AAAAAAAABJI/IKPzc5uFuu4/s1600-h/haunted06.jpg

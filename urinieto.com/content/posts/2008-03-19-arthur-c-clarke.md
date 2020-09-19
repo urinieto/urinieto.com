@@ -16,5 +16,5 @@ Ha muerto uno de los más grandes escritores de ciencia ficción de todos los ti
 DEP. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

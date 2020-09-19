@@ -21,5 +21,5 @@ Se trata del documental de Zarpucio Larachi, el inventor de los números.
 Rusomoska es por la mañana. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

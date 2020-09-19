@@ -12,6 +12,6 @@ Aprofitant les eleccions americanes de demà, l&#8217;equip de <a href="http://r
 
 <a href="http://rac1.org/elmon/blog/entrevista-05-11-12-2/" target="_blank">Aquí l&#8217;entrevista sencera</a>.
 
-[<img src="/wp-content/uploads/2012/11/uri-rac1-500x382.png" alt="" title="uri-rac1" width="500" height="382" class="aligncenter size-medium wp-image-1666" />][1]
+[{{< img src="/wp-content/uploads/2012/11/uri-rac1-500x382.png" alt="" title="uri-rac1" width="500" height="382" class="aligncenter size-medium wp-image-1666" >}}][1]
 
  [1]: /wp-content/uploads/2012/11/uri-rac1.png

@@ -16,7 +16,7 @@ Yesterday was due the first assignment which was writing three small music apps 
 Check out my small apps [here][6]. Enjoy titans!
 
 <center>
-  <a href="https://ccrma.stanford.edu/~urinieto/256b/hw1/"><img src="https://ccrma.stanford.edu/~urinieto/256b/hw1/icons.jpg" border="0" width="222" height="86" alt="Apps Icons" /></a>
+  <a href="https://ccrma.stanford.edu/~urinieto/256b/hw1/">{{< img src="https://ccrma.stanford.edu/~urinieto/256b/hw1/icons.jpg" border="0" width="222" height="86" alt="Apps Icons" >}}</a>
 </center>
 
  [1]: https://ccrma.stanford.edu/courses/256b/

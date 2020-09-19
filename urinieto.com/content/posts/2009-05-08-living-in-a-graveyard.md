@@ -8,7 +8,7 @@ categories:
   - books
 
 ---
-<img src="/wp-content/uploads/2009/05/graveyard-book.jpg" alt="graveyard-book" title="graveyard-book" width="433" height="648" class="aligncenter size-full wp-image-430" />
+{{< img src="/wp-content/uploads/2009/05/graveyard-book.jpg" alt="graveyard-book" title="graveyard-book" width="433" height="648" class="aligncenter size-full wp-image-430" >}}
 
 Dead people are usually nice. Living people as well. However, tv, books, press, swine flu and imagination always try to make us forget that. This book (like all Neil Gaiman&#8217;s), is different to any ordinary book. So here, the dead ones raise a little human baby and it grows up without knowing any living. In a Graveyard.
 

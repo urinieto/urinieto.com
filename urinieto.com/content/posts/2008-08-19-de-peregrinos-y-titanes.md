@@ -13,7 +13,7 @@ categories:
   - dan simmons
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://2.bp.blogspot.com/_WEHvyZj_jiU/SKsBF9bFLTI/AAAAAAAABLQ/Y8NCvbkCE3E/s320/hyperion.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://2.bp.blogspot.com/_WEHvyZj_jiU/SKsBF9bFLTI/AAAAAAAABLQ/Y8NCvbkCE3E/s320/hyperion.jpg" border="0" >}}][1]
 
 Hyperion es un Titan. También es la obra maestra de Dan Simmons. Un [Hugo][2] y un [Locus][3]. Hyperion es un planeta, y en él habita un ser medio verdadero, medio mitológico, medio titan. Como <a href="http://en.wikipedia.org/wiki/ManBearPig" target="_blank">Man-Bear-Pig</a>. 
 
@@ -28,7 +28,7 @@ Paisajes de ensueño, naturaleza, ciudades grises, naves espaciales, religiones 
 Muy recomendable a todos, freaks o no freaks. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://2.bp.blogspot.com/_WEHvyZj_jiU/SKsBF9bFLTI/AAAAAAAABLQ/Y8NCvbkCE3E/s1600-h/hyperion.jpg

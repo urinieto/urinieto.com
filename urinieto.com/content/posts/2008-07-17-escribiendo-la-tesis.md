@@ -13,9 +13,9 @@ categories:
 
 ---
 <p style="text-align: center;">
-  <img src="http://imgs.xkcd.com/comics/internet_argument.png" alt="" />
+  {{< img src="http://imgs.xkcd.com/comics/internet_argument.png" alt="" >}}
 </p>
 
 <div class="blogger-post-footer">
-  <img alt="" width="1" height="1" />
+  {{< img alt="" width="1" height="1" >}}
 </div>

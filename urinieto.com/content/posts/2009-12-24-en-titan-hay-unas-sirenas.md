@@ -8,7 +8,7 @@ categories:
   - books
 
 ---
-[<img src="/wp-content/uploads/2009/12/lib1799.jpg" alt="Sirenas de Titán" title="Sirenas de Titán" width="128" height="224" class="aligncenter size-full wp-image-663" />][1]
+[{{< img src="/wp-content/uploads/2009/12/lib1799.jpg" alt="Sirenas de Titán" title="Sirenas de Titán" width="128" height="224" class="aligncenter size-full wp-image-663" >}}][1]
 
 Este es mi primer **Kurt Vonnegut**. Se llama _&#8220;Las Sirenas de Titán&#8221;_ y gracias a este nombre un ejemplar del libro llegó a mis manos con una dedicatoria maravillosa, de Titánide a titán. Leyendo el primer capítulo diversas preguntas se generaron en mi frágil cerebro:
 

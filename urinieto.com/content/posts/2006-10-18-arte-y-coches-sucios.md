@@ -13,7 +13,7 @@ categories:
   - ollas
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/001_MLSN_peak.jpg" border="0" alt="" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/001_MLSN_peak.jpg" border="0" alt="" >}}][1]
 
 Increíble galería de arte en el polvo acumulado en la luneta de los coches:
 

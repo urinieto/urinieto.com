@@ -21,7 +21,7 @@ By the way, almost everybody calls me Uri. Only my parents/family, some professo
 
 Semantically, Oriol comes from the latin word for golden (&#8220;aureus&#8221;). And a yellow bird that can be found in some forests in Catalunya is named Oriol as well.
 
-[<img src="/wp-content/uploads/2009/09/f_oriol-500x333.jpg" alt="f_oriol" title="f_oriol" width="500" height="333" class="aligncenter size-medium wp-image-574" />][3]
+[{{< img src="/wp-content/uploads/2009/09/f_oriol-500x333.jpg" alt="f_oriol" title="f_oriol" width="500" height="333" class="aligncenter size-medium wp-image-574" >}}][3]
 
 Oh, and yes, I like my name and I&#8217;m quite proud of it.
 

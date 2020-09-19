@@ -14,6 +14,10 @@ def replace_urinieto(data):
     return data
 
 
+def replace_images(data):
+    return re.sub(r'<img\s(.*?)\s/>', '{{< img \g<1> >}}', data)
+
+
 def replace_iframes(data):
     # These are likely youtube videos
     return re.sub(r'<iframe.*src="(.*/(.*)\?+.*)"\sf.*</iframe>',
@@ -29,6 +33,7 @@ def update_file(in_file, out_file):
     data = replace_smileys(data)
     data = replace_urinieto(data)
     data = replace_iframes(data)
+    data = replace_images(data)
 
     # Write file
     with open(out_file, "w") as fn:

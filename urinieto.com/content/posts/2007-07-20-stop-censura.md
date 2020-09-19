@@ -13,7 +13,7 @@ categories:
   - politics
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg" border="0" >}}][1]
 
 Esta portada ha sido secuestrada. Pásala.
 

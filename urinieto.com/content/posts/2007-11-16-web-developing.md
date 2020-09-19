@@ -13,6 +13,6 @@ categories:
   - humor
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/Rz17KqZil5I/AAAAAAAABBQ/TVP_LuiM_x4/s320/dilbert2007166671115.gif" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/Rz17KqZil5I/AAAAAAAABBQ/TVP_LuiM_x4/s320/dilbert2007166671115.gif" border="0" >}}][1]
 
  [1]: http://bp3.blogger.com/_WEHvyZj_jiU/Rz17KqZil5I/AAAAAAAABBQ/TVP_LuiM_x4/s1600-h/dilbert2007166671115.gif

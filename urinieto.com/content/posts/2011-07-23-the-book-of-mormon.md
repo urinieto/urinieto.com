@@ -9,7 +9,7 @@ categories:
   - shows
 
 ---
-[<img src="/wp-content/uploads/2011/07/Book-of-Mormon-500x579.jpg" alt="" title="Book of Mormon" width="500" height="579" class="aligncenter size-medium wp-image-1242" />][1]
+[{{< img src="/wp-content/uploads/2011/07/Book-of-Mormon-500x579.jpg" alt="" title="Book of Mormon" width="500" height="579" class="aligncenter size-medium wp-image-1242" >}}][1]
 
 [The Book of Mormon][2] is the 9 Tonny Awards Winner Broadway musical by the creators of South Park Trey Parker and Matt Stone. The show started on March this year, but it has been so successful that no available tickets (for a reasonable price) can be purchased until June next year (!!).
 
@@ -24,7 +24,7 @@ Watch this video, in the beginning you will see the lottery process (beware, spo
 After going 7 times with my beloved roommate (so chances of winning doubled if we were two), yesterday we won 2 tickets to The Book Of Mormon. Oh shit. We made it. We fucking made it! We were so, so happy.
 
 <div id="attachment_1243" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/mormons1.jpg"><img src="/wp-content/uploads/2011/07/mormons1-500x500.jpg" alt="" title="mormons1" width="500" height="500" class="size-medium wp-image-1243" /></a>
+  <a href="/wp-content/uploads/2011/07/mormons1.jpg">{{< img src="/wp-content/uploads/2011/07/mormons1-500x500.jpg" alt="" title="mormons1" width="500" height="500" class="size-medium wp-image-1243" >}}</a>
   
   <p class="wp-caption-text">
     Winner Entry!
@@ -34,7 +34,7 @@ After going 7 times with my beloved roommate (so chances of winning doubled if w
 We were in one of the front boxes. The view was simply espectacular.
 
 <div id="attachment_1244" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/07/mormons2.jpg"><img src="/wp-content/uploads/2011/07/mormons2-500x666.jpg" alt="" title="mormons2" width="500" height="666" class="size-medium wp-image-1244" /></a>
+  <a href="/wp-content/uploads/2011/07/mormons2.jpg">{{< img src="/wp-content/uploads/2011/07/mormons2-500x666.jpg" alt="" title="mormons2" width="500" height="666" class="size-medium wp-image-1244" >}}</a>
   
   <p class="wp-caption-text">
     Inside the Eugene O'Neill Theater, seated in one of the boxes. So nice.

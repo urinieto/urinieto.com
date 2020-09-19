@@ -13,7 +13,7 @@ categories:
   - music
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/RY5dtaEOFtI/AAAAAAAAAAk/l9qgMXKAvXQ/s320/IncubusLightGrenades.gif" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/RY5dtaEOFtI/AAAAAAAAAAk/l9qgMXKAvXQ/s320/IncubusLightGrenades.gif" border="0" >}}][1]
 
 Incubus lo han vuelto a hacer. Sexto álbum de éstos Californianos y no hacen más que sorprenderme. Imposible dejar de escucharlo. No sólo es un placer compositivo y técnico, sino que, además, tiene una producción exquisita y un booklet totalmente acuerdo a la elevadisima calidad del CD.
 

@@ -14,11 +14,11 @@ El Bolsa i jo farem una gira mundial per la província de Barcelona a mitjans de
 
 El dijous 17 de Març toquem al Bar Veider, que està a Barcelona, exactament [aquí (Travessera de Gràcia, 276)][1]. Començarem a les 21:30h i serà Gratuït. Aquí el cartell:
 
-<img src="/wp-content/uploads/2011/03/UriBolsaPoster-BarVeider-500x707.png" alt="" title="UriBolsaPoster-BarVeider" width="500" height="707" class="aligncenter size-medium wp-image-1121" /> 
+{{< img src="/wp-content/uploads/2011/03/UriBolsaPoster-BarVeider-500x707.png" alt="" title="UriBolsaPoster-BarVeider" width="500" height="707" class="aligncenter size-medium wp-image-1121" >}} 
 
 El dissabte 19 de Març toquem a l&#8217;Esquerda, que està a Granollers, exactament [aquí (Av. Prat de la Riba, 31)][2]. Començarem a les 22:30h i serà Gratuït. Aquí el cartell:
 
-<img src="/wp-content/uploads/2011/03/UriBolsaPoster-Esquerda-500x707.png" alt="" title="UriBolsaPoster-Esquerda" width="500" height="707" class="aligncenter size-medium wp-image-1122" /> 
+{{< img src="/wp-content/uploads/2011/03/UriBolsaPoster-Esquerda-500x707.png" alt="" title="UriBolsaPoster-Esquerda" width="500" height="707" class="aligncenter size-medium wp-image-1122" >}} 
 
 Heu de venir per favor.
 

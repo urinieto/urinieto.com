@@ -10,7 +10,7 @@ categories:
 ---
 I think Apple did it again. Here it is the New Big Thing, it&#8217;s called **iPad** and I already want one:
 
-<img alt="" src="http://c0581892.cdn.cloudfiles.rackspacecloud.com/apple-tablet-keynote_033.jpg" title="iPad" class="aligncenter" width="640" height="425" /> 
+{{< img alt="" src="http://c0581892.cdn.cloudfiles.rackspacecloud.com/apple-tablet-keynote_033.jpg" title="iPad" class="aligncenter" width="640" height="425" >}} 
 
 I&#8217;m following the Talk live [here][1].
 

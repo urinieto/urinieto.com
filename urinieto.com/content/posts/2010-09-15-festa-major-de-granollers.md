@@ -12,7 +12,7 @@ Recently I&#8217;ve been on vacation in my hometown, [Granollers][1]. This town 
 
 But during the last week of August, a big festival takes over the town: **[La Festa Major de Granollers][5]**. This festival started on 1983, the year I was born, and two teams (Els Blancs i Els Blaus) &#8220;fight&#8221; each other to become the winner of the year. Both teams organize events that show both the culture of our town and how crazy parties are meant to be.
 
-[<img src="/wp-content/uploads/2010/09/festamajor.jpg" alt="festamajor" title="festamajor" width="480" height="360" class="aligncenter size-full wp-image-997" />][6]
+[{{< img src="/wp-content/uploads/2010/09/festamajor.jpg" alt="festamajor" title="festamajor" width="480" height="360" class="aligncenter size-full wp-image-997" >}}][6]
 
 I took some videos of some of the events that I went to. Enjoy them and come to Granollers next year for La Festa Major!
 

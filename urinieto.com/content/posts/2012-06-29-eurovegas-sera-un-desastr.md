@@ -14,7 +14,7 @@ Voy a dar mi punto de vista como español residente en los EEUU desde hace tres 
 
 En primer lugar, diré que Las Vegas es un sitio donde cualquier persona debería ir al menos una vez en su vida. Y no para apostar, para casarse, o para irse de putas, sino para hacer una prospección antropológica interna y llegar a la indudable conclusión de que Las Vegas es un imán para atraer (y generar) lo peor de nuestra espécie.
 
-[<img src="/wp-content/uploads/2012/06/vegas8989-copy1.jpg" alt="" title="vegas8989 copy" width="363" height="512" class="aligncenter size-full wp-image-1586" />][2]
+[{{< img src="/wp-content/uploads/2012/06/vegas8989-copy1.jpg" alt="" title="vegas8989 copy" width="363" height="512" class="aligncenter size-full wp-image-1586" >}}][2]
 
 Es interesante comprender la situación geo-política de Las Vegas para poder darse cuenta de las ruinosas consecuencias que acarrearía tener algo así en Madrid o Barcelona. Las Vegas es la ciudad más grande del estado de Nevada (que no su capital), y está situada en el desierto de Mojave, en el lejano oeste americano, a unas cinco horas en coche al este de Los Angeles. Volar a Las Vegas es una de las experiencias más post-apocalípticas que he vivido nunca: estar en un avión, viendo kilómetros y kilómetros de desierto extendiéndose bajo las nubes, y de repente contemplar un complejo gigantesco con pirámides, torres eiffeles, montañas rusas, junglas, y barcos pirata; y darse cuenta de que son, en realidad, casinos. 
 

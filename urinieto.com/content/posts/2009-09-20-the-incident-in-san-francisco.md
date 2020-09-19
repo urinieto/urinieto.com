@@ -10,7 +10,7 @@ categories:
 ---
 Porcupine Tree is probably one of the most amazing bands around, and definitively one of my favorites. After four times of seeing them live, yesterday they blew me off again. The concert was in [Warfield][1], a venue in the heart of San Francisco that it&#8217;s more like an opera place, with all these small balconies for the rich people that used to exist in the 17th century, a time when San Francisco didn&#8217;t even exist.
 
-[<img src="/wp-content/uploads/2009/09/dsc03942-500x375.jpg" alt="dsc03942" title="dsc03942" width="500" height="375" class="aligncenter size-medium wp-image-583" />][2]
+[{{< img src="/wp-content/uploads/2009/09/dsc03942-500x375.jpg" alt="dsc03942" title="dsc03942" width="500" height="375" class="aligncenter size-medium wp-image-583" >}}][2]
 
 The opener was _That One Guy_, a very special guy who played this very special instrument that seemed like a celo, or a guitar, or a harp, or a drumkit, or a synthesizer. It was fun for the first 15 minutes, after that it was a little bit repetitive. But, damn it, the man was good and I enjoyed the showed. I like the [mustache video][3] he has on [his web][4].
 

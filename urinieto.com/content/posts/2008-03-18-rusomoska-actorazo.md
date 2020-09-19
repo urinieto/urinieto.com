@@ -19,5 +19,5 @@ En esta ocasión, y a modo de introducción de la serie, nos encontramos con la 
 [youtube=http://www.youtube.com/watch?v=mjcwg-JOJMM&hl=es] 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

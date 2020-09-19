@@ -12,9 +12,9 @@ This weekend. Coming this winter: two brothers. In a van. And then a meteor hits
 
 Playing in Terrassa on Friday 9th of January and in Granollers on Saturday 10th of January. More info on the posters below. IT&#8217;S TWO BROTHERS.
 
-[<img src="/wp-content/uploads/2015/01/TBU-Gira2015-Terrassa-500x707.png" alt="TBU-Gira2015-Terrassa" width="500" height="707" class="aligncenter size-medium wp-image-1919" />][1]
+[{{< img src="/wp-content/uploads/2015/01/TBU-Gira2015-Terrassa-500x707.png" alt="TBU-Gira2015-Terrassa" width="500" height="707" class="aligncenter size-medium wp-image-1919" >}}][1]
 
-[<img src="/wp-content/uploads/2015/01/TBU-Gira2015-Granollers-500x707.png" alt="TBU-Gira2015-Granollers" width="500" height="707" class="aligncenter size-medium wp-image-1918" />][2]
+[{{< img src="/wp-content/uploads/2015/01/TBU-Gira2015-Granollers-500x707.png" alt="TBU-Gira2015-Granollers" width="500" height="707" class="aligncenter size-medium wp-image-1918" >}}][2]
 
  [1]: /wp-content/uploads/2015/01/TBU-Gira2015-Terrassa.png
  [2]: /wp-content/uploads/2015/01/TBU-Gira2015-Granollers.png

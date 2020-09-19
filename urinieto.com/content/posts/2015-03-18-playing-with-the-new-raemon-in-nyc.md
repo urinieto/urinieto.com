@@ -15,7 +15,7 @@ Please, purchase your tickets [here][1].
 
 ALRIGHT-AH.
 
-[<img src="/wp-content/uploads/2015/03/TheNewRaemonNYC-500x647.png" alt="TheNewRaemonNYC" width="500" height="647" class="aligncenter size-medium wp-image-1927" />][2]
+[{{< img src="/wp-content/uploads/2015/03/TheNewRaemonNYC-500x647.png" alt="TheNewRaemonNYC" width="500" height="647" class="aligncenter size-medium wp-image-1927" >}}][2]
 
  [1]: http://www.catalaninstituteofamerica.org/events/the-new-raemon-in-nyc/
  [2]: /wp-content/uploads/2015/03/TheNewRaemonNYC.png

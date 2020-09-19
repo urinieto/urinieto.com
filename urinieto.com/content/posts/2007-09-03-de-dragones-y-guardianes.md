@@ -13,7 +13,7 @@ categories:
   - pratchett
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg" border="0" >}}][1]
 
 Venga, otro <span style="font-weight:bold;">Pratchett</span> dentro mi conjunto de neuronas que viven encima de un disco que gira por culpa de cuatro elefantes gigantes que caminan en el caparazón de una Tortuga Astronómica a través del Espacio, el Tiempo y la Tontería (ETT).
 

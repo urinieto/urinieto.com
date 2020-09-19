@@ -25,5 +25,5 @@ En fin. Sea como sea, este año, y por vez primera, voy a votar en Eurovisión. 
 [youtube=http://www.youtube.com/watch?v=xV0aaiHJrNA&hl=es] 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>

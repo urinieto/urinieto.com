@@ -14,7 +14,7 @@ categories:
   - stardust
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg" border="0" >}}][1]
 
 Las estrellas son lo que el mar era para nuestros ancestros. El lugar para soñar, para fascinar, para enamorar y para pensar cuán insignificantes somos. Para pedir deseos cuando vemos una estrella caer y tener la certeza de que sucederá.
 

@@ -10,7 +10,7 @@ categories:
 ---
 First time to an American Football game. I didn&#8217;t understand much, but people seemed to have fun. It was **Stanford vs San Jose** and it was full of Stanford students. However, there were brave guys like this:
 
-[<img src="/wp-content/uploads/2009/09/dsc03950-500x666.jpg" alt="dsc03950" title="dsc03950" width="500" height="666" class="aligncenter size-medium wp-image-587" />][1]
+[{{< img src="/wp-content/uploads/2009/09/dsc03950-500x666.jpg" alt="dsc03950" title="dsc03950" width="500" height="666" class="aligncenter size-medium wp-image-587" >}}][1]
 
 Obviously, San Jose is the Spartan and Stanford is the tree (yes, the tree is our mascot. Quite lame).
 

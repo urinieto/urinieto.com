@@ -11,7 +11,7 @@ categories:
 ---
 _Winter is coming_. And the [HBO series of Game Of Thrones][1] is coming too (this Sunday actually). I finally finished this amazing book by George R.R. Martin and I totally got sucked into it.
 
-<img src="/wp-content/uploads/2011/04/a-game-of-thrones-book-cover.jpg" alt="" title="a-game-of-thrones-book-cover" width="259" height="400" class="aligncenter size-full wp-image-1139" /> 
+{{< img src="/wp-content/uploads/2011/04/a-game-of-thrones-book-cover.jpg" alt="" title="a-game-of-thrones-book-cover" width="259" height="400" class="aligncenter size-full wp-image-1139" >}} 
 
 This is one of those few books that you can&#8217;t let go. You start, and you think: &#8220;Oh no, fantasy, with magic, with dragons, with strange made-up vocabulary, and&#8230; maps! I want to die&#8221;. But after the first chapter you simply can&#8217;t let go. The characters are so well developed, and so complex, that small parts of your personality get reflected in all of them. The story is so well written that you need to know what happens next. The feeling you have when a chapter ends is pretty similar to the one you have when a Lost episode ends. Really. So much beauty, terror, and power are contained in this book.
 

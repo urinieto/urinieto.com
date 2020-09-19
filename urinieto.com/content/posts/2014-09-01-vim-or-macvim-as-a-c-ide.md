@@ -213,7 +213,7 @@ SetMacro( 'ORGANIZATION','New York University' )`
 If you&#8217;ve done everything correctly, you will be able to create a new .c file (e.g. `vim hello.c` and a nice template will be included in the top of the file. Moreover, you should be able to open multiple files (e.g. `:e otherfile.c`) and they will appear in the MiniBufferExplorer. And finally, if you make some errors while coding, Syntastic will tell you. As an example, see the following screenshot:
 
 <div id="attachment_1883" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/09/Screen-Shot-2014-09-01-at-10.58.09-AM.png"><img src="/wp-content/uploads/2014/09/Screen-Shot-2014-09-01-at-10.58.09-AM-500x806.png" alt="MacVim with the following plugins: Syntastic, YouCompleteMe, C.vim, and MiniBufExplorer" width="400" height="706" class="size-medium wp-image-1883" /></a>
+  <a href="/wp-content/uploads/2014/09/Screen-Shot-2014-09-01-at-10.58.09-AM.png">{{< img src="/wp-content/uploads/2014/09/Screen-Shot-2014-09-01-at-10.58.09-AM-500x806.png" alt="MacVim with the following plugins: Syntastic, YouCompleteMe, C.vim, and MiniBufExplorer" width="400" height="706" class="size-medium wp-image-1883" >}}</a>
   
   <p class="wp-caption-text">
     MacVim with the following plugins: Syntastic, YouCompleteMe, C.vim, and MiniBufExplorer

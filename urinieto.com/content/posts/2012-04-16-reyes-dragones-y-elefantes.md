@@ -8,7 +8,7 @@ categories:
   - politics
 
 ---
-[<img src="/wp-content/uploads/2012/04/Reyes-500x307.png" alt="" title="Reyes" width="500" height="307" class="aligncenter size-medium wp-image-1495" />][1]
+[{{< img src="/wp-content/uploads/2012/04/Reyes-500x307.png" alt="" title="Reyes" width="500" height="307" class="aligncenter size-medium wp-image-1495" >}}][1]
 
 Menuda locura la que se ha armado en las redes sociales con esto de que Su Majestad el Rey ha decidido irse a cazar elefantes. [Que si maltrata animales siendo presidente de honor de la WWF][2], [que si el país está en crisis y el campechano pasa de todo][3], [que si ojalá el elefante le hubiera quitado la corona][4], [etc][5], [etc][6], [etc][7], [etc][8].
 

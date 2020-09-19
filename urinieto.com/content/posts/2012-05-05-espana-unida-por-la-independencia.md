@@ -8,7 +8,7 @@ categories:
   - politics
 
 ---
-[<img src="/wp-content/uploads/2012/05/españa-rota.png" alt="" title="españa-rota" width="500" height="397" class="aligncenter size-full wp-image-1538" />][1]
+[{{< img src="/wp-content/uploads/2012/05/españa-rota.png" alt="" title="españa-rota" width="500" height="397" class="aligncenter size-full wp-image-1538" >}}][1]
 
 Los políticos Españoles se han unido en una armonía sin precedentes a favor de la separación de nuestro reino cristiano. La derecha con la izquierda, los falangistas con los nacionalistas bascos, los ciutadans con los republicanos; hoy todos luchan &#8211;y muy fuerte&#8211; por la independencia. 
 

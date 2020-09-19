@@ -14,7 +14,7 @@ SLOrk is back tomorrow night at Stanford Campus. We will be giving the last conc
 
 The [San Francisco Chronicle][2] came to last week&#8217;s rehearsal and wrote a [nice article about us][3]. More info at the [CCRMA Homepage][4]. I hope to see you tomorrow night Titans!
 
-[<img src="/wp-content/uploads/2010/06/UriSlork-500x334.jpg" alt="UriSlork" title="UriSlork" width="500" height="334" class="aligncenter size-medium wp-image-910" />][5]
+[{{< img src="/wp-content/uploads/2010/06/UriSlork-500x334.jpg" alt="UriSlork" title="UriSlork" width="500" height="334" class="aligncenter size-medium wp-image-910" >}}][5]
 
  [1]: http://maps.google.com/maps?q=Dinkelspiel+Auditorium,+Stanford&ie=UTF8&hq=&hnear=Dinkelspiel+Auditorium,+Stanford,+Santa+Clara,+California+94305&ll=37.423991,-122.1699&spn=0.023925,0.048451&t=h&z=15
  [2]: http://www.sfgate.com

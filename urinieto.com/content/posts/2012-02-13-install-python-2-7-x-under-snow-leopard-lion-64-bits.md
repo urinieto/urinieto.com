@@ -88,7 +88,7 @@ To run iPython with matplotlib already running in the background just type:
 
 Finally, here is a nice screenshot of how my programming environment looks like (iPython + PyLab + MacVim):
 
-[<img src="/wp-content/uploads/2012/02/Python-500x311.png" alt="" title="Python" width="500" height="311" class="aligncenter size-medium wp-image-1469" />][7]
+[{{< img src="/wp-content/uploads/2012/02/Python-500x311.png" alt="" title="Python" width="500" height="311" class="aligncenter size-medium wp-image-1469" >}}][7]
 
 Beautiful isn&#8217;t it? : )
 

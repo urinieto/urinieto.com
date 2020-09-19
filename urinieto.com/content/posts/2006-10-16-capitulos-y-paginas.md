@@ -15,7 +15,7 @@ categories:
 ---
 Nuestro wikibook avanza. Y como una imágen vale más que mil palabras, aquí tenéis:
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-chapterspages.jpg" border="0" alt="" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-chapterspages.jpg" border="0" alt="" >}}][1]
 
 Ahora ya podemos añadir capítulos y páginas. Queda todavía mucho camino. Hemos tenido varios problemas con el layout de la página (el cual está hecho totalment con div&#8217;s y ninguna tabla), pero ahora queremos centrarnos en las funcionalidades básicas y luego ya empezarán las &#8220;virguerías&#8221;.
 

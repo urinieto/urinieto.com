@@ -16,7 +16,7 @@ categories:
 ---
 Por fín el [trailer][1] de <span style="font-weight:bold;">Muchachada Nui</span>, la nueva creación de los de <span style="font-weight:bold;">La Hora Chanante</span>. En principio he leído que empiezan este mes en La 2. Pero ¿alguien sabe cuándo exactamente?
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/Rt3IK1cFtMI/AAAAAAAAA_A/oTKZAYlTYps/s320/MuchachadaNui.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/Rt3IK1cFtMI/AAAAAAAAA_A/oTKZAYlTYps/s320/MuchachadaNui.jpg" border="0" >}}][1]
 
 Los Chanantes en la televisión pública. Como me lo pierda mi padre me mide el lomo.
 

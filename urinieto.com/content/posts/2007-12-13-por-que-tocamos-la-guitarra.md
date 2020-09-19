@@ -15,6 +15,6 @@ categories:
 ---
 En el fondo, y todos lo sabemos, tocamos la guitarra tan sólo para poder hacer cosas como estas:
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/R2Ds5zjV8qI/AAAAAAAABCY/xzL-YuCrscA/s320/holding-a-guitar-is-like-turning-an-on-off-switch-for-getting-laid.png" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/R2Ds5zjV8qI/AAAAAAAABCY/xzL-YuCrscA/s320/holding-a-guitar-is-like-turning-an-on-off-switch-for-getting-laid.png" border="0" >}}][1]
 
  [1]: http://bp2.blogger.com/_WEHvyZj_jiU/R2Ds5zjV8qI/AAAAAAAABCY/xzL-YuCrscA/s1600-h/holding-a-guitar-is-like-turning-an-on-off-switch-for-getting-laid.png

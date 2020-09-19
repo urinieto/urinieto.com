@@ -14,7 +14,7 @@ categories:
   - viajes
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/ReGl7nSOxnI/AAAAAAAAADk/oabzl7SGluc/s320/DSC08322.JPG" border="0" />][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/ReGl7nSOxnI/AAAAAAAAADk/oabzl7SGluc/s320/DSC08322.JPG" border="0" >}}][1]  
 I miss it so much&#8230;
 
  [1]: http://bp3.blogger.com/_WEHvyZj_jiU/ReGl7nSOxnI/AAAAAAAAADk/oabzl7SGluc/s1600-h/DSC08322.JPG

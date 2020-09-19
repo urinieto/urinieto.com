@@ -12,10 +12,10 @@ categories:
   - politics
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://3.bp.blogspot.com/_WEHvyZj_jiU/R9Jl3fc9KgI/AAAAAAAABFY/anFVoW3Be0Y/s320/etano.jpg" border="0" />][1] 
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://3.bp.blogspot.com/_WEHvyZj_jiU/R9Jl3fc9KgI/AAAAAAAABFY/anFVoW3Be0Y/s320/etano.jpg" border="0" >}}][1] 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://3.bp.blogspot.com/_WEHvyZj_jiU/R9Jl3fc9KgI/AAAAAAAABFY/anFVoW3Be0Y/s1600-h/etano.jpg

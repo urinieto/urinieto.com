@@ -14,7 +14,7 @@ Hace casi un año estábamos reunidos varios eternos estudiantes en una acogedor
 
 Después de 40 minutos, de los cuales me pasé riendo unos 28, y llorando unos 7 (ser muy preciso en estos datos), entendí qué y quién era Miguel Noguera. Desde entonces creo que ya he visto todos sus videos en YouTube. Cuando estuve en Barcelona en Abril me compré su libro &#8220;**[Ultraviolencia][3]**&#8221; y lo fui a ver al [Teatreneu][4]. Y fue demasiado bueno.
 
-[<img src="/wp-content/uploads/2011/12/ultraviolencia.jpg" alt="" title="ultraviolencia" width="432" height="638" class="aligncenter size-full wp-image-1400" />][5]
+[{{< img src="/wp-content/uploads/2011/12/ultraviolencia.jpg" alt="" title="ultraviolencia" width="432" height="638" class="aligncenter size-full wp-image-1400" >}}][5]
 
 Ultraviolencia es un conjunto de más de 300 ideas concentradas en un solo libro que si lo tratas de leer antes de ir a dormir, te despierta y te jode la puta noche. Muy fuerte. Muy jodido. Ideas muy buenas. Ideas muy malas. Miguel Noguera en estado puro. La idea de adorar a Miguel Noguera muy fuerte.
 

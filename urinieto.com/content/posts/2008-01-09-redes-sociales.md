@@ -14,7 +14,7 @@ categories:
 ---
 Hoy he leído [este artículo][1] sobre [Meneame.net][2] y, aparte de encontrarlo interesante, lo que más me ha sorprendido ha sido esto:
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/R4Ta1AP8XxI/AAAAAAAABEg/3Dj1WktfFHI/s320/social-networks.jpg" border="0" />][3]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/R4Ta1AP8XxI/AAAAAAAABEg/3Dj1WktfFHI/s320/social-networks.jpg" border="0" >}}][3]
 
 Cada vez son más y más los pequeños iconos-links hacia las centenares de redes sociales existentes. Y cada vez que los veo me hacen sentir alejado del mundo, que no estoy a la última o que no tengo tiempo para tragarme tanta cantidad de información. 
 

@@ -10,7 +10,7 @@ categories:
 ---
 This is the [Jesus Venn Diagram][1] (or how Jesus relates to some other interesting characters):
 
-[<img src="/wp-content/uploads/2009/11/venndiagramjesus.gif" alt="venndiagramjesus" title="venndiagramjesus" width="342" height="320" class="aligncenter size-full wp-image-623" />][2]
+[{{< img src="/wp-content/uploads/2009/11/venndiagramjesus.gif" alt="venndiagramjesus" title="venndiagramjesus" width="342" height="320" class="aligncenter size-full wp-image-623" >}}][2]
 
 Flying Spaghetti Monster, I shall take this chance to salute Thee.
 

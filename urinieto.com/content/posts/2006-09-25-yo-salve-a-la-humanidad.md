@@ -15,7 +15,7 @@ categories:
 ---
 Hacía ya un tiempo que rondaba en mi cola de lectura. Y es que un libro para niños siempre entra bien. Como las películas de Pixar.
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/salvarlahumanidad.png" border="0" alt="" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/salvarlahumanidad.png" border="0" alt="" >}}][1]
 
 Sí, Pratchett otra vez. Lo admito, me encanta cómo escribe éste hombre. Así que no voy a decir nada malo de él, y ésto va a ser un post totalmente subjetivo. Vaya. Creo que dentro de &#8220;post&#8221; se encuentra la palabra &#8220;subjetivo&#8221;. Vaya. Cuánta redundancia. Vaya.
 

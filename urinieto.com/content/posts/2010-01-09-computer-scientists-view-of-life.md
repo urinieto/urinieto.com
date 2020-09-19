@@ -13,7 +13,7 @@ With this great title (_A Computer Scientist’s View of Life, the Universe, and
 
 You can find the paper [here][1].
 
-[<img src="/wp-content/uploads/2010/01/universe.jpg" alt="universe" title="universe" width="425" height="307" class="aligncenter size-full wp-image-697" />][2]
+[{{< img src="/wp-content/uploads/2010/01/universe.jpg" alt="universe" title="universe" width="425" height="307" class="aligncenter size-full wp-image-697" >}}][2]
 
 And here there are some great quotes:
 

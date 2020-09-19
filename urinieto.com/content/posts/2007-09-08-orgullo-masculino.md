@@ -16,7 +16,7 @@ Lo había probado unas horas antes. Pero era muy pequeño. Luego pasé por delan
 
 Y fue entonces cuando volví unas cuantas horas después. Seguía allí. Esperándome. Me llamaba. Me costó sus casi 10 minutos entrarlo, pero fue mío, estaba escrito. El Parking era mío.
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp1.blogger.com/_WEHvyZj_jiU/RuKJpFcFtNI/AAAAAAAAA_I/XgK3TCfKCvo/s320/Parking.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp1.blogger.com/_WEHvyZj_jiU/RuKJpFcFtNI/AAAAAAAAA_I/XgK3TCfKCvo/s320/Parking.jpg" border="0" >}}][1]
 
 Nota Mental: Espero que no me cueste demasiados rallazos por culpa del de mis compañeros delantero y trasero. Tenían sitio para salir. O eso es lo que mi orgullo me obligó a ver&#8230;
 

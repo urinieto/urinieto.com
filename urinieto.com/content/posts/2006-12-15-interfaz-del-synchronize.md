@@ -21,7 +21,7 @@ Así que la interfaz quedará reducida y sólo aparecerán los tiddlers que se h
 
 Así queda la interfaz final: 
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg" border="0" />][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg" border="0" >}}][1]  
 Por cierto, ya he enviado el webservice a Ludo. Cuando lo haya colgado en Crom subiré los tres plugins a la web de [TiddlySpot][2].
 
 Seguimos documentando.

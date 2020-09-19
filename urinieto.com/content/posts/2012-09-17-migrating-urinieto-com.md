@@ -10,6 +10,6 @@ categories:
 ---
 I am moving this site to a different host. In the following days www.urinieto.com might be down, but it will only be temporary. Sorry about that titans!
 
-[<img src="/wp-content/uploads/2012/09/migrate.jpeg" alt="" title="migrate" width="359" height="283" class="aligncenter size-full wp-image-1631" />][1]
+[{{< img src="/wp-content/uploads/2012/09/migrate.jpeg" alt="" title="migrate" width="359" height="283" class="aligncenter size-full wp-image-1631" >}}][1]
 
  [1]: /wp-content/uploads/2012/09/migrate.jpeg

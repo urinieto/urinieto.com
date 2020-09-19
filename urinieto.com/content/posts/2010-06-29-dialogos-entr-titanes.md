@@ -9,7 +9,7 @@ categories:
 
 ---
 <p style="text-align: center;">
-  <a href="/wp-content/uploads/2010/06/XavierGraupera.jpg"><img class="aligncenter size-full wp-image-933" title="XavierGraupera" src="/wp-content/uploads/2010/06/XavierGraupera.jpg" alt="XavierGraupera" width="294" height="460" /></a>
+  <a href="/wp-content/uploads/2010/06/XavierGraupera.jpg">{{< img class="aligncenter size-full wp-image-933" title="XavierGraupera" src="/wp-content/uploads/2010/06/XavierGraupera.jpg" alt="XavierGraupera" width="294" height="460" >}}</a>
 </p>
 
 Este libro lo recibí en casa hace poco más de un mes. No quería empezarlo hasta acabar exámenes, pero no pude esperar y me leí casi dos capítulos mientras procrastinaba en mis horas de estudio. El segundo capítulo iba del Barça, y gracias a ello (y a mi nulo interés por el fútbol) pude volver a concentrarme en los exámenes. El trimestre ha terminado y ya me he terminado el libro. Y ya puedo decir bien alto y claro: ¡Qué grandes Titanes estos Xavier Sala-i-Martín i Jordi Graupera!

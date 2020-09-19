@@ -16,10 +16,10 @@ Gira mundial de **TBU** pel Vallès Oriental i el Barcelonès. **Divendres 11 de
 Aquí teniu els cartells. Us hi esperem titans! És **Gratis**!
 
 **Barcelona, Divendres 11 de Gener**:  
-[<img src="/wp-content/uploads/2012/12/TBU2013-BCN1-500x707.png" alt="" title="TBU2013-BCN" width="500" height="707" class="aligncenter size-medium wp-image-1685" />][3]
+[{{< img src="/wp-content/uploads/2012/12/TBU2013-BCN1-500x707.png" alt="" title="TBU2013-BCN" width="500" height="707" class="aligncenter size-medium wp-image-1685" >}}][3]
 
 **Granollers, Dissabte 12 de Gener**:  
-[<img src="/wp-content/uploads/2012/12/TBU2013-Grano1-500x707.png" alt="" title="TBU2013-Grano" width="500" height="707" class="aligncenter size-medium wp-image-1686" />][4]
+[{{< img src="/wp-content/uploads/2012/12/TBU2013-Grano1-500x707.png" alt="" title="TBU2013-Grano" width="500" height="707" class="aligncenter size-medium wp-image-1686" >}}][4]
 
 ### Related show {.gigpress-related-heading}
 

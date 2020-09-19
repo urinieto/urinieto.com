@@ -20,7 +20,7 @@ http://sargonmetal.com/uri/thesis/evaluation.php][1]
 Muchas gracias! 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://sargonmetal.com/uri/thesis/evaluation.php

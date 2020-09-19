@@ -10,4 +10,4 @@ categories:
 ---
 I love this guy.
 
-<img alt="" src="http://imgs.xkcd.com/comics/single_ladies.png" class="aligncenter" width="740" height="309" />
+{{< img alt="" src="http://imgs.xkcd.com/comics/single_ladies.png" class="aligncenter" width="740" height="309" >}}

@@ -12,7 +12,7 @@ Yesterday was the first time in my life I felt an Earthquake. Today it&#8217;s b
 
 People here are used to Earthquakes. But now they&#8217;ve started talking about The Big One Coming. There is one Big Earthquake in the San Francisco Bay Area every 100 years. The last one destroyed the city as you can see in this picture:
 
-[<img src="/wp-content/uploads/2010/01/damage6.jpg" alt="damage6" title="damage6" width="451" height="289" class="aligncenter size-full wp-image-689" />][4]
+[{{< img src="/wp-content/uploads/2010/01/damage6.jpg" alt="damage6" title="damage6" width="451" height="289" class="aligncenter size-full wp-image-689" >}}][4]
 
 **And this was in 1906**. 
 

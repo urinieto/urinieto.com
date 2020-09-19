@@ -11,11 +11,11 @@ categories:
 ---
 Here I present a little Python script I wrote to resample 48kHz audio files to 44.1kHz (16 bits).
 
-[<img src="/wp-content/uploads/2011/05/python-icon-150x150.png" alt="" title="python-icon" width="150" height="150" class="aligncenter size-thumbnail wp-image-1163" />][1]
+[{{< img src="/wp-content/uploads/2011/05/python-icon-150x150.png" alt="" title="python-icon" width="150" height="150" class="aligncenter size-thumbnail wp-image-1163" >}}][1]
 
 The script uses a [Kaiser Window][2] instead of a [Rectangular Window][3] to better filter out the [aliasing][4]. Here it is the Kaiser Windowed Impulse Response used in this script:
 
-[<img src="/wp-content/uploads/2011/05/KaiserIR-500x377.png" alt="" title="KaiserIR" width="500" height="377" class="aligncenter size-medium wp-image-1170" />][5]
+[{{< img src="/wp-content/uploads/2011/05/KaiserIR-500x377.png" alt="" title="KaiserIR" width="500" height="377" class="aligncenter size-medium wp-image-1170" >}}][5]
 
 As you can see, the lower ribs are smoothed out compared to just a impulse response (rectangularly windowed), so that the aliasing will be much more silenced using this Keiser Window. More information in the [great article by Julius O. Smith on resampling][6].
 

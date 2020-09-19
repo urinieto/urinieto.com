@@ -12,7 +12,7 @@ categories:
 Internet se ha revolucionado esta semana porque [el FBI ha cerrado la web de contenidos Megaupload][1]. Aunque ya había indicios de que el FBI estaba tras esta empresa llamada Megaupload (que contenía MegaVideos, MegaPorn y mega etcétera), fundada por el excéntrico millonario gordo [Kim Schimtz][2], ha sido de repente que la web ha dejado de funcionar y ahora sólo se ven tres sellos solemnemente sagrados que nos recuerdan que los Estados Unidos de América siguen governando el mundo.
 
 <div id="attachment_1436" style="width: 510px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/01/FBI-Megaupload.png"><img src="/wp-content/uploads/2012/01/FBI-Megaupload-500x375.png" alt="" title="FBI-Megaupload" width="500" height="375" class="size-medium wp-image-1436" /></a>
+  <a href="/wp-content/uploads/2012/01/FBI-Megaupload.png">{{< img src="/wp-content/uploads/2012/01/FBI-Megaupload-500x375.png" alt="" title="FBI-Megaupload" width="500" height="375" class="size-medium wp-image-1436" >}}</a>
   
   <p class="wp-caption-text">
     Megaupload después del cierre

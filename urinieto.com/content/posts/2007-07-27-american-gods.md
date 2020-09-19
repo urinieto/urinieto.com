@@ -14,7 +14,7 @@ categories:
   - neil gaiman
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp1.blogger.com/_WEHvyZj_jiU/Rqm7L3XPCHI/AAAAAAAAA8Q/4zhiEK0Z9l8/s320/NeilGaiman-AmericanGods.jpg" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp1.blogger.com/_WEHvyZj_jiU/Rqm7L3XPCHI/AAAAAAAAA8Q/4zhiEK0Z9l8/s320/NeilGaiman-AmericanGods.jpg" border="0" >}}][1]
 
 Hace ya un tiempo me leí el <span style="font-style:italic;">Good Omens</span>, de <span style="font-weight:bold;">Terry Pratchett</span> y <span style="font-weight:bold;">Neil Gaiman</span>. Por ese entonces ya era un fan de Terry Pratchett, pero esa fue mi primera experiéncia con Gaiman. Luego seguí con un cuento para niños llamado <span style="font-style:italic;">Coraline</span> que pasó sin pena ni gloria por mi mente olvidadiza.
 

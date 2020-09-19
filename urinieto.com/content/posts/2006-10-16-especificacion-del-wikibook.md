@@ -15,7 +15,7 @@ categories:
 ---
 He hecho una primera aproximación al diseño de nuestro Wikibook. Aquí adjunto el boceto:
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-specification.jpg" border="0" alt="" />][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-specification.jpg" border="0" alt="" >}}][1]  
 He dudado en implementar la base de datos tal y como me han enseñado en la facultad o hacerlo tal y como pone en la documentación de Moodle. La primera opción era crear 3 tablas:
 
 -Wikibooks(<span style="font-weight:bold;">id</span>)  

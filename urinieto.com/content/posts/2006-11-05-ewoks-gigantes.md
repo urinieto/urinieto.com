@@ -14,7 +14,7 @@ categories:
 ---
 Hoy, por fín, he acabado <span style="font-style:italic;">Una mujer del pueblo de Hierro</span>, de <span style="font-weight:bold;">Eleanor Arnason</span>.
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/hierro.jpg" border="0" alt="" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/hierro.jpg" border="0" alt="" >}}][1]
 
 Lo compré por sus grandes críticas que corrían por Amazon y por que era de la editorial Nova (aka: Miquel Barceló garantiza que te gustará).
 

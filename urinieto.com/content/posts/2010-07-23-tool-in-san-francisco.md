@@ -13,7 +13,7 @@ Tool in the states are **huge**. Watching a Tool concert in San Francisco is one
 Five &#8220;faces&#8221; where watching us all during all the concert. The evolution of a man&#8217;s life. Nothing -> Baby -> Man -> Old Man -> 7 stars face that I&#8217;ve no idea what it means but it looks extremely cool.
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_1446" href="http://www.flickr.com/photos/enochrooted/4790826326/"><img class="aligncenter" src="http://farm5.static.flickr.com/4123/4790826326_c364a839b3.jpg" alt="IMG_1446" /></a>
+  <a class="flickr-image aligncenter" title="IMG_1446" href="http://www.flickr.com/photos/enochrooted/4790826326/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4123/4790826326_c364a839b3.jpg" alt="IMG_1446" >}}</a>
 </p>
 
 Also my sister came all the way from Barcelona and it made the concert even better (if possible).

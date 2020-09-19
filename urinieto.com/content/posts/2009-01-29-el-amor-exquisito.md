@@ -8,7 +8,7 @@ categories:
   - Uncategorized
 
 ---
-[<img src="/wp-content/uploads/2009/04/love-300x104.jpg" alt="love" title="love" width="300" height="104" class="aligncenter size-medium wp-image-376" />][1]
+[{{< img src="/wp-content/uploads/2009/04/love-300x104.jpg" alt="love" title="love" width="300" height="104" class="aligncenter size-medium wp-image-376" >}}][1]
 
 <a href="http://xkcd.com" target="_blank">xkcd</a>, probablemente el mejor cómic de Internet.
 

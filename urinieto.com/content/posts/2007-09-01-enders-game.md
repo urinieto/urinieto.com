@@ -14,7 +14,7 @@ categories:
   - orson scott card
 
 ---
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif" border="0" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif" border="0" >}}][1]
 
 Éste me lo regaló Ella. Hacía tiempo que lo buscaba en inglés y hacía tiempo que demasiada gente me lo recomendaba. También quería obtener otro punto en el [Frikitest][2], pues es mi primer <span style="font-style:italic;">Orson Scott Card</span>.
 

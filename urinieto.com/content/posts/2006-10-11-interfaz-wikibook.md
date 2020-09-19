@@ -15,6 +15,6 @@ categories:
 ---
 Aquí el primer pantallazo de nuestro wikibook. El layout está con div&#8217;s (XHTML power), el acceso a la información de las Wikis funciona en AJAX y el montaje (todavía muy provisional) del Wikibook está en Javascript. 
 
-[<img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-pant.jpg" border="0" alt="" />][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-pant.jpg" border="0" alt="" >}}][1]
 
  [1]: http://photos1.blogger.com/blogger2/4197/4184/1600/wikibook-pant.jpg

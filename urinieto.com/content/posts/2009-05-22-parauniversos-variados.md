@@ -8,7 +8,7 @@ categories:
   - books
 
 ---
-<img class="aligncenter size-full wp-image-463" title="godsthemselves" src="/wp-content/uploads/2009/05/godsthemselves.jpg" alt="godsthemselves" width="220" height="327" />
+{{< img class="aligncenter size-full wp-image-463" title="godsthemselves" src="/wp-content/uploads/2009/05/godsthemselves.jpg" alt="godsthemselves" width="220" height="327" >}}
 
 Hace más de treinta años, va Isaac Asimov y se inventa un universo paralelo. Y luego otro. Y otro. Y luego lo llama parauniverso. Y empieza a jugar con los elementos químicos, los saltos físicos entre universos, el intercambio de materia y la fuerza nuclear entre los átomos. Y lo hace de tal manera que hasta alguien que de química sólo sabe que el agua es H2O -como yo-, pueda entenderlo y seguirlo a la perfección.
 

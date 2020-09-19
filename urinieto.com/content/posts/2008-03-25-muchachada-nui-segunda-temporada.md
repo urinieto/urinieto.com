@@ -22,7 +22,7 @@ Gràcies titan per avisar-me.
 Els colors prohibits em donen força. 
 
 <div class="blogger-post-footer">
-  <img width='1' height='1' />
+  {{< img width='1' height='1' >}}
 </div>
 
  [1]: http://blogs.rtve.es/muchachadanui/2008/3/5/la-segunda-temporada-muy-pronto

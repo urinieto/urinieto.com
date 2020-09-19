@@ -16,7 +16,7 @@ It is a nice OpenGL application for the iPhone that makes use of the acceleromet
 
 You can download it from [here][1]!
 
-[<img src="/wp-content/uploads/2010/02/screenshot2.png" alt="screenshot2" title="screenshot2" width="320" height="480" class="aligncenter size-full wp-image-753" />][4]
+[{{< img src="/wp-content/uploads/2010/02/screenshot2.png" alt="screenshot2" title="screenshot2" width="320" height="480" class="aligncenter size-full wp-image-753" >}}][4]
 
  [1]: https://ccrma.stanford.edu/~urinieto/256b/hw2/
  [2]: https://ccrma.stanford.edu/courses/256b/
