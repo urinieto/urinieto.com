@@ -1,9 +1,44 @@
 baseURL = "http://urinieto.com/"
 url = "http://urinieto.com"
 languageCode = "en-us"
-title = "Uri Nieto"
-theme = "ananke"
-# sectionPagesMenu = "main"
+title = "Oriol Nieto"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+DefaultContentLanguage = "en"
+sectionPagesMenu = "main"
+Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+
+[params]
+title = "Oriol (Uri) Nieto"
+author = "Oriol Nieto"
+description = "PhD in Music Data Science"
+profilePicture = "wp-content/uploads/2020/09/profile.png"
+keywords = ""
+favicon = "favicons/"
+customCss = ["css/uri.css"]
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+
+## Math settings
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/urinieto/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/urinieto/"
 
 [markup.goldmark.renderer]
 unsafe = true
