@@ -13,6 +13,6 @@ Our first official video with [La Bossa d&#8217;Urina][1] is finally here (with 
 
 Aw, life!
 
-[![](http://img.youtube.com/vi/nM4J1pwtTh8/0.jpg)](https://youtube.com/watch?v=nM4J1pwtTh8) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/nM4J1pwtTh8" frameborder="0" allowfullscreen></iframe>
 
  [1]: https://www.facebook.com/labossadurina

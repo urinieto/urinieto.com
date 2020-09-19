@@ -16,8 +16,8 @@ def replace_urinieto(data):
 
 def replace_iframes(data):
     # These are likely youtube videos
-    return re.sub(r'<iframe.*src="(.*/(.*))"\sf.*</iframe>',
-                  '[![](http://img.youtube.com/vi/\g<2>/0.jpg)](https://youtube.com/watch?v=\g<2>) ', data)
+    return re.sub(r'<iframe.*src="(.*/(.*)\?+.*)"\sf.*</iframe>',
+                  '{{< youtube \g<2> >}}', data)
 
 
 def update_file(in_file, out_file):

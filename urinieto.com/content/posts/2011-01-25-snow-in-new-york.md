@@ -10,7 +10,7 @@ categories:
 ---
 I love the snow. I hate the cold. I love the snow. Damn, I love this city.
 
-[![](http://img.youtube.com/vi/zJcABdLrgl8/0.jpg)](https://youtube.com/watch?v=zJcABdLrgl8) 
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="600" height="390" src="http://www.youtube.com/embed/zJcABdLrgl8" frameborder="0" allowFullScreen></iframe>
 
 ([snow in new york][1])
 

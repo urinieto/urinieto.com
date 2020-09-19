@@ -14,7 +14,7 @@ My voice is on the 9th track of the album, a song called **Haunter**. The lyrics
 
 Here you have the song:
 
-[![](http://img.youtube.com/vi/5biC-t0av8M/0.jpg)](https://youtube.com/watch?v=5biC-t0av8M) 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/5biC-t0av8M" frameborder="0" allowfullscreen></iframe>
 
 ( http://www.youtube.com/embed/5biC-t0av8M )
 

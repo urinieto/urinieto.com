@@ -13,4 +13,4 @@ categories:
 
 This guy is a genius.
 
-[![](http://img.youtube.com/vi/DlJEt2KU33I/0.jpg)](https://youtube.com/watch?v=DlJEt2KU33I) 
+<iframe width="600" height="338" src="//www.youtube.com/embed/DlJEt2KU33I" frameborder="0" allowfullscreen></iframe>

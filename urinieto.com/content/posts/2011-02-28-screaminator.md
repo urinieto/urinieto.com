@@ -21,7 +21,7 @@ Here you have some links that talk about it:
 
 Here the video:
 
-[![](http://img.youtube.com/vi/MwvCl4H0LOc/0.jpg)](https://youtube.com/watch?v=MwvCl4H0LOc) 
+<iframe title="YouTube video player" width="600" height="390" src="http://www.youtube.com/embed/MwvCl4H0LOc" frameborder="0" allowfullscreen></iframe>
 
 (http://www.youtube.com/embed/MwvCl4H0LOc)  
 Thank you Hannes for the recording!

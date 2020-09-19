@@ -11,4 +11,4 @@ categories:
 ---
 We&#8217;re all tourists. Slowing down for Christmas.
 
-[![](http://img.youtube.com/vi/ikSBA7krVUk/0.jpg)](https://youtube.com/watch?v=ikSBA7krVUk) 
+<iframe width="600" height="315" src="https://www.youtube.com/embed/ikSBA7krVUk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

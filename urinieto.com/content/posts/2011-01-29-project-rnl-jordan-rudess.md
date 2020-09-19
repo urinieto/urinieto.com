@@ -16,7 +16,7 @@ Last week I had the pleasure to meet the guys form [Project RnL][1]. These amazi
 
 I can&#8217;t put into words how extremely elaborated and sophisticated the music of Project RnL is, so I will just leave a video of these guys with Jordan Rudess playing and you&#8217;ll get the idea (the first two minutes of this song is made only with iPads!):
 
-[![](http://img.youtube.com/vi/I5oXtFAThuw/0.jpg)](https://youtube.com/watch?v=I5oXtFAThuw) 
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/I5oXtFAThuw" frameborder="0" allowFullScreen></iframe>
 
 (http://www.youtube.com/watch?v=I5oXtFAThuw)
 

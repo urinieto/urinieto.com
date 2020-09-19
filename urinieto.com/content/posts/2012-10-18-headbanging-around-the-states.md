@@ -10,4 +10,4 @@ categories:
 ---
 It&#8217;s finally here. Headbanging around the states. Enjoy titans!
 
-[![](http://img.youtube.com/vi/IBG5rqBSDq0/0.jpg)](https://youtube.com/watch?v=IBG5rqBSDq0) 
+<iframe width="600" height="338" src="http://www.youtube.com/embed/IBG5rqBSDq0" frameborder="0" allowfullscreen></iframe>

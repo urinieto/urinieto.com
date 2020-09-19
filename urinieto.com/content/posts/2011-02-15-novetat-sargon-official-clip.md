@@ -13,6 +13,6 @@ My urgent need to get a new band in New York made me do this new clip for Sargon
 
 It&#8217;s recorded with an iPhone using the 8mm Cam app in Barcelona and New York. Hope you like it!
 
-[![](http://img.youtube.com/vi/7Za4R9Ptrs4/0.jpg)](https://youtube.com/watch?v=7Za4R9Ptrs4) 
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/7Za4R9Ptrs4" frameborder="0" allowfullscreen></iframe>
 
 (http://www.youtube.com/embed/7Za4R9Ptrs4)

@@ -12,4 +12,4 @@ categories:
 ---
 I covered one of my favorite songs by **A Perfect Circle** (which is an original by **Failure**) a few weeks ago, but never updated this. Here we go. Say hello.
 
-[![](http://img.youtube.com/vi/rY0PXJH2Hhk/0.jpg)](https://youtube.com/watch?v=rY0PXJH2Hhk) 
+<iframe width="600" height="315" src="https://www.youtube.com/embed/rY0PXJH2Hhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

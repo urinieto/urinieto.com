@@ -12,7 +12,7 @@ Four years ago I worked at a really nice startup in Spain called [Mobivery][1], 
 
 These guys now asked me to make short video about me in NY, as an ex-coworker. And here is the result (in Spanish). They have also [blogged about it][2].
 
-[![](http://img.youtube.com/vi/51139791?title=1&byline=1&portrait=1" width="600" height="281/0.jpg)](https://youtube.com/watch?v=51139791?title=1&byline=1&portrait=1" width="600" height="281)  
+{{< youtube 51139791 >}} 
 
 [Mobiveryanos por el Mundo: Oriol Nieto, Nueva York][3] from [Mobivery][4] on [Vimeo][5].
 

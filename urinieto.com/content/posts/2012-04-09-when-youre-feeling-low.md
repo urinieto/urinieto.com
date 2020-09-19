@@ -10,4 +10,4 @@ categories:
 ---
 Don&#8217;t worry, you&#8217;re just a pale blue dot
 
-[![](http://img.youtube.com/vi/38409143" width="600" height="321/0.jpg)](https://youtube.com/watch?v=38409143" width="600" height="321) 
+<iframe src="http://player.vimeo.com/video/38409143" width="600" height="321" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

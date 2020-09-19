@@ -11,4 +11,4 @@ categories:
 ---
 The legend was true: Sargon (or rather, 3/4 of it) is back! Now that the EU got smaller, we decided to reunite for this silly cover of Anna Molly, by Incubus. If you look carefully, you will suddenly see some younger versions of ourselves. They&#8217;re not our children, it&#8217;s just high quality photoshop skills. Enjoy!
 
-[![](http://img.youtube.com/vi/WgzV6IaZbJA/0.jpg)](https://youtube.com/watch?v=WgzV6IaZbJA) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/WgzV6IaZbJA" frameborder="0" allowfullscreen></iframe>

@@ -11,4 +11,4 @@ categories:
 ---
 Aw, one the best singers since the beginning of the humans left us a few weeks ago. Here&#8217;s a little attempt to pay tribute to Chris Cornell, The Titan.
 
-[![](http://img.youtube.com/vi/X8W3uxqbosg?ecver=1/0.jpg)](https://youtube.com/watch?v=X8W3uxqbosg?ecver=1) 
+{{< youtube X8W3uxqbosg >}}

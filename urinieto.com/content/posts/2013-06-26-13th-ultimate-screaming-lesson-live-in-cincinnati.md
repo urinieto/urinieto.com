@@ -12,7 +12,7 @@ categories:
 ---
 It turned out that I was accepted to the 10th International Conference on Advances in Qualitative Laryngology in Cincinnati, Ohio, to present a [work on screams][1]. One of the organizers, [Dr. Dimitar Deliyski][2], kindly invited me to give a special _lecture_ on how to scream. And here you have it:
 
-[![](http://img.youtube.com/vi/RWGRehK6dZs/0.jpg)](https://youtube.com/watch?v=RWGRehK6dZs) 
+<iframe width="600" height="338" src="http://www.youtube.com/embed/RWGRehK6dZs" frameborder="0" allowfullscreen></iframe>
 
 Special thanks to Dr. Christian Herbst for the recording.
 

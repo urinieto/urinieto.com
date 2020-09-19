@@ -10,7 +10,7 @@ categories:
 ---
 Land belongs to no one.
 
-[![](http://img.youtube.com/vi/50531435" width="600" height="337/0.jpg)](https://youtube.com/watch?v=50531435" width="600" height="337)  
+<iframe src="//player.vimeo.com/video/50531435" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 [This Land Is Mine][1] from [Nina Paley][2] on [Vimeo][3].
 

@@ -16,7 +16,7 @@ Here it is a very interesting 40-min documentary by Gary Gibson about what is go
 
 Maybe it only matters to me on this side of the world, but I really found it interesting and worth watching. I wish everyone I have talked to about this in america could watch this video.
 
-[![](http://img.youtube.com/vi/24457023?title=0&byline=0&portrait=0" width="580" height="300/0.jpg)](https://youtube.com/watch?v=24457023?title=0&byline=0&portrait=0" width="580" height="300)  
+{{< youtube 24457023 >}} 
 
 [SPAIN&#8217;S SECRET CONFLICT][1] from [Endboard][2] on [Vimeo][3].
 

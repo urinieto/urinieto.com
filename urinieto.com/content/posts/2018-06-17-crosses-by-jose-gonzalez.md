@@ -11,4 +11,4 @@ categories:
 ---
 Music talking to me about depression. It casts some light to be alright.
 
-[![](http://img.youtube.com/vi/XnLDun7DYmI/0.jpg)](https://youtube.com/watch?v=XnLDun7DYmI) 
+<iframe width="600" height="315" src="https://www.youtube.com/embed/XnLDun7DYmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

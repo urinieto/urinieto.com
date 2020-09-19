@@ -15,7 +15,7 @@ categories:
 
 I&#8217;ve been playing with it for a while, and here is a little improvisation I made in my studio:
 
-[![](http://img.youtube.com/vi/PGZ4SVS-CHI/0.jpg)](https://youtube.com/watch?v=PGZ4SVS-CHI) 
+<iframe width="600" height="335" src="http://www.youtube.com/embed/PGZ4SVS-CHI" frameborder="0" allowfullscreen></iframe>
 
 Highly recommended. I will for sure use it in my little tour in Catalonia this January.  
 Alright!

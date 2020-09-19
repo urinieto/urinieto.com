@@ -14,7 +14,7 @@ A month ago I had the pleasure to open the show for the greatest, the titanest, 
 
 I decided to play this little cover at the end of my show. Hope you enjoy titans!
 
-[![](http://img.youtube.com/vi/5MCq9nM-V4M/0.jpg)](https://youtube.com/watch?v=5MCq9nM-V4M) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/5MCq9nM-V4M" frameborder="0" allowfullscreen></iframe>
 
 ALRIGHTO.
 

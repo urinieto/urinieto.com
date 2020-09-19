@@ -12,4 +12,4 @@ categories:
   Long time no see a clip with so much awesomeness.
 </p>
 
-[![](http://img.youtube.com/vi/E9y8FJjPZ94/0.jpg)](https://youtube.com/watch?v=E9y8FJjPZ94) 
+<iframe width="600" height="338" src="//www.youtube.com/embed/E9y8FJjPZ94" frameborder="0" allowfullscreen></iframe>

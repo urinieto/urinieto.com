@@ -13,6 +13,6 @@ I look at the world,
 but it sucks  
 without Google Glass.
 
-[![](http://img.youtube.com/vi/blCkVdxoRz0/0.jpg)](https://youtube.com/watch?v=blCkVdxoRz0) 
+<iframe width="600" height="338" src="http://www.youtube.com/embed/blCkVdxoRz0" frameborder="0" allowfullscreen></iframe>
 
 I&#8217;m a poet.

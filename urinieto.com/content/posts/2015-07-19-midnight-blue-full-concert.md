@@ -13,28 +13,28 @@ categories:
 We performed with my metal band [Midnight Blue][1] at The Bowery Electric (New York) a few weeks ago. Oh man, we had so much fun! Here you have all the videos that the guys at [NomasDF Productions][2] put together for us. Thanks titans!! Enjoy guapos :D  
 
 Spinning in the Dark:  
-[![](http://img.youtube.com/vi/6jrbBXiFElQ/0.jpg)](https://youtube.com/watch?v=6jrbBXiFElQ) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/6jrbBXiFElQ" frameborder="0" allowfullscreen></iframe>
 
 Stay:  
-[![](http://img.youtube.com/vi/k8xuvvsTKe8/0.jpg)](https://youtube.com/watch?v=k8xuvvsTKe8) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/k8xuvvsTKe8" frameborder="0" allowfullscreen></iframe>
 
 Whiskey Angel:  
-[![](http://img.youtube.com/vi/Cd9IZhIh63Y/0.jpg)](https://youtube.com/watch?v=Cd9IZhIh63Y) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/Cd9IZhIh63Y" frameborder="0" allowfullscreen></iframe>
 
 Stars Will Scream:  
-[![](http://img.youtube.com/vi/DczduivyZT8/0.jpg)](https://youtube.com/watch?v=DczduivyZT8) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/DczduivyZT8" frameborder="0" allowfullscreen></iframe>
 
 Screaming Lesson:  
-[![](http://img.youtube.com/vi/xp0Y1vEY06c/0.jpg)](https://youtube.com/watch?v=xp0Y1vEY06c) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/xp0Y1vEY06c" frameborder="0" allowfullscreen></iframe>
 
 Hunting Season:  
-[![](http://img.youtube.com/vi/Z71o5z9nU1s/0.jpg)](https://youtube.com/watch?v=Z71o5z9nU1s) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/Z71o5z9nU1s" frameborder="0" allowfullscreen></iframe>
 
 Dirty Old Fool:  
-[![](http://img.youtube.com/vi/aFruu7dGHUo/0.jpg)](https://youtube.com/watch?v=aFruu7dGHUo) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/aFruu7dGHUo" frameborder="0" allowfullscreen></iframe>
 
 Into the Cold:  
-[![](http://img.youtube.com/vi/sBpXxS5ok2M/0.jpg)](https://youtube.com/watch?v=sBpXxS5ok2M) 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/sBpXxS5ok2M" frameborder="0" allowfullscreen></iframe>
 
  [1]: http://midnightblue.bandcamp.com
  [2]: http://productions.nomasdf.com

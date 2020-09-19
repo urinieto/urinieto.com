@@ -10,4 +10,4 @@ categories:
 ---
 I just wanna sing out loud.
 
-[![](http://img.youtube.com/vi/VUrCEPwldZ8/0.jpg)](https://youtube.com/watch?v=VUrCEPwldZ8) 
+<iframe width="600" height="338" src="http://www.youtube.com/embed/VUrCEPwldZ8" frameborder="0" allowfullscreen></iframe>

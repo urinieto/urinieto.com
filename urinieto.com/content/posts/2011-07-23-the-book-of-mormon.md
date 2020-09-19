@@ -19,7 +19,7 @@ When I finally decided to buy tickets, and they told me that the earlier I could
 
 Watch this video, in the beginning you will see the lottery process (beware, spoilers ahead!):
 
-[![](http://img.youtube.com/vi/heNsdBOF_uI/0.jpg)](https://youtube.com/watch?v=heNsdBOF_uI) 
+<iframe width="560" height="349" src="http://www.youtube.com/embed/heNsdBOF_uI" frameborder="0" allowfullscreen></iframe>
 
 After going 7 times with my beloved roommate (so chances of winning doubled if we were two), yesterday we won 2 tickets to The Book Of Mormon. Oh shit. We made it. We fucking made it! We were so, so happy.
 
@@ -49,7 +49,7 @@ Ferran, vaya oasis.
 
 Hasa Diga Eebowai!
 
-[![](http://img.youtube.com/vi/-IjBi1eEaAA/0.jpg)](https://youtube.com/watch?v=-IjBi1eEaAA) 
+<iframe width="425" height="349" src="http://www.youtube.com/embed/-IjBi1eEaAA" frameborder="0" allowfullscreen></iframe>
 
  [1]: /wp-content/uploads/2011/07/Book-of-Mormon.jpg
  [2]: http://www.bookofmormonbroadway.com/

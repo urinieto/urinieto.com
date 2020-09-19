@@ -10,4 +10,4 @@ categories:
 ---
 So there you have. Another cover to make the world a better place:
 
-[![](http://img.youtube.com/vi/WeKbRkhpuQw/0.jpg)](https://youtube.com/watch?v=WeKbRkhpuQw) 
+<iframe width="600" height="360" src="//www.youtube.com/embed/WeKbRkhpuQw" frameborder="0" allowfullscreen></iframe>
