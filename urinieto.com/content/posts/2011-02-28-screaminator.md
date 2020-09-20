@@ -24,7 +24,7 @@ Here you have some links that talk about it:
 
 Here the video:
 
-{{< youtube MwvCl4H0LOc >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube MwvCl4H0LOc >}}</iframe>
 
 (http://www.youtube.com/embed/MwvCl4H0LOc)  
 Thank you Hannes for the recording!

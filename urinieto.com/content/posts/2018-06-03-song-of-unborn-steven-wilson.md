@@ -14,4 +14,4 @@ categories:
 ---
 I covered my favorite song from the latest Steven Wilson album (which is one of my favorite albums by one of my favorite artists, holy shit). Here you have it, titans:
 
-{{< youtube ZwZoIF6GRng >}} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube ZwZoIF6GRng >}}</iframe>

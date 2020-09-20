@@ -13,6 +13,6 @@ categories:
 ---
 Vaig escriure aquesta cançó a Califòrnia ara fa més de dos anys. Com passa el temps per Déu. La volia gravar als estudis Jarl&#8217;em All, i aquest és el resultat:
 
-{{< youtube  >}}url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F39781429&#038;show_artwork=true"></iframe>
+{{< youtube  >}}</iframe>
 
 Alright.

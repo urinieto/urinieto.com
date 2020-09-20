@@ -21,7 +21,7 @@ def replace_images(data):
 
 def replace_iframes(data):
     # These are likely youtube videos
-    return re.sub(r'<iframe.*src=".*/(.*?)["\?]',
+    return re.sub(r'<iframe.*src=".*/(.*?)["\?].*?>',
                   '{{< youtube \g<1> >}}', data)
 
 
@@ -31,7 +31,7 @@ def add_thumbnail(data, alt="Thumbnail image"):
         return data.replace("categories:", f"{thumb_str}categories:")
 
     # Try with youtube
-    res = re.search(r'<iframe.*src=".*/(.*?)["\?]', data)
+    res = re.search(r'<iframe.*src=".*/(.*?)["\?].*?>', data)
     if res and len(res.groups()) >= 1:
         src = f"https://img.youtube.com/vi/{res.groups()[0]}/0.jpg"
         return add_thumbnail_string(src, alt)

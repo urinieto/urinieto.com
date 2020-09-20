@@ -15,4 +15,4 @@ categories:
   Long time no see a clip with so much awesomeness.
 </p>
 
-{{< youtube E9y8FJjPZ94 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube E9y8FJjPZ94 >}}</iframe>

@@ -13,10 +13,10 @@ categories:
 ---
 Però quina gent més gran per Déu crist. Raydibaum és el millor grup que el Català hagi parit mai (després de Sargon òbviament, que no em posaré modest avui i la nostàlgia i la distància em distorsionen el passat):
 
-{{< youtube IcRNzJ3gj8s >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube IcRNzJ3gj8s >}}</iframe>
 
-{{< youtube Gxph717YBbM >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube Gxph717YBbM >}}</iframe>
 
-{{< youtube tac-9-GnRTA >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube tac-9-GnRTA >}}</iframe>
 
 Grandíssims titans, Raydibaum!

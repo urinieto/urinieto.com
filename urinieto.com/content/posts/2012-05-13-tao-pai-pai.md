@@ -13,6 +13,6 @@ categories:
 ---
 Albert Comerma and Micky Vega, both ex-Sargon, started this new musical project called [Tao Pai Pai][1]. Here you have the first clip, really good shit. Congratulation titans!
 
-{{< youtube 3sgc8M21JWI >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube 3sgc8M21JWI >}}</iframe>
 
  [1]: http://www.myspace.com/taopaipairock

@@ -13,4 +13,4 @@ categories:
 ---
 After almost a year I did it again. After a nice shower in Harlem. It was so nice, that I started to think about mics. Big, long, black mics.
 
-{{< youtube YiqhJ6WOo2A >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube YiqhJ6WOo2A >}}</iframe>

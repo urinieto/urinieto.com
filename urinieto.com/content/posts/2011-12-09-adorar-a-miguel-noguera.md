@@ -13,7 +13,7 @@ categories:
 ---
 Hace casi un año estábamos reunidos varios eternos estudiantes en una acogedora casa en Williamsburg cuando su humilde y excepcional [anfitrión][1] nos preguntó si conocíamos a un tal [Miguel Noguera][2]. Al ver nuestras caras de indiferencia, sacó su portátil, entró en YouTube y puso esto:
 
-{{< youtube H5GiNqUq8fY >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube H5GiNqUq8fY >}}</iframe>
 
 Después de 40 minutos, de los cuales me pasé riendo unos 28, y llorando unos 7 (ser muy preciso en estos datos), entendí qué y quién era Miguel Noguera. Desde entonces creo que ya he visto todos sus videos en YouTube. Cuando estuve en Barcelona en Abril me compré su libro &#8220;**[Ultraviolencia][3]**&#8221; y lo fui a ver al [Teatreneu][4]. Y fue demasiado bueno.
 
@@ -23,7 +23,7 @@ Ultraviolencia es un conjunto de más de 300 ideas concentradas en un solo libro
 
 Y hoy he visto esta nueva idea, El Padre Suicida, y me ha parecido tan buena que he decidido escribir este post pare este señor. Viva el post-humor o como se llame la mierda que hace este tipo.
 
-{{< youtube DaEfqH-rWLc >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube DaEfqH-rWLc >}}</iframe>
 
  [1]: http://jordigraupera.cat/
  [2]: http://miguelnoguera.blogspot.com/

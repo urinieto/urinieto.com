@@ -14,4 +14,4 @@ categories:
 ---
 Alright. Bad audio quality because I have my mics back in New York. Hey, but the food in Lima is awesome.
 
-{{< youtube ptD0faO24zY >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube ptD0faO24zY >}}</iframe>

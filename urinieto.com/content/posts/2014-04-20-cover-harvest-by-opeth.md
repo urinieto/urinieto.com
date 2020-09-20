@@ -14,4 +14,4 @@ categories:
 ---
 Alright guys, I&#8217;m going on an adventure. Dublin, Barcelona, Florence, Lima, Cuzco. And then back to New York. I will try to become a Doctor along the way. But before I go, here&#8217;s the last cover in my beautiful apartment in Brooklyn. You will be deeply missed.
 
-{{< youtube OFKwvLabeTg >}}list=UU_8n33wIclFtmwORvURYYHA" frameborder="0" allowfullscreen></iframe>
+{{< youtube OFKwvLabeTg >}}</iframe>

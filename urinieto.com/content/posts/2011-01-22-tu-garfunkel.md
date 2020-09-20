@@ -14,4 +14,4 @@ categories:
 ---
 First song in **Jarl &#8216;Em All Studios**, in Harlem. Cover by _The New Raemon_.
 
-{{< youtube tm9Hfg5ijzk >}} frameborder="0" allowFullScreen></iframe>
+{{< youtube tm9Hfg5ijzk >}}</iframe>

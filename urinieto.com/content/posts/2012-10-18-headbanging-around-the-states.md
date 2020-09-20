@@ -13,4 +13,4 @@ categories:
 ---
 It&#8217;s finally here. Headbanging around the states. Enjoy titans!
 
-{{< youtube IBG5rqBSDq0 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube IBG5rqBSDq0 >}}</iframe>

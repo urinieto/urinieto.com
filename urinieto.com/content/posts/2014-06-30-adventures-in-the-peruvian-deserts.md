@@ -13,6 +13,6 @@ categories:
 ---
 This past weekend we went to the deserts of Paracas and Ica, in Perú. We discovered secrets hidden beyond the realm of men, and we wanted to share them with you in this sentimental video. Enjoy titans:
 
-{{< youtube JelW9HPQ6Zs >}}list=UU_8n33wIclFtmwORvURYYHA" frameborder="0" allowfullscreen></iframe>
+{{< youtube JelW9HPQ6Zs >}}</iframe>
 
  :D 

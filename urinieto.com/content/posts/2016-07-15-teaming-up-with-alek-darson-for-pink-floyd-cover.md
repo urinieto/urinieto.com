@@ -14,7 +14,7 @@ categories:
 ---
 Oh, titanics. The day has come I teamed up with one of the greatest (if not The Greatest) guitarist I&#8217;ve ever performed with: [Alek Darson][1]. Given the _interesting_ times we live in, we found it appropriate to cover this magnificent classic by Pink Floyd. Hope you enjoy it as much as we did making it!
 
-{{< youtube nQRqym61S0g >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube nQRqym61S0g >}}</iframe>
 
 Also: more covers with Alek to come. YES. Alright!
 

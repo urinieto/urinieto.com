@@ -17,9 +17,9 @@ Ahhh as I mentioned [before][1], the Antikaraoke is the best place in Barcelona.
 See you again in August Antikaraokers!
 
 **Thunderstruck (AC/DC)** (with Rachel Arieff!):  
-{{< youtube bqQH4DVuO9o >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube bqQH4DVuO9o >}}</iframe>
 
 **Battery (Metallica)**  
-{{< youtube KfdBnzBkwlE >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube KfdBnzBkwlE >}}</iframe>
 
  [1]: /2011/03/back-to-the-antikaraoke/

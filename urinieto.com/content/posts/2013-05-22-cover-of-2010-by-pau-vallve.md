@@ -13,4 +13,4 @@ categories:
 ---
 I just wanna sing out loud.
 
-{{< youtube VUrCEPwldZ8 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube VUrCEPwldZ8 >}}</iframe>

@@ -22,6 +22,6 @@ categories:
 > Seen it in a bad dream  
 > Seen it in your heart
 
-{{< youtube U6TUGJRYig4 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube U6TUGJRYig4 >}}</iframe>
 
 Another perfect song by Porcupine Tree.

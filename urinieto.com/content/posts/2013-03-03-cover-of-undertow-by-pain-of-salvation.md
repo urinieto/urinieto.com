@@ -13,6 +13,6 @@ categories:
 ---
 There you go. Finally a new cover. Aw, I love this song.
 
-{{< youtube 9BYKS3f1Z-E >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube 9BYKS3f1Z-E >}}</iframe>
 
 Titans. You all, titans.

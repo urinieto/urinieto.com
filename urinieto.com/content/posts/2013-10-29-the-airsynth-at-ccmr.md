@@ -14,7 +14,7 @@ categories:
 ---
 I recently presented the **AirJam** at the [10th International Symposium on Computer Music Multidisciplinary Research (CMMR)][1]. It was fun seeing everyone experimenting with my project. <del datetime="2014-01-02T01:08:27+00:00">Hopefully will be published on the AppStore this Christmas, so that poor people won&#8217;t be poor any more</del>. AirJam is [here on the Appstore][2]!
 
-{{< youtube AkrRY5xlBsY >}} frameborder="0" allowfullscreen></iframe> 
+{{< youtube AkrRY5xlBsY >}}</iframe> 
 
 [{{< img src="/wp-content/uploads/2013/10/IMG_4115-500x500.jpg" alt="" title="IMG_4115" width="500" height="500" class="aligncenter size-medium wp-image-1755" >}}][3]
 

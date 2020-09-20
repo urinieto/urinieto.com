@@ -31,7 +31,7 @@ On of them, [Kingda Ka][2], is the tallest (and until November last year the fas
 We rode El Toro, Kingda Ka, Skull Mountain, Nitro, The Dark Knight, Bizarro, Superman, Batman, and Green Lantern (ok, I didn&#8217;t ride Green Lantern because my head was about to explode by the end of the day. Yeah, I&#8217;m getting old). 
 
 I made a stupid montage about it:  
-{{< youtube 0NXucLPv3Ys >}}rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube 0NXucLPv3Ys >}}</iframe>
 
 And here some pics:
 

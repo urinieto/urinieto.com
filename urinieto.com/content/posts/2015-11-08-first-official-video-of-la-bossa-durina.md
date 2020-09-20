@@ -16,6 +16,6 @@ Our first official video with [La Bossa d&#8217;Urina][1] is finally here (with 
 
 Aw, life!
 
-{{< youtube nM4J1pwtTh8 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube nM4J1pwtTh8 >}}</iframe>
 
  [1]: https://www.facebook.com/labossadurina

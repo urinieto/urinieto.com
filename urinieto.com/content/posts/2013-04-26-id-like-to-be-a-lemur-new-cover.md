@@ -14,6 +14,6 @@ categories:
 ---
 The original is in catalan ([and is great][1]). Oh, I love this song.
 
-{{< youtube -1iyL1z9aJ0 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube -1iyL1z9aJ0 >}}</iframe>
 
  [1]: http://www.youtube.com/watch?v=HwBc3f0adUw

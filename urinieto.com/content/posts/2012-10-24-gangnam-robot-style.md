@@ -13,6 +13,6 @@ categories:
 ---
 Why is this song so popular? Because even robots can dance to it.
 
-{{< youtube kmeJvkN4ntI >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube kmeJvkN4ntI >}}</iframe>
 
 Good job you titans from Drexel!

@@ -14,6 +14,6 @@ categories:
 ---
 This one took quite some time. But here it is, and couldn&#8217;t be prouder. IMHO, Beyond The Pale is one of the best songs ever written, and here is my rendition of it. Thanks to [Jordi Foraster][1] for the amazing solo, and Nathalie Alegre for the inspiration, acting, and post-production. Enjoy titans!
 
-{{< youtube -BSvkpayG98 >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube -BSvkpayG98 >}}</iframe>
 
  [1]: https://www.facebook.com/jordi.foraster?fref=browse_search

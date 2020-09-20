@@ -14,6 +14,6 @@ categories:
 ---
 Alright: another cover released to make the world a better place. Thank you Anathema for making my life much better since&#8230; I don&#8217;t know, probably since early 2000s (that&#8217;s roughly half the time I&#8217;ve been alive).
 
-{{< youtube 2MMImKc8HHA >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube 2MMImKc8HHA >}}</iframe>
 
 Enjoy titanics!

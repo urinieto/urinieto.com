@@ -15,7 +15,7 @@ categories:
 ---
 There you go, the latest cover with the Titan [TheOnlyDeerAlive][1]:
 
-{{< youtube vS0LDb4VgjU >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube vS0LDb4VgjU >}}</iframe>
 
 Love this one! :) 
 

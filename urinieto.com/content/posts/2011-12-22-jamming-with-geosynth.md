@@ -18,7 +18,7 @@ categories:
 
 I&#8217;ve been playing with it for a while, and here is a little improvisation I made in my studio:
 
-{{< youtube PGZ4SVS-CHI >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube PGZ4SVS-CHI >}}</iframe>
 
 Highly recommended. I will for sure use it in my little tour in Catalonia this January.  
 Alright!

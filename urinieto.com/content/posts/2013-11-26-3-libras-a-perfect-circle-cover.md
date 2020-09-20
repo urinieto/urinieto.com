@@ -13,4 +13,4 @@ categories:
 ---
 So there you have. Another cover to make the world a better place:
 
-{{< youtube WeKbRkhpuQw >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube WeKbRkhpuQw >}}</iframe>

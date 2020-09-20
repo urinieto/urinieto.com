@@ -14,6 +14,6 @@ categories:
 ---
 When The Wizard Titan Jordan Rudess saw my Anathema cover decided that he wanted to give it some GeoShred love. So we worked together to create this little piece of video that I absolutely love. I hope you enjoy it Titans!
 
-{{< youtube gwIlSHta7-Q >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube gwIlSHta7-Q >}}</iframe>
 
 Wizard power! GeoShred power! Dream Theater powerrrrr

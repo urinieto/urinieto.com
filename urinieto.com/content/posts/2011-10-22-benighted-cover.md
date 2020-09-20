@@ -17,6 +17,6 @@ I&#8217;ve been playing this one for a long time. It&#8217;s one of my favorite 
 
 And it&#8217;s the best solo video I&#8217;ve ever had. And here it is. And I hope you enjoy it as much as we enjoyed creating it:
 
-{{< youtube FEZK3wOUVCM >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube FEZK3wOUVCM >}}</iframe>
 
 Thanks Eyal for doing this!

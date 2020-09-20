@@ -14,4 +14,4 @@ categories:
 ---
 So, I got myself an electric violin and it&#8217;s pretty sweet! Here my first cover with it, Nutshell by Alice In Chains:
 
-{{< youtube 8tx5Evw-WXw >}}ecver=1" frameborder="0" allowfullscreen></iframe>
+{{< youtube 8tx5Evw-WXw >}}</iframe>

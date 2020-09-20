@@ -14,9 +14,9 @@ categories:
 A couple of videos from yesterday&#8217;s Spanish general strike.
 
 Some shitty citiziens:  
-{{< youtube HfwMXCCzteE >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube HfwMXCCzteE >}}</iframe>
 
 Some shitty police:  
-{{< youtube MvKxZBDu80s >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube MvKxZBDu80s >}}</iframe>
 
 As always, shit&#8217;s everywhere.

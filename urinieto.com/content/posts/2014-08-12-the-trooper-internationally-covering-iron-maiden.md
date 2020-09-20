@@ -15,6 +15,6 @@ categories:
 ---
 Here it is titans: The epic world-wide collaboration of The Trooper, by Iron Maiden. I try to sing while I brush my teeth, because cleaner teeth make your vocals much better, because the air pressure can pass between your teeth and it produces some frequencies that wouldn&#8217;t exist otherwise.
 
-{{< youtube CYOzwsYx2wI >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube CYOzwsYx2wI >}}</iframe>
 
 Again, thanks to Andy Feehan to putting this together!

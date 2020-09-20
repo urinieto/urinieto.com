@@ -15,6 +15,6 @@ categories:
 ---
 There you go, another cover to start the year with some Pain:
 
-{{< youtube vzoS5kAqjYc >}} frameborder="0" allowfullscreen></iframe>
+{{< youtube vzoS5kAqjYc >}}</iframe>
 
 It took me some time to be able to sing and play this one, but hopefully the result was worth it. Alright!
