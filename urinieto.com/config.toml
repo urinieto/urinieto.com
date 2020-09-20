@@ -3,7 +3,6 @@ baseURL = "https://urinieto.netlify.app"
 url = "https://urinieto.netlify.app"
 #url = "http://urinieto.com"
 languageCode = "en-us"
-title = "Oriol Nieto"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -58,6 +57,11 @@ title = "youtube"
 url = "https://www.youtube.com/channel/UC_8n33wIclFtmwORvURYYHA"
 
 [[params.socialIcons]]
+icon = "fa-soundcloud"
+title = "soundcloud"
+url = "https://soundcloud.com/urinieto"
+
+[[params.socialIcons]]
 icon = "fa-graduation-cap"
 title = "google-scholar"
 url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
@@ -67,6 +71,7 @@ url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
       name = "Posts"
       weight = 100
       identifier = "posts"
+      title = "Home"
       url = "/"
 
     [[menu.main]]
