@@ -60,9 +60,6 @@ icon = "fa-graduation-cap"
 title = "google-scholar"
 url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
 
-[markup.goldmark.renderer]
-unsafe = true
-
 [menu]
     [[menu.main]]
       name = "Posts"
