@@ -6,7 +6,7 @@ date: 2008-09-28T22:52:34+00:00
 menu: "about"
 
 ---
-Hello World! I am Oriol Nieto (aka Uri Nieto), a Staff Scientist at <a href="http://www.pandora.com" target="_blank">Pandora</a>.
+Hello World! I am Oriol Nieto (aka Uri Nieto), a Staff Scientist at <a href="http://www.pandora.com" target="_blank">Pandora</a>. I also make music.
 
 <div class="center">
     <img src="/wp-content/uploads/2008/09/uri.png" alt="" title="uri" width="240" height="350" class="" />

@@ -9,7 +9,7 @@ enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
 sectionPagesMenu = "main"
-Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 8 # Number of posts to show in the home page
 googleAnalytics = ""
 
 [params]
@@ -40,27 +40,65 @@ icon = "fa-github"
 title = "GitHub"
 url = "https://github.com/urinieto/"
 
+[[params.socialIcons]]
+icon = "fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/urinieto/"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "twitter"
+url = "https://www.twitter.com/urinieto/"
+
+[[params.socialIcons]]
+icon = "fa-youtube"
+title = "youtube"
+url = "https://www.youtube.com/channel/UC_8n33wIclFtmwORvURYYHA"
+
+[[params.socialIcons]]
+icon = "fa-graduation-cap"
+title = "google-scholar"
+url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
+
 [markup.goldmark.renderer]
 unsafe = true
 
 [menu]
     [[menu.main]]
-        identifier = "blog"
-        name = "Blog"
-        title = "Blog section"
-        url = "/posts/"
-        weight = -110
+      name = "Posts"
+      weight = 100
+      identifier = "posts"
+      url = "/"
 
     [[menu.main]]
-        identifier = "about"
-        name = "About"
-        title = "About section"
-        url = "/about/"
-        weight = -210
+      name = "Music Videos"
+      weight = 200
+      identifier = "music-videos"
+      url = "/music-videos/"
+
+    [[menu.main]]
+      name = "Publications"
+      weight = 300
+      identifier = "publications"
+      url = "/publications/"
 
     [[menu.main]]
         identifier = "cv"
         name = "CV"
         title = "CV section"
         url = "/cv/"
-        weight = -100
+        weight = 400
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About Me"
+        title = "About section"
+        url = "/about/"
+        weight = 500
+
+    [[menu.main]]
+      name = "Archive"
+      weight = 600
+      identifier = "archive"
+      url = "/posts/"
+

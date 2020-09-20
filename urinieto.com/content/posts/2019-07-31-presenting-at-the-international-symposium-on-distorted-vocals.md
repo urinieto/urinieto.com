@@ -6,6 +6,10 @@ date: 2019-07-31T18:38:06+00:00
 url: /2019/07/presenting-at-the-international-symposium-on-distorted-vocals/
 categories:
   - vídeos
+thumbnail:
+  src: "/wp-content/uploads/2020/01/Screen-Shot-2020-01-09-at-4.36.22-PM-500x153.png"
+  alt: "Thumbnail image"
+
 
 ---
 Last week I had the honor to give an invited talk at the 2nd International Symposium on Distorted Vocals in São Paulo, Brazil. The titan Ariel Coelho was the main organizer, and fantastic speakers such as Melissa Cross were also invited.

@@ -1,3 +1,4 @@
+import argparse
 import glob
 import os
 import re
@@ -41,8 +42,24 @@ def update_file(in_file, out_file):
 
 
 if __name__ == "__main__":
-    in_dir = "../posts_old/"
-    out_dir = "../urinieto.com/content/posts/"
+    parser = argparse.ArgumentParser(
+        description='Parses MarkDown files for the Hugo site.')
+    parser.add_argument('-i',
+                        '--in_dir',
+                        dest='in_dir',
+                        type=str,
+                        default='../posts_old/',
+                        help='Input directory with Markdown files')
+    parser.add_argument('-o'
+                        '--out_dir',
+                        dest='out_dir',
+                        type=str,
+                        default='../urinieto.com/content/posts/',
+                        help='Output directory')
+
+    args = parser.parse_args()
+    in_dir = args.in_dir
+    out_dir = args.out_dir
     os.makedirs(out_dir, exist_ok=True)
 
     md_files = glob.glob(in_dir + "*.md")
