@@ -16,10 +16,10 @@
                     <div class="meta">
                         <div class="info"><em class="fa fa-sun-o"></em><span
                                     class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-                            {{ with .Params.tags }}
+                            {{ with .Params.categories }}
                                 {{- range $index, $el := . -}}
-                                    <a class="tag"
-                                    href="{{ ( printf "tags/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
+                                    <a class="category"
+                                    href="{{ ( printf "categories/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
                                 {{- end -}}
                             {{ end }}
                         </div>
