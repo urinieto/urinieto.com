@@ -6,7 +6,7 @@ date: {{ .Date }}
 url: TODO
 draft: false
 thumbnail:
-  src: "TODO"
+  src: "/wp-content/uploads/2020/01/"
   alt: Thumbnail image
 categories:
   - TODO1
@@ -14,3 +14,4 @@ categories:
 
 ---
 
+{{< img src="" alt="" width="" >}}

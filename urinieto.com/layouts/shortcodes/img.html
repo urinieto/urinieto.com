@@ -1,10 +1,14 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
+{{ $width := .Get "width" }}
 
 <div class="center">
   <img
     src="{{ $src }}"
     alt="{{ $alt }}"
+    {{ if isset .Params "width" }}
+    width="{{ $width }}"
+    {{ end }}
     decoding="async"
   />
 </div>
