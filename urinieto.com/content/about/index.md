@@ -8,9 +8,7 @@ menu: "about"
 ---
 Hello World! I am Oriol Nieto (aka Uri Nieto), a Staff Scientist at <a href="http://www.pandora.com" target="_blank">Pandora</a>. I also make music.
 
-<div class="center">
-    <img src="/wp-content/uploads/2008/09/uri.png" alt="" title="uri" width="240" height="350" class="" />
-</div>
+{{< img src="/wp-content/uploads/2008/09/uri.png" alt="" title="uri" width="240" height="350" class="" >}}
 
 I hold a [Ph.D in Music Data Science][6] from the **New York University**. You can see all my publications, including my Ph.D Dissertation, <a href="http://marl.smusic.nyu.edu/nieto/publications.php" target="_blank">here</a>. My interests focus on music information retrieval, large scale recommendation systems, and machine learning with especial emphasis on deep architectures.
 
