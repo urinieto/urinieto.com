@@ -1,0 +1,4 @@
+[submodule "urinieto.com/themes/anatole"]
+	path = urinieto.com/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+	branch = master
