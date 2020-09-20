@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-10-30T23:57:00+00:00
 url: /2011/10/songle-mir-crowd-sourcing/
+thumbnail:
+  src: "/wp-content/uploads/2011/10/Screen-Shot-2011-10-30-at-7.41.54-PM-500x295.png"
+  alt: Thumbnail image
 categories:
   - music
 tags:

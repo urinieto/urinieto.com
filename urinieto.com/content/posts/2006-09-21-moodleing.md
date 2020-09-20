@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/09/moodleing.html
+thumbnail:
+  src: "http://moodle.org/theme/moodleorange/hat.gif"
+  alt: Thumbnail image
 categories:
   - moodle
   - pfc

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2015-05-08T12:48:35+00:00
 url: /2015/05/playing-highway-to-hell-in-nyc/
+thumbnail:
+  src: "https://img.youtube.com/vi/5MCq9nM-V4M/0.jpg"
+  alt: Thumbnail image
 categories:
   - covers
   - music
@@ -14,7 +17,7 @@ A month ago I had the pleasure to open the show for the greatest, the titanest, 
 
 I decided to play this little cover at the end of my show. Hope you enjoy titans!
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/5MCq9nM-V4M" frameborder="0" allowfullscreen></iframe>
+{{< youtube 5MCq9nM-V4M >}} frameborder="0" allowfullscreen></iframe>
 
 ALRIGHTO.
 

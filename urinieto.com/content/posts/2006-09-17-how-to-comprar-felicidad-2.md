@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/09/how-to-comprar-felicidad.html
+thumbnail:
+  src: "http://photos1.blogger.com/blogger/2412/3775/320/ESP.jpg"
+  alt: Thumbnail image
 categories:
   - music
 

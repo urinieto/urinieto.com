@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/07/stop-censura.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg"
+  alt: Thumbnail image
 categories:
   - censorship
   - politics

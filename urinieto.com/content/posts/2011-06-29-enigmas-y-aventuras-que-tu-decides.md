@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-06-29T23:18:03+00:00
 url: /2011/06/enigmas-y-aventuras-que-tu-decides/
+thumbnail:
+  src: "/wp-content/uploads/2011/06/feriaDelMal.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

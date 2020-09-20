@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/08/vacaciones.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RsA4LTOELbI/AAAAAAAAA8Y/1gm4QpRbRC0/s320/Formentera06.jpg"
+  alt: Thumbnail image
 categories:
   - formentera
   - vacaciones

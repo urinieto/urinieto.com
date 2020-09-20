@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/02/ekaterinburg.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/ReGl7nSOxnI/AAAAAAAAADk/oabzl7SGluc/s320/DSC08322.JPG"
+  alt: Thumbnail image
 categories:
   - ekaterinburg
   - russia

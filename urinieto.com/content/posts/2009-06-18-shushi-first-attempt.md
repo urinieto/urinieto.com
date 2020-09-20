@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-06-18T08:30:03+00:00
 url: /2009/06/shushi-first-attempt/
+thumbnail:
+  src: "/wp-content/uploads/2009/06/sushi-500x375.jpg"
+  alt: Thumbnail image
 categories:
   - cooking
 

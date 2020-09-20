@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-08-08T02:33:33+00:00
 url: /2010/08/the-mission/
+thumbnail:
+  src: "http://farm5.static.flickr.com/4081/4870500672_cb062d146b.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-09-27T01:24:52+00:00
 url: /2011/09/opeth-katatonia-en-ny/
+thumbnail:
+  src: "/wp-content/uploads/2011/09/opeth-500x375.jpg"
+  alt: Thumbnail image
 categories:
   - music
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-10-08T14:15:18+00:00
 url: /2011/10/eyal-amir-at-marl/
+thumbnail:
+  src: "/wp-content/uploads/2011/10/Eyal41-500x333.jpg"
+  alt: Thumbnail image
 categories:
   - marl
   - music

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-01-09T21:01:34+00:00
 url: /2010/01/computer-scientists-view-of-life/
+thumbnail:
+  src: "/wp-content/uploads/2010/01/universe.jpg"
+  alt: Thumbnail image
 categories:
   - ccrma
   - ollas

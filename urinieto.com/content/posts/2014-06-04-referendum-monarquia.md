@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2014-06-05T03:21:03+00:00
 url: /2014/06/referendum-monarquia/
+thumbnail:
+  src: "/wp-content/uploads/2014/06/Screen-Shot-2014-06-05-at-8.58.07-AM-500x334.png"
+  alt: Thumbnail image
 categories:
   - politics
   - spain

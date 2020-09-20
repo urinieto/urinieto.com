@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-07-09T14:28:06+00:00
 url: /2012/07/jamming-with-spacewiz/
+thumbnail:
+  src: "https://img.youtube.com/vi/_PxJYrSA0_Q/0.jpg"
+  alt: Thumbnail image
 categories:
   - music
   - technology
@@ -14,7 +17,7 @@ Jordan Rudess and the guys at Wizdom Music did it again. SpaceWiz is the new iPa
 
 Here a little jam with [Juan Astasio][1]:
 
-<iframe width="600" height="338" src="http://www.youtube.com/embed/_PxJYrSA0_Q" frameborder="0" allowfullscreen></iframe>
+{{< youtube _PxJYrSA0_Q >}} frameborder="0" allowfullscreen></iframe>
 
 Really, this app is beautiful.
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-04-14T16:41:46+00:00
 url: /2011/04/a-game-of-thrones/
+thumbnail:
+  src: "/wp-content/uploads/2011/04/a-game-of-thrones-book-cover.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - song of ice and fire

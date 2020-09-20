@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2015-01-06T10:40:06+00:00
 url: /2015/01/la-bossa-durina-world-tour-2015/
+thumbnail:
+  src: "/wp-content/uploads/2015/01/TBU-Gira2015-Terrassa-500x707.png"
+  alt: Thumbnail image
 categories:
   - concerts
 

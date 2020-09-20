@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/05/y-ahora-qu.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

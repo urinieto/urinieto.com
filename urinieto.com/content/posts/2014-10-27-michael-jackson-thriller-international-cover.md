@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2014-10-27T21:35:39+00:00
 url: /2014/10/michael-jackson-thriller-international-cover/
+thumbnail:
+  src: "https://img.youtube.com/vi/SV3aE6Rry8E/0.jpg"
+  alt: Thumbnail image
 categories:
   - covers
   - music
@@ -13,6 +16,6 @@ Halloween is coming. Like winter. So a new cover had to be made in order to cele
 
 Alrighght titans! (And thanks to Nathalie Shrimp for recording my video!)
 
-<iframe width="600" height="338" src="//www.youtube.com/embed/SV3aE6Rry8E" frameborder="0" allowfullscreen></iframe>
+{{< youtube SV3aE6Rry8E >}} frameborder="0" allowfullscreen></iframe>
 
 Kisses with jet lag from Taipei!

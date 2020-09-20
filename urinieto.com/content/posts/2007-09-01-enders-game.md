@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/09/enders-game.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif"
+  alt: Thumbnail image
 categories:
   - books
   - ender

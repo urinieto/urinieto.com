@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-05-07T09:52:26+00:00
 url: /2009/05/hitting-the-road/
+thumbnail:
+  src: "/wp-content/uploads/2009/05/theroad-cormac.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

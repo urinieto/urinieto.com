@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/06/el-asombroso-viaje-de-pomponio-flato.html
+thumbnail:
+  src: "http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - eduardo mendoza

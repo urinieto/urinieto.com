@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2013-08-16T22:07:59+00:00
 url: /2013/08/exploring-the-rhythm-of-meshuggahs-catch-33/
+thumbnail:
+  src: "/wp-content/uploads/2013/08/Screen-Shot-2013-08-16-at-6.03.51-PM.png"
+  alt: Thumbnail image
 categories:
   - marl
   - meshuggah

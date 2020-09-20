@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-06-29T18:06:00+00:00
 url: /2012/06/eurovegas-sera-un-desastr/
+thumbnail:
+  src: "/wp-content/uploads/2012/06/vegas8989-copy1.jpg"
+  alt: Thumbnail image
 categories:
   - politics
 

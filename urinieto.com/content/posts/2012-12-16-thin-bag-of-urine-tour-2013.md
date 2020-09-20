@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-12-16T17:37:06+00:00
 url: /2012/12/thin-bag-of-urine-tour-2013/
+thumbnail:
+  src: "/wp-content/uploads/2012/12/TBU2013-BCN1-500x707.png"
+  alt: Thumbnail image
 categories:
   - concerts
   - music

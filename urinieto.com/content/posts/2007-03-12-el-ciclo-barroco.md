@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/03/el-ciclo-barroco.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s320/k4041.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - ciclo barroco

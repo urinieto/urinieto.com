@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-10-04T20:34:19+00:00
 url: /2011/10/new-song-haunter/
+thumbnail:
+  src: "https://img.youtube.com/vi/5biC-t0av8M/0.jpg"
+  alt: Thumbnail image
 categories:
   - music
 
@@ -14,7 +17,7 @@ My voice is on the 9th track of the album, a song called **Haunter**. The lyrics
 
 Here you have the song:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/5biC-t0av8M" frameborder="0" allowfullscreen></iframe>
+{{< youtube 5biC-t0av8M >}} frameborder="0" allowfullscreen></iframe>
 
 ( http://www.youtube.com/embed/5biC-t0av8M )
 

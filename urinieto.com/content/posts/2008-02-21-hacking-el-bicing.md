@@ -8,6 +8,9 @@ blogger_permalink:
   - /2008/02/hacking-bicing.html
 blogger_blog:
   - enochrooted.blogspot.com
+thumbnail:
+  src: "http://4.bp.blogspot.com/_WEHvyZj_jiU/R71OJOWU3SI/AAAAAAAABFI/U93xS5_DNuA/s320/logo-bicing.miniatura.jpg"
+  alt: Thumbnail image
 categories:
   - bicing
   - hacking

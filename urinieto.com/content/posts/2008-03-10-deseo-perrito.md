@@ -8,6 +8,9 @@ blogger_permalink:
   - /2008/03/deseo-perrito.html
 blogger_blog:
   - enochrooted.blogspot.com
+thumbnail:
+  src: "http://2.bp.blogspot.com/_WEHvyZj_jiU/R9Vsyfc9KhI/AAAAAAAABFg/M6j_2G-omv4/s320/PuppyWish.jpg"
+  alt: Thumbnail image
 categories:
   - humor
   - ollas

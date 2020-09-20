@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-11-30T03:24:24+00:00
 url: /2009/11/el-acertijo-de-los-islenos-de-ojos-azules/
+thumbnail:
+  src: "/wp-content/uploads/2009/11/PuertoEscondido.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

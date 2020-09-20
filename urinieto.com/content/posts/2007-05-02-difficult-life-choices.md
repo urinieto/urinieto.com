@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/05/difficult-life-choices.html
+thumbnail:
+  src: "http://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s320/difficult-life-choices.gif"
+  alt: Thumbnail image
 categories:
   - decisions
   - ollas

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-06-12T20:39:00+00:00
 url: /2011/06/the-end-of-south-park/
+thumbnail:
+  src: "/wp-content/uploads/2011/06/southpark-end-500x354.png"
+  alt: Thumbnail image
 categories:
   - south park
 

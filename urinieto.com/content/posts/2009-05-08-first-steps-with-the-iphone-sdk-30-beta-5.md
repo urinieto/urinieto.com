@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-05-08T13:00:04+00:00
 url: /2009/05/first-steps-with-the-iphone-sdk-30-beta-5/
+thumbnail:
+  src: "/wp-content/uploads/2009/05/iphone-3-new-1.jpg"
+  alt: Thumbnail image
 categories:
   - iphone
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-06-22T15:40:03+00:00
 url: /2010/06/dream-theater-after-show-pas/
+thumbnail:
+  src: "http://farm2.static.flickr.com/1438/4721292625_cd7d5a38fb.jpg"
+  alt: Thumbnail image
 categories:
   - concerts
   - music

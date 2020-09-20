@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2008-10-31T09:33:29+00:00
 url: /2008/10/sexo-muerte-y-su-puta-madre/
+thumbnail:
+  src: "/wp-content/uploads/2009/04/erosthanatos.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - javier sardá

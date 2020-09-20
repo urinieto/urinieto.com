@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/05/la-era-del-diamante.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s320/diamondage.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - neal stephenson

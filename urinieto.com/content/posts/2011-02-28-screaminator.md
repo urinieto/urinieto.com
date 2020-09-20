@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-02-28T17:54:36+00:00
 url: /2011/02/screaminator/
+thumbnail:
+  src: "https://img.youtube.com/vi/MwvCl4H0LOc/0.jpg"
+  alt: Thumbnail image
 categories:
   - music tech
   - screaminator
@@ -21,7 +24,7 @@ Here you have some links that talk about it:
 
 Here the video:
 
-<iframe title="YouTube video player" width="600" height="390" src="http://www.youtube.com/embed/MwvCl4H0LOc" frameborder="0" allowfullscreen></iframe>
+{{< youtube MwvCl4H0LOc >}} frameborder="0" allowfullscreen></iframe>
 
 (http://www.youtube.com/embed/MwvCl4H0LOc)  
 Thank you Hannes for the recording!

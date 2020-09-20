@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-09-20T03:52:01+00:00
 url: /2009/09/the-incident-in-san-francisco/
+thumbnail:
+  src: "/wp-content/uploads/2009/09/dsc03942-500x375.jpg"
+  alt: Thumbnail image
 categories:
   - music
 

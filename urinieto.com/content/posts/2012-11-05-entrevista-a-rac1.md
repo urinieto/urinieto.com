@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-11-05T20:42:29+00:00
 url: /2012/11/entrevista-a-rac1/
+thumbnail:
+  src: "/wp-content/uploads/2012/11/uri-rac1-500x382.png"
+  alt: Thumbnail image
 categories:
   - radio
 

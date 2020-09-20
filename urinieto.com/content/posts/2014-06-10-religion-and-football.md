@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2014-06-10T17:52:37+00:00
 url: /2014/06/religion-and-football/
+thumbnail:
+  src: "https://img.youtube.com/vi/DlJEt2KU33I/0.jpg"
+  alt: Thumbnail image
 categories:
   - politics
   - vídeos
@@ -13,4 +16,4 @@ categories:
 
 This guy is a genius.
 
-<iframe width="600" height="338" src="//www.youtube.com/embed/DlJEt2KU33I" frameborder="0" allowfullscreen></iframe>
+{{< youtube DlJEt2KU33I >}} frameborder="0" allowfullscreen></iframe>

@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/11/web-developing.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/Rz17KqZil5I/AAAAAAAABBQ/TVP_LuiM_x4/s320/dilbert2007166671115.gif"
+  alt: Thumbnail image
 categories:
   - dilbert
   - humor

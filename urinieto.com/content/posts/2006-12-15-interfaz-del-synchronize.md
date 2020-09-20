@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/12/interfaz-del-synchronize.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg"
+  alt: Thumbnail image
 categories:
   - pfc
   - synchronize

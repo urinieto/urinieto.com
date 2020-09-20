@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/11/free-krusher.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s320/SgaeLadrones.png"
+  alt: Thumbnail image
 categories:
   - politics
   - sgae

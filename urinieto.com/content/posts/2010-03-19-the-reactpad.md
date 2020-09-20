@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-03-19T21:42:39+00:00
 url: /2010/03/the-reactpad/
+thumbnail:
+  src: "http://farm3.static.flickr.com/2740/4445770625_71d3f8e131.jpg"
+  alt: Thumbnail image
 categories:
   - ccrma
   - iphone

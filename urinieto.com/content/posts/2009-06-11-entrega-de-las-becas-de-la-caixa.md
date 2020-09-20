@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-06-11T08:31:45+00:00
 url: /2009/06/entrega-de-las-becas-de-la-caixa/
+thumbnail:
+  src: "/wp-content/uploads/2009/06/sus-majestades-los-reyes-presiden-la-ceremonia-de-entrega-de-las-becas-de-la-caixa1-500x333.jpg"
+  alt: Thumbnail image
 categories:
   - beca La Caixa
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-01-14T01:15:19+00:00
 url: /2010/01/iphone-apps-for-iphone-course-at-stanford/
+thumbnail:
+  src: "https://ccrma.stanford.edu/~urinieto/256b/hw1/icons.jpg"
+  alt: Thumbnail image
 categories:
   - ccrma
   - stanford

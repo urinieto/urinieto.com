@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-06-01T19:11:47+00:00
 url: /2010/06/stanford-laptop-orchestra-spring-concert/
+thumbnail:
+  src: "/wp-content/uploads/2010/06/UriSlork-500x334.jpg"
+  alt: Thumbnail image
 categories:
   - ccrma
   - slork

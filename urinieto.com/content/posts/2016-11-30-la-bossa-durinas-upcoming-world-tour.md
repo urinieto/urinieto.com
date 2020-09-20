@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2016-11-30T07:28:15+00:00
 url: /2016/11/la-bossa-durinas-upcoming-world-tour/
+thumbnail:
+  src: "/wp-content/uploads/2016/11/TBU-Gira2016-2-FolletTortuga-Dates-500x707.png"
+  alt: Thumbnail image
 categories:
   - music
 

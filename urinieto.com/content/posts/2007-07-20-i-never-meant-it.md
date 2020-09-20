@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/07/i-never-meant-it.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RqEmsCxL8gI/AAAAAAAAA8A/gN1QF0nlZoU/s320/INeverMeantIt.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

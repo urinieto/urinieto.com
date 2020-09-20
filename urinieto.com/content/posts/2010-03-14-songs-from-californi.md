@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-03-14T18:56:08+00:00
 url: /2010/03/songs-from-californi/
+thumbnail:
+  src: "http://farm3.static.flickr.com/2535/4432983682_0db76b509c.jpg"
+  alt: Thumbnail image
 categories:
   - ccrma
   - music

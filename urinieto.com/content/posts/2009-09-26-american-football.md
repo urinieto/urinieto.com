@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-09-26T03:21:13+00:00
 url: /2009/09/american-football/
+thumbnail:
+  src: "/wp-content/uploads/2009/09/dsc03950-500x666.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

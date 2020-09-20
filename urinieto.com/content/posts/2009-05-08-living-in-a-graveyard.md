@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-05-08T06:33:12+00:00
 url: /2009/05/living-in-a-graveyard/
+thumbnail:
+  src: "/wp-content/uploads/2009/05/graveyard-book.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

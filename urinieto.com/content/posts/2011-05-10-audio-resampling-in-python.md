@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-05-10T22:00:33+00:00
 url: /2011/05/audio-resampling-in-python/
+thumbnail:
+  src: "/wp-content/uploads/2011/05/python-icon-150x150.png"
+  alt: Thumbnail image
 categories:
   - music
   - software

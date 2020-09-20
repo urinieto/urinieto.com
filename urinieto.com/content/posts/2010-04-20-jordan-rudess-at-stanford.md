@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-04-20T07:44:38+00:00
 url: /2010/04/jordan-rudess-at-stanford/
+thumbnail:
+  src: "/wp-content/uploads/2010/04/JordanRudess1-500x707.jpg"
+  alt: Thumbnail image
 categories:
   - ccrma
   - music

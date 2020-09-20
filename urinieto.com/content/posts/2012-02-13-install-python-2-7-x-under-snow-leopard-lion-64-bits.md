@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-02-13T16:57:03+00:00
 url: /2012/02/install-python-2-7-x-under-snow-leopard-lion-64-bits/
+thumbnail:
+  src: "/wp-content/uploads/2012/02/Python-500x311.png"
+  alt: Thumbnail image
 categories:
   - programming
   - python

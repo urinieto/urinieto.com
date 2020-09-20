@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/12/por-qu-tocamos-la-guitarra.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/R2Ds5zjV8qI/AAAAAAAABCY/xzL-YuCrscA/s320/holding-a-guitar-is-like-turning-an-on-off-switch-for-getting-laid.png"
+  alt: Thumbnail image
 categories:
   - humor
   - ollas

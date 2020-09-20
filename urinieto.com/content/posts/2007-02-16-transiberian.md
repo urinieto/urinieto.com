@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/02/transiberian.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RdWm8BbdcwI/AAAAAAAAABs/N8WZhPrpsfg/s320/IMG_2354.jpg"
+  alt: Thumbnail image
 categories:
   - russia
   - transiberian

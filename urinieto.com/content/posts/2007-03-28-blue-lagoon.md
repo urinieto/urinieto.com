@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/03/blue-lagoon.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RgrdW7hPkEI/AAAAAAAAAEc/fY0rtnDaTmk/s320/BlueLagoon.jpg"
+  alt: Thumbnail image
 categories:
   - blue lagoon
   - iceland

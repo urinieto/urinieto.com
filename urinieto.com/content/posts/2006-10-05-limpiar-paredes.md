@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/10/limpiar-paredes.html
+thumbnail:
+  src: "http://photos1.blogger.com/blogger2/4197/4184/320/moose-reverse-graffiti.0.jpg"
+  alt: Thumbnail image
 categories:
   - curiosities
 

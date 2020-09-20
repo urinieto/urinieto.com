@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-05-05T15:20:24+00:00
 url: /2012/05/espana-unida-por-la-independencia/
+thumbnail:
+  src: "/wp-content/uploads/2012/05/españa-rota.png"
+  alt: Thumbnail image
 categories:
   - politics
 

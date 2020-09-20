@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-10-05T04:23:56+00:00
 url: /2009/10/noam-chomsky-at-stanford/
+thumbnail:
+  src: "/wp-content/uploads/2009/10/chomskyevent1-500x666.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

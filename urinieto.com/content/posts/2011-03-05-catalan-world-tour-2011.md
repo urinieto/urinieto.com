@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-03-06T02:06:55+00:00
 url: /2011/03/catalan-world-tour-2011/
+thumbnail:
+  src: "/wp-content/uploads/2011/03/UriBolsaPoster-BarVeider-500x707.png"
+  alt: Thumbnail image
 categories:
   - concerts
 

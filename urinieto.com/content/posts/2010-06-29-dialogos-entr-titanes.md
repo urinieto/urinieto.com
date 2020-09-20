@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-06-29T19:35:45+00:00
 url: /2010/06/dialogos-entr-titanes/
+thumbnail:
+  src: "/wp-content/uploads/2010/06/XavierGraupera.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

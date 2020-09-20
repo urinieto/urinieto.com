@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2008-10-22T09:19:25+00:00
 url: /2008/10/felicitats-papis/
+thumbnail:
+  src: "/wp-content/uploads/2009/04/papis-300x225.jpg"
+  alt: Thumbnail image
 categories:
   - love
   - ollas

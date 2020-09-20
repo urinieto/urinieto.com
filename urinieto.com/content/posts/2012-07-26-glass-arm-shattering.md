@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-07-26T05:26:16+00:00
 url: /2012/07/glass-arm-shattering/
+thumbnail:
+  src: "https://img.youtube.com/vi/U6TUGJRYig4/0.jpg"
+  alt: Thumbnail image
 categories:
   - music
   - porcupine tree
@@ -19,6 +22,6 @@ categories:
 > Seen it in a bad dream  
 > Seen it in your heart
 
-<iframe width="600" height="338" src="http://www.youtube.com/embed/U6TUGJRYig4" frameborder="0" allowfullscreen></iframe>
+{{< youtube U6TUGJRYig4 >}} frameborder="0" allowfullscreen></iframe>
 
 Another perfect song by Porcupine Tree.

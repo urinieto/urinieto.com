@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2014-05-11T20:11:25+00:00
 url: /2014/05/the-thin-bag-of-urine-world-tour-2014/
+thumbnail:
+  src: "/wp-content/uploads/2014/05/10291114_1404634566483163_8576179357592142624_n-500x707.jpg"
+  alt: Thumbnail image
 categories:
   - concerts
 

@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/10/arte-y-coches-sucios.html
+thumbnail:
+  src: "http://photos1.blogger.com/blogger2/4197/4184/320/001_MLSN_peak.jpg"
+  alt: Thumbnail image
 categories:
   - arts
   - ollas

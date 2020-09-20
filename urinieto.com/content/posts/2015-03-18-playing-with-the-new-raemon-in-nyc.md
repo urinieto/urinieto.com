@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2015-03-18T22:07:49+00:00
 url: /2015/03/playing-with-the-new-raemon-in-nyc/
+thumbnail:
+  src: "/wp-content/uploads/2015/03/TheNewRaemonNYC-500x647.png"
+  alt: Thumbnail image
 categories:
   - concerts
   - music

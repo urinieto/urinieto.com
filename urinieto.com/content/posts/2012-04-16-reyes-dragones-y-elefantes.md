@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-04-16T21:51:17+00:00
 url: /2012/04/reyes-dragones-y-elefantes/
+thumbnail:
+  src: "/wp-content/uploads/2012/04/Reyes-500x307.png"
+  alt: Thumbnail image
 categories:
   - politics
 

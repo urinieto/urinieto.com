@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-08-28T14:53:06+00:00
 url: /2010/08/california/
+thumbnail:
+  src: "http://farm5.static.flickr.com/4035/4513353030_805e605502.jpg"
+  alt: Thumbnail image
 categories:
   - california
 

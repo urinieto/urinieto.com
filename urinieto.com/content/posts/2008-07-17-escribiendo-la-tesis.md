@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/07/escriviendo-la-tesis.html
+thumbnail:
+  src: "http://imgs.xkcd.com/comics/internet_argument.png"
+  alt: Thumbnail image
 categories:
   - ollas
 

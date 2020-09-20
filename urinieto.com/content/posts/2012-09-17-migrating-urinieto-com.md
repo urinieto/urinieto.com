@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-09-17T20:16:20+00:00
 url: /2012/09/migrating-urinieto-com/
+thumbnail:
+  src: "/wp-content/uploads/2012/09/migrate.jpeg"
+  alt: Thumbnail image
 categories:
   - internet
 

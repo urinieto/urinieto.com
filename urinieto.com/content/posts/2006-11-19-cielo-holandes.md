@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/11/cielo-holands.html
+thumbnail:
+  src: "http://photos1.blogger.com/x/blogger2/4197/4184/320/516091/holanda.jpg"
+  alt: Thumbnail image
 categories:
   - amsterdam
   - viajes

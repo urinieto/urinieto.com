@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-01-12T05:02:14+00:00
 url: /2010/01/urination/
+thumbnail:
+  src: "/wp-content/uploads/2010/01/urination.png"
+  alt: Thumbnail image
 categories:
   - humor
   - ollas

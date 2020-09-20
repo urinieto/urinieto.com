@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/10/captulos-y-pginas.html
+thumbnail:
+  src: "http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-chapterspages.jpg"
+  alt: Thumbnail image
 categories:
   - pfc
   - wikibook

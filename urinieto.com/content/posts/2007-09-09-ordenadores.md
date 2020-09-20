@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/09/ordenadores.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RuQK3VcFtOI/AAAAAAAAA_Q/O2VNoyz_p6M/s320/ComputersSuck.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
   - technology

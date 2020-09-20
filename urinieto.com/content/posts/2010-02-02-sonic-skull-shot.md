@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-02-02T08:19:15+00:00
 url: /2010/02/sonic-skull-shot/
+thumbnail:
+  src: "/wp-content/uploads/2010/02/screenshot2.png"
+  alt: Thumbnail image
 categories:
   - ccrma
   - iphone

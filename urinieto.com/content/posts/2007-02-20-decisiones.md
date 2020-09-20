@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/02/decisiones.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RdrmxXSOxgI/AAAAAAAAACQ/cnR1zniMeAE/s320/full_125083.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

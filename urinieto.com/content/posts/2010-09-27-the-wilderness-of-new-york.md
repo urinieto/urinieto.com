@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-09-27T18:58:21+00:00
 url: /2010/09/the-wilderness-of-new-york/
+thumbnail:
+  src: "http://farm5.static.flickr.com/4083/5030670782_60d87b5e82_z.jpg"
+  alt: Thumbnail image
 categories:
   - new york
 

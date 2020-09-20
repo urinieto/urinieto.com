@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-01-08T20:16:47+00:00
 url: /2010/01/earthquakes-in-the-sf-bay-area/
+thumbnail:
+  src: "/wp-content/uploads/2010/01/damage6.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

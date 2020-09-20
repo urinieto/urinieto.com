@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-12-24T10:37:27+00:00
 url: /2009/12/uri-nieto-at-ccrma/
+thumbnail:
+  src: "/wp-content/uploads/2009/12/Screen-shot-2009-12-24-at-11.34.12-AM.png"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

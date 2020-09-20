@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/08/theres-big-big-hard-sun.html
+thumbnail:
+  src: "http://4.bp.blogspot.com/_WEHvyZj_jiU/SKRKfuVLynI/AAAAAAAABLI/qverUy2qNx0/s320/menVaig.jpg"
+  alt: Thumbnail image
 categories:
   - music
   - ollas

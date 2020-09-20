@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2014-09-01T15:01:53+00:00
 url: /2014/09/vim-or-macvim-as-a-c-ide/
+thumbnail:
+  src: "/wp-content/uploads/2014/09/Screen-Shot-2014-09-01-at-10.58.09-AM-500x806.png"
+  alt: Thumbnail image
 categories:
   - programming
 

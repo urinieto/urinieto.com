@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/05/fantasmas-tripas.html
+thumbnail:
+  src: "http://4.bp.blogspot.com/_WEHvyZj_jiU/SC8cEPZ2UvI/AAAAAAAABJI/IKPzc5uFuu4/s320/haunted06.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - chuck palahniuk

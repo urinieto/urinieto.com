@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-01-07T19:58:22+00:00
 url: /2010/01/california-sky/
+thumbnail:
+  src: "http://farm5.static.flickr.com/4066/4254096139_08ee69906d.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
   - stanford

@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/12/ampliacin-del-campo-de-batalla.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s320/8433966901.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

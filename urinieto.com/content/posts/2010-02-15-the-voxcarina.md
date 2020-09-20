@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-02-16T04:25:05+00:00
 url: /2010/02/the-voxcarina/
+thumbnail:
+  src: "https://ccrma.stanford.edu/~urinieto/256b/hw3/screenshot2.png"
+  alt: Thumbnail image
 categories:
   - ccrma
   - iphone

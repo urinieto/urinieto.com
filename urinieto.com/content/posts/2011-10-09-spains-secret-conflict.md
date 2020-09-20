@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-10-09T16:59:15+00:00
 url: /2011/10/spains-secret-conflict/
+thumbnail:
+  src: "https://img.youtube.com/vi/24457023/0.jpg"
+  alt: Thumbnail image
 categories:
   - catalonia
   - politics
@@ -16,7 +19,7 @@ Here it is a very interesting 40-min documentary by Gary Gibson about what is go
 
 Maybe it only matters to me on this side of the world, but I really found it interesting and worth watching. I wish everyone I have talked to about this in america could watch this video.
 
-{{< youtube 24457023 >}} 
+{{< youtube 24457023 >}}title=0&byline=0&portrait=0" width="580" height="300" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe> 
 
 [SPAIN&#8217;S SECRET CONFLICT][1] from [Endboard][2] on [Vimeo][3].
 

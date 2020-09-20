@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/11/synchronizing.html
+thumbnail:
+  src: "http://photos1.blogger.com/x/blogger2/4197/4184/320/682695/sync.jpg"
+  alt: Thumbnail image
 categories:
   - exportdfwiki
   - importdfwiki

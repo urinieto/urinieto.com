@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/02/venus-y-jpiter.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s320/Venus-Jupiter.png"
+  alt: Thumbnail image
 categories:
   - astronomy
   - ollas

@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/08/hyperion.html
+thumbnail:
+  src: "http://2.bp.blogspot.com/_WEHvyZj_jiU/SKsBF9bFLTI/AAAAAAAABLQ/Y8NCvbkCE3E/s320/hyperion.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - dan simmons

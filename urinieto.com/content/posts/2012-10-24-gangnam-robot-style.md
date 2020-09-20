@@ -4,12 +4,15 @@ author: uri
 type: post
 date: 2012-10-24T16:49:59+00:00
 url: /2012/10/gangnam-robot-style/
+thumbnail:
+  src: "https://img.youtube.com/vi/kmeJvkN4ntI/0.jpg"
+  alt: Thumbnail image
 categories:
   - technology
 
 ---
 Why is this song so popular? Because even robots can dance to it.
 
-<iframe width="600" height="338" src="http://www.youtube.com/embed/kmeJvkN4ntI" frameborder="0" allowfullscreen></iframe>
+{{< youtube kmeJvkN4ntI >}} frameborder="0" allowfullscreen></iframe>
 
 Good job you titans from Drexel!

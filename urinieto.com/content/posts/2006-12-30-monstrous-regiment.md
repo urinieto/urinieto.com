@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/12/monstrous-regiment.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s320/monstrous-regiment-1.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - mundodisco

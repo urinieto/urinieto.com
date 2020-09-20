@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/05/meshuggah-obzen.html
+thumbnail:
+  src: "http://4.bp.blogspot.com/_WEHvyZj_jiU/SDFEIvZ2UwI/AAAAAAAABJQ/tfsek9XHvRs/s320/ObZencover.jpg"
+  alt: Thumbnail image
 categories:
   - meshuggah
   - music

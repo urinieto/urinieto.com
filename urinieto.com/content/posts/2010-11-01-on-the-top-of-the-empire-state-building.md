@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-11-01T17:58:46+00:00
 url: /2010/11/on-the-top-of-the-empire-state-building/
+thumbnail:
+  src: "http://farm2.static.flickr.com/1167/5136236113_56a2e5f86d.jpg"
+  alt: Thumbnail image
 categories:
   - new york
 

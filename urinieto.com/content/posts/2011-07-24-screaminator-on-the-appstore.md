@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-07-24T17:04:06+00:00
 url: /2011/07/screaminator-on-the-appstore/
+thumbnail:
+  src: "/wp-content/uploads/2011/07/mzl.eikxuuds.320x480-75.jpg"
+  alt: Thumbnail image
 categories:
   - iphone
   - software

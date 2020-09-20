@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2015-11-09T02:25:04+00:00
 url: /2015/11/first-official-video-of-la-bossa-durina/
+thumbnail:
+  src: "https://img.youtube.com/vi/nM4J1pwtTh8/0.jpg"
+  alt: Thumbnail image
 categories:
   - music
   - vídeos
@@ -13,6 +16,6 @@ Our first official video with [La Bossa d&#8217;Urina][1] is finally here (with 
 
 Aw, life!
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/nM4J1pwtTh8" frameborder="0" allowfullscreen></iframe>
+{{< youtube nM4J1pwtTh8 >}} frameborder="0" allowfullscreen></iframe>
 
  [1]: https://www.facebook.com/labossadurina

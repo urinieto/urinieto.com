@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-11-22T19:50:00+00:00
 url: /2011/11/central-park/
+thumbnail:
+  src: "/wp-content/uploads/2011/11/380155_10150363816213059_523163058_8404044_1283671237_n-500x500.jpg"
+  alt: Thumbnail image
 categories:
   - new york
 

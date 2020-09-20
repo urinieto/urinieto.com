@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-10-28T20:07:24+00:00
 url: /2009/10/santa-cruz/
+thumbnail:
+  src: "/wp-content/uploads/2009/10/img_01201-500x666.jpg"
+  alt: Thumbnail image
 categories:
   - viajes
 tags:

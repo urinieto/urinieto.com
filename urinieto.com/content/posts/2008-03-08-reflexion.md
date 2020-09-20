@@ -8,6 +8,9 @@ blogger_permalink:
   - /2008/03/reflexin.html
 blogger_blog:
   - enochrooted.blogspot.com
+thumbnail:
+  src: "http://3.bp.blogspot.com/_WEHvyZj_jiU/R9Jl3fc9KgI/AAAAAAAABFY/anFVoW3Be0Y/s320/etano.jpg"
+  alt: Thumbnail image
 categories:
   - politics
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-01-21T21:12:53+00:00
 url: /2012/01/finalmente-adios-a-megaupload/
+thumbnail:
+  src: "https://img.youtube.com/vi/fWSFtpP4Nbs/0.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
   - technology
@@ -32,7 +35,7 @@ Debido al creciente uso de las webs de enlaces directos, Megaupload empezó a fa
 
 Estoy a favor de compartir archivos. Pero considero repugnante que haya gente que se aproveche del contenido de los demás para hacerse multimillonario, sin ni siquiera dar las gracias. El siguiente video es bastante representativo del tipo de personas que genera esta puta mafia (aquí vemos al CEO de Megaupload por Marruecos, sobornando a la policía, con su cochazo obtenido gracias al contenido de un montón de autores a los cuales no ha pagado una mierda):
 
-<iframe width="600" height="437" src="http://www.youtube.com/embed/fWSFtpP4Nbs" frameborder="0" allowfullscreen></iframe>
+{{< youtube fWSFtpP4Nbs >}} frameborder="0" allowfullscreen></iframe>
 
 Resumiendo: Si quieres compartir archivos públicamente, usa las redes P2P (BitTorrent, eDonkey, &#8230;) . Y si quieres compartir archivos de manera privada, usa _e.g._ **Dropbox**, que va de cojones. Y dejemos ya de alimentar/crear cerdos millonarios. Creedme, el mundo es mejor sin Megaupload.
 

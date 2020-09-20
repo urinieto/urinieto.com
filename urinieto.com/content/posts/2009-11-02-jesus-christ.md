@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-11-03T01:23:29+00:00
 url: /2009/11/jesus-christ/
+thumbnail:
+  src: "/wp-content/uploads/2009/11/venndiagramjesus.gif"
+  alt: Thumbnail image
 categories:
   - religion
 

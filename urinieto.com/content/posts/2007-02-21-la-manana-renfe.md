@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/02/la-maana-renfe.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/Rdx-2nSOxhI/AAAAAAAAACc/BZCiTqxNj0E/s320/DSC08711.JPG"
+  alt: Thumbnail image
 categories:
   - renfe
 

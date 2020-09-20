@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-01-29T12:10:41+00:00
 url: /2009/01/el-amor-exquisito/
+thumbnail:
+  src: "/wp-content/uploads/2009/04/love-300x104.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

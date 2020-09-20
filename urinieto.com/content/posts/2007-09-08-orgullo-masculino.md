@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/09/orgullo-masculino.html
+thumbnail:
+  src: "http://bp1.blogger.com/_WEHvyZj_jiU/RuKJpFcFtNI/AAAAAAAAA_I/XgK3TCfKCvo/s320/Parking.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

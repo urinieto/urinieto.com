@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/01/hotel-chevalier.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/R48tFwP8XyI/AAAAAAAABEo/UK2bcwqpqM8/s320/HotelChevalier-719843.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

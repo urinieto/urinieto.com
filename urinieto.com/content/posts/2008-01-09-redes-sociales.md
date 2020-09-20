@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/01/redes-sociales.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/R4Ta1AP8XxI/AAAAAAAABEg/3Dj1WktfFHI/s320/social-networks.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

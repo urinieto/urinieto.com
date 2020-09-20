@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/07/american-gods.html
+thumbnail:
+  src: "http://bp1.blogger.com/_WEHvyZj_jiU/Rqm7L3XPCHI/AAAAAAAAA8Q/4zhiEK0Z9l8/s320/NeilGaiman-AmericanGods.jpg"
+  alt: Thumbnail image
 categories:
   - american gods
   - books

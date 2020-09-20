@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/09/encontrarse.html
+thumbnail:
+  src: "http://photos1.blogger.com/blogger/2412/3775/320/Tierra.1.jpg"
+  alt: Thumbnail image
 categories:
   - astronomy
   - science

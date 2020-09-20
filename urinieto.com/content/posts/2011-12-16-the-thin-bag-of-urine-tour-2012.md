@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-12-16T22:54:14+00:00
 url: /2011/12/the-thin-bag-of-urine-tour-2012/
+thumbnail:
+  src: "/wp-content/uploads/2011/12/ThinBagOfUrine-Macondo-500x707.jpg"
+  alt: Thumbnail image
 categories:
   - concerts
   - music

@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/09/de-dragones-y-guardianes.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - pratchett

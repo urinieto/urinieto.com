@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-06-13T13:49:16+00:00
 url: /2011/06/15-years-ago-vs-today/
+thumbnail:
+  src: "/wp-content/uploads/2011/06/presentvs15years-500x607.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

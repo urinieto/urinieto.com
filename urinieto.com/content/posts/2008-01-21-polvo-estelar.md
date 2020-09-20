@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2008/01/polvo-estelar.html
+thumbnail:
+  src: "http://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg"
+  alt: Thumbnail image
 categories:
   - books
   - neil gaiman

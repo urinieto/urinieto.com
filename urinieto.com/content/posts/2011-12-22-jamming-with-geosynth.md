@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-12-22T19:16:14+00:00
 url: /2011/12/jamming-with-geosynth/
+thumbnail:
+  src: "https://img.youtube.com/vi/PGZ4SVS-CHI/0.jpg"
+  alt: Thumbnail image
 categories:
   - music
   - vídeos
@@ -15,7 +18,7 @@ categories:
 
 I&#8217;ve been playing with it for a while, and here is a little improvisation I made in my studio:
 
-<iframe width="600" height="335" src="http://www.youtube.com/embed/PGZ4SVS-CHI" frameborder="0" allowfullscreen></iframe>
+{{< youtube PGZ4SVS-CHI >}} frameborder="0" allowfullscreen></iframe>
 
 Highly recommended. I will for sure use it in my little tour in Catalonia this January.  
 Alright!

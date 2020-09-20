@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-05-22T09:43:18+00:00
 url: /2009/05/parauniversos-variados/
+thumbnail:
+  src: "/wp-content/uploads/2009/05/godsthemselves.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

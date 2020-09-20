@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2011-11-10T17:30:41+00:00
 url: /2011/11/cthulhu-for-president-in-spain/
+thumbnail:
+  src: "/wp-content/uploads/2011/11/tumblr_lqte57FhbH1r29jeio1_250.jpg"
+  alt: Thumbnail image
 categories:
   - politics
 

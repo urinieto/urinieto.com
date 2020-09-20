@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2015-12-01T06:46:06+00:00
 url: /2015/12/la-bossa-durina-first-album-is-out/
+thumbnail:
+  src: "/wp-content/uploads/2015/12/LBDU-500x500.jpg"
+  alt: Thumbnail image
 categories:
   - music
 

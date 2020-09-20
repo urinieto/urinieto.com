@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-09-15T21:56:34+00:00
 url: /2010/09/festa-major-de-granollers/
+thumbnail:
+  src: "/wp-content/uploads/2010/09/festamajor.jpg"
+  alt: Thumbnail image
 categories:
   - granollers
 

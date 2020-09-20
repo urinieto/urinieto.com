@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-09-15T05:00:15+00:00
 url: /2009/09/stanford-toma-de-contacto/
+thumbnail:
+  src: "/wp-content/uploads/2009/09/img_2669-500x333.jpg"
+  alt: Thumbnail image
 categories:
   - stanford
 

@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/09/muchachada-nui.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/Rt3IK1cFtMI/AAAAAAAAA_A/oTKZAYlTYps/s320/MuchachadaNui.jpg"
+  alt: Thumbnail image
 categories:
   - chanante
   - humor

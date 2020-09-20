@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-07-24T00:42:23+00:00
 url: /2010/07/tool-in-san-francisco/
+thumbnail:
+  src: "http://farm5.static.flickr.com/4123/4790826326_c364a839b3.jpg"
+  alt: Thumbnail image
 categories:
   - concerts
 

@@ -8,6 +8,9 @@ blogger_permalink:
   - /2008/04/madee-transference-2-videoclip.html
 blogger_blog:
   - enochrooted.blogspot.com
+thumbnail:
+  src: "http://4.bp.blogspot.com/_WEHvyZj_jiU/SASB__NyVAI/AAAAAAAABII/VfUf3_SYovM/s320/Madee5.JPG"
+  alt: Thumbnail image
 categories:
   - madee
   - music

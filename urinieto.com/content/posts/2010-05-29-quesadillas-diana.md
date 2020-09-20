@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-05-30T00:58:59+00:00
 url: /2010/05/quesadillas-diana/
+thumbnail:
+  src: "http://farm5.static.flickr.com/4054/4650847095_cc8b65a662.jpg"
+  alt: Thumbnail image
 categories:
   - cooking
 

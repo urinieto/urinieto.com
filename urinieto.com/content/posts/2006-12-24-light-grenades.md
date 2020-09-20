@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/12/light-grenades.html
+thumbnail:
+  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RY5dtaEOFtI/AAAAAAAAAAk/l9qgMXKAvXQ/s320/IncubusLightGrenades.gif"
+  alt: Thumbnail image
 categories:
   - incubus
   - music

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-12-24T10:16:42+00:00
 url: /2009/12/en-titan-hay-unas-sirenas/
+thumbnail:
+  src: "/wp-content/uploads/2009/12/lib1799.jpg"
+  alt: Thumbnail image
 categories:
   - books
 

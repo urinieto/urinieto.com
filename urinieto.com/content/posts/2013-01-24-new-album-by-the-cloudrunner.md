@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2013-01-24T21:27:43+00:00
 url: /2013/01/new-album-by-the-cloudrunner/
+thumbnail:
+  src: "/wp-content/uploads/2013/01/Screen-Shot-2013-01-24-at-4.26.18-PM.png"
+  alt: Thumbnail image
 categories:
   - music
 

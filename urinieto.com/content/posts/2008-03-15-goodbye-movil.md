@@ -8,6 +8,9 @@ blogger_permalink:
   - /2008/03/goodbye-mvil.html
 blogger_blog:
   - enochrooted.blogspot.com
+thumbnail:
+  src: "http://4.bp.blogspot.com/_WEHvyZj_jiU/R9uqQfc9KkI/AAAAAAAABGs/1yKCsjVdSIY/s320/DEP.jpg"
+  alt: Thumbnail image
 categories:
   - ollas
 

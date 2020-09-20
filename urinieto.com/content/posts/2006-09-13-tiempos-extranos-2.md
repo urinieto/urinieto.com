@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2006/09/tiempos-extraos.html
+thumbnail:
+  src: "http://photos1.blogger.com/blogger/2412/3775/320/percebes2.0.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2012-10-25T15:32:26+00:00
 url: /2012/10/spain-is-different-and-even-google-knows/
+thumbnail:
+  src: "/wp-content/uploads/2012/10/SpainDifferent-230x1000.png"
+  alt: Thumbnail image
 categories:
   - politics
 

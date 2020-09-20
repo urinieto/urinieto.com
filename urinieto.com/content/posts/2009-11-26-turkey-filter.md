@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-11-26T08:33:17+00:00
 url: /2009/11/turkey-filter/
+thumbnail:
+  src: "/wp-content/uploads/2009/11/Screen-shot-2009-11-26-at-12.30.03-AM-500x349.png"
+  alt: Thumbnail image
 categories:
   - ccrma
 

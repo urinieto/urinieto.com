@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2010-01-27T18:17:47+00:00
 url: /2010/01/ipad-is-here/
+thumbnail:
+  src: "http://c0581892.cdn.cloudfiles.rackspacecloud.com/apple-tablet-keynote_033.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

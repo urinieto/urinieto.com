@@ -4,6 +4,9 @@ author: uri
 type: post
 date: 2009-09-18T08:30:14+00:00
 url: /2009/09/uri-comes-from-oriol/
+thumbnail:
+  src: "/wp-content/uploads/2009/09/f_oriol-500x333.jpg"
+  alt: Thumbnail image
 categories:
   - Uncategorized
 

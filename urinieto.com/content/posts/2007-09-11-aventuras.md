@@ -8,6 +8,9 @@ blogger_blog:
   - enochrooted.blogspot.com
 blogger_permalink:
   - /2007/09/aventuras.html
+thumbnail:
+  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RubRZVcFtRI/AAAAAAAAA_o/IYCUpIpaEqY/s320/Troncs2.jpg"
+  alt: Thumbnail image
 categories:
   - port aventura
   - vacaciones
