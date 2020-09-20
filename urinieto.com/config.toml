@@ -1,6 +1,6 @@
-baseURL = "http://epic-goodall-ad0a50.netlify.app"
+baseURL = "https://epic-goodall-ad0a50.netlify.app"
 #baseURL = "http://urinieto.com/"
-url = "http://epic-goodall-ad0a50.netlify.app"
+url = "https://epic-goodall-ad0a50.netlify.app"
 #url = "http://urinieto.com"
 languageCode = "en-us"
 title = "Oriol Nieto"
