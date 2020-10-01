@@ -13,3 +13,8 @@ Go to the root of the hugo page (urinieto.com/) and type:
 E.g.,
     
     hugo new posts/2020-09-25-recsys2020.md
+
+
+## To Run the Hugo Server Locally
+
+    hugo server --disableFastRender -D
