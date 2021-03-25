@@ -19,7 +19,7 @@ Last Friday was my last day at Pandora. I made a song to say goodbye:
 
 {{< youtube zfCso5Eng8k >}}</iframe>
 
-In case you haven't watch the video yet (which contains all relevant details), I'll be become a researcher at Adobe Research at the end of the month.
+In case you haven't watch the video yet (which contains all relevant details), I'll become a researcher at Adobe Research at the end of the month.
 I'll be joining forces with [Justin](https://www.justinsalamon.com/) and other massive titans doing research of creative Machine Learning for audio.
 
 While sad to be leaving Pandora (because it really is an amazing place to work, and I already miss the humans there), I'm so excited for my next gig! <3
