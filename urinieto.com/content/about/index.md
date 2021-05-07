@@ -6,7 +6,7 @@ date: 2008-09-28T22:52:34+00:00
 menu: "about"
 
 ---
-Hola! I am Oriol Nieto (aka Uri Nieto), a Staff Scientist at [Pandora][1]. I also make music.
+Hola! I am Oriol (Uri) Nieto (he/him or they/them), a Senior Research Engineer at [Adobe Research][1]. I was a Staff Scientist at Pandora before that. I also make music.
 
 {{< img src="/wp-content/uploads/2008/09/uri.png" alt="" title="uri" width="240" height="350" class="" >}}
 
@@ -20,7 +20,7 @@ This blog is about technology, music, traveling, books, politics, geek stuff, an
 
 For more info about me, please refer to [my formal CV][13].
 
- [1]: http://pandora.com
+ [1]: https://research.adobe.com/
  [2]: http://sargonmetal.com/en/
  [3]: https://ccrma.stanford.edu/~urinieto/MARL/publications.php
  [4]: https://ccrma.stanford.edu/~urinieto/256/growlhero/
