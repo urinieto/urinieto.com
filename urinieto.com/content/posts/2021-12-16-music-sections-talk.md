@@ -15,7 +15,7 @@ categories:
 
 ---
 
-Last month I was invited to give a talk at [MagniMind Academy](https://magnimindacademy.com/).
+Last month, I was invited to give a talk at [MagniMind Academy](https://magnimindacademy.com/).
 I took that chance to go over the Music Information Retrieval problem of Music Segmentation from a high level (similar to the paper we published at [TISMIR last year](https://transactions.ismir.net/articles/10.5334/tismir.54/)), and then focus on our latest work published at [ISMIR just last month](https://archives.ismir.net/ismir2021/paper/000074.pdf).
 
 Here you have the video of the talk, unabridged:
