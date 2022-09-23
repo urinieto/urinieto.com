@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2008/02/venus-y-jpiter.html
 thumbnail:
-  src: "http://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s320/Venus-Jupiter.png"
+  src: "https://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s320/Venus-Jupiter.png"
   alt: Thumbnail image
 categories:
   - astronomy
@@ -24,7 +24,7 @@ Hoy he querido ver cómo me daba los buenos días con su diosa del amor, la bell
 
 Cuando he mirado por la ventana me he acordado de que el piso de Barcelona no tiene cielo. Así que me he contentado en verlo en el [Stellarium,][1] mientras odiaba los edificios grises de las ciudades grises e invitaba a un fantasma a ver el universo conmigo.
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s320/Venus-Jupiter.png" border="0" >}}][2]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s320/Venus-Jupiter.png" border="0" >}}][2]
 
- [1]: http://www.stellarium.org/
- [2]: http://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s1600-h/Venus-Jupiter.png
+ [1]: https://www.stellarium.org/
+ [2]: https://bp0.blogger.com/_WEHvyZj_jiU/R6MBHxFoIFI/AAAAAAAABFA/WXqVHe62bzE/s1600-h/Venus-Jupiter.png

@@ -191,7 +191,7 @@ You will need to do some additional setup in order to get the plugin working. As
 
 `curl /drop/.ycm_extra_conf.py > ~/.vim/bundle/YouCompleteMe/.ycm_extra_conf.py`
 
-Finally, the last plugin to install is the [C Plugin][8], which will help us when navigating through C/C++ files, debugging, etc. This plugin does not support Pathogen installation, so we will have to do it manually. Go to the official plugin page: <http://www.vim.org/scripts/script.php?script_id=213> and download the latest `cvim.zip`. Copy the zip file to your `~/.vim/` folder and type:
+Finally, the last plugin to install is the [C Plugin][8], which will help us when navigating through C/C++ files, debugging, etc. This plugin does not support Pathogen installation, so we will have to do it manually. Go to the official plugin page: <https://www.vim.org/scripts/script.php?script_id=213> and download the latest `cvim.zip`. Copy the zip file to your `~/.vim/` folder and type:
 
 `unzip cvim.zip`
 
@@ -225,11 +225,11 @@ If you&#8217;ve done everything correctly, you will be able to create a new .c f
 
 Please, let me know if you have any questions. I hope you enjoy your new IDE!
 
- [1]: http://mrozekma.com/editor-learning-curve.png
+ [1]: https://mrozekma.com/editor-learning-curve.png
  [2]: https://github.com/b4winckler/macvim/releases
- [3]: http://www.vim.org/scripts/script.php?script_id=2332
+ [3]: https://www.vim.org/scripts/script.php?script_id=2332
  [4]: https://github.com/scrooloose/syntastic
  [5]: https://github.com/fholgado/minibufexpl.vim
  [6]: https://github.com/Valloric/YouCompleteMe
  [7]: /drop/.ycm_extra_conf.py
- [8]: http://www.vim.org/scripts/script.php?script_id=213
+ [8]: https://www.vim.org/scripts/script.php?script_id=213

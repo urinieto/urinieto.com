@@ -25,8 +25,8 @@ Y hoy he visto esta nueva idea, El Padre Suicida, y me ha parecido tan buena que
 
 {{< youtube DaEfqH-rWLc >}}</iframe>
 
- [1]: http://jordigraupera.cat/
- [2]: http://miguelnoguera.blogspot.com/
- [3]: http://www.ultraviolencia.com/
- [4]: http://www.teatreneu.com/espectacles_detall.php?id=235
+ [1]: https://jordigraupera.cat/
+ [2]: https://miguelnoguera.blogspot.com/
+ [3]: https://www.ultraviolencia.com/
+ [4]: https://www.teatreneu.com/espectacles_detall.php?id=235
  [5]: /wp-content/uploads/2011/12/ultraviolencia.jpg

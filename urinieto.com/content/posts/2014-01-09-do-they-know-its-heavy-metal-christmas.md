@@ -11,6 +11,6 @@ categories:
   - vídeos
 
 ---
-A few months ago, Andy Feehan asked me and 18 other musicians to play some parts of the old pop band aid <a href="http://www.youtube.com/watch?v=bjQzJAKxTrE" target="_blank">song</a> from 1984. But he wanted more glam, more _epicness_, more **metal**. He took all our parts and put them all together in a fantastic video that you should all watch because it will make you happy and it will make the children of Africa aware of Christmas and Jesus Christ, which will ultimately cure HIV and cancer and poverty and Goldman Sachs.
+A few months ago, Andy Feehan asked me and 18 other musicians to play some parts of the old pop band aid <a href="https://www.youtube.com/watch?v=bjQzJAKxTrE" target="_blank">song</a> from 1984. But he wanted more glam, more _epicness_, more **metal**. He took all our parts and put them all together in a fantastic video that you should all watch because it will make you happy and it will make the children of Africa aware of Christmas and Jesus Christ, which will ultimately cure HIV and cancer and poverty and Goldman Sachs.
 
 {{< youtube tTHEwAygE2Y >}}</iframe>

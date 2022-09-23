@@ -14,5 +14,5 @@ This semester I took a great course at [Steinhard School][1] ([NYU][2]) called _
 
 Here you have some excerpts of the music I made. Enjoy!
 
- [1]: http://steinhardt.nyu.edu/
- [2]: http://www.nyu.edu/
+ [1]: https://steinhardt.nyu.edu/
+ [2]: https://www.nyu.edu/

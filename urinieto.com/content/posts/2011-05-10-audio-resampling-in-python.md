@@ -30,9 +30,9 @@ Oh, and just to let you know: Python is the next and much better version of Matl
 Alright.
 
  [1]: /wp-content/uploads/2011/05/resample.zip
- [2]: http://en.wikipedia.org/wiki/Kaiser_window
- [3]: http://en.wikipedia.org/wiki/Rectangular_window
- [4]: http://en.wikipedia.org/wiki/Aliasing
+ [2]: https://en.wikipedia.org/wiki/Kaiser_window
+ [3]: https://en.wikipedia.org/wiki/Rectangular_window
+ [4]: https://en.wikipedia.org/wiki/Aliasing
  [5]: /wp-content/uploads/2011/05/KaiserIR.png
  [6]: https://ccrma.stanford.edu/~jos/resample/Theory_Practice.html
- [7]: http://www.amazon.com/Multirate-Systems-Filter-Banks-Vaidyanathan/dp/0136057187
+ [7]: https://www.amazon.com/Multirate-Systems-Filter-Banks-Vaidyanathan/dp/0136057187

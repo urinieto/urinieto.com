@@ -16,6 +16,6 @@ Last project for the iPhone I&#8217;ve been working on is called **The VoxCarina
 
 {{< img alt="" src="https://ccrma.stanford.edu/~urinieto/256b/hw3/screenshot2.png" title="VoxCarina" class="aligncenter" width="320" height="480" >}}
 
- [1]: http://en.wikipedia.org/wiki/Talkbox
- [2]: http://ocarina.smule.com
+ [1]: https://en.wikipedia.org/wiki/Talkbox
+ [2]: https://ocarina.smule.com
  [3]: https://ccrma.stanford.edu/~urinieto/256b/hw3/

@@ -23,4 +23,4 @@ Además, antes hacía coincidir el nombre del tiddler con el nombre de la wiki. 
 
 Así que en esto estoy trabajando ahora mismo. Espero poder aprovechar el grande y bienvenido acueducto para terminar todo el tema de la sincronización.
 
- [1]: http://en.wikipedia.org/wiki/Ajax_%28mythology%29
+ [1]: https://en.wikipedia.org/wiki/Ajax_%28mythology%29

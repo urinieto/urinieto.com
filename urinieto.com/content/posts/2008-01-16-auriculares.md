@@ -22,4 +22,4 @@ Supongo que si fuera música que me gusta no me molestaría tanto. Pero es que s
 
 Link al artículo original [aquí][1]
 
- [1]: http://www.20minutos.es/carta/333139/0/Alachavaleriaquehaceunosmeseshadescubiertoelplacerdecompartirlamusicaconsuscompanerosdeviajedeltransportepublico%2Cquierohablarlesdeuninventorevolucionario%3Asellamaauricularesyconsisteenunca
+ [1]: https://www.20minutos.es/carta/333139/0/Alachavaleriaquehaceunosmeseshadescubiertoelplacerdecompartirlamusicaconsuscompanerosdeviajedeltransportepublico%2Cquierohablarlesdeuninventorevolucionario%3Asellamaauricularesyconsisteenunca

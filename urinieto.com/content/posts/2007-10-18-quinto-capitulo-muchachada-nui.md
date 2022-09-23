@@ -16,7 +16,7 @@ categories:
 ¿Quinto ya? Madre mía, estas cinco semanas han pasado demasiado deprisa. Todo va demasiado deprisa. Pero Muchachada Nui sigue aquí. Y [ed115][1] los sigue colgando todos. Enjuto Mojamuto por la vena.
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=3ICweWd-YeQ&rel=1&#8243;>
+[youtube=https://www.youtube.com/watch?v=3ICweWd-YeQ&rel=1&#8243;>
 
 Parte 2:
 
@@ -24,4 +24,4 @@ Parte 3:
 
 Parte 4:
 
- [1]: http://es.youtube.com/user/ed1115
+ [1]: https://es.youtube.com/user/ed1115

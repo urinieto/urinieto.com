@@ -9,14 +9,14 @@ blogger_blog:
 blogger_permalink:
   - /2006/12/ampliacin-del-campo-de-batalla.html
 thumbnail:
-  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s320/8433966901.jpg"
+  src: "https://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s320/8433966901.jpg"
   alt: Thumbnail image
 categories:
   - books
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s320/8433966901.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s320/8433966901.jpg" border="0" >}}][1]
 
 Tremendo. Leedlo ya.
 
- [1]: http://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s1600-h/8433966901.jpg
+ [1]: https://bp2.blogger.com/_WEHvyZj_jiU/RZARuqEOFuI/AAAAAAAAAAw/YxGLmQmmbno/s1600-h/8433966901.jpg

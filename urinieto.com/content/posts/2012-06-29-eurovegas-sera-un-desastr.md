@@ -37,13 +37,13 @@ En resumen, **si la ciudad de Las Vegas desapareciera de los EEUU, la economía 
 
 Me niego a que Madrid o Barcelona se conviertan en Las Vegas de Europa. Me niego rotundamente. Ya me está dando asco ver cosas como [esta][8], [esta][9], o [esta][10]. Estas dos ciudades, preciosas las dos, y a las que amo con locura, se merecen algo muchísimo mejor que esto. No me vale que el único argumento a favor de Eurovegas sea la creación de varios miles de puestos de trabajo. No, no, y no. Esto no justifica la creación de una ciudad del vício a nivel Europeo ideada por unos magnates americanos. Políticos de Madrid y Barcelona, por favor, dejen de chuparle la polla a Sheldon. Dejen de babear por esta mierda de idea. Pues, si Madrid o Barcelona se convierten en Las Vegas europea, seréis vosotros los verdaderos responsables de haber jodido completamente una de las ciudades más bellas del mundo y dar todavía más razones a sus habitantes para que se vaya de allí cuanto antes.
 
- [1]: http://www.elperiodico.com/es/noticias/opinion/resacon-eurovegas-pelicula-1992381
+ [1]: https://www.elperiodico.com/es/noticias/opinion/resacon-eurovegas-pelicula-1992381
  [2]: /wp-content/uploads/2012/06/vegas8989-copy1.jpg
- [3]: http://es.wikipedia.org/wiki/R%C3%ADo_Colorado
- [4]: http://www.havasupai-nsn.gov/
- [5]: http://www.smithsonianmag.com/science-nature/The-Colorado-River-Runs-Dry.html
- [6]: http://en.wikipedia.org/wiki/Prostitution_in_Nevada
- [7]: http://www.lasvegassun.com/news/2005/jan/28/unlv-tries-to-deal-with-low-graduation-rates/
- [8]: http://www.20minutos.es/noticia/1522779/0/aguirre/eurovegas/fumar/
- [9]: http://ccaa.elpais.com/ccaa/2012/02/21/catalunya/1329859776_018269.html
- [10]: http://euro-vegas.cat/
+ [3]: https://es.wikipedia.org/wiki/R%C3%ADo_Colorado
+ [4]: https://www.havasupai-nsn.gov/
+ [5]: https://www.smithsonianmag.com/science-nature/The-Colorado-River-Runs-Dry.html
+ [6]: https://en.wikipedia.org/wiki/Prostitution_in_Nevada
+ [7]: https://www.lasvegassun.com/news/2005/jan/28/unlv-tries-to-deal-with-low-graduation-rates/
+ [8]: https://www.20minutos.es/noticia/1522779/0/aguirre/eurovegas/fumar/
+ [9]: https://ccaa.elpais.com/ccaa/2012/02/21/catalunya/1329859776_018269.html
+ [10]: https://euro-vegas.cat/

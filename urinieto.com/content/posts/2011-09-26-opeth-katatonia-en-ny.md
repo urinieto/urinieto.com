@@ -19,6 +19,6 @@ Me gustó tanto que escribí una crónica algo _nogueriana_ del concierto para [
 
 Madre mía, pero qué grandes, los dos grupos. No os perdáis el Heritage, que es increíble. Por supuesto, **Steven Wilson** lo ha producido. Lo cual confirma mi teoría de que cada cosa que toca este tío la convierte en una obra maestra. Jodidamente bueno.
 
- [1]: http://www.ovellanegrarock.com/
- [2]: http://www.ovellanegrarock.com/index.php?option=com_content&view=article&id=959:cronica-opeth-katatonia-en-nueva-york&catid=38:cronicas&Itemid=165
- [3]: http://twitter.com/#!/ritxinaval
+ [1]: https://www.ovellanegrarock.com/
+ [2]: https://www.ovellanegrarock.com/index.php?option=com_content&view=article&id=959:cronica-opeth-katatonia-en-nueva-york&catid=38:cronicas&Itemid=165
+ [3]: https://twitter.com/#!/ritxinaval

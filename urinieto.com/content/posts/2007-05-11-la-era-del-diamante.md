@@ -9,14 +9,14 @@ blogger_blog:
 blogger_permalink:
   - /2007/05/la-era-del-diamante.html
 thumbnail:
-  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s320/diamondage.jpg"
+  src: "https://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s320/diamondage.jpg"
   alt: Thumbnail image
 categories:
   - books
   - neal stephenson
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s320/diamondage.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s320/diamondage.jpg" border="0" >}}][1]
 
 Vuelvo con un Stephenson. Este libro me lo leí hace unos cinco años, después de que el gran Neal me cautivase con su obra maestra, el Criptonomicón. Y la verdad es que por entonces, cuando me leí La Era del Diamante: Manual Ilustrado para Jovencitas, la obra anterior a el Criptonomicón, no lo acabé de entender bien del todo. Recordaba escenas geniales, sobre todo la del Castillo de Turing, ya que por entonces ya había empezado a estudiar cosas parecidas en la carrera. Pero el concepto es el concepto. Y no lo entendí.
 
@@ -30,4 +30,4 @@ Y qué bueno es el cabrón. Vaya futuro nos presenta. Un futuro nanotecnológico
 
 Recomendable sólo a mentes demasiado frikis, enfermas y con tiempo libre. O a gente que coja la RENFE cada día.
 
- [1]: http://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s1600-h/diamondage.jpg
+ [1]: https://bp0.blogger.com/_WEHvyZj_jiU/RkRA3JYy3hI/AAAAAAAAA4A/Vg6_8KOv1rA/s1600-h/diamondage.jpg

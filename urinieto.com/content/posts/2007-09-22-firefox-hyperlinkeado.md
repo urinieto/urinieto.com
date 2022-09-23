@@ -15,6 +15,6 @@ categories:
 ---
 Enhorabuena usuarios de Firefox, pues con [este nuevo pluggin][1], llamado <span style="font-weight:bold;">Hyperlink</span>, vais a experimentar una nueva forma de ver la enmarañada red. Ved el vídeo e instaladlo ya.
 
-[youtube=http://www.youtube.com/watch?v=Ao8tWn8Gqis]
+[youtube=https://www.youtube.com/watch?v=Ao8tWn8Gqis]
 
- [1]: http://hyperwords.net/
+ [1]: https://hyperwords.net/

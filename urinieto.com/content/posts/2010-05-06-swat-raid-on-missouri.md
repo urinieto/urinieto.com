@@ -27,4 +27,4 @@ This is a really strange country where I live in.
 
 More info here: [Video of SWAT Raid on Missouri Family][1]
 
- [1]: http://reason.com/blog/2010/05/05/video-of-swat-raid-on-missouri
+ [1]: https://reason.com/blog/2010/05/05/video-of-swat-raid-on-missouri

@@ -9,15 +9,15 @@ blogger_blog:
 blogger_permalink:
   - /2007/07/stop-censura.html
 thumbnail:
-  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg"
+  src: "https://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg"
   alt: Thumbnail image
 categories:
   - censorship
   - politics
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s320/ElJueves.jpg" border="0" >}}][1]
 
 Esta portada ha sido secuestrada. Pásala.
 
- [1]: http://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s1600-h/ElJueves.jpg
+ [1]: https://bp2.blogger.com/_WEHvyZj_jiU/RqEpJCxL8hI/AAAAAAAAA8I/BGd36ydYNgg/s1600-h/ElJueves.jpg

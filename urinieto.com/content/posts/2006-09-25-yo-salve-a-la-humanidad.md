@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/09/yo-salv-la-humanidad.html
 thumbnail:
-  src: "http://photos1.blogger.com/blogger2/4197/4184/320/salvarlahumanidad.png"
+  src: "https://photos1.blogger.com/blogger2/4197/4184/320/salvarlahumanidad.png"
   alt: Thumbnail image
 categories:
   - books
@@ -18,7 +18,7 @@ categories:
 ---
 Hacía ya un tiempo que rondaba en mi cola de lectura. Y es que un libro para niños siempre entra bien. Como las películas de Pixar.
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/salvarlahumanidad.png" border="0" alt="" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger2/4197/4184/320/salvarlahumanidad.png" border="0" alt="" >}}][1]
 
 Sí, Pratchett otra vez. Lo admito, me encanta cómo escribe éste hombre. Así que no voy a decir nada malo de él, y ésto va a ser un post totalmente subjetivo. Vaya. Creo que dentro de &#8220;post&#8221; se encuentra la palabra &#8220;subjetivo&#8221;. Vaya. Cuánta redundancia. Vaya.
 
@@ -32,4 +32,4 @@ Gran Pratchett que, dirigiéndose a un público diferente, no sólo se las sabe 
 
 Y qué cosas el destino (o lo que sea que haya por allá arriba -o abajo-), que me he acabado éste libro precisamente el día en que cumple años la persona que me lo regaló. Gracias. Y por muchos más.
 
- [1]: http://photos1.blogger.com/blogger2/4197/4184/1600/salvarlahumanidad.png
+ [1]: https://photos1.blogger.com/blogger2/4197/4184/1600/salvarlahumanidad.png

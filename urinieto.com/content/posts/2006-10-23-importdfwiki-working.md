@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/10/funciona.html
 thumbnail:
-  src: "http://photos1.blogger.com/blogger2/4197/4184/320/tiddlyplugin.jpg"
+  src: "https://photos1.blogger.com/blogger2/4197/4184/320/tiddlyplugin.jpg"
   alt: Thumbnail image
 categories:
   - importdfwiki
@@ -21,7 +21,7 @@ Parece que sí. Lo hemos conseguido. Hemos hecho un pluggin para tiddlywiki que 
 
 Y como me gustan tanto los pantallazos, aquí tenéis:
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/tiddlyplugin.jpg" border="0" alt="" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger2/4197/4184/320/tiddlyplugin.jpg" border="0" alt="" >}}][1]
 
 Fué el sábado, cuando vino Alex a casa, cuando conseguimos entender a grandes rasgos el código del plugin ImportTiddlers de tiddlywiki y modificarlo para importar nuestras queridas wikis.
 
@@ -35,4 +35,4 @@ TODO:
 
 Bona feina!
 
- [1]: http://photos1.blogger.com/blogger2/4197/4184/1600/tiddlyplugin.jpg
+ [1]: https://photos1.blogger.com/blogger2/4197/4184/1600/tiddlyplugin.jpg

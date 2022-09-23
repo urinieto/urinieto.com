@@ -21,4 +21,4 @@ El webserbvice y el javascript están listos. Ahora sólo queda el párser de D�
 Una vez lo modifique, la release del Export Plugin para tiddlywiki será un hecho.  
 ¡Bien!
 
- [1]: http://vdemarvvv.blogspot.com/
+ [1]: https://vdemarvvv.blogspot.com/

@@ -16,4 +16,4 @@ categories:
 ---
 Yo no soy baterista, pero siempre me ha gustado dar golpes a las cosas con cierto ritmo (o sin él). Esto es lo más animal que he visto en cuanto a bateristas se refiere. Un griego infame de la universidad me habló de este Suizo freak de las baquetas. Esto destroza cualquier ley física impuesta por Dios o la naturaleza o antiguos bateristas. El doble bombo no se puede tocar con un solo pié. Impresionante.
 
-[youtube=http://www.youtube.com/watch?v=6CTK5aAf8d4&#8243;>
+[youtube=https://www.youtube.com/watch?v=6CTK5aAf8d4&#8243;>

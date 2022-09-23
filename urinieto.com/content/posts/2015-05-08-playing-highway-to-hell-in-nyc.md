@@ -21,4 +21,4 @@ I decided to play this little cover at the end of my show. Hope you enjoy titans
 
 ALRIGHTO.
 
- [1]: http://www.thenewraemon.com/
+ [1]: https://www.thenewraemon.com/

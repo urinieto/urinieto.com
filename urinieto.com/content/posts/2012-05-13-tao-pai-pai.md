@@ -15,4 +15,4 @@ Albert Comerma and Micky Vega, both ex-Sargon, started this new musical project 
 
 {{< youtube 3sgc8M21JWI >}}</iframe>
 
- [1]: http://www.myspace.com/taopaipairock
+ [1]: https://www.myspace.com/taopaipairock

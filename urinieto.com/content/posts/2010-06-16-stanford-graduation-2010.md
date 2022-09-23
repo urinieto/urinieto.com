@@ -23,4 +23,4 @@ I aquí tota una sèrie de fotos d&#8217;aquest dia tan llarg i interessant:
 
 PS: Sí, feia tanta calor que em vaig treure els pantalons, honrant la memòria de William Wallace.
 
- [1]: http://en.wikipedia.org/wiki/Susan_Rice
+ [1]: https://en.wikipedia.org/wiki/Susan_Rice

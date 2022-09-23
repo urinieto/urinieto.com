@@ -9,13 +9,13 @@ blogger_blog:
 blogger_permalink:
   - /2007/05/difficult-life-choices.html
 thumbnail:
-  src: "http://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s320/difficult-life-choices.gif"
+  src: "https://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s320/difficult-life-choices.gif"
   alt: Thumbnail image
 categories:
   - decisions
   - ollas
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s320/difficult-life-choices.gif" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s320/difficult-life-choices.gif" border="0" >}}][1]
 
- [1]: http://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s1600-h/difficult-life-choices.gif
+ [1]: https://bp1.blogger.com/_WEHvyZj_jiU/RjjElZYy3gI/AAAAAAAAA30/6uzxaqtHQw8/s1600-h/difficult-life-choices.gif

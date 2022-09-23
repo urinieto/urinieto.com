@@ -88,4 +88,4 @@ Buah!
 El pròxim cop no penso donar resposta punky sense pensar a moment punky de correus aleatoris!  
 Pq vaya ostiaca de respuesta!
 
- [1]: http://www.elperiodico.com/es/noticias/politica/lagrimas-ministra-italiana-frente-aplausos-del-2059622
+ [1]: https://www.elperiodico.com/es/noticias/politica/lagrimas-ministra-italiana-frente-aplausos-del-2059622

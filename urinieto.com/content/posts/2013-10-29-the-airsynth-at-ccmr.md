@@ -26,10 +26,10 @@ I recently presented the **AirJam** at the [10th International Symposium on Comp
 
 Thanks for the feedback titans, and thanks to [Dr. Dennis Shasha][7] for all his invaluable help!
 
- [1]: http://www.cmmr2013.cnrs-mrs.fr/
+ [1]: https://www.cmmr2013.cnrs-mrs.fr/
  [2]: https://itunes.apple.com/us/app/airjam/id775830045?mt=8
  [3]: /wp-content/uploads/2013/10/IMG_4115.jpg
  [4]: /wp-content/uploads/2013/10/IMG_4074.jpg
  [5]: /wp-content/uploads/2013/10/IMG_4076.jpg
  [6]: /wp-content/uploads/2013/10/IMG_4064.jpg
- [7]: http://cs.nyu.edu/shasha/
+ [7]: https://cs.nyu.edu/shasha/

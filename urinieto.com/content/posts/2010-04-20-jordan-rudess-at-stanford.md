@@ -26,7 +26,7 @@ You can&#8217;t miss it!
 [{{< img src="/wp-content/uploads/2010/04/JordanRudess1-500x707.jpg" alt="SLOrkastic Jordan Rudess" title="SLOrkastic Jordan Rudess" width="500" height="707" class="aligncenter size-medium wp-image-845" >}}][5]
 
  [1]: https://ccrma.stanford.edu/courses/128/
- [2]: http://maps.google.com/maps?f=q&hl=en&q=660+Lomita+Dr,+Stanford,+CA&ie=UTF8&hq=&hnear=660+Lomita+Dr,+Stanford,+Santa+Clara,+California+94305&t=h&z=16
- [3]: http://www.facebook.com/event.php?eid=116941694998910
+ [2]: https://maps.google.com/maps?f=q&hl=en&q=660+Lomita+Dr,+Stanford,+CA&ie=UTF8&hq=&hnear=660+Lomita+Dr,+Stanford,+Santa+Clara,+California+94305&t=h&z=16
+ [3]: https://www.facebook.com/event.php?eid=116941694998910
  [4]: https://ccrma.stanford.edu/~urinieto/256b/ReactPad/
  [5]: /wp-content/uploads/2010/04/JordanRudess1.jpg

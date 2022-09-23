@@ -17,7 +17,7 @@ Perdón por el retraso, he estado de vacaciones.
 Qué mierda estar de vuelta. Menos mal que tenemos a los Nui para ayudarnos con el bajonazo.
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=3O5zfdL2gxE&hl=es] 
+[youtube=https://www.youtube.com/watch?v=3O5zfdL2gxE&hl=es] 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

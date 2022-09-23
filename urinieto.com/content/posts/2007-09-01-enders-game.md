@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2007/09/enders-game.html
 thumbnail:
-  src: "http://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif"
+  src: "https://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif"
   alt: Thumbnail image
 categories:
   - books
@@ -17,7 +17,7 @@ categories:
   - orson scott card
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s320/EnderAmerican.gif" border="0" >}}][1]
 
 Éste me lo regaló Ella. Hacía tiempo que lo buscaba en inglés y hacía tiempo que demasiada gente me lo recomendaba. También quería obtener otro punto en el [Frikitest][2], pues es mi primer <span style="font-style:italic;">Orson Scott Card</span>.
 
@@ -34,6 +34,6 @@ Como siempre en mis comentarios sobre libros, no voy a decir de qué va. Odio sa
 Leedlo.  
 I gràcies pel Regal.
 
- [1]: http://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s1600-h/EnderAmerican.gif
- [2]: http://club.telepolis.com/docz/frikitest.htm
- [3]: http://orangoodling.blogspot.com/
+ [1]: https://bp2.blogger.com/_WEHvyZj_jiU/RtmMFlcFtKI/AAAAAAAAA-Y/YC4zVMrF5ls/s1600-h/EnderAmerican.gif
+ [2]: https://club.telepolis.com/docz/frikitest.htm
+ [3]: https://orangoodling.blogspot.com/

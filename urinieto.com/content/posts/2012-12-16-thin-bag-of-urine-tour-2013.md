@@ -46,7 +46,7 @@ Aquí teniu els cartells. Us hi esperem titans! És **Gratis**!
     <span class="gigpress-related-label">City:</span> <span class="gigpress-related-item">Barcelona , Barcelona </span>
   </li>
   <li>
-    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="http://maps.google.com/maps?&q=Torrent+De+Les+Flors+43,Barcelona,Barcelona,08024,ES" class="gigpress-address">Torrent De Les Flors 43</a></span>
+    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="https://maps.google.com/maps?&q=Torrent+De+Les+Flors+43,Barcelona,Barcelona,08024,ES" class="gigpress-address">Torrent De Les Flors 43</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">Country:</span> <span class="gigpress-related-item">Spain</span>
@@ -55,7 +55,7 @@ Aquí teniu els cartells. Us hi esperem titans! És **Gratis**!
     <span class="gigpress-related-label">Age restrictions:</span> <span class="gigpress-related-item">All Ages</span>
   </li>
   <li>
-    <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+Speed+Bar&dates=20130112T033000Z/20130112T033000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=Speed+Bar%2C+Torrent+De+Les+Flors+43%2C+Barcelona%2C+ES&details=Tour%3A+Thin+Bag+Of+Urine+M%C3%A0+En+Tarrina+Tour+2013.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=8">Download iCal</a>
+    <a href="https://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+Speed+Bar&dates=20130112T033000Z/20130112T033000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=Speed+Bar%2C+Torrent+De+Les+Flors+43%2C+Barcelona%2C+ES&details=Tour%3A+Thin+Bag+Of+Urine+M%C3%A0+En+Tarrina+Tour+2013.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=8">Download iCal</a>
   </li>
 </ul>
 
@@ -73,13 +73,13 @@ Aquí teniu els cartells. Us hi esperem titans! És **Gratis**!
     <span class="gigpress-related-label">Time:</span> <span class="gigpress-related-item">9:00pm</span>
   </li>
   <li>
-    <span class="gigpress-related-label">Venue:</span> <span class="gigpress-show-related"><a href="http://www.doblevia.coop/projectes/projecte.php?dv_id_projecte=33">La Troca</a></span>
+    <span class="gigpress-related-label">Venue:</span> <span class="gigpress-show-related"><a href="https://www.doblevia.coop/projectes/projecte.php?dv_id_projecte=33">La Troca</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">City:</span> <span class="gigpress-related-item">Granollers , Barcelona </span>
   </li>
   <li>
-    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="http://maps.google.com/maps?&q=Avinguda+Enric+Prat+De+La+Riba%2C+77,Granollers,Barcelona,08401,ES" class="gigpress-address">Avinguda Enric Prat De La Riba, 77</a></span>
+    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="https://maps.google.com/maps?&q=Avinguda+Enric+Prat+De+La+Riba%2C+77,Granollers,Barcelona,08401,ES" class="gigpress-address">Avinguda Enric Prat De La Riba, 77</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">Country:</span> <span class="gigpress-related-item">Spain</span>
@@ -88,7 +88,7 @@ Aquí teniu els cartells. Us hi esperem titans! És **Gratis**!
     <span class="gigpress-related-label">Age restrictions:</span> <span class="gigpress-related-item">All Ages</span>
   </li>
   <li>
-    <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+La+Troca&dates=20130113T020000Z/20130113T020000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=La+Troca%2C+Avinguda+Enric+Prat+De+La+Riba%2C+77%2C+Granollers%2C+ES&details=Tour%3A+Thin+Bag+Of+Urine+M%C3%A0+En+Tarrina+Tour+2013.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=9">Download iCal</a>
+    <a href="https://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+La+Troca&dates=20130113T020000Z/20130113T020000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=La+Troca%2C+Avinguda+Enric+Prat+De+La+Riba%2C+77%2C+Granollers%2C+ES&details=Tour%3A+Thin+Bag+Of+Urine+M%C3%A0+En+Tarrina+Tour+2013.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=9">Download iCal</a>
   </li>
 </ul>
 

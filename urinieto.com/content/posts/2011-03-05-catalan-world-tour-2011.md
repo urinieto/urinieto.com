@@ -47,7 +47,7 @@ Heu de venir per favor.
     <span class="gigpress-related-label">City:</span> <span class="gigpress-related-item">Barcelona </span>
   </li>
   <li>
-    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="http://maps.google.com/maps?&q=Travessera+de+Gr%C3%A0cia+276,Barcelona,ES" class="gigpress-address">Travessera de Gràcia 276</a></span>
+    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="https://maps.google.com/maps?&q=Travessera+de+Gr%C3%A0cia+276,Barcelona,ES" class="gigpress-address">Travessera de Gràcia 276</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">Country:</span> <span class="gigpress-related-item">Spain</span>
@@ -56,7 +56,7 @@ Heu de venir per favor.
     <span class="gigpress-related-label">Age restrictions:</span> <span class="gigpress-related-item">All Ages</span>
   </li>
   <li>
-    <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+Bar+Veider&dates=20110318T013000Z/20110318T013000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=Bar+Veider%2C+Travessera+de+Gr%C3%A0cia+276%2C+Barcelona%2C+ES&details=Tour%3A+World+Catalan+Tour+2011.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=1">Download iCal</a>
+    <a href="https://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+Bar+Veider&dates=20110318T013000Z/20110318T013000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=Bar+Veider%2C+Travessera+de+Gr%C3%A0cia+276%2C+Barcelona%2C+ES&details=Tour%3A+World+Catalan+Tour+2011.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=1">Download iCal</a>
   </li>
 </ul>
 
@@ -74,13 +74,13 @@ Heu de venir per favor.
     <span class="gigpress-related-label">Time:</span> <span class="gigpress-related-item">10:30pm</span>
   </li>
   <li>
-    <span class="gigpress-related-label">Venue:</span> <span class="gigpress-show-related"><a href="http://esquerda.bloc.cat/">L&#8217;Esquerda</a></span>
+    <span class="gigpress-related-label">Venue:</span> <span class="gigpress-show-related"><a href="https://esquerda.bloc.cat/">L&#8217;Esquerda</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">City:</span> <span class="gigpress-related-item">Granollers </span>
   </li>
   <li>
-    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="http://maps.google.com/maps?&q=Avinguda+Prat+de+la+Riba%2C+31,Granollers,ES" class="gigpress-address">Avinguda Prat de la Riba, 31</a></span>
+    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="https://maps.google.com/maps?&q=Avinguda+Prat+de+la+Riba%2C+31,Granollers,ES" class="gigpress-address">Avinguda Prat de la Riba, 31</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">Country:</span> <span class="gigpress-related-item">Spain</span>
@@ -89,9 +89,9 @@ Heu de venir per favor.
     <span class="gigpress-related-label">Age restrictions:</span> <span class="gigpress-related-item">All Ages</span>
   </li>
   <li>
-    <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+L%27Esquerda&dates=20110320T023000Z/20110320T023000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=L%27Esquerda%2C+Avinguda+Prat+de+la+Riba%2C+31%2C+Granollers%2C+ES&details=Tour%3A+World+Catalan+Tour+2011.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=2">Download iCal</a>
+    <a href="https://www.google.com/calendar/event?action=TEMPLATE&text=Uri+Nieto+at+L%27Esquerda&dates=20110320T023000Z/20110320T023000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Uri+Nieto&location=L%27Esquerda%2C+Avinguda+Prat+de+la+Riba%2C+31%2C+Granollers%2C+ES&details=Tour%3A+World+Catalan+Tour+2011.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=2">Download iCal</a>
   </li>
 </ul>
 
- [1]: http://maps.google.com/maps?q=Travessera+de+Gr%C3%A0cia+276&ie=UTF8&hq=&hnear=Travessera+de+Gr%C3%A0cia,+276,+08025+Barcelona,+Catalunya,+Spain&t=h&z=16
- [2]: http://maps.google.com/maps?q=Avinguda+d%27Enric+Prat+de+la+Riba,+31,+08401+Granollers,+Barcelona,+Catalunya,+Spain&ie=UTF8&hl=en&geocode=FYzPegIdkuIiAA&split=0&sll=37.0625,-95.677068&sspn=23.875,57.630033&hq=&hnear=Avinguda+d%27Enric+Prat+de+la+Riba,+31,+08401+Granollers,+Barcelona,+Catalunya,+Spain&t=h&z=16
+ [1]: https://maps.google.com/maps?q=Travessera+de+Gr%C3%A0cia+276&ie=UTF8&hq=&hnear=Travessera+de+Gr%C3%A0cia,+276,+08025+Barcelona,+Catalunya,+Spain&t=h&z=16
+ [2]: https://maps.google.com/maps?q=Avinguda+d%27Enric+Prat+de+la+Riba,+31,+08401+Granollers,+Barcelona,+Catalunya,+Spain&ie=UTF8&hl=en&geocode=FYzPegIdkuIiAA&split=0&sll=37.0625,-95.677068&sspn=23.875,57.630033&hq=&hnear=Avinguda+d%27Enric+Prat+de+la+Riba,+31,+08401+Granollers,+Barcelona,+Catalunya,+Spain&t=h&z=16

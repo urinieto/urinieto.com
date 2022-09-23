@@ -15,7 +15,7 @@ categories:
 Hola.  
 Necesito ayuda para evaluar los resultados de mi tesis. Podéis realizar un test aquí:  
 [  
-http://sargonmetal.com/uri/thesis/evaluation.php][1]
+https://sargonmetal.com/uri/thesis/evaluation.php][1]
 
 Muchas gracias! 
 
@@ -23,4 +23,4 @@ Muchas gracias!
   {{< img width='1' height='1' >}}
 </div>
 
- [1]: http://sargonmetal.com/uri/thesis/evaluation.php
+ [1]: https://sargonmetal.com/uri/thesis/evaluation.php

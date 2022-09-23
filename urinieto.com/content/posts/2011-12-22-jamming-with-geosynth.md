@@ -23,5 +23,5 @@ I&#8217;ve been playing with it for a while, and here is a little improvisation 
 Highly recommended. I will for sure use it in my little tour in Catalonia this January.  
 Alright!
 
- [1]: http://itunes.apple.com/us/app/geo-synthesizer/id465224352?mt=8
+ [1]: https://itunes.apple.com/us/app/geo-synthesizer/id465224352?mt=8
  [2]: /wp-content/uploads/2011/12/mzl.ocrlcdzm.480x480-75.jpg

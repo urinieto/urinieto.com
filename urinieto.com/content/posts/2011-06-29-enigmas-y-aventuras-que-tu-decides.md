@@ -41,9 +41,9 @@ Yo los tenía todos, pero los tiramos (o los donamos?) cuando me hice mayor. Qu�
 
 ¿Algún otro fan de Burston por aquí?
 
- [1]: http://en.wikipedia.org/wiki/Coney_Island#Amusement_parks
+ [1]: https://en.wikipedia.org/wiki/Coney_Island#Amusement_parks
  [2]: /wp-content/uploads/2011/06/feriaDelMal.jpg
  [3]: /wp-content/uploads/2011/06/9782700041026.jpg
- [4]: http://en.wikipedia.org/wiki/Iron_maiden_(torture)
- [5]: http://www.gamebooks.org/show_person.php?id=1572
+ [4]: https://en.wikipedia.org/wiki/Iron_maiden_(torture)
+ [5]: https://www.gamebooks.org/show_person.php?id=1572
  [6]: /wp-content/uploads/2011/06/planetaDelTerror.jpg

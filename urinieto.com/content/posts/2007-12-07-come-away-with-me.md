@@ -13,6 +13,6 @@ categories:
   - ollas
 
 ---
-[youtube=http://www.youtube.com/watch?v=aBKcKQHZXks&rel=1]
+[youtube=https://www.youtube.com/watch?v=aBKcKQHZXks&rel=1]
 
 > And we&#8217;ll kiss on a mountain top&#8230;

@@ -25,6 +25,6 @@ De momento no hay mucha gente, las clases no empiezan hasta la semana que viene 
 
 Voy a seguir haciendo papeles burocráticos. Esto es infinito.
 
- [1]: http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=115441805731276157394.00047378d7b20fef2f524&ll=37.427979,-122.165051&spn=0.039192,0.057592&t=h&z=14
+ [1]: https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=115441805731276157394.00047378d7b20fef2f524&ll=37.427979,-122.165051&spn=0.039192,0.057592&t=h&z=14
  [2]: /wp-content/uploads/2009/09/img_2669.jpg
  [3]: /wp-content/uploads/2009/09/img_2674.jpg

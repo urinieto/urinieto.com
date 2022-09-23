@@ -23,4 +23,4 @@ Mientrastanto, Álex ya ha consultado a Pigui cómo extraer la info de una wiki 
 
 A disfrutar. ¡Y buen trabajo!
 
- [1]: http://www.lsi.upc.edu/~malier/tidlywikimoodledfwikimport.html
+ [1]: https://www.lsi.upc.edu/~malier/tidlywikimoodledfwikimport.html

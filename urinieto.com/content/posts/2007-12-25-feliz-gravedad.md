@@ -16,5 +16,5 @@ Hoy, hace 365 años, nació el que probablemente sea el científico, filósofo n
 
 Dicen que Jesucristo también nació hoy, pero me parece un hecho mucho menos relevante. Aunque su obra también [puteó][2] al mundo.
 
- [1]: http://es.wikipedia.org/wiki/Isaac_Newton
- [2]: http://es.wikipedia.org/wiki/Inquisici%C3%B3n
+ [1]: https://es.wikipedia.org/wiki/Isaac_Newton
+ [2]: https://es.wikipedia.org/wiki/Inquisici%C3%B3n

@@ -21,7 +21,7 @@ Then my friends told me why this was such a _secret_ event: This talk was organi
 
 [{{< img src="/wp-content/uploads/2009/10/chomskyevent1-500x666.jpg" alt="chomskyevent1" title="chomskyevent1" width="500" height="666" class="aligncenter size-medium wp-image-603" >}}][4]
 
-Some Professors and Graduate Students gave short speeches before Chomsky&#8217;s turn. Eighty years old, raspy voice, but with an amazing presence up there in the (small) stage. He gave a 10minute speech and I enjoyed every piece of it. This guy is a genius. We owe him so much. Among other things he strongly criticized the Nüremberg Tribunals, and he subliminally suggested a way to end up with this economic crisis. Enjoy: (http://www.youtube.com/watch?v=PjOStiS0jRg)
+Some Professors and Graduate Students gave short speeches before Chomsky&#8217;s turn. Eighty years old, raspy voice, but with an amazing presence up there in the (small) stage. He gave a 10minute speech and I enjoyed every piece of it. This guy is a genius. We owe him so much. Among other things he strongly criticized the Nüremberg Tribunals, and he subliminally suggested a way to end up with this economic crisis. Enjoy: (https://www.youtube.com/watch?v=PjOStiS0jRg)
 
 
 
@@ -31,7 +31,7 @@ Thanks Chomsky for helping us out in this strange and curious world and species.
 Oh, and Condi, as fas as I know what you&#8217;ve been doing so far, I&#8217;d be really happy if you leave this campus asap&#8230;  
 Accountability now.
 
- [1]: http://en.wikipedia.org/wiki/Noam_Chomsky
- [2]: http://antiwar.stanford.edu
- [3]: http://fsi.stanford.edu/people/condoleezzarice/
+ [1]: https://en.wikipedia.org/wiki/Noam_Chomsky
+ [2]: https://antiwar.stanford.edu
+ [3]: https://fsi.stanford.edu/people/condoleezzarice/
  [4]: /wp-content/uploads/2009/10/chomskyevent1.jpg

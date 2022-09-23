@@ -22,8 +22,8 @@ After my presentation, Jordan asked me to join him and [Moldover][6] (a very int
 It was a great night, and I want to thank Jordan Rudess for inviting me, and also the guys at Pyramind for recording these videos. It was so ALRIGHT.
 
  [1]: /2010/05/jordan-rudess-wee/
- [2]: http://www.rolandus.com/products/productdetails.php?ProductId=1074
- [3]: http://pyramind.com/
+ [2]: https://www.rolandus.com/products/productdetails.php?ProductId=1074
+ [3]: https://pyramind.com/
  [4]: /2010/02/the-voxcarina/
  [5]: /2010/03/the-reactpad/
- [6]: http://moldover.com/
+ [6]: https://moldover.com/

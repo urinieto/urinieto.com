@@ -24,6 +24,6 @@ The worst part is that the fifth book is yet to be published ([July 12th they sa
 
 And by then the winter would have come, and go, and come back again, and shit, I might be dead by then.
 
- [1]: http://www.imdb.com/title/tt0944947/
- [2]: http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire
- [3]: http://en.wikipedia.org/wiki/A_Dance_with_Dragons
+ [1]: https://www.imdb.com/title/tt0944947/
+ [2]: https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire
+ [3]: https://en.wikipedia.org/wiki/A_Dance_with_Dragons

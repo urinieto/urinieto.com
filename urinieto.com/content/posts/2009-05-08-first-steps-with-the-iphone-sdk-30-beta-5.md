@@ -28,4 +28,4 @@ I don&#8217;t know why the option to choose between SDKs was hidden by default. 
 I&#8217;ll keep on working with this, at the moment I like this new Spotlight in my Simulator!  
 Enjoy titans!
 
- [1]: http://www.appleinsider.com/articles/09/05/07/apple_requires_iphone_os_3_0_support_for_all_new_mobile_apps.html
+ [1]: https://www.appleinsider.com/articles/09/05/07/apple_requires_iphone_os_3_0_support_for_all_new_mobile_apps.html

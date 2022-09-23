@@ -15,7 +15,7 @@ categories:
 ---
 Ya queda menos de una semana titanes!
 
-[youtube=http://www.youtube.com/watch?v=triu9lTGWJQ&hl=es] 
+[youtube=https://www.youtube.com/watch?v=triu9lTGWJQ&hl=es] 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

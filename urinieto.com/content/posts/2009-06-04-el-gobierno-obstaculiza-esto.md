@@ -16,6 +16,6 @@ El siguiente anuncio de Amnistía Internacional no puede mostrarse gratuitamente
 El vídeo me parece genial.  
 Más información en la web oficial de [Amnistía Internacional][2] y [aquí][3].
 
- [1]: http://www.youtube.com/watch?v=qAbHcv7IfHI&feature=player_embedded
- [2]: http://www.es.amnesty.org/nc/noticias/noticias/articulo/el-gobierno-obstaculiza-la-emision-del-spot-de-amnistia-internacional-el-poder-de-tu-voz-desde-hac/
- [3]: http://ibasque.com/el-poder-de-tu-voz-amnistia-internacional/
+ [1]: https://www.youtube.com/watch?v=qAbHcv7IfHI&feature=player_embedded
+ [2]: https://www.es.amnesty.org/nc/noticias/noticias/articulo/el-gobierno-obstaculiza-la-emision-del-spot-de-amnistia-internacional-el-poder-de-tu-voz-desde-hac/
+ [3]: https://ibasque.com/el-poder-de-tu-voz-amnistia-internacional/

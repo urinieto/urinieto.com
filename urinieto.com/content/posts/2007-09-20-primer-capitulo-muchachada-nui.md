@@ -16,7 +16,7 @@ categories:
 Grandiosos, están a la altura. Bono y las aventuras del joven Rappel, sin duda lo mejor del capítulo. ¡Larga vida al humor chanante!
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=ok4JDaH6FRc&#8221;>
+[youtube=https://www.youtube.com/watch?v=ok4JDaH6FRc&#8221;>
 
 Parte 2:
 

@@ -17,7 +17,7 @@ Primer capítulo de la segunda temporada. Dios. Me encantan los zombis.
 WEEEAPOOOONS. No me botan las tetas por que las tengo como zepelineeeeeers.
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=k1wcselc3E0&hl=es]
+[youtube=https://www.youtube.com/watch?v=k1wcselc3E0&hl=es]
 
 Voy finidísima.  
 Gracias ed1115, one more time. 

@@ -97,10 +97,10 @@ Beautiful isn&#8217;t it? : )
 
 And finally, for something -not that- completely different: Happy programming!
 
- [1]: http://python.org/download/releases/
- [2]: http://python.org/ftp/python/2.7.2/python-2.7.2-macosx10.6.dmg
- [3]: http://pypi.python.org/pypi/setuptools
- [4]: http://fonnesbeck.github.com/ScipySuperpack/
- [5]: http://code.google.com/p/macvim/
- [6]: http://www.vim.org/scripts/script.php?script_id=790
+ [1]: https://python.org/download/releases/
+ [2]: https://python.org/ftp/python/2.7.2/python-2.7.2-macosx10.6.dmg
+ [3]: https://pypi.python.org/pypi/setuptools
+ [4]: https://fonnesbeck.github.com/ScipySuperpack/
+ [5]: https://code.google.com/p/macvim/
+ [6]: https://www.vim.org/scripts/script.php?script_id=790
  [7]: /wp-content/uploads/2012/02/Python.png

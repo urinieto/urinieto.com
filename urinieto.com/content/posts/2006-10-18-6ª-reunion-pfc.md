@@ -37,5 +37,5 @@ Otros temas importantes de la reunión:
 
 Pues nada, ¡manos a la obra!
 
- [1]: http://www.tiddlywiki.com
- [2]: http://www.tiddlytools.com/#ImportTiddlersPlugin
+ [1]: https://www.tiddlywiki.com
+ [2]: https://www.tiddlytools.com/#ImportTiddlersPlugin

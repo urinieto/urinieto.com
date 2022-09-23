@@ -17,5 +17,5 @@ This is the [Jesus Venn Diagram][1] (or how Jesus relates to some other interest
 
 Flying Spaghetti Monster, I shall take this chance to salute Thee.
 
- [1]: http://lolgod.blogspot.com/2009/11/jesus-venn-diagram.html
+ [1]: https://lolgod.blogspot.com/2009/11/jesus-venn-diagram.html
  [2]: /wp-content/uploads/2009/11/venndiagramjesus.gif

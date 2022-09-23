@@ -5,7 +5,7 @@ type: post
 date: 2010-08-28T14:53:06+00:00
 url: /2010/08/california/
 thumbnail:
-  src: "http://farm5.static.flickr.com/4035/4513353030_805e605502.jpg"
+  src: "https://farm5.static.flickr.com/4035/4513353030_805e605502.jpg"
   alt: Thumbnail image
 categories:
   - california
@@ -14,7 +14,7 @@ categories:
 Después de vivir en la bahía de San Francisco durante los últimos 11 meses, y de recorrerme buena parte del estado de California en coche, ya me siento capaz de enumerar las diferencias que más me han llamado la atención entre El Estado Dorado y mi país (por &#8220;país&#8221;, se entiende o bien Cataluña o bien España, que cada cuál elija el que más placer le dé y así todos quedamos contentos y nos olvidamos de tanta tontería política por unos momentos de agradable lectura de una entrada de un blog maravilloso).
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="DSC00771" href="http://www.flickr.com/photos/enochrooted/4513353030/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4035/4513353030_805e605502.jpg" alt="DSC00771" >}}</a>
+  <a class="flickr-image aligncenter" title="DSC00771" href="https://www.flickr.com/photos/enochrooted/4513353030/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4035/4513353030_805e605502.jpg" alt="DSC00771" >}}</a>
 </p>
 
 Diferencias entre California y mi país, sin ningún orden aparente:
@@ -71,7 +71,7 @@ Diferencias entre California y mi país, sin ningún orden aparente:
 
 Hasta aquí las diferencias. Gracias a Diana por ayudarme a recopilar esta lista. Y si alguien que haya estado por allí quiere añadir alguna otra diferencia, estaré encantado de editar el post.
 
- [1]: http://www.hesterinc.com/images/california_flag_lg.gif
- [2]: http://es.wikipedia.org/wiki/Yosemite
- [3]: http://www.stonebrew.com/
- [4]: http://www.russianriverbrewing.com/
+ [1]: https://www.hesterinc.com/images/california_flag_lg.gif
+ [2]: https://es.wikipedia.org/wiki/Yosemite
+ [3]: https://www.stonebrew.com/
+ [4]: https://www.russianriverbrewing.com/

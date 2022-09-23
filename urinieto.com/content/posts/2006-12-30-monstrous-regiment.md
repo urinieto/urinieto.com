@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/12/monstrous-regiment.html
 thumbnail:
-  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s320/monstrous-regiment-1.jpg"
+  src: "https://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s320/monstrous-regiment-1.jpg"
   alt: Thumbnail image
 categories:
   - books
@@ -17,7 +17,7 @@ categories:
   - pratchett
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s320/monstrous-regiment-1.jpg" border="0" >}}][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s320/monstrous-regiment-1.jpg" border="0" >}}][1]  
 Maldito Terry Pratchett. ¿Cómo puede hacer libros como churros y que todos sean tan buenos? En fin. Otro mundodisco en mi cabeza, con todas las reflexiones, estupideces y surrealismo que esto conlleva.
 
 La cosa sucede en Borogravia, un país adorador del dios Nuggan, un dios que ha perdido el hilo de la evolución y considera totalmente abominable casi cualquier cosa (hombres vestidos de mujeres, las orejas, el chocolate, el color azul, &#8230;).
@@ -37,4 +37,4 @@ Y es que, al final, ¿qué sentido tiene la guerra? ¿Y por qué vivimos en un m
 Gran Pratchett, otra vez contra la religión, el machismo y las guerras.  
 Uno de los mejores.
 
- [1]: http://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s1600-h/monstrous-regiment-1.jpg
+ [1]: https://bp0.blogger.com/_WEHvyZj_jiU/RZZpHqEOFvI/AAAAAAAAAA8/-F3x7J7cKVQ/s1600-h/monstrous-regiment-1.jpg

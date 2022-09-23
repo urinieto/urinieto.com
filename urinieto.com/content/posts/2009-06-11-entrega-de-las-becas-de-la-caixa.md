@@ -23,9 +23,9 @@ También saludé a [Mònica Terribas][6], ex-becaria de &#8220;La Caixa&#8221; y
 
 Fue divertido conocer al resto de becarios, creo que nos queda un camino muy bonito por recorrer y pasaremos unos muy buenos momentos en el curso de verano en Indianapolis. Tengo ganas de empezar esta nueva _Vida_.
 
- [1]: http://obrasocial.lacaixa.es/becas/becas_es.html
+ [1]: https://obrasocial.lacaixa.es/becas/becas_es.html
  [2]: /wp-content/uploads/2009/06/sus-majestades-los-reyes-presiden-la-ceremonia-de-entrega-de-las-becas-de-la-caixa1.jpg
- [3]: http://sargonmetal.com/discography/vida/
- [4]: http://www.sargonmetal.com
+ [3]: https://sargonmetal.com/discography/vida/
+ [4]: https://www.sargonmetal.com
  [5]: /wp-content/uploads/2009/06/reisargon-small1.jpg
- [6]: http://es.wikipedia.org/wiki/M%C3%B3nica_Terribas
+ [6]: https://es.wikipedia.org/wiki/M%C3%B3nica_Terribas

@@ -16,7 +16,7 @@ categories:
 Creo que el capítulo de ayer ha superado a todos los demás. Con esto lo digo todo. Lo mejor, aparte de la historia de Mark Hamill, fueron Los Klamstein. Por Dios, esta gente se supera día a día.
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=5QmjYavOJlQ&rel=1&#8243;>
+[youtube=https://www.youtube.com/watch?v=5QmjYavOJlQ&rel=1&#8243;>
 
 Parte 2:
 

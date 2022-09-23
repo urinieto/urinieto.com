@@ -25,8 +25,8 @@ Finally, they closed with Trains, as always. I missed Blackest Eyes. And Stop Sw
 
 Once again, great show from one of the greatest bands ever.
 
- [1]: http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Warfield,+San+Francisco&sll=37.440221,-122.163299&sspn=0.089002,0.135269&ie=UTF8&ll=37.78374,-122.414474&spn=0.177183,0.270538&t=h&z=12&iwloc=A
+ [1]: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Warfield,+San+Francisco&sll=37.440221,-122.163299&sspn=0.089002,0.135269&ie=UTF8&ll=37.78374,-122.414474&spn=0.177183,0.270538&t=h&z=12&iwloc=A
  [2]: /wp-content/uploads/2009/09/dsc03942.jpg
- [3]: http://www.youtube.com/watch?v=0XHt32UVqLk&feature=player_embedded
- [4]: http://that1guy.com/
- [5]: http://en.wikipedia.org/wiki/The_Incident_%28album%29
+ [3]: https://www.youtube.com/watch?v=0XHt32UVqLk&feature=player_embedded
+ [4]: https://that1guy.com/
+ [5]: https://en.wikipedia.org/wiki/The_Incident_%28album%29

@@ -22,5 +22,5 @@ Y tal vez lo más importante: La nueva Vida es de [Sargon][2]. El próximo disco
 
 A esta vida sólo le falta alguna caída para poderla disfrutar todavía más.
 
- [1]: http://www.iua.upf.edu/mtg/
- [2]: http://www.sargonmetal.com
+ [1]: https://www.iua.upf.edu/mtg/
+ [2]: https://www.sargonmetal.com

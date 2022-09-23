@@ -33,9 +33,9 @@ Thanks for coming Eyal, we had a great time!
   </p>
 </div>
 
- [1]: http://marl.smusic.nyu.edu/
- [2]: http://www.nyu.edu/
- [3]: http://www.youtube.com/ProjectRnL
- [4]: http://www.youtube.com/watch?v=VBc2wv3eF1s
+ [1]: https://marl.smusic.nyu.edu/
+ [2]: https://www.nyu.edu/
+ [3]: https://www.youtube.com/ProjectRnL
+ [4]: https://www.youtube.com/watch?v=VBc2wv3eF1s
  [5]: /wp-content/uploads/2011/10/Eyal41.jpg
  [6]: /wp-content/uploads/2011/10/Eyal3.jpg

@@ -21,5 +21,5 @@ Por supuesto que esta tecnología [no es nueva][2]. Por supuesto que Microsoft s
 
 Eso sí, dejad los prejuicios de Micro$oft antes de ver su página web. Si lo hiciera Apple a todos nos gustaría más. Pero a veces los malos también hacen cosas buenas. Sin ir más lejos, el PP me salvó de ir a la mili.
 
- [1]: http://www.microsoft.com/surface/
- [2]: http://www.youtube.com/watch?v=UcKqyn-gUbY
+ [1]: https://www.microsoft.com/surface/
+ [2]: https://www.youtube.com/watch?v=UcKqyn-gUbY

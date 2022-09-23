@@ -18,4 +18,4 @@ Oh, titanics. The day has come I teamed up with one of the greatest (if not The 
 
 Also: more covers with Alek to come. YES. Alright!
 
- [1]: http://alekdarson.com/
+ [1]: https://alekdarson.com/

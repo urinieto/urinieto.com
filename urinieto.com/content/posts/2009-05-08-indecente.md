@@ -18,5 +18,5 @@ José Miguel Gómez Villanueva D.N.I. 13.711.989-X María Angeles Buenaposada Ca
 
 FSMAmén.
 
- [1]: http://www.ellibrepensador.com/2009/05/07/%C2%A1si-es-indecente/
- [2]: http://meneame.net/story/si-es-indecente
+ [1]: https://www.ellibrepensador.com/2009/05/07/%C2%A1si-es-indecente/
+ [2]: https://meneame.net/story/si-es-indecente

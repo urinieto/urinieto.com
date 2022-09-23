@@ -28,6 +28,6 @@ Semantically, Oriol comes from the latin word for golden (&#8220;aureus&#8221;).
 
 Oh, and yes, I like my name and I&#8217;m quite proud of it.
 
- [1]: http://en.wikipedia.org/wiki/Catalonia
- [2]: http://en.wikipedia.org/wiki/Wikipedia:IPA_for_Catalan_and_Occitan
+ [1]: https://en.wikipedia.org/wiki/Catalonia
+ [2]: https://en.wikipedia.org/wiki/Wikipedia:IPA_for_Catalan_and_Occitan
  [3]: /wp-content/uploads/2009/09/f_oriol.jpg

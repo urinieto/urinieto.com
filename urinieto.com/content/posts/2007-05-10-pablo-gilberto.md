@@ -22,6 +22,6 @@ Así que, evidentemente, fui. Y se me cayeron las pelotas al suelo. No sólo por
 
 Espectacular. Piel de gallina. Felicidad. Virtuosismo. Rock&#8217;n&#8217;Roll.
 
- [1]: http://enochrooted.blogspot.com/2007/02/la-maana-renfe.html
- [2]: http://www.paulgilbert.com
- [3]: http://en.wikipedia.org/wiki/Spaghetti_Monster
+ [1]: https://enochrooted.blogspot.com/2007/02/la-maana-renfe.html
+ [2]: https://www.paulgilbert.com
+ [3]: https://en.wikipedia.org/wiki/Spaghetti_Monster

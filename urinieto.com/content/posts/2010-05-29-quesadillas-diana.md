@@ -5,7 +5,7 @@ type: post
 date: 2010-05-30T00:58:59+00:00
 url: /2010/05/quesadillas-diana/
 thumbnail:
-  src: "http://farm5.static.flickr.com/4054/4650847095_cc8b65a662.jpg"
+  src: "https://farm5.static.flickr.com/4054/4650847095_cc8b65a662.jpg"
   alt: Thumbnail image
 categories:
   - cooking
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2886" href="http://www.flickr.com/photos/enochrooted/4650847095/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4054/4650847095_cc8b65a662.jpg" alt="IMG_2886" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2886" href="https://www.flickr.com/photos/enochrooted/4650847095/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4054/4650847095_cc8b65a662.jpg" alt="IMG_2886" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2896" href="http://www.flickr.com/photos/enochrooted/4650848967/">{{< img class="aligncenter" src="http://farm4.static.flickr.com/3116/4650848967_da6172a013.jpg" alt="IMG_2896" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2896" href="https://www.flickr.com/photos/enochrooted/4650848967/">{{< img class="aligncenter" src="https://farm4.static.flickr.com/3116/4650848967_da6172a013.jpg" alt="IMG_2896" >}}</a>
 </p>
 
 <p style="text-align: center;">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2887" href="http://www.flickr.com/photos/enochrooted/4651466236/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4030/4651466236_aaf059d07d.jpg" alt="IMG_2887" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2887" href="https://www.flickr.com/photos/enochrooted/4651466236/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4030/4651466236_aaf059d07d.jpg" alt="IMG_2887" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2888" href="http://www.flickr.com/photos/enochrooted/4651466464/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4001/4651466464_5e1cf20724.jpg" alt="IMG_2888" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2888" href="https://www.flickr.com/photos/enochrooted/4651466464/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4001/4651466464_5e1cf20724.jpg" alt="IMG_2888" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2894" href="http://www.flickr.com/photos/enochrooted/4651467574/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4057/4651467574_0823ff67f9.jpg" alt="IMG_2894" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2894" href="https://www.flickr.com/photos/enochrooted/4651467574/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4057/4651467574_0823ff67f9.jpg" alt="IMG_2894" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2897" href="http://www.flickr.com/photos/enochrooted/4651468192/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4005/4651468192_ac66cdf080.jpg" alt="IMG_2897" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2897" href="https://www.flickr.com/photos/enochrooted/4651468192/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4005/4651468192_ac66cdf080.jpg" alt="IMG_2897" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2898" href="http://www.flickr.com/photos/enochrooted/4651468358/">{{< img class="aligncenter" src="http://farm5.static.flickr.com/4037/4651468358_0affd919b4.jpg" alt="IMG_2898" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2898" href="https://www.flickr.com/photos/enochrooted/4651468358/">{{< img class="aligncenter" src="https://farm5.static.flickr.com/4037/4651468358_0affd919b4.jpg" alt="IMG_2898" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -84,7 +84,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2901" href="http://www.flickr.com/photos/enochrooted/4650849807/">{{< img src="http://farm5.static.flickr.com/4017/4650849807_beaa75808b.jpg" alt="IMG_2901" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2901" href="https://www.flickr.com/photos/enochrooted/4650849807/">{{< img src="https://farm5.static.flickr.com/4017/4650849807_beaa75808b.jpg" alt="IMG_2901" >}}</a>
 </p>
 
 <p style="text-align: left;">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a class="flickr-image aligncenter" title="IMG_2902" href="http://www.flickr.com/photos/enochrooted/4650849959/">{{< img src="http://farm5.static.flickr.com/4022/4650849959_b18b1c499a.jpg" alt="IMG_2902" >}}</a>
+  <a class="flickr-image aligncenter" title="IMG_2902" href="https://www.flickr.com/photos/enochrooted/4650849959/">{{< img src="https://farm5.static.flickr.com/4022/4650849959_b18b1c499a.jpg" alt="IMG_2902" >}}</a>
 </p>
 
 <p style="text-align: left;">

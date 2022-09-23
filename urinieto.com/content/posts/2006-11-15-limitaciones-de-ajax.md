@@ -22,4 +22,4 @@ Así que para exportar contenidos de una tiddly ésta tendrá que <span style="f
 
 Mientrastanto, ya he acabo la parte de AJAX y de la Tiddly de nuestro ExportPlugin. Ahora queda la parte de PHP dentro del server de Moodle.
 
- [1]: http://enochrooted.blogspot.com/2006/11/posteando-con-ajax.html
+ [1]: https://enochrooted.blogspot.com/2006/11/posteando-con-ajax.html

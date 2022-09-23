@@ -26,12 +26,12 @@ Los políticos han conseguido que la gente diga basta. Que la gente no quiera fo
 Hoy los Españoles, más unidos que nunca, se quieren independizar de este reino que se ha convertido, gracias a nuestros mandatarios (y a todos los que les han votado), en una puta mierda.
 
  [1]: /wp-content/uploads/2012/05/españa-rota.png
- [2]: http://www.elconfidencial.com/espana/2011/11/20/rajoy-gana-con-mayoria-absoluta-y-rubalcaba-no-evita-la-peor-debacle-del-psoe-88057/
- [3]: http://www.elperiodico.com/es/noticias/elecciones-28n/20101128/artur-mas-gana-con-holgura-las-elecciones-sera-proximo-presidente-generalitat/600320.shtml
- [4]: http://www.youtube.com/watch?v=QlV_wFv0xWk&feature=related
- [5]: http://www.youtube.com/watch?v=6sTWDRBCwd8&feature=related
- [6]: http://www.youtube.com/watch?v=EpN07eLLJ2w&feature=related
- [7]: http://www.youtube.com/watch?v=IxI5ZatqMgI
- [8]: http://www.youtube.com/watch?v=xoMQqr65344&feature=related
- [9]: http://politica.elpais.com/politica/2012/05/02/actualidad/1335989603_949072.html
- [10]: http://www.flickr.com/photos/quilombo_samuel/7076328985/
+ [2]: https://www.elconfidencial.com/espana/2011/11/20/rajoy-gana-con-mayoria-absoluta-y-rubalcaba-no-evita-la-peor-debacle-del-psoe-88057/
+ [3]: https://www.elperiodico.com/es/noticias/elecciones-28n/20101128/artur-mas-gana-con-holgura-las-elecciones-sera-proximo-presidente-generalitat/600320.shtml
+ [4]: https://www.youtube.com/watch?v=QlV_wFv0xWk&feature=related
+ [5]: https://www.youtube.com/watch?v=6sTWDRBCwd8&feature=related
+ [6]: https://www.youtube.com/watch?v=EpN07eLLJ2w&feature=related
+ [7]: https://www.youtube.com/watch?v=IxI5ZatqMgI
+ [8]: https://www.youtube.com/watch?v=xoMQqr65344&feature=related
+ [9]: https://politica.elpais.com/politica/2012/05/02/actualidad/1335989603_949072.html
+ [10]: https://www.flickr.com/photos/quilombo_samuel/7076328985/

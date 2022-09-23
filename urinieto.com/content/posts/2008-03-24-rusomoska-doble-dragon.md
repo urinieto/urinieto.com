@@ -15,7 +15,7 @@ categories:
 ---
 Aquí la segunda obra maestra de nuestro magnífico grupo de logística. Se llama Doble Dragón por la relación que hay entre la oferta y la demanda.
 
-[youtube=http://www.youtube.com/watch?v=3lAM_gwvNSc&hl=es] 
+[youtube=https://www.youtube.com/watch?v=3lAM_gwvNSc&hl=es] 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

@@ -5,7 +5,7 @@ type: post
 date: 2010-03-17T02:46:33+00:00
 url: /2010/03/single-ladies/
 thumbnail:
-  src: "http://imgs.xkcd.com/comics/single_ladies.png"
+  src: "https://imgs.xkcd.com/comics/single_ladies.png"
   alt: Thumbnail image
 categories:
   - humor
@@ -13,4 +13,4 @@ categories:
 ---
 I love this guy.
 
-{{< img alt="" src="http://imgs.xkcd.com/comics/single_ladies.png" class="aligncenter" width="740" height="309" >}}
+{{< img alt="" src="https://imgs.xkcd.com/comics/single_ladies.png" class="aligncenter" width="740" height="309" >}}

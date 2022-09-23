@@ -20,5 +20,5 @@ You can visit the [Official SCREAMINATOR Website][2] for more info.
 
 Get ready to SCREAM!
 
- [1]: http://itunes.apple.com/us/app/screaminator/id449323739?ls=1&mt=8
- [2]: http://screaminator.urinieto.com/
+ [1]: https://itunes.apple.com/us/app/screaminator/id449323739?ls=1&mt=8
+ [2]: https://screaminator.urinieto.com/

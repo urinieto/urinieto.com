@@ -30,13 +30,13 @@ Leaving Sargon is probably my toughest decision ever. But once the decision was 
     <span class="gigpress-related-label">Time:</span> <span class="gigpress-related-item">11:00pm</span>
   </li>
   <li>
-    <span class="gigpress-related-label">Venue:</span> <span class="gigpress-show-related"><a href="http://www.musiknviu.cat/">Musik&#8217;n&#8217;viu</a></span>
+    <span class="gigpress-related-label">Venue:</span> <span class="gigpress-show-related"><a href="https://www.musiknviu.cat/">Musik&#8217;n&#8217;viu</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">City:</span> <span class="gigpress-related-item">Granollers </span>
   </li>
   <li>
-    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="http://maps.google.com/maps?&q=Carrer+Londres,Granollers,ES" class="gigpress-address">Carrer Londres</a></span>
+    <span class="gigpress-related-label">Address:</span> <span class="gigpress-related-item"><a href="https://maps.google.com/maps?&q=Carrer+Londres,Granollers,ES" class="gigpress-address">Carrer Londres</a></span>
   </li>
   <li>
     <span class="gigpress-related-label">Country:</span> <span class="gigpress-related-item">Spain</span>
@@ -45,6 +45,6 @@ Leaving Sargon is probably my toughest decision ever. But once the decision was 
     <span class="gigpress-related-label">Age restrictions:</span> <span class="gigpress-related-item">All Ages</span>
   </li>
   <li>
-    <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Sargon+at+Musik%27n%27viu&dates=20090704T030000Z/20090704T030000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Sargon&location=Musik%27n%27viu%2C+Carrer+Londres%2C+Granollers%2C+ES&details=Tour%3A+Sargon+Vida+Tour+2009.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=3">Download iCal</a>
+    <a href="https://www.google.com/calendar/event?action=TEMPLATE&text=Sargon+at+Musik%27n%27viu&dates=20090704T030000Z/20090704T030000Z&sprop=website:http%3A%2F%2Furinieto.com&sprop=name:Sargon&location=Musik%27n%27viu%2C+Carrer+Londres%2C+Granollers%2C+ES&details=Tour%3A+Sargon+Vida+Tour+2009.+All+Ages&trp=true;">Add to Google Calendar</a> | <a href="/?feed=gigpress-ical&show_id=3">Download iCal</a>
   </li>
 </ul>

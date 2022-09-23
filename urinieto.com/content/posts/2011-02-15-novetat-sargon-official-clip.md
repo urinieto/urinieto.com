@@ -18,4 +18,4 @@ It&#8217;s recorded with an iPhone using the 8mm Cam app in Barcelona and New Yo
 
 {{< youtube 7Za4R9Ptrs4 >}}</iframe>
 
-(http://www.youtube.com/embed/7Za4R9Ptrs4)
+(https://www.youtube.com/embed/7Za4R9Ptrs4)

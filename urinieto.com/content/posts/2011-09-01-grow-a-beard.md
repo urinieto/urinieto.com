@@ -14,4 +14,4 @@ It&#8217;s time to grow a beard. This is actually a serious video. An official v
 
 (from [beards dot org][1])
 
- [1]: http://www.beards.org/
+ [1]: https://www.beards.org/

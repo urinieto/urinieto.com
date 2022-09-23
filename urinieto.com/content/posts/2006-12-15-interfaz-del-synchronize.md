@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/12/interfaz-del-synchronize.html
 thumbnail:
-  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg"
+  src: "https://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg"
   alt: Thumbnail image
 categories:
   - pfc
@@ -24,10 +24,10 @@ Así que la interfaz quedará reducida y sólo aparecerán los tiddlers que se h
 
 Así queda la interfaz final: 
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg" border="0" >}}][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s320/syncPanel.jpg" border="0" >}}][1]  
 Por cierto, ya he enviado el webservice a Ludo. Cuando lo haya colgado en Crom subiré los tres plugins a la web de [TiddlySpot][2].
 
 Seguimos documentando.
 
- [1]: http://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s1600-h/syncPanel.jpg
- [2]: http://moodle.tiddlyspot.com
+ [1]: https://bp3.blogger.com/_WEHvyZj_jiU/RYKU5m9tgZI/AAAAAAAAAAY/nPsg3Ksfn3k/s1600-h/syncPanel.jpg
+ [2]: https://moodle.tiddlyspot.com

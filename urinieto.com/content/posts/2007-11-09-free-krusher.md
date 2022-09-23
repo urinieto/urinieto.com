@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2007/11/free-krusher.html
 thumbnail:
-  src: "http://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s320/SgaeLadrones.png"
+  src: "https://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s320/SgaeLadrones.png"
   alt: Thumbnail image
 categories:
   - politics
@@ -20,6 +20,6 @@ Por culpa del siguiente artículo sobre la SGAE que aparecía en la Frikipedia a
 
 Libertad para Krusher. Libertad de expresión.
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s320/SgaeLadrones.png" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s320/SgaeLadrones.png" border="0" >}}][1]
 
- [1]: http://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s1600-h/SgaeLadrones.png
+ [1]: https://bp0.blogger.com/_WEHvyZj_jiU/RzRGRD6SAtI/AAAAAAAABBA/22Ks9zE-sLo/s1600-h/SgaeLadrones.png

@@ -24,13 +24,13 @@ While programming for the iPhone, this questions raised in my head:
 
 And now that I read [this article][9] from the [Lostipedia][10], I can continue programming safely.
 
- [1]: http://lostpedia.wikia.com/wiki/Sawyer "Sawyer"
- [2]: http://lostpedia.wikia.com/wiki/Sayid "Sayid"
- [3]: http://lostpedia.wikia.com/wiki/Ethan "Ethan"
- [4]: http://lostpedia.wikia.com/wiki/Claire "Claire"
- [5]: http://lostpedia.wikia.com/wiki/Justin "Justin"
- [6]: http://lostpedia.wikia.com/wiki/The_Others "The Others"
- [7]: http://lostpedia.wikia.com/wiki/Survivors "Survivors"
- [8]: http://lostpedia.wikia.com/wiki/The_survivors "The survivors"
- [9]: http://lostpedia.wikia.com/wiki/What_Kate_Does
- [10]: http://lostpedia.wikia.com
+ [1]: https://lostpedia.wikia.com/wiki/Sawyer "Sawyer"
+ [2]: https://lostpedia.wikia.com/wiki/Sayid "Sayid"
+ [3]: https://lostpedia.wikia.com/wiki/Ethan "Ethan"
+ [4]: https://lostpedia.wikia.com/wiki/Claire "Claire"
+ [5]: https://lostpedia.wikia.com/wiki/Justin "Justin"
+ [6]: https://lostpedia.wikia.com/wiki/The_Others "The Others"
+ [7]: https://lostpedia.wikia.com/wiki/Survivors "Survivors"
+ [8]: https://lostpedia.wikia.com/wiki/The_survivors "The survivors"
+ [9]: https://lostpedia.wikia.com/wiki/What_Kate_Does
+ [10]: https://lostpedia.wikia.com

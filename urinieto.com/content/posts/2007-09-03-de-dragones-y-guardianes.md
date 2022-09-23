@@ -9,14 +9,14 @@ blogger_blog:
 blogger_permalink:
   - /2007/09/de-dragones-y-guardianes.html
 thumbnail:
-  src: "http://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg"
+  src: "https://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg"
   alt: Thumbnail image
 categories:
   - books
   - pratchett
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s320/guards!guards!.jpg" border="0" >}}][1]
 
 Venga, otro <span style="font-weight:bold;">Pratchett</span> dentro mi conjunto de neuronas que viven encima de un disco que gira por culpa de cuatro elefantes gigantes que caminan en el caparazón de una Tortuga Astronómica a través del Espacio, el Tiempo y la Tontería (ETT).
 
@@ -34,4 +34,4 @@ Ah, por cierto, ¿alguien sabe qué les pasa a los editores/traductores español
 
 Lo que me queda por ver madre mía&#8230;
 
- [1]: http://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s1600-h/guards!guards!.jpg
+ [1]: https://bp0.blogger.com/_WEHvyZj_jiU/Rtw91VcFtLI/AAAAAAAAA-4/ooM6SAbUOG4/s1600-h/guards!guards!.jpg

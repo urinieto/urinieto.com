@@ -32,5 +32,5 @@ With this method we will be able to retrieve all the indexPaths from a table vie
 
 I hope this helps. If you find an easier way, please tell me.
 
- [1]: http://developer.apple.com/DOCUMENTATION/Cocoa/Reference/Foundation/Classes/NSIndexPath_Class/Reference/Reference.html
- [2]: http://developer.apple.com/iPhone/library/documentation/UIKit/Reference/NSIndexPath_UIKitAdditions/Reference/Reference.html
+ [1]: https://developer.apple.com/DOCUMENTATION/Cocoa/Reference/Foundation/Classes/NSIndexPath_Class/Reference/Reference.html
+ [2]: https://developer.apple.com/iPhone/library/documentation/UIKit/Reference/NSIndexPath_UIKitAdditions/Reference/Reference.html

@@ -39,5 +39,5 @@ Dirty Old Fool:
 Into the Cold:  
 {{< youtube sBpXxS5ok2M >}}</iframe>
 
- [1]: http://midnightblue.bandcamp.com
- [2]: http://productions.nomasdf.com
+ [1]: https://midnightblue.bandcamp.com
+ [2]: https://productions.nomasdf.com

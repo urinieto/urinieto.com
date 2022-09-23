@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2007/03/el-ciclo-barroco.html
 thumbnail:
-  src: "http://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s320/k4041.jpg"
+  src: "https://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s320/k4041.jpg"
   alt: Thumbnail image
 categories:
   - books
@@ -19,7 +19,7 @@ categories:
 
 ---
 <div align="center">
-  <a href="http://bp1.blogger.com/_WEHvyZj_jiU/RfVJULCCKAI/AAAAAAAAADw/6xg4bwM7N7s/s1600-h/Quicksilver.jpg">{{< img style="cursor:hand;" src="http://bp1.blogger.com/_WEHvyZj_jiU/RfVJULCCKAI/AAAAAAAAADw/6xg4bwM7N7s/s320/Quicksilver.jpg" border="0" >}}</a> <a href="http://bp0.blogger.com/_WEHvyZj_jiU/RfVJh7CCKBI/AAAAAAAAAD4/Vb7KY3FW2Ik/s1600-h/confusion.jpg">{{< img style="cursor:hand;" src="http://bp0.blogger.com/_WEHvyZj_jiU/RfVJh7CCKBI/AAAAAAAAAD4/Vb7KY3FW2Ik/s320/confusion.jpg" border="0" width="140" >}}</a> <a href="http://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s1600-h/k4041.jpg">{{< img style="cursor:hand;" src="http://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s320/k4041.jpg" border="0" width="140" >}}</a>
+  <a href="https://bp1.blogger.com/_WEHvyZj_jiU/RfVJULCCKAI/AAAAAAAAADw/6xg4bwM7N7s/s1600-h/Quicksilver.jpg">{{< img style="cursor:hand;" src="https://bp1.blogger.com/_WEHvyZj_jiU/RfVJULCCKAI/AAAAAAAAADw/6xg4bwM7N7s/s320/Quicksilver.jpg" border="0" >}}</a> <a href="https://bp0.blogger.com/_WEHvyZj_jiU/RfVJh7CCKBI/AAAAAAAAAD4/Vb7KY3FW2Ik/s1600-h/confusion.jpg">{{< img style="cursor:hand;" src="https://bp0.blogger.com/_WEHvyZj_jiU/RfVJh7CCKBI/AAAAAAAAAD4/Vb7KY3FW2Ik/s320/confusion.jpg" border="0" width="140" >}}</a> <a href="https://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s1600-h/k4041.jpg">{{< img style="cursor:hand;" src="https://bp3.blogger.com/_WEHvyZj_jiU/RfVJorCCKCI/AAAAAAAAAEA/MixTRkl5h5Q/s320/k4041.jpg" border="0" width="140" >}}</a>
 </div>
 
 Qué puedo decir de esta enorme obra? Qué puedo decir de una obra cuyo contenido me ha influenciado tanto que hasta el nombre de éste blog se ha visto corrompido por ella? Cómo puedo describir estos tres libros sin estar sujeto a la enorme cantidad de sentimientos que me han transmitido? Cómo puedo describir 3000 páginas (1000 páginas por volumen) en una simple entrada de blog? Enoch, Newton, Leibniz: como siempre, guiad mis pasos por favor.

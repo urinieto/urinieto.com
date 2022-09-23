@@ -20,5 +20,5 @@ Most people will hear &#8220;Da-da, da-da&#8221; (or &#8220;ga-ga, ga-ga&#8221;)
 
 This is known as the [McGurk Effect][1], and you can read the original paper written by Harry McGurk & John MacDonald in 1976 [here][2].
 
- [1]: http://en.wikipedia.org/wiki/McGurk_effect
- [2]: http://www.nature.com/nature/journal/v264/n5588/abs/264746a0.html
+ [1]: https://en.wikipedia.org/wiki/McGurk_effect
+ [2]: https://www.nature.com/nature/journal/v264/n5588/abs/264746a0.html

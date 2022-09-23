@@ -25,7 +25,7 @@ Ya se puede reservar en [Amazon][4].
   {{< img width='1' height='1' >}}
 </div>
 
- [1]: http://en.wikipedia.org/wiki/Neal_Stephenson
- [2]: http://en.wikipedia.org/wiki/Anathem
- [3]: http://time-blog.com/nerd_world/2008/03/the_return_of_neal_stephenson.html
- [4]: http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096
+ [1]: https://en.wikipedia.org/wiki/Neal_Stephenson
+ [2]: https://en.wikipedia.org/wiki/Anathem
+ [3]: https://time-blog.com/nerd_world/2008/03/the_return_of_neal_stephenson.html
+ [4]: https://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096

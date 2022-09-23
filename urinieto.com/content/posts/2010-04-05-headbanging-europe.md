@@ -18,5 +18,5 @@ The song is called Bleed and is from the Swedish metal band **[Meshuggah][1]**, 
 PS: Scandinavian countries are missing, but they are pure metal and they don&#8217;t need another long haired guy headbanging their cities. They have plenty of them already.  
 PS2: Thanks for the inspiration [Matt][2]!
 
- [1]: http://www.meshuggah.net/
- [2]: http://www.wherethehellismatt.com
+ [1]: https://www.meshuggah.net/
+ [2]: https://www.wherethehellismatt.com

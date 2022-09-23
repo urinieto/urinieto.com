@@ -16,8 +16,8 @@ categories:
 ---
 ¿Harto de que te llamen para venderte mil mierdas? Aunque un poco escatológica, aquí tienes la solución:
 
-<http://howtoprankatelemarketer.ytmnd.com/>
+<https://howtoprankatelemarketer.ytmnd.com/>
 
 Via [Barrapunto][1]
 
- [1]: http://ocio.barrapunto.com/ocio/06/12/04/009255.shtml
+ [1]: https://ocio.barrapunto.com/ocio/06/12/04/009255.shtml

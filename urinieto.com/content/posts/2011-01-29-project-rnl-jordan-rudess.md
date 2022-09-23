@@ -21,7 +21,7 @@ I can&#8217;t put into words how extremely elaborated and sophisticated the musi
 
 {{< youtube I5oXtFAThuw >}}</iframe>
 
-(http://www.youtube.com/watch?v=I5oXtFAThuw)
+(https://www.youtube.com/watch?v=I5oXtFAThuw)
 
- [1]: http://www.facebook.com/pages/Project-RnL/142614622438757
- [2]: http://www.dreamtheater.net/news_rudess.php#tarrytown
+ [1]: https://www.facebook.com/pages/Project-RnL/142614622438757
+ [2]: https://www.dreamtheater.net/news_rudess.php#tarrytown

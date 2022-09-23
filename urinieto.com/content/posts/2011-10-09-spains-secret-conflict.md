@@ -23,6 +23,6 @@ Maybe it only matters to me on this side of the world, but I really found it int
 
 [SPAIN&#8217;S SECRET CONFLICT][1] from [Endboard][2] on [Vimeo][3].
 
- [1]: http://vimeo.com/24457023
- [2]: http://vimeo.com/user6895492
- [3]: http://vimeo.com
+ [1]: https://vimeo.com/24457023
+ [2]: https://vimeo.com/user6895492
+ [3]: https://vimeo.com

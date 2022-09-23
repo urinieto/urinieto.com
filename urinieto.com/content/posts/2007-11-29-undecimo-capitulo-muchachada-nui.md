@@ -16,7 +16,7 @@ categories:
 Después del pequeño bajón del Celebrities de Lars Von Trier, ayer éste volvió a la carga presentando una de las historias más divertidas de Muchachada Nui. El cine dogma, centrado en Ojete Street al más puro estilo Dogville, hizo descojonarme de risa otra vez. Los Klamstein suben niveles que creía inalcanzables. Ahhhh, estoy deseando que llegue el miércoles que viene y volver a ver al presidente de Irán! (que, por cierto, en mi opinión es de los personajes mejor logrados físicamente por los maquilladores de LHC/MC. Enhorabuena titanes).
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=NSERDQ2R6oM&rel=1&#8243;>
+[youtube=https://www.youtube.com/watch?v=NSERDQ2R6oM&rel=1&#8243;>
 
 Parte 2:
 

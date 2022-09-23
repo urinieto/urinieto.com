@@ -19,5 +19,5 @@ Y es que des del primer momento me ha encantado. Debuggar Tiddlywiki era bastant
 
 ¡Gràcies Carles!
 
- [1]: http://lithsliths.blogspot.com/index.html
+ [1]: https://lithsliths.blogspot.com/index.html
  [2]: https://addons.mozilla.org/firefox/1843/

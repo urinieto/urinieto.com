@@ -31,7 +31,7 @@ We went to the downtown, in Pacific Avenue. This place was much nicer, and, desp
 
 Nice city in the end. Much nicer than Palo Alto, and much uglier than Barcelona (and much much much uglier than Granollers, of course).
 
- [1]: http://paletosignorantes.blogspot.com/search/label/sleeve_of_wizard
+ [1]: https://paletosignorantes.blogspot.com/search/label/sleeve_of_wizard
  [2]: /wp-content/uploads/2009/10/img_01201.jpg
  [3]: /wp-content/uploads/2009/10/img_0122.jpg
  [4]: /wp-content/uploads/2009/10/img_2730.jpg

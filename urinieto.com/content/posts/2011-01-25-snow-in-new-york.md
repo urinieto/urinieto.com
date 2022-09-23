@@ -17,4 +17,4 @@ I love the snow. I hate the cold. I love the snow. Damn, I love this city.
 
 ([snow in new york][1])
 
- [1]: http://www.youtube.com/watch?v=zJcABdLrgl8
+ [1]: https://www.youtube.com/watch?v=zJcABdLrgl8

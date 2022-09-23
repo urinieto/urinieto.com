@@ -22,4 +22,4 @@ Special thanks to Dr. Christian Herbst for the recording.
 Alright!
 
  [1]: https://files.nyu.edu/onc202/public/publications/Nieto-AQL2013.pdf
- [2]: http://csrc.cchmc.org/dimitar-deliyski
+ [2]: https://csrc.cchmc.org/dimitar-deliyski

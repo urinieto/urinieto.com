@@ -19,7 +19,7 @@ Here you have the song:
 
 {{< youtube 5biC-t0av8M >}}</iframe>
 
-( http://www.youtube.com/embed/5biC-t0av8M )
+( https://www.youtube.com/embed/5biC-t0av8M )
 
 The voices were recorded at **Jarl&#8217;em All Studios**, where the rest of the music was recorded, mixed and mastered by Andy Feehan somewhere in the UK.
 
@@ -27,6 +27,6 @@ You can get the album [here][3].
 
 Alright! Thanks Andy for putting this altogether!
 
- [1]: http://www.facebook.com/thecloudrunner
- [2]: http://www.facebook.com/feehangoestohollywood
- [3]: http://www.megaupload.com/?d=D8M72NLP
+ [1]: https://www.facebook.com/thecloudrunner
+ [2]: https://www.facebook.com/feehangoestohollywood
+ [3]: https://www.megaupload.com/?d=D8M72NLP

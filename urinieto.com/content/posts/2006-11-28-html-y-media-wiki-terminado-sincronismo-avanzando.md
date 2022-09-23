@@ -41,4 +41,4 @@ Mucho:
 En fín, mañana reunión, nos repartiremos el trabajo con Alex.  
 Yo ahora voy a preparar la sesión de AJAX de éste viernes.
 
- [1]: http://vdemarvvv.blogspot.com/2006/11/novedades-importexport.html
+ [1]: https://vdemarvvv.blogspot.com/2006/11/novedades-importexport.html

@@ -52,6 +52,6 @@ Now you can run it (from the examples directory): `./paex_sine`
 You&#8217;re all set.  
 Have fun coding with PortAudio!
 
- [1]: http://www.portaudio.com/archives/pa_stable_v19_20111121.tgz
- [2]: http://www.portaudio.com/archives/pa_stable_v19_20110326.tgz
- [3]: http://www.portaudio.com/
+ [1]: https://www.portaudio.com/archives/pa_stable_v19_20111121.tgz
+ [2]: https://www.portaudio.com/archives/pa_stable_v19_20110326.tgz
+ [3]: https://www.portaudio.com/

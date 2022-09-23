@@ -15,7 +15,7 @@ categories:
 ---
 La podéis encontrar en:
 
-<http://www.lsi.upc.edu/~malier/tidlywikimoodledfwikimport.html>
+<https://www.lsi.upc.edu/~malier/tidlywikimoodledfwikimport.html>
 
 Novedades de la nueva versión (2.1.1):  
 - Importa páginas wikis directamente de la URL  

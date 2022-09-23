@@ -32,5 +32,5 @@ And here there are some great quotes:
 
 I really enjoyed reading all of this. However, it&#8217;s sad to my religion beliefs not to have found anything related to a _Flying Spaghetti Monster_ on this paper.
 
- [1]: http://ccrma.stanford.edu/courses/220b-winter-2010/readings/cslifeuniverseeverything.pdf
+ [1]: https://ccrma.stanford.edu/courses/220b-winter-2010/readings/cslifeuniverseeverything.pdf
  [2]: /wp-content/uploads/2010/01/universe.jpg

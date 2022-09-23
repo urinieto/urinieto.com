@@ -17,4 +17,4 @@ categories:
 ---
 Finalmente, la release de nuestro synchronize es una realidad. Tambien nuevas versiones del export y el import.
 
-Todo en <http://moodle.tiddlyspot.com/>.
+Todo en <https://moodle.tiddlyspot.com/>.

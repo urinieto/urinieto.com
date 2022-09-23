@@ -20,6 +20,6 @@ You can read it here: [RhythmSeminar-FinalProject-Nieto2013.pdf][3].
 
 [{{< img src="/wp-content/uploads/2013/08/Screen-Shot-2013-08-16-at-6.03.51-PM.png" alt="" title="Meshuggah - Catch 33" width="278" height="277" class="aligncenter size-full wp-image-1744" >}}][3]
 
- [1]: http://www.amazon.com/Catch-ThirtyThree/dp/B000QZX56K/ref=sr_1_2?ie=UTF8&qid=1376690592&sr=8-2&keywords=catch+33
- [2]: http://www.meshuggah.net/
+ [1]: https://www.amazon.com/Catch-ThirtyThree/dp/B000QZX56K/ref=sr_1_2?ie=UTF8&qid=1376690592&sr=8-2&keywords=catch+33
+ [2]: https://www.meshuggah.net/
  [3]: /wp-content/uploads/2013/08/RhythmSeminar-FinalProject-Nieto2013.pdf

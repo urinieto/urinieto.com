@@ -27,8 +27,8 @@ Mama popo caca&#8230;
 
 PD: A 4.2 Earthquake is relatively small, but it still can do a lot of damage: [Read what happened in Italy recently][5]
 
- [1]: http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Milpitas&sll=37.424106,-122.166076&sspn=0.099791,0.190029&ie=UTF8&hq=&hnear=Milpitas,+Santa+Clara,+California&ll=37.477038,-122.01004&spn=0.79776,1.520233&t=h&z=10
- [2]: http://quake.usgs.gov/recenteqs/Quakes/nc71336726.html
- [3]: http://quake.usgs.gov/recenteqs/Quakes/nc71337451.html
+ [1]: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Milpitas&sll=37.424106,-122.166076&sspn=0.099791,0.190029&ie=UTF8&hq=&hnear=Milpitas,+Santa+Clara,+California&ll=37.477038,-122.01004&spn=0.79776,1.520233&t=h&z=10
+ [2]: https://quake.usgs.gov/recenteqs/Quakes/nc71336726.html
+ [3]: https://quake.usgs.gov/recenteqs/Quakes/nc71337451.html
  [4]: /wp-content/uploads/2010/01/damage6.jpg
- [5]: http://www.elpais.com/articulo/internacional/Cientos/evacuados/centro/Italia/terremoto/42/elpepuint/20091215elpepuint_17/Tes
+ [5]: https://www.elpais.com/articulo/internacional/Cientos/evacuados/centro/Italia/terremoto/42/elpepuint/20091215elpepuint_17/Tes

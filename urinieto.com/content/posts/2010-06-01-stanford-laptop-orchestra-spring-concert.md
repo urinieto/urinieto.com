@@ -19,8 +19,8 @@ The [San Francisco Chronicle][2] came to last week&#8217;s rehearsal and wrote a
 
 [{{< img src="/wp-content/uploads/2010/06/UriSlork-500x334.jpg" alt="UriSlork" title="UriSlork" width="500" height="334" class="aligncenter size-medium wp-image-910" >}}][5]
 
- [1]: http://maps.google.com/maps?q=Dinkelspiel+Auditorium,+Stanford&ie=UTF8&hq=&hnear=Dinkelspiel+Auditorium,+Stanford,+Santa+Clara,+California+94305&ll=37.423991,-122.1699&spn=0.023925,0.048451&t=h&z=15
- [2]: http://www.sfgate.com
- [3]: http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/05/31/DDB81DMJ7K.DTL
+ [1]: https://maps.google.com/maps?q=Dinkelspiel+Auditorium,+Stanford&ie=UTF8&hq=&hnear=Dinkelspiel+Auditorium,+Stanford,+Santa+Clara,+California+94305&ll=37.423991,-122.1699&spn=0.023925,0.048451&t=h&z=15
+ [2]: https://www.sfgate.com
+ [3]: https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/05/31/DDB81DMJ7K.DTL
  [4]: https://ccrma.stanford.edu/events/stanford-laptop-orchestra-presents-spring-concert-2010
  [5]: /wp-content/uploads/2010/06/UriSlork.jpg

@@ -19,5 +19,5 @@ Siempre pone los pelos de punta saber que querían atentar contra tu ciudad. Per
 
 Somos tan insignificantes.
 
- [1]: http://meneame.net/story/abortado-barcelona-gran-atentado-qaeda#comment-26
- [2]: http://meneame.net/story/abortado-barcelona-gran-atentado-qaeda
+ [1]: https://meneame.net/story/abortado-barcelona-gran-atentado-qaeda#comment-26
+ [2]: https://meneame.net/story/abortado-barcelona-gran-atentado-qaeda

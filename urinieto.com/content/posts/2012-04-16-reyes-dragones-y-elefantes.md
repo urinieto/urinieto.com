@@ -22,11 +22,11 @@ Un rey no es un Rey hasta que no mate, se vaya de putas, y se regocije con las p
 Así que me satisface saber que, finalmente, S.M. Elefant-Slayer Juan Carlos I, ha demostrado su hombría cazando paquidermos 7 veces más grandes que él. Dando ejemplo. Sí señor. Ahora sí. Ahora ya empiezo a sentirme un poco más donde me merezco. Ahora ya lo llevo fino. En un país corrupto, donde la monarquía finalmente hace lo que debe: pasar de la plebe, y matar de vez en cuando.
 
  [1]: /wp-content/uploads/2012/04/Reyes.png
- [2]: http://www.salaimartin.com/randomthoughts/item/287-juan-carlos-i-presidente-de-honor-de-wwf-antigua-adena.html
- [3]: http://rac1.org/elmon/blog/el-davantal-16-04-12/
- [4]: http://elpais.com/elpais/2012/04/14/vinetas/1334440698_355288.html
- [5]: http://twitpic.com/9ahtqv
- [6]: http://principiamarsupia.wordpress.com/2012/04/16/carta-de-un-investigador-al-rey-don-juan-carlos/
- [7]: http://elpais.com/elpais/2012/04/16/vinetas/1334528043_630177.html
- [8]: http://paletosignorantes.blogspot.com/2012/04/cojones-de-elefante.html
- [9]: http://gameofthrones.wikia.com/wiki/Robert_Baratheon
+ [2]: https://www.salaimartin.com/randomthoughts/item/287-juan-carlos-i-presidente-de-honor-de-wwf-antigua-adena.html
+ [3]: https://rac1.org/elmon/blog/el-davantal-16-04-12/
+ [4]: https://elpais.com/elpais/2012/04/14/vinetas/1334440698_355288.html
+ [5]: https://twitpic.com/9ahtqv
+ [6]: https://principiamarsupia.wordpress.com/2012/04/16/carta-de-un-investigador-al-rey-don-juan-carlos/
+ [7]: https://elpais.com/elpais/2012/04/16/vinetas/1334528043_630177.html
+ [8]: https://paletosignorantes.blogspot.com/2012/04/cojones-de-elefante.html
+ [9]: https://gameofthrones.wikia.com/wiki/Robert_Baratheon

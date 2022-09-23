@@ -46,10 +46,10 @@ The Correaigua is also one of my favorite events from la FM. The city hall squar
 Looking forward to going there next year one more time.  
 Visca la Festa Major!
 
- [1]: http://en.wikipedia.org/wiki/Granollers
- [2]: http://en.wikipedia.org/wiki/Gernika
- [3]: http://www.google.com/imgres?imgurl=http://eltemadeltema.files.wordpress.com/2010/03/la-porxada.jpg&imgrefurl=http://eltemadeltema.wordpress.com/2010/03/02/granollers-caciquisme-i-fractura-democratica-de-joan-garriga-i-andreu/&usg=__A8K25p0j-xeEVjdfDKo5bKDxMz0=&h=469&w=700&sz=143&hl=en&start=0&zoom=1&tbnid=jrXB9wZ6yzuDAM:&tbnh=129&tbnw=193&prev=/images%3Fq%3DPla%25C3%25A7a%2Bde%2Bla%2Bporxada%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26sa%3DN%26rls%3Dorg.mozilla:en-US:official%26biw%3D1262%26bih%3D880%26tbs%3Disch:1&um=1&itbs=1&iact=rc&dur=401&ei=GDqRTIGIMsb_lgfStsnjAQ&oei=GDqRTIGIMsb_lgfStsnjAQ&esq=1&page=1&ndsp=31&ved=1t:429,r:27,s:0&tx=183&ty=87
- [4]: http://www.flickr.com/photos/cinglesdeberti/3074486498/
- [5]: http://www.blancsiblaus.cat/
+ [1]: https://en.wikipedia.org/wiki/Granollers
+ [2]: https://en.wikipedia.org/wiki/Gernika
+ [3]: https://www.google.com/imgres?imgurl=https://eltemadeltema.files.wordpress.com/2010/03/la-porxada.jpg&imgrefurl=https://eltemadeltema.wordpress.com/2010/03/02/granollers-caciquisme-i-fractura-democratica-de-joan-garriga-i-andreu/&usg=__A8K25p0j-xeEVjdfDKo5bKDxMz0=&h=469&w=700&sz=143&hl=en&start=0&zoom=1&tbnid=jrXB9wZ6yzuDAM:&tbnh=129&tbnw=193&prev=/images%3Fq%3DPla%25C3%25A7a%2Bde%2Bla%2Bporxada%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26sa%3DN%26rls%3Dorg.mozilla:en-US:official%26biw%3D1262%26bih%3D880%26tbs%3Disch:1&um=1&itbs=1&iact=rc&dur=401&ei=GDqRTIGIMsb_lgfStsnjAQ&oei=GDqRTIGIMsb_lgfStsnjAQ&esq=1&page=1&ndsp=31&ved=1t:429,r:27,s:0&tx=183&ty=87
+ [4]: https://www.flickr.com/photos/cinglesdeberti/3074486498/
+ [5]: https://www.blancsiblaus.cat/
  [6]: /wp-content/uploads/2010/09/festamajor.jpg
- [7]: http://en.wikipedia.org/wiki/Correfoc
+ [7]: https://en.wikipedia.org/wiki/Correfoc

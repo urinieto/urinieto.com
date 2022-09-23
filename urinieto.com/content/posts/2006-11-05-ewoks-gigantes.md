@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/11/ewoks-gigantes.html
 thumbnail:
-  src: "http://photos1.blogger.com/blogger2/4197/4184/320/hierro.jpg"
+  src: "https://photos1.blogger.com/blogger2/4197/4184/320/hierro.jpg"
   alt: Thumbnail image
 categories:
   - books
@@ -17,7 +17,7 @@ categories:
 ---
 Hoy, por fín, he acabado <span style="font-style:italic;">Una mujer del pueblo de Hierro</span>, de <span style="font-weight:bold;">Eleanor Arnason</span>.
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/hierro.jpg" border="0" alt="" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger2/4197/4184/320/hierro.jpg" border="0" alt="" >}}][1]
 
 Lo compré por sus grandes críticas que corrían por Amazon y por que era de la editorial Nova (aka: Miquel Barceló garantiza que te gustará).
 
@@ -35,4 +35,4 @@ Lo peor, pues todo lo demás. No sé. Probablemente sea un buen libro, pero a m�
 
 Excepto, claro está, a los nostálgicos del episodio VI de Star Wars.
 
- [1]: http://photos1.blogger.com/blogger2/4197/4184/1600/hierro.jpg
+ [1]: https://photos1.blogger.com/blogger2/4197/4184/1600/hierro.jpg

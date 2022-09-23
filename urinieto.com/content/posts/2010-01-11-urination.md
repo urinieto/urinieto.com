@@ -20,5 +20,5 @@ And today I saw this amazing ad that I simply had to blog:
 
 Oh man, I love my name.
 
- [1]: http://www.urinieto.com
+ [1]: https://www.urinieto.com
  [2]: /wp-content/uploads/2010/01/urination.png

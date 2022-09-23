@@ -32,8 +32,8 @@ But wait, there's more.
 For transparency's sake, we gathered data from publicly available datasets and compiled them in a new moods data set that we call the [AllMusic Moods Set](https://github.com/fdlm/listening-moods).
 This is a set of ~67k tracks that have the following data for each track:
 
-- Artist, Song, and Track ID from the [Million Song Dataset](http://millionsongdataset.com/).
-- Track embeddings from the factorization of the [Taste Profile](http://millionsongdataset.com/tasteprofile/) data.
+- Artist, Song, and Track ID from the [Million Song Dataset](https://millionsongdataset.com/).
+- Track embeddings from the factorization of the [Taste Profile](https://millionsongdataset.com/tasteprofile/) data.
 - Track embeddings from two different [MusiCNN](https://github.com/jordipons/musicnn) models.
 - 30 second audio previews from [7digital](https://us.7digital.com/).
 - Mood data annotated by human experts that can be retrieved from [AllMusic](https://www.allmusic.com/).

@@ -27,4 +27,4 @@ Finalmente, ahora toca spamear en los grupos de Tiddlywiki para promocionar nues
 
 Eso es todo por hoy, la próxima reunión será el 10 de Enero. El proyecto se acaba. Y la carrera también :) 
 
- [1]: http://morfeo.upc.es/crom/mod/wiki/view.php?id=22&page=Tiddlywiki+integration+with+New+Moodle+Wiki&gid=0&uid=0
+ [1]: https://morfeo.upc.es/crom/mod/wiki/view.php?id=22&page=Tiddlywiki+integration+with+New+Moodle+Wiki&gid=0&uid=0

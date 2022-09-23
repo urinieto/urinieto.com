@@ -14,6 +14,6 @@ categories:
 ---
 Interesante web para poder comprobarlo:
 
-<http://isitfriday.net/>
+<https://isitfriday.net/>
 
 Ya está en mis bookmarks.

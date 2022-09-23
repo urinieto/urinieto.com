@@ -25,7 +25,7 @@ Ya era hora de que alguien hablara así del Metal. Muy bueno.
 No os perdáis la entrevista de Mayhem en el Wacken. O al tipo de Gorgoroth. A veces no me extraña que la gente odie el Heavy Metal&#8230;
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=Czn2RpQ8YZA&rel=1&#8243;>
+[youtube=https://www.youtube.com/watch?v=Czn2RpQ8YZA&rel=1&#8243;>
 
 Parte 2:
 

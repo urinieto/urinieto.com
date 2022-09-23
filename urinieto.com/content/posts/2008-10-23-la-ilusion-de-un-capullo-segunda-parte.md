@@ -72,4 +72,4 @@ Aquí la segunda parte de [esta gran poesía][1].
 > Con el pasar de los años  
 > te falla hasta el bisturí.
 
- [1]: http://enochrooted.blogspot.com/2008/10/la-vejez-de-un-capullo.html
+ [1]: https://enochrooted.blogspot.com/2008/10/la-vejez-de-un-capullo.html

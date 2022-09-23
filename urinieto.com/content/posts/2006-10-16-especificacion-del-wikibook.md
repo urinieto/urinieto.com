@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/10/especificacin-del-wikibook.html
 thumbnail:
-  src: "http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-specification.jpg"
+  src: "https://photos1.blogger.com/blogger2/4197/4184/320/wikibook-specification.jpg"
   alt: Thumbnail image
 categories:
   - pfc
@@ -18,7 +18,7 @@ categories:
 ---
 He hecho una primera aproximación al diseño de nuestro Wikibook. Aquí adjunto el boceto:
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/blogger2/4197/4184/320/wikibook-specification.jpg" border="0" alt="" >}}][1]  
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger2/4197/4184/320/wikibook-specification.jpg" border="0" alt="" >}}][1]  
 He dudado en implementar la base de datos tal y como me han enseñado en la facultad o hacerlo tal y como pone en la documentación de Moodle. La primera opción era crear 3 tablas:
 
 -Wikibooks(<span style="font-weight:bold;">id</span>)  
@@ -41,4 +41,4 @@ No hay claves foráneas explícitas. Las joins se harán en php y no en sql.
 
 Repito que es una primera aproximación, ahora me dispongo a hacer las primeras pruebas con ella.
 
- [1]: http://photos1.blogger.com/blogger2/4197/4184/1600/wikibook-specification.jpg
+ [1]: https://photos1.blogger.com/blogger2/4197/4184/1600/wikibook-specification.jpg

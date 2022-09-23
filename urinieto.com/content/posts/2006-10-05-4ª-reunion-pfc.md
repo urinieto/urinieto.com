@@ -26,4 +26,4 @@ También le enseñamos [Netvibes][1] y le pareció bien usar una interfície sim
 
 Vaya aburrimiento del blog. Prometo escribir más. Bueno, no. Mejor no prometer nada porque esto de la vida es más imprevisible que 24.
 
- [1]: http://www.netvibes.com
+ [1]: https://www.netvibes.com

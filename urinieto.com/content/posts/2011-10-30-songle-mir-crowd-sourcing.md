@@ -21,6 +21,6 @@ What Goto has published is a tool to display automatically extracted chords, seg
 
 In this picture we can see the extracted vocal melody (red lines), chords, parts of the song (blue and orange tracks), onsets and beats (triangles on the bottom), &#8230; I&#8217;m simply amazed right now. What a great piece of software!
 
- [1]: http://songle.jp/
- [2]: http://ismir2011.ismir.net/
+ [1]: https://songle.jp/
+ [2]: https://ismir2011.ismir.net/
  [3]: /wp-content/uploads/2011/10/Screen-Shot-2011-10-30-at-7.41.54-PM.png

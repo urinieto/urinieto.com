@@ -20,7 +20,7 @@ La propia RTVE ha sido la encargada de subir la promoción de la nueva serie <sp
 
 Vidente:
 
-[youtube=http://www.youtube.com/watch?v=0xr541Sz930&#8243;>
+[youtube=https://www.youtube.com/watch?v=0xr541Sz930&#8243;>
 
 Ricker Esproken, inventor del bajón:
 
@@ -32,4 +32,4 @@ Oriental:
 
 Gañan 2.0:
 
- [1]: http://enochrooted.blogspot.com/2007/09/muchachada-nui.html
+ [1]: https://enochrooted.blogspot.com/2007/09/muchachada-nui.html

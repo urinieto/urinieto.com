@@ -9,14 +9,14 @@ blogger_blog:
 blogger_permalink:
   - /2008/06/el-asombroso-viaje-de-pomponio-flato.html
 thumbnail:
-  src: "http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg"
+  src: "https://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg"
   alt: Thumbnail image
 categories:
   - books
   - eduardo mendoza
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s320/_grandeel_asombroso_viaje_de_pomponio.jpg" border="0" >}}][1]
 
 Un regalo de Madre de Sant Jordi. Y muy entretenido. Hacía tiempo que no leía un libro de estos que estan en los escaparates de todas las librerías y me lo pasaba tan bien. Bueno, es un libro simpático.
 
@@ -30,4 +30,4 @@ Un libro no freak para gente no freak.
   {{< img width='1' height='1' >}}
 </div>
 
- [1]: http://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s1600-h/_grandeel_asombroso_viaje_de_pomponio.jpg
+ [1]: https://1.bp.blogspot.com/_WEHvyZj_jiU/SEUi9E-VUaI/AAAAAAAABJw/AqXCqYPZiu8/s1600-h/_grandeel_asombroso_viaje_de_pomponio.jpg

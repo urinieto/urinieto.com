@@ -55,6 +55,6 @@ Hasa Diga Eebowai!
 {{< youtube -IjBi1eEaAA >}}</iframe>
 
  [1]: /wp-content/uploads/2011/07/Book-of-Mormon.jpg
- [2]: http://www.bookofmormonbroadway.com/
- [3]: http://www.southparkstudios.com/
- [4]: http://www.southparkstudios.com/full-episodes/s07e12-all-about-mormons
+ [2]: https://www.bookofmormonbroadway.com/
+ [3]: https://www.southparkstudios.com/
+ [4]: https://www.southparkstudios.com/full-episodes/s07e12-all-about-mormons

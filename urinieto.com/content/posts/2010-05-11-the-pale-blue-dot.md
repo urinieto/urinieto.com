@@ -36,6 +36,6 @@ The pale blue dot.&#8221;
 
 Carl Sagan, [Pale Blue Dot: A Vision of the Human Future in Space][3]
 
- [1]: http://gizmodo.com/
- [2]: http://gizmodo.com/5513783/the-world-would-be-better-if-everyone-watched-this-video
- [3]: http://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595?tag=gmgamzn-20
+ [1]: https://gizmodo.com/
+ [2]: https://gizmodo.com/5513783/the-world-would-be-better-if-everyone-watched-this-video
+ [3]: https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595?tag=gmgamzn-20

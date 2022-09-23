@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2007/05/y-ahora-qu.html
 thumbnail:
-  src: "http://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg"
+  src: "https://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg"
   alt: Thumbnail image
 categories:
   - ollas
@@ -17,8 +17,8 @@ categories:
 ---
 Después de tanto tiempo, por fin hoy he visto esto:
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s320/credits.jpg" border="0" >}}][1]
 
 Y ahora qué.
 
- [1]: http://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s1600-h/credits.jpg
+ [1]: https://bp2.blogger.com/_WEHvyZj_jiU/Rkrp7PKO25I/AAAAAAAAA4U/QpVNO3rqJtI/s1600-h/credits.jpg

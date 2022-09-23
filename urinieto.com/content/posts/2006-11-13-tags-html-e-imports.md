@@ -22,4 +22,4 @@ Por último, para poder ver correctamente los tags HTML importados a una tiddlyw
 Voy a contactar con Ludo.  
 Una nueva release está lista.
 
- [1]: http://www.tiddlytools.com/#HTMLFormattingPlugin
+ [1]: https://www.tiddlytools.com/#HTMLFormattingPlugin

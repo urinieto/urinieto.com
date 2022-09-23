@@ -24,7 +24,7 @@ Check out my small apps [here][6]. Enjoy titans!
 
  [1]: https://ccrma.stanford.edu/courses/256b/
  [2]: https://ccrma.stanford.edu/~ge/
- [3]: http://mopho.stanford.edu/api/beta/
- [4]: http://www.smule.com/
- [5]: http://mopho.stanford.edu/
+ [3]: https://mopho.stanford.edu/api/beta/
+ [4]: https://www.smule.com/
+ [5]: https://mopho.stanford.edu/
  [6]: https://ccrma.stanford.edu/~urinieto/256b/hw1/

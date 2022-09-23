@@ -25,4 +25,4 @@ If you c&p this in a new file called &#8220;nt&#8221; in your /usr/local/bin, an
 
 Nice!
 
- [1]: http://procbits.com/2011/07/18/open-a-new-tab-in-terminal-app-in-the-same-directory-on-mac-os-x/
+ [1]: https://procbits.com/2011/07/18/open-a-new-tab-in-terminal-app-in-the-same-directory-on-mac-os-x/

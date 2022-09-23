@@ -23,10 +23,10 @@ De vuelta a casa, en la furgo, casi me acabo el libro. Muy, muy bueno. Muy recom
 
 PD: Sí. Ésto tenía que ser en Inglés, pero creo que lo voy a dejar para más adelante&#8230;
 
- [1]: http://www.myspace.com/jeremyenigk
- [2]: http://www.imdb.com/title/tt0477348/
- [3]: http://www.myspace.com/madeebcn
- [4]: http://www.myspace.com/adammadee
- [5]: http://www.myspace.com/thenewraemon
- [6]: http://www.venganza.org/
- [7]: http://www.imdb.com/title/tt0898367/
+ [1]: https://www.myspace.com/jeremyenigk
+ [2]: https://www.imdb.com/title/tt0477348/
+ [3]: https://www.myspace.com/madeebcn
+ [4]: https://www.myspace.com/adammadee
+ [5]: https://www.myspace.com/thenewraemon
+ [6]: https://www.venganza.org/
+ [7]: https://www.imdb.com/title/tt0898367/

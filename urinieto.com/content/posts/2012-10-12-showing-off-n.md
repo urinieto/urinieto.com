@@ -21,8 +21,8 @@ These guys now asked me to make short video about me in NY, as an ex-coworker. A
 
 Gracias titanes!
 
- [1]: http://www.mobivery.com
- [2]: http://www.mobivery.com/es/blog/the-happiness-team-es/mobiveryanos-por-el-mundo-nueva-york
- [3]: http://vimeo.com/51139791
- [4]: http://vimeo.com/mobivery
- [5]: http://vimeo.com
+ [1]: https://www.mobivery.com
+ [2]: https://www.mobivery.com/es/blog/the-happiness-team-es/mobiveryanos-por-el-mundo-nueva-york
+ [3]: https://vimeo.com/51139791
+ [4]: https://vimeo.com/mobivery
+ [5]: https://vimeo.com

@@ -16,7 +16,7 @@ categories:
 Madre mía, ¿cómo me gustan tanto? Hacía mucho tiempo (¿desde Bola de Drac?) que no esperaba con tantas ganas a ver un capítulo de una serie de tv. Gracias [ed115][1] otra vez. &#8220;Esto sí que no me viene mal nunca!&#8221;.
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=gk6QtGcHvcQ&#8221;>
+[youtube=https://www.youtube.com/watch?v=gk6QtGcHvcQ&#8221;>
 
 Parte 2:
 
@@ -24,4 +24,4 @@ Parte 3:
 
 Parte 4:
 
- [1]: http://youtube.com/user/ed1115
+ [1]: https://youtube.com/user/ed1115

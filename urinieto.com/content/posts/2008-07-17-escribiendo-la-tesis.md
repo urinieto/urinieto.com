@@ -9,14 +9,14 @@ blogger_blog:
 blogger_permalink:
   - /2008/07/escriviendo-la-tesis.html
 thumbnail:
-  src: "http://imgs.xkcd.com/comics/internet_argument.png"
+  src: "https://imgs.xkcd.com/comics/internet_argument.png"
   alt: Thumbnail image
 categories:
   - ollas
 
 ---
 <p style="text-align: center;">
-  {{< img src="http://imgs.xkcd.com/comics/internet_argument.png" alt="" >}}
+  {{< img src="https://imgs.xkcd.com/comics/internet_argument.png" alt="" >}}
 </p>
 
 <div class="blogger-post-footer">

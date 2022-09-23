@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2008/01/polvo-estelar.html
 thumbnail:
-  src: "http://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg"
+  src: "https://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg"
   alt: Thumbnail image
 categories:
   - books
@@ -17,7 +17,7 @@ categories:
   - stardust
 
 ---
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg" border="0" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s320/200px-StardustGaimanbookcover.jpg" border="0" >}}][1]
 
 Las estrellas son lo que el mar era para nuestros ancestros. El lugar para soñar, para fascinar, para enamorar y para pensar cuán insignificantes somos. Para pedir deseos cuando vemos una estrella caer y tener la certeza de que sucederá.
 
@@ -27,5 +27,5 @@ Un cuento de la mejor fantasía para adultos. Un Gaiman brillante y que te hace 
 
 Tal vez un día descubramos todas las estrellas. Como hemos hecho con el mar. Y, al final, no habrá hadas, ni fantasmas, ni castillos, ni mundos flotantes, ni amores imposibles allá arriba. Pero eso no importará. Pues nuestra imaginación es insaciable, y seguro que encontraremos algo más allá de las estrellas para seguirla alimentando.
 
- [1]: http://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s1600-h/200px-StardustGaimanbookcover.jpg
- [2]: http://enochrooted.blogspot.com/2007/07/american-gods.html
+ [1]: https://bp0.blogger.com/_WEHvyZj_jiU/R5ScPgP8XzI/AAAAAAAABEw/B5dRwh02phA/s1600-h/200px-StardustGaimanbookcover.jpg
+ [2]: https://enochrooted.blogspot.com/2007/07/american-gods.html

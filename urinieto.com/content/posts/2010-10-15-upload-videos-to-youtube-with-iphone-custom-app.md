@@ -39,10 +39,10 @@ For more information and other type of installations for the API, please read th
 I hope it helps. Any feedback is welcome as always.
 
  [1]: https://developer.apple.com/library/ios/#documentation/AVFoundation/Reference/AVCaptureSession_Class/Reference/Reference.html#//apple_ref/occ/cl/AVCaptureSession
- [2]: http://itunes.apple.com/us/app/sketchwiz/id392835926?mt=8
- [3]: http://itunes.apple.com/us/app/predator-vision/id384111522?mt=8
- [4]: http://itunes.apple.com/us/app/iretroscope/id385118861?mt=8
+ [2]: https://itunes.apple.com/us/app/sketchwiz/id392835926?mt=8
+ [3]: https://itunes.apple.com/us/app/predator-vision/id384111522?mt=8
+ [4]: https://itunes.apple.com/us/app/iretroscope/id385118861?mt=8
  [5]: /iPhone/YouTubeTest.zip
- [6]: http://code.google.com/p/gdata-objectivec-client/downloads/list
- [7]: http://code.google.com/apis/youtube/dashboard/gwt/index.html#newProduct
- [8]: http://code.google.com/p/gdata-objectivec-client/wiki/BuildingTheLibrary#Linking_to_the_iPhone_Static_Library
+ [6]: https://code.google.com/p/gdata-objectivec-client/downloads/list
+ [7]: https://code.google.com/apis/youtube/dashboard/gwt/index.html#newProduct
+ [8]: https://code.google.com/p/gdata-objectivec-client/wiki/BuildingTheLibrary#Linking_to_the_iPhone_Static_Library

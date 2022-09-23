@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/11/synchronizing.html
 thumbnail:
-  src: "http://photos1.blogger.com/x/blogger2/4197/4184/320/682695/sync.jpg"
+  src: "https://photos1.blogger.com/x/blogger2/4197/4184/320/682695/sync.jpg"
   alt: Thumbnail image
 categories:
   - exportdfwiki
@@ -26,7 +26,7 @@ De momento he conseguido meter un botón &#8220;synchronize&#8221; en todos los 
 
 La cosa queda así:
 
-[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://photos1.blogger.com/x/blogger2/4197/4184/320/682695/sync.jpg" border="0" alt="" >}}][1]
+[{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://photos1.blogger.com/x/blogger2/4197/4184/320/682695/sync.jpg" border="0" alt="" >}}][1]
 
 Mientrastanto, Alex está con el tema de importar y exportar directamente en HTML y está teniendo diversos problemas con el formato que usa nuestro import.
 
@@ -34,4 +34,4 @@ He pedido ayuda a la funete de sabiduría de nombre Pigui en el fórum de dfwiki
 
 Y esos es todo. Seguimos adelante
 
- [1]: http://photos1.blogger.com/x/blogger2/4197/4184/1600/339789/sync.jpg
+ [1]: https://photos1.blogger.com/x/blogger2/4197/4184/1600/339789/sync.jpg

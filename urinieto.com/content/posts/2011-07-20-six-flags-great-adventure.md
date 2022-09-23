@@ -78,4 +78,4 @@ And here some pics:
 Ahhh, what a wonderful day it was! I wanna come back again.
 
  [1]: /wp-content/uploads/2011/07/SixFlags1.jpg
- [2]: http://en.wikipedia.org/wiki/Kingda_Ka
+ [2]: https://en.wikipedia.org/wiki/Kingda_Ka

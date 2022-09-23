@@ -19,7 +19,7 @@ Grandioso el Enjuto Mojamuto de ayer. Simplemente grandioso.
 <span style="font-weight:bold;">EDIT 2-XI-07</span>: Aquí lo tenéis. Gracias a ed1115 de nuevo! :]
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=pPRaLS6df6o&rel=1&#8243;>
+[youtube=https://www.youtube.com/watch?v=pPRaLS6df6o&rel=1&#8243;>
 
 Parte 2:
 
@@ -27,4 +27,4 @@ Parte 3:
 
 Parte 4:
 
- [1]: http://es.youtube.com/user/ed1115
+ [1]: https://es.youtube.com/user/ed1115

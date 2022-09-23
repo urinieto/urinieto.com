@@ -41,6 +41,6 @@ Resumiendo: Si quieres compartir archivos públicamente, usa las redes P2P (BitT
 
 **EDIT**: Si no te gusta Dropbox, o si quieres una alternativa opensource para compartir archivos de manera privada, [Zimbra es lo que buscas][3].
 
- [1]: http://www.elmundo.es/elmundo/2012/01/19/navegante/1327002605.html
- [2]: http://en.wikipedia.org/wiki/Kim_Schmitz
- [3]: http://www.jorgedelacruz.es/2012/01/18/el-servidor-webdav-perfecto-un-dropbox-corporativo-gratuito-y-opensource/
+ [1]: https://www.elmundo.es/elmundo/2012/01/19/navegante/1327002605.html
+ [2]: https://en.wikipedia.org/wiki/Kim_Schmitz
+ [3]: https://www.jorgedelacruz.es/2012/01/18/el-servidor-webdav-perfecto-un-dropbox-corporativo-gratuito-y-opensource/

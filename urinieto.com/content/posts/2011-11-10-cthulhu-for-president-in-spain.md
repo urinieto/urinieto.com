@@ -29,5 +29,5 @@ Party in R&#8217;lyeh to celebrate the end of our days!
 > That is not dead which can eternal lie,  
 > And with strange aeons even death may die.
 
- [1]: http://en.wikipedia.org/wiki/R'lyeh
- [2]: http://partidonoeuclidiano.tumblr.com/
+ [1]: https://en.wikipedia.org/wiki/R'lyeh
+ [2]: https://partidonoeuclidiano.tumblr.com/

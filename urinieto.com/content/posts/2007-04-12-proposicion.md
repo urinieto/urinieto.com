@@ -16,7 +16,7 @@ categories:
 ---
 Debo hacer esto:
 
-<http://www.loliplanet.com>
+<https://www.loliplanet.com>
 
 Está en catalán. Descubrir el mundo durante 549 días. Se me cae la baba.
 

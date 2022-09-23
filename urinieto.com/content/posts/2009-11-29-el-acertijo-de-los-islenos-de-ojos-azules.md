@@ -56,6 +56,6 @@ Ahhh, me encantan estas mierdas&#8230;
 
 Hurgando un poco he visto que es un acertijo de [Terence Tao][3] un jovencísimo doctor en matemáticas, Profesor de la universidad de Los Angeles.
 
- [1]: http://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/
+ [1]: https://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/
  [2]: /wp-content/uploads/2009/11/PuertoEscondido.jpg
- [3]: http://www.math.ucla.edu/~tao/
+ [3]: https://www.math.ucla.edu/~tao/

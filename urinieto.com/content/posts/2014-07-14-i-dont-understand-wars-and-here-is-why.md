@@ -17,6 +17,6 @@ Land belongs to no one.
 
 [This Land Is Mine][1] from [Nina Paley][2] on [Vimeo][3].
 
- [1]: http://vimeo.com/50531435
- [2]: http://vimeo.com/user2983855
+ [1]: https://vimeo.com/50531435
+ [2]: https://vimeo.com/user2983855
  [3]: https://vimeo.com

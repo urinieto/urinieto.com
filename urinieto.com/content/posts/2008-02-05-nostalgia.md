@@ -14,4 +14,4 @@ categories:
 ---
 Yo tengo el poder.
 
-[youtube=http://www.youtube.com/watch?v=B_r2ktViKvE&rel=1]
+[youtube=https://www.youtube.com/watch?v=B_r2ktViKvE&rel=1]

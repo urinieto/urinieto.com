@@ -17,7 +17,7 @@ Grandioso. Buenísimo. Espectacular. Jesulin kinpark. Mortadelo.
 Joder, qué grandes.
 
 Parte 1:  
-[youtube=http://www.youtube.com/watch?v=kcCsbMdyqC8&hl=es] 
+[youtube=https://www.youtube.com/watch?v=kcCsbMdyqC8&hl=es] 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

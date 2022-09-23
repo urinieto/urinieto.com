@@ -20,6 +20,6 @@ Solemos dejar poco espacio para las improvisaciones, pero sin querer, en el conc
 
 Y resulta que, cuando hablas con la gente sobre el concierto, la parte que gustó más, fue precisamente ésta. La improvisada:
 
-[youtube=http://www.youtube.com/watch?v=52xYbYkvEEk]
+[youtube=https://www.youtube.com/watch?v=52xYbYkvEEk]
 
 Me encanta tocar con Sargon. Me encanta tener una banda con la que con una breve mirada o un breve gesto de cabeza, te comunicas con ella y sabes, en todo momento, cómo continuar tocando. Puedes estar seguro de que ella (mi querida banda, que es mujer) te seguirá allá a donde vayas.
