@@ -1,5 +1,5 @@
-#[context.production.environment]
-  #HUGO_VERSION = "0.74.3"
+[context.production.environment]
+  HUGO_VERSION = "0.74.3"
 
 #[[headers]]
   ## Define which paths this specific [[headers]] block will cover.
