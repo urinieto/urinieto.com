@@ -10,6 +10,38 @@
     <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
     {{- end -}}
 
+
+    {{ "<!-- Open Graph meta -->" | safeHTML }}
+
+        <meta property="og:site_name" content="Oriol Nieto">
+        <meta property="og:locale" content="{{ $.Site.LanguageCode }}">
+        <meta property="og:url" content="{{ .Site.BaseURL }}">
+        {{ if isset .Params "author" }}
+                <meta property="og:type" content="article">
+                <meta property="og:title" content="{{ $.Params.title }}">
+                <meta property="og:image" content="{{ $.Params.thumbnail.src | absURL }}">
+                <meta property="og:description" content="{{ .Summary }}">
+                <meta property="article:publisher" content="{{ $.Site.BaseURL }}">
+        {{ else }}
+                <meta property="og:type" content="website">
+                <meta property="og:title" content="{{ .Title }}">
+                <meta property="og:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}">
+                <meta property="og:description" content="Nihilistic and Transatlantic Music from Catalonia and California">
+        {{ end }}
+
+        {{ "<!-- Twitter Card Meta -->" | safeHTML }}
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:site" content="@urinieto" />
+        {{ if isset .Params "author" }}
+                <meta name="twitter:title" content="{{ $.Params.title }}" />
+                <meta name="twitter:description" content="{{ .Summary }}" />
+                <meta name="twitter:image" content="{{ $.Params.thumbnail.src | absURL }}" />
+        {{ else }}
+                <meta name="twitter:title" content="{{ .Title }}" />
+                <meta name="twitter:description" content="Nihilistic and Transatlantic Music from Catalonia and California" />
+                <meta name="twitter:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}" />
+        {{ end }}
+
     <!-- CSS -->
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet"
