@@ -4,6 +4,13 @@
 
 My personal website. It's built with [Hugo](https://gohugo.io/) with the [Anatole theme](https://github.com/lxndrblz/anatole). It's hosted at [Netlify](https://www.netlify.com/).
 
+## Install
+
+Clone this repo and activate the submodules:
+
+    git submodule init
+    git submodule update
+
 ## To Add A New Post
 
 Go to the root of the hugo page (urinieto.com/) and type:
