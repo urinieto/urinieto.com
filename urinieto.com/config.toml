@@ -48,8 +48,8 @@ url = "https://www.instagram.com/urinieto/"
 
 [[params.socialIcons]]
 icon = "fa-twitter"
-title = "twitter"
-url = "https://www.twitter.com/urinieto/"
+title = "X"
+url = "https://www.x.com/urinieto/"
 
 [[params.socialIcons]]
 icon = "fa-youtube"
