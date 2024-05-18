@@ -15,6 +15,9 @@ I have contributed to Premiere Pro with several new AI technologies, including [
 I am one of the original authors of the popular audio processing Python framework [librosa](https://librosa.org/).
 I hold a Ph.D in Music Technology from the [Music and Audio Research Lab][6] at the New York University. You can see all my publications, including my Ph.D Dissertation, [here][3].
 
+As a researcher at Adobe, I am always looking for **brilliant graduate students** to collaborate with. 
+If you are interested in doing an internship at Adobe Research, please send me an email with your CV and a brief description of your research interests.
+
 I am an active member of the [ISMIR](https://ismir.net/) community, either as an author, reviewer, meta-reviewer, and/or organization chair since 2012.
 I am General Co-Chair of [ISMIR 2024](https://ismir2024.ismir.net/), which will be held in San Francisco, CA, in November 2024.
 
