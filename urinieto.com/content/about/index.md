@@ -13,7 +13,7 @@ Hola! I am Oriol (Uri) Nieto (he/they), a Senior Audio Research Engineer in the 
 My main [research](https://ccrma.stanford.edu/~urinieto/MARL/publications.php) focuses on machine learning and signal processing applied to audio signals: from understanding to generation, including multi-modal models with text, image, and video; diffusion models for conditional audio generation; contrastive and, more generally, representation learning; music information retrieval; large-scale music recommendation systems; and open source software and data frameworks. 
 I have contributed to Premiere Pro with several new AI technologies, including [Audio Category Tagging](https://helpx.adobe.com/premiere-pro/using/audio-auto-tagging.html).
 I am one of the original authors of the popular audio processing Python framework [librosa](https://librosa.org/).
-I hold a Ph.D in Music Technology from the [Music and Audio Research Lab][6] at the New York University. You can see all my publications, including my Ph.D Dissertation, [here][3].
+You can see all my publications, including my Ph.D Dissertation, [here][3].
 
 As a researcher at Adobe, I am always looking for **brilliant graduate students** to collaborate with. 
 If you are interested in doing an internship at Adobe Research, please send me an email with your CV and a brief description of your research interests.
