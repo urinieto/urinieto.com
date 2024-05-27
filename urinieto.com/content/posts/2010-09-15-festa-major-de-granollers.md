@@ -38,6 +38,7 @@ This video is actually by Oriol Altimira (gràcies titan!). The organizers of th
 
 The Correaigua is also one of my favorite events from la FM. The city hall square, La Plaça de la Porxada, get packed with people dancing to the sound of live music while hundreds of gallons of water are thrown directly to them. Ok, not very environmentally friendly but&#8230; oh man, so good! 
 
+{{< youtube RpcgnpD68Y0 >}}
 
 Looking forward to going there next year one more time.  
 Visca la Festa Major!
