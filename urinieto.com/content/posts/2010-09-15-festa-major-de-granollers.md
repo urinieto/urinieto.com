@@ -34,7 +34,7 @@ This video is actually by Oriol Altimira (gràcies titan!). The organizers of th
 [Correfocs][7] are probably one of the craziest Catalan traditions. The &#8220;devils&#8221; (Diables) have their forks loaded with fireworks that throw sparks to people, while dancing to the sound of drums and walk and run across downtown Granollers.
 
 
-**Correaigua**
+## Correaigua
 
 The Correaigua is also one of my favorite events from la FM. The city hall square, La Plaça de la Porxada, get packed with people dancing to the sound of live music while hundreds of gallons of water are thrown directly to them. Ok, not very environmentally friendly but&#8230; oh man, so good! 
 
