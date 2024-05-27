@@ -11,9 +11,9 @@ categories:
   - granollers
 
 ---
-Recently I&#8217;ve been on vacation in my hometown, [Granollers][1]. This town is located about 20 miles up north from Barcelona. It is usually a quite town with some sad history (second most bombed town during the Spanish Civil War, right after [Gernika][2]), a nice city hall square ([La Plaça de la Porxada][3]), and a big square that everybody knows as the Pussy -as in vagina- Square ([La Plaça del Cony][4]).
+Recently, I've been on vacation in my hometown, [Granollers][1]. This little city of roughly 60k people is located about 20 miles up northeast of Barcelona. It is usually a quiet town with some sad history (second most bombed town during the Spanish Civil War, right after [Gernika][2]), a nice city hall square ([La Plaça de la Porxada][3]), and a big square that everybody knows as the Pussy --as in vagina-- Square ([La Plaça del Cony][4]).
 
-But during the last week of August, a big festival takes over the town: **[La Festa Major de Granollers][5]**. This festival started on 1983, the year I was born, and two teams (Els Blancs i Els Blaus) &#8220;fight&#8221; each other to become the winner of the year. Both teams organize events that show both the culture of our town and how crazy parties are meant to be.
+But during the last week of August, a big festival takes over the town: **[La Festa Major de Granollers][5]**. This festival started in 1983, the year I was born, and two teams (Els Blancs i Els Blaus) _fight_ each other to become the winner of the year. Both teams organize events that show both the culture of our town and how crazy parties are meant to be.
 
 [{{< img src="/wp-content/uploads/2010/09/festamajor.jpg" alt="festamajor" title="festamajor" width="480" height="360" class="aligncenter size-full wp-image-997" >}}][6]
 
@@ -24,11 +24,9 @@ I took some videos of some of the events that I went to. Enjoy them and come to 
 Bicifarra means something like Bike Party. You ride your bike all around the city, stopping at 5 or 6 different bars to have a beer. In the last one you get a delicious catalan sausage. The further you get, the funnier it gets (as long as you keep drinking).
 
 
-
 **Traca dels 1000 metres**
 
 This video is actually by Oriol Altimira (gràcies titan!). The organizers of the event put some fireworks on the pavement of the street and people run for 1000m (3000 feet) while the fireworks bang.
-
 
 
 **Correfoc**
@@ -36,11 +34,9 @@ This video is actually by Oriol Altimira (gràcies titan!). The organizers of th
 [Correfocs][7] are probably one of the craziest Catalan traditions. The &#8220;devils&#8221; (Diables) have their forks loaded with fireworks that throw sparks to people, while dancing to the sound of drums and walk and run across downtown Granollers.
 
 
-
 **Correaigua**
 
 The Correaigua is also one of my favorite events from la FM. The city hall square, La Plaça de la Porxada, get packed with people dancing to the sound of live music while hundreds of gallons of water are thrown directly to them. Ok, not very environmentally friendly but&#8230; oh man, so good! 
-
 
 
 Looking forward to going there next year one more time.  
