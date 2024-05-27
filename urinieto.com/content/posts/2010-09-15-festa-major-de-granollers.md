@@ -19,20 +19,23 @@ But during the last week of August, a big festival takes over the town: **[La Fe
 
 I took some videos of some of the events that I went to. Enjoy them and come to Granollers next year for La Festa Major!
 
-**BiciFarra**
+## BiciFarra
 
 Bicifarra means something like Bike Party. You ride your bike all around the city, stopping at 5 or 6 different bars to have a beer. In the last one you get a delicious catalan sausage. The further you get, the funnier it gets (as long as you keep drinking).
 
+{{< youtube 8RHwZQD5neM >}}
 
-**Traca dels 1000 metres**
+## Traca dels 1000 metres
 
 This video is actually by Oriol Altimira (gràcies titan!). The organizers of the event put some fireworks on the pavement of the street and people run for 1000m (3000 feet) while the fireworks bang.
 
+{{< youtube WbiHbEtF57I >}}
 
-**Correfoc**
+## Correfoc
 
 [Correfocs][7] are probably one of the craziest Catalan traditions. The &#8220;devils&#8221; (Diables) have their forks loaded with fireworks that throw sparks to people, while dancing to the sound of drums and walk and run across downtown Granollers.
 
+{{< youtube uA566onoQVk >}}
 
 ## Correaigua
 
