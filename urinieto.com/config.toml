@@ -47,9 +47,14 @@ title = "instagram"
 url = "https://www.instagram.com/urinieto/"
 
 [[params.socialIcons]]
-icon = "fa-twitter"
-title = "X"
-url = "https://www.x.com/urinieto/"
+icon = "fa-brands fa-bluesky"
+title = "BlueSky"
+url = "https://bsky.app/profile/urinieto.bsky.social"
+
+# [[params.socialIcons]]
+# icon = "fa-twitter"
+# title = "X"
+# url = "https://www.x.com/urinieto/"
 
 [[params.socialIcons]]
 icon = "fa-youtube"
