@@ -8,7 +8,7 @@ menu: "about"
 ---
 Hola! I am Oriol (Uri) Nieto (he/they), a Senior Audio Research Engineer in the Sound Design AI Group at [Adobe Research][1]. I was a Staff Scientist at Pandora before that. I also [make music](https://www.urinieto.com/music-videos/).
 
-{{< img src="/wp-content/uploads/2025/uriColorized.png" alt="" title="uri" width="240" height="350" class="" >}}
+{{< img src="/wp-content/uploads/2025/uriColorized.png" alt="" title="uri" height="500" class="" >}}
 
 My main [research](https://ccrma.stanford.edu/~urinieto/MARL/publications.php) focuses on machine learning and signal processing applied to audio signals: from understanding to generation, including multi-modal models with text, image, and video; diffusion models for conditional audio generation; contrastive and, more generally, representation learning; music information retrieval; large-scale music recommendation systems; and open source software and data frameworks. 
 I have contributed to Premiere Pro with several new AI technologies, including [Audio Category Tagging](https://helpx.adobe.com/premiere-pro/using/audio-auto-tagging.html).
