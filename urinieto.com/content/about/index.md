@@ -15,11 +15,13 @@ I have contributed to Premiere Pro with several new AI technologies, including [
 I am one of the original authors of the popular audio processing Python framework [librosa](https://librosa.org/).
 You can see all my publications, including my Ph.D Dissertation, [here][3].
 
+{{< img src="/wp-content/uploads/2025/uri_sneak5.png" alt="" width="600" >}}
+
 As a researcher at Adobe, I am always looking for **brilliant graduate students** to collaborate with. 
 If you are interested in doing an internship at Adobe Research, please send me an email with your CV and a brief description of your research interests.
 
 I am an active member of the [ISMIR](https://ismir.net/) community, either as an author, reviewer, meta-reviewer, and/or organization chair since 2012.
-I am General Co-Chair of [ISMIR 2024](https://ismir2024.ismir.net/), which will be held in San Francisco, CA, in November 2024.
+I was General Co-Chair of [ISMIR 2024](https://ismir2024.ismir.net/), which took place in San Francisco, CA, in November 2024.
 
 I sing, play guitar, violin, and drums for the psychedelic, depressive, humorous, transatlantic, and transcontinental band [La Bossa d'Urina](http://labossadurina.com). I play cajón, guitars, and sing for the rumba band [Rumbahía](https://open.spotify.com/artist/33eHLBhvDL2U5Xaar4Quel?si=32VQzSBiQGiO98g_wj9D7Q). I was the singer of [Arkaen](https://open.spotify.com/artist/0JrPYalpR8Tnzln37ZQUSI?si=RmWGGL1tSUabK2XS1GBPxw). I was the singer, guitarist, and violinist of [Sargon](https://www.facebook.com/sargonmetal/) for 10 years, and I am the creator of the SCREAMINATOR, the [Growl Hero](https://ccrma.stanford.edu/~urinieto/256/growlhero/index.html), and the [Ultimate Screaming Lessons](https://www.youtube.com/watch?v=1dAdsOjVChI&list=PL473A703483112034). I am also the director of **Jarl'em All Studios**, in ~~Harlem, Brooklyn~~ Oakland, California. 
 My [YouTube Channel](https://www.youtube.com/@enochroot83) contains over 100 music videos and has, as of 2024, close to 2M views.
