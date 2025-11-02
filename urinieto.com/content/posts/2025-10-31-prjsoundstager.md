@@ -1,5 +1,5 @@
 ---
-title: "Project Sound Stager @ Adobe MAX Sneak"
+title: "Project Sound Stager: 2025 Adobe MAX Sneak"
 author: uri
 type: post
 date: 2025-10-31T00:07:50-08:00
