@@ -6,7 +6,7 @@ date: 2008-09-28T22:52:34+00:00
 menu: "about"
 
 ---
-Hola! I am Oriol (Uri) Nieto (he/they), a Senior Audio Research Engineer in the Sound Design AI Group at [Adobe Research][1]. I was a Staff Scientist at Pandora before that. I also [make music](https://www.urinieto.com/music-videos/).
+Hola! I am Oriol (Uri) Nieto (he/they), a Senior Research Engineer II in the Sound Design AI Group at [Adobe Research][1]. I was a Staff Scientist at Pandora before that. I also [make music](https://www.urinieto.com/music-videos/).
 
 {{< img src="/wp-content/uploads/2025/uriColorized.png" alt="" title="uri" width="350" class="" >}}
 
