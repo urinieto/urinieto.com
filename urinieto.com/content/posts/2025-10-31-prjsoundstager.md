@@ -14,27 +14,27 @@ categories:
 
 ---
 
-This week [Adobe MAX](https://www.adobe.com/max.html) took place in Los Angeles, the magical land of entertainment and always summer, and I had the absolute honor to present one of this year's Sneaks: [#ProjectSoundStager](https://www.adobe.com/max/2025/sessions/project-sound-stager-gs3-9.html), a full agentic workflow for AI-driven sound design for video! (Check out the video at the end of this post :-))
+This week [Adobe MAX](https://www.adobe.com/max.html) took place in Los Angeles, the magical land of entertainment and always summer, and I had the absolute honor to present one of this year's Sneaks: [#ProjectSoundStager](https://www.adobe.com/max/2025/sessions/project-sound-stager-gs3-9.html), a full agentic workflow for AI-driven sound design for video! (Full video at the end of this post!)
 
 {{< img src="/wp-content/uploads/2025/uri_sneak.png" alt="" width="600" >}}
 
-The idea of doing a _live demo_ in front of nearly ten thousand in-person attendees, plus thousands more tuning in online, was absolutely terrifying, exhilarating, and truly unforgettable!
+The idea of doing a _live demo_ in front of nearly ten thousand in-person attendees, plus thousands more tuning in online, was absolutely terrifying, exhilarating, and unforgettable!
 
 Project Sound Stager began as an intern project by the brilliant [Suhyeon Yoo](https://catherina423.blogspot.com/), co-mentored by [Anh Truong](https://www.linkedin.com/in/anh-truong-18at), [Prem Seetharaman](https://pseeth.github.io/), [Justin Salamon](https://www.justinsalamon.com/), and myself.
 Originally, Anh was set to present the Sneak, but after she decided to leave Adobe, the "burden" (but truly, the _honor_!) of presenting it was passed on to me.
 
 {{< img src="/wp-content/uploads/2025/uri_sneak2.png" alt="" width="600" >}}
 
-Presenting a Sneak at Adobe MAX has been one of my biggest aspirations since I joined Adobe four years ago. 
+Presenting a Sneak at Adobe MAX has been one of my aspirations since I joined Adobe four years ago. 
 So, even though I had plans to be in Barcelona this week for [DCASE](https://dcase.community/workshop2025/index), I made the decision to cancel everything and take on the challenge of presenting this incredible collaborative project at the legendary [Peacock Theater](https://www.peacocktheater.com/): yes, the same stage where the Emmy's have been held!
 
-After two months since I knew I would be the one presenting this project, and after hours and hours of practice, and after the first few moments, I felt really good up there, and I was able to enjoy this once in a lifetime experience :D
+After two months since I knew I would be the one presenting this project, and after hours and hours of practice, and after the first few moments (when I realized my mouse was not working and fixed it just seconds before the spotlight turned on!), I felt really good up there, and I was able to enjoy this once in a lifetime experience :D
 
 {{< img src="/wp-content/uploads/2025/uri_sneak5.png" alt="" width="600" >}}
 
 Being backstage was literally magical.
-There were dozens of people working tirelessly to ensure everything ran smoothly. 
-Being back there, behind the giant stage screens, surrounded by at least a hundred people running the show, felt what I imagine being at NASA ground control might feel like.
+There were dozens if not hundreds of people working tirelessly to ensure everything ran smoothly. 
+Being back there, behind the giant stage screens, surrounded by so many professionals running the show, felt what I imagine being at NASA ground control might feel like.
 It really does take a village to pull off a production of this scale!
 
 {{< img src="/wp-content/uploads/2025/uri_sneak7.png" alt="" width="600" >}}
