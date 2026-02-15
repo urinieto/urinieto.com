@@ -1,0 +1,182 @@
+{{/* Publications Shortcode for Hugo — see data/publications.yaml for schema */}}
+
+{{ $dataName := .Get "data" | default "publications" }}
+{{ $data := index .Site.Data $dataName }}
+
+{{ if not $data }}
+  <p class="pub-error">⚠️ No publication data found. Please create <code>data/{{ $dataName }}.yaml</code>.</p>
+{{ else }}
+
+{{ $highlightAuthor := $data.highlight_author | default "" }}
+
+{{/* Sections that should NOT show BibTeX buttons */}}
+{{ $noBibtexSections := slice "talks" "music" }}
+
+<div class="publications">
+
+  {{/* Table of Contents */}}
+  <nav class="pub-toc">
+    <ul>
+      {{ range $data.sections }}
+        <li><a href="#{{ .id }}">{{ .name }}</a> <span class="pub-toc-count">({{ len .entries }})</span></li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  {{/* Render each section */}}
+  {{ range $section := $data.sections }}
+  {{ $showBibtex := not (in $noBibtexSections $section.id) }}
+  <section class="pub-section" id="{{ $section.id }}">
+    <h2 class="pub-section-title">{{ $section.name }}</h2>
+
+    <ol class="pub-list" reversed>
+      {{ range .entries }}
+      <li class="pub-entry" id="pub-{{ .key }}">
+
+        {{/* Award badge */}}
+        {{ with .award }}
+        <div class="pub-award">
+          <span class="pub-award-badge">🏆 {{ . }}</span>
+        </div>
+        {{ end }}
+
+        {{/* Title */}}
+        <span class="pub-title">{{ .title }}</span>
+
+        {{/* Authors — highlight the specified author */}}
+        <span class="pub-authors">
+          {{- if $highlightAuthor -}}
+            {{- $parts := split .authors $highlightAuthor -}}
+            {{- range $i, $part := $parts -}}
+              {{- if $i -}}<strong class="pub-highlight-author">{{ $highlightAuthor }}</strong>{{- end -}}
+              {{- $part -}}
+            {{- end -}}
+          {{- else -}}
+            {{- .authors -}}
+          {{- end -}}
+        </span>
+
+        {{/* Venue, location, year */}}
+        <span class="pub-venue">
+          {{- .venue -}}
+          {{- with .volume }}, {{ . }}{{ end -}}
+          {{- with .number }}({{ . }}){{ end -}}
+          {{- with .pages }}, pp. {{ . }}{{ end -}}
+          {{- with .address }}. {{ . }}{{ end -}}
+          , {{ .year -}}
+          {{- with .doi }}. DOI: <a href="https://doi.org/{{ . }}">{{ . }}</a>{{ end -}}
+          .
+        </span>
+
+        {{/* Links row */}}
+        {{/* Build BibTeX string for this entry */}}
+        {{ $bibString := "" }}
+        {{ if $showBibtex }}
+          {{ $type := .bibtex_type | default "inproceedings" }}
+          {{ $authors := replaceRE `\., ` ". and " .authors }}
+          {{ if eq $type "article" }}
+            {{ $bibString = printf "@article{%s,\n  author    = {%s},\n  title     = {%s},\n  journal   = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
+            {{ with .volume }}{{ $bibString = printf "%s,\n  volume    = {%s}" $bibString . }}{{ end }}
+            {{ with .number }}{{ $bibString = printf "%s,\n  number    = {%s}" $bibString . }}{{ end }}
+            {{ with .pages }}{{ $bibString = printf "%s,\n  pages     = {%s}" $bibString (replace . "-" "--") }}{{ end }}
+            {{ with .doi }}{{ $bibString = printf "%s,\n  doi       = {%s}" $bibString . }}{{ end }}
+            {{ with .award }}{{ $bibString = printf "%s,\n  note      = {%s}" $bibString . }}{{ end }}
+            {{ $bibString = printf "%s\n}" $bibString }}
+          {{ else if eq $type "phdthesis" }}
+            {{ $bibString = printf "@phdthesis{%s,\n  author    = {%s},\n  title     = {%s},\n  school    = {%s},\n  year      = {%d}\n}" .key $authors .title .venue .year }}
+          {{ else if eq $type "mastersthesis" }}
+            {{ $bibString = printf "@mastersthesis{%s,\n  author    = {%s},\n  title     = {%s},\n  school    = {%s},\n  year      = {%d}\n}" .key $authors .title .venue .year }}
+          {{ else if eq $type "book" }}
+            {{ $bibString = printf "@book{%s,\n  author    = {%s},\n  title     = {%s},\n  publisher = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
+            {{ with .isbn }}{{ $bibString = printf "%s,\n  isbn      = {%s}" $bibString . }}{{ end }}
+            {{ $bibString = printf "%s\n}" $bibString }}
+          {{ else if eq $type "misc" }}
+            {{ $bibString = printf "@misc{%s,\n  author       = {%s},\n  title        = {%s},\n  howpublished = {%s},\n  year         = {%d}" .key $authors .title .venue .year }}
+            {{ with .address }}{{ $bibString = printf "%s,\n  address      = {%s}" $bibString . }}{{ end }}
+            {{ with .award }}{{ $bibString = printf "%s,\n  note         = {%s}" $bibString . }}{{ end }}
+            {{ $bibString = printf "%s\n}" $bibString }}
+          {{ else }}
+            {{ $bibString = printf "@inproceedings{%s,\n  author    = {%s},\n  title     = {%s},\n  booktitle = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
+            {{ with .address }}{{ $bibString = printf "%s,\n  address   = {%s}" $bibString . }}{{ end }}
+            {{ with .pages }}{{ $bibString = printf "%s,\n  pages     = {%s}" $bibString (replace . "-" "--") }}{{ end }}
+            {{ with .doi }}{{ $bibString = printf "%s,\n  doi       = {%s}" $bibString . }}{{ end }}
+            {{ with .award }}{{ $bibString = printf "%s,\n  note      = {%s}" $bibString . }}{{ end }}
+            {{ $bibString = printf "%s\n}" $bibString }}
+          {{ end }}
+        {{ end }}
+
+        {{ $hasLinks := or .pdf .arxiv .code .slides .video .links $bibString }}
+        {{ if $hasLinks }}
+        <span class="pub-links">
+          {{ with .pdf }}
+            <a href="{{ . }}" class="pub-link pub-link-pdf" target="_blank" rel="noopener">
+              <i class="fa-solid fa-file-pdf"></i> PDF
+            </a>
+          {{ end }}
+          {{ with .arxiv }}
+            <a href="{{ . }}" class="pub-link pub-link-arxiv" target="_blank" rel="noopener">
+              <i class="fa-solid fa-book-open"></i> arXiv
+            </a>
+          {{ end }}
+          {{ with .code }}
+            <a href="{{ . }}" class="pub-link pub-link-code" target="_blank" rel="noopener">
+              <i class="fa-solid fa-code"></i> Code
+            </a>
+          {{ end }}
+          {{ with .slides }}
+            <a href="{{ . }}" class="pub-link pub-link-slides" target="_blank" rel="noopener">
+              <i class="fa-solid fa-display"></i> Slides
+            </a>
+          {{ end }}
+          {{ with .video }}
+            <a href="{{ . }}" class="pub-link pub-link-video" target="_blank" rel="noopener">
+              <i class="fa-solid fa-video"></i> Video
+            </a>
+          {{ end }}
+          {{ range .links }}
+            {{ if .url }}
+            <a href="{{ .url }}" class="pub-link pub-link-extra" target="_blank" rel="noopener">
+              {{ .name }}
+            </a>
+            {{ end }}
+          {{ end }}
+          {{ if $bibString }}
+            <button class="pub-link pub-link-bib" onclick="copyBibtex(this)" data-bibtex="{{ $bibString | htmlEscape }}">
+              <i class="fa-solid fa-quote-right"></i> BibTeX
+            </button>
+          {{ end }}
+        </span>
+        {{ end }}
+
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+
+</div>
+
+<div id="bibtex-toast" class="bibtex-toast" style="display:none;">
+  BibTeX copied to clipboard!
+</div>
+
+<script>
+function copyBibtex(btn) {
+  var bib = btn.getAttribute('data-bibtex');
+  // Decode HTML entities
+  var txt = document.createElement('textarea');
+  txt.innerHTML = bib;
+  var decoded = txt.value;
+  navigator.clipboard.writeText(decoded).then(function() {
+    var toast = document.getElementById('bibtex-toast');
+    toast.style.display = 'block';
+    toast.style.opacity = '1';
+    setTimeout(function() {
+      toast.style.opacity = '0';
+      setTimeout(function() { toast.style.display = 'none'; }, 300);
+    }, 1500);
+  });
+}
+</script>
+
+{{ end }}

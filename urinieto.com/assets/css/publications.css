@@ -1,0 +1,322 @@
+/* ============================================================
+   Publications Shortcode Styles
+   ============================================================
+   Styles for the Hugo publications shortcode.
+   Designed to be theme-agnostic and easily customizable.
+   ============================================================ */
+
+/* --- Table of Contents --- */
+.pub-toc {
+    margin-bottom: 2em;
+    padding: 1em 1.5em;
+    background-color: var(--secondary-bg-color, #f5f5f5);
+    border-radius: 6px;
+    border: 1px solid var(--border-color, rgba(0, 0, 0, 0.1));
+}
+
+.pub-toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em 1.5em;
+}
+
+.pub-toc li {
+    font-size: 14px;
+}
+
+.pub-toc a {
+    color: #2660ab;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.pub-toc a:hover {
+    text-decoration: underline;
+}
+
+.pub-toc-count {
+    color: var(--body-color, #666);
+    font-size: 12px;
+    opacity: 0.7;
+}
+
+/* --- Section --- */
+.pub-section {
+    margin-bottom: 2.5em;
+}
+
+.pub-section-title {
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--heading-color, #5f5f5f);
+    border-bottom: 2px solid var(--border-color, rgba(0, 0, 0, 0.15));
+    padding-bottom: 0.4em;
+    margin-bottom: 1em;
+}
+
+/* --- Publication List --- */
+.pub-list {
+    list-style: none;
+    counter-reset: pub-counter;
+    padding-left: 0;
+    margin: 0;
+}
+
+.pub-list > li {
+    counter-increment: pub-counter;
+}
+
+/* --- Individual Publication Entry --- */
+.pub-entry {
+    position: relative;
+    padding: 0.7em 0 0.7em 2.5em;
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, 0.06));
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+.pub-entry:last-child {
+    border-bottom: none;
+}
+
+/* Numbered counter */
+.pub-entry::before {
+    content: counter(pub-counter) ".";
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    color: var(--body-color, #888);
+    font-size: 13px;
+    font-weight: 600;
+    width: 2em;
+    text-align: right;
+    opacity: 0.6;
+}
+
+/* --- Title --- */
+.pub-title {
+    font-weight: 600;
+    color: var(--heading-color, #333);
+}
+
+.pub-title::before {
+    content: open-quote;
+}
+
+.pub-title::after {
+    content: close-quote;
+}
+
+/* --- Authors --- */
+.pub-authors {
+    color: var(--body-color, #555);
+}
+
+.pub-highlight-author {
+    font-weight: 700;
+    color: var(--heading-color, #333);
+}
+
+/* --- Venue --- */
+.pub-venue {
+    font-style: italic;
+    color: var(--body-color, #555);
+}
+
+.pub-venue a {
+    color: #2660ab;
+    text-decoration: none;
+}
+
+.pub-venue a:hover {
+    text-decoration: underline;
+}
+
+/* --- Links --- */
+.pub-links {
+    display: inline;
+    margin-left: 0.1em;
+}
+
+.pub-link {
+    display: inline-block;
+    padding: 1px 8px;
+    margin: 2px 2px;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none !important;
+    border-radius: 3px;
+    transition: all 0.15s ease;
+    vertical-align: middle;
+    line-height: 1.7;
+}
+
+.pub-link i {
+    margin-right: 3px;
+    font-size: 11px;
+}
+
+/* PDF link */
+.pub-link-pdf {
+    background-color: #dc3545;
+    color: #fff !important;
+    border: 1px solid #dc3545;
+}
+
+.pub-link-pdf:hover {
+    background-color: #c82333;
+    color: #fff !important;
+}
+
+/* arXiv link */
+.pub-link-arxiv {
+    background-color: #b31b1b;
+    color: #fff !important;
+    border: 1px solid #b31b1b;
+}
+
+.pub-link-arxiv:hover {
+    background-color: #8b1515;
+    color: #fff !important;
+}
+
+/* Code link */
+.pub-link-code {
+    background-color: #24292e;
+    color: #fff !important;
+    border: 1px solid #24292e;
+}
+
+.pub-link-code:hover {
+    background-color: #1b1f23;
+    color: #fff !important;
+}
+
+/* Slides link */
+.pub-link-slides {
+    background-color: #007bff;
+    color: #fff !important;
+    border: 1px solid #007bff;
+}
+
+.pub-link-slides:hover {
+    background-color: #0056b3;
+    color: #fff !important;
+}
+
+/* Video link */
+.pub-link-video {
+    background-color: #ff0000;
+    color: #fff !important;
+    border: 1px solid #ff0000;
+}
+
+.pub-link-video:hover {
+    background-color: #cc0000;
+    color: #fff !important;
+}
+
+/* BibTeX copy button */
+.pub-link-bib {
+    background-color: #28a745;
+    color: #fff !important;
+    border: 1px solid #28a745;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.pub-link-bib:hover {
+    background-color: #218838;
+    color: #fff !important;
+}
+
+/* BibTeX toast notification */
+.bibtex-toast {
+    position: fixed;
+    bottom: 2em;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 24px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    z-index: 9999;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+}
+
+/* Extra/generic links */
+.pub-link-extra {
+    background-color: var(--secondary-bg-color, #e9ecef);
+    color: var(--heading-color, #495057) !important;
+    border: 1px solid var(--border-color, #dee2e6);
+}
+
+.pub-link-extra:hover {
+    background-color: var(--border-color, #dee2e6);
+}
+
+/* --- Award Badge --- */
+.pub-award {
+    display: inline;
+}
+
+.pub-award-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    margin-bottom: 4px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #856404;
+    background-color: #fff3cd;
+    border: 1px solid #ffc107;
+    border-radius: 3px;
+    line-height: 1.6;
+}
+
+/* Dark mode support */
+html[data-theme='dark'] .pub-award-badge {
+    background-color: #3d3200;
+    color: #ffc107;
+    border-color: #665200;
+}
+
+html[data-theme='dark'] .pub-link-extra {
+    background-color: #2c2d32;
+    color: #bfbfbf !important;
+    border-color: #444;
+}
+
+html[data-theme='dark'] .pub-link-extra:hover {
+    background-color: #3a3b40;
+}
+
+/* --- Error message --- */
+.pub-error {
+    color: #dc3545;
+    font-weight: 600;
+    padding: 1em;
+    background-color: #fff3f3;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+}
+
+/* --- Responsive --- */
+@media screen and (max-width: 960px) {
+    .pub-toc ul {
+        flex-direction: column;
+        gap: 0.3em;
+    }
+
+    .pub-entry {
+        padding-left: 2em;
+    }
+}

@@ -1,0 +1,745 @@
+# Publications data file for urinieto.com
+# This file is the single source of truth for all publications.
+# The publications shortcode reads from this file and renders the list.
+#
+# Fields:
+#   key:          BibTeX citation key (required, must be unique)
+#   title:        Paper title (required)
+#   authors:      Author list as a string (required)
+#   venue:        Conference/journal/publisher name (required)
+#   year:         Publication year (required)
+#   address:      Location of conference (optional)
+#   pages:        Page numbers (optional)
+#   volume:       Volume number (optional)
+#   number:       Issue number (optional)
+#   doi:          DOI string (optional)
+#   pdf:          URL to PDF (optional)
+#   arxiv:        URL to arXiv page (optional)
+#   code:         URL to code repository (optional)
+#   slides:       URL to slides (optional)
+#   video:        URL to video (optional)
+#   award:        Award text, e.g. "Best Student Paper" (optional)
+#   bibtex_type:  BibTeX entry type: inproceedings, article, phdthesis, mastersthesis, misc, book (optional, default: inproceedings)
+#   links:        Additional named links as list of {name, url} (optional)
+
+highlight_author: "Nieto, O."
+
+sections:
+  # ===========================================================================
+  # PEER REVIEWED ARTICLES
+  # ===========================================================================
+  - name: "Peer Reviewed Articles"
+    id: "peer-reviewed"
+    entries:
+      # --- 2025 ---
+      - key: kumar2025sila
+        title: "SILA: Signal-to-Language Augmentation for Enhanced Control in Text-to-Audio Generation"
+        authors: "Kumar, S., Seetharaman, P., Salamon, J., Manocha, D., Nieto, O."
+        venue: "Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+        year: 2025
+        address: "Tahoe City, CA, USA"
+        arxiv: "https://arxiv.org/abs/2412.09789"
+        bibtex_type: inproceedings
+
+      - key: wu2025flam
+        title: "FLAM: Frame-Wise Language-Audio Modeling"
+        authors: "Wu, Y., Tsirigotis, C., Chen, K., Huang, C. A., Courville, A., Nieto, O., Seetharaman, P., Salamon, J."
+        venue: "Proc. of the 47th International Conference on Machine Learning (ICML)"
+        year: 2025
+        address: "Vancouver, BC, Canada"
+        arxiv: "https://arxiv.org/abs/2505.05335"
+        bibtex_type: inproceedings
+
+      - key: chen2025foley
+        title: "Video-Guided Foley Sound Generation with Multimodal Controls"
+        authors: "Chen, Z., Seetharaman, P., Russell, B., Nieto, O., Bourgin, D., Owens, A., Salamon, J."
+        venue: "The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)"
+        year: 2025
+        address: "Nashville, TN, USA"
+        arxiv: "https://arxiv.org/abs/2411.17698"
+        bibtex_type: inproceedings
+
+      - key: ghosh2025vdg
+        title: "Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs"
+        authors: "Ghosh, S., Evuru, C. K. R., Kumar, S., Tyagi, U., Nieto, O., Jin, Z., Manocha, D."
+        venue: "Proc. of the 13th International Conference on Learning Representations (ICLR)"
+        year: 2025
+        address: "Singapore"
+        arxiv: "https://arxiv.org/abs/2405.15683"
+        bibtex_type: inproceedings
+
+      - key: sakshi2025mmau
+        title: "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark"
+        authors: "Sakshi, S., Tyagi, U., Kumar, S., Seth, A., Selvakumar, R., Nieto, O., Duraiswami, R., Ghosh, S., Manocha, D."
+        venue: "Proc. of the 13th International Conference on Learning Representations (ICLR)"
+        year: 2025
+        address: "Singapore"
+        award: "Top 5.1% conference paper (spotlighted)"
+        arxiv: "https://arxiv.org/abs/2410.19168"
+        bibtex_type: inproceedings
+
+      - key: flores2025sketch2sound
+        title: "Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations"
+        authors: "Flores García, H., Nieto, O., Salamon, J., Pardo, B., Seetharaman, P."
+        venue: "Proc. of the 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2025
+        address: "Hyderabad, India"
+        arxiv: "https://arxiv.org/abs/2412.08550"
+        bibtex_type: inproceedings
+
+      - key: ghosh2025reclap
+        title: "ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds"
+        authors: "Ghosh, S., Kumar, S., Evuru, C. K. R., Nieto, O., Duraiswami, R., Manocha, D."
+        venue: "Proc. of the 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2025
+        address: "Hyderabad, India"
+        arxiv: "https://arxiv.org/abs/2409.09213"
+        bibtex_type: inproceedings
+
+      # --- 2024 ---
+      - key: manco2024augment
+        title: "Augment, Drop & Swap: Improving Diversity in LLM Captions for Efficient Music-Text Representation Learning"
+        authors: "Manco, I., Salamon, J., Nieto, O."
+        venue: "Proc. of the 25th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2024
+        address: "San Francisco, CA, USA"
+        arxiv: "https://arxiv.org/abs/2409.11498"
+        bibtex_type: inproceedings
+
+      - key: ghosh2024gama
+        title: "GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities"
+        authors: "Ghosh, S., Kumar, S., Seth, A., Kiran, C., Evuru, R., Tyagi, U., Sakshi, S., Nieto, O., Duraiswami, R., Manocha, D."
+        venue: "Proc. of the 19th Empirical Methods in Natural Language Processing Conference (EMNLP)"
+        year: 2024
+        address: "Miami, Florida, USA"
+        award: "Top 5% conference paper (oral)"
+        arxiv: "https://arxiv.org/abs/2406.11768"
+        bibtex_type: inproceedings
+
+      - key: ghosh2024compa
+        title: "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models"
+        authors: "Ghosh, S., Seth, A., Kumar, S., Tyagi, U., Evuru, C. K., Ramaneswaran, S., Sakshi, S., Nieto, O., Duraiswami, R., Manocha, D."
+        venue: "Proc. of the 12th International Conference on Learning Representations (ICLR)"
+        year: 2024
+        address: "Vienna, Austria"
+        arxiv: "https://arxiv.org/abs/2310.08753"
+        bibtex_type: inproceedings
+
+      # --- 2023 ---
+      - key: wilkins2023bridging
+        title: "Bridging High-Quality Audio and Video via Language for Sound Effects Retrieval from Visual Queries"
+        authors: "Wilkins, J., Salamon, J., Fuentes, M., Bello, J. P., Nieto, O."
+        venue: "Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+        year: 2023
+        address: "New Paltz, NY, USA"
+        arxiv: "https://arxiv.org/abs/2308.09089"
+        bibtex_type: inproceedings
+
+      - key: nieto2023efficient
+        title: "Efficient Spoken Language Recognition via Multilabel Classification"
+        authors: "Nieto, O., Jin, Z., Dernoncourt, F., Salamon, J."
+        venue: "Proc. of the 24th InterSpeech Conference"
+        year: 2023
+        address: "Dublin, Ireland"
+        arxiv: "https://arxiv.org/abs/2306.01945"
+        bibtex_type: inproceedings
+
+      - key: tan2023trimodal
+        title: "Language-Guided Audio-Visual Source Separation via Trimodal Consistency"
+        authors: "Tan, R., Burns, A., Ray, A., Plummer, B. A., Nieto, O., Salamon, J., Russell, B., Saenko, K."
+        venue: "Proc. of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)"
+        year: 2023
+        address: "Vancouver, BC, Canada"
+        award: "Top 10% conference paper (highlighted)"
+        arxiv: "https://arxiv.org/abs/2303.16342"
+        bibtex_type: inproceedings
+
+      - key: wu2023audiotext
+        title: "Audio-Text Models Do Not Yet Leverage Natural Language"
+        authors: "Wu, H., Nieto, O., Bello, J. P., Salamon, J."
+        venue: "Proc. of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2023
+        address: "Rhodes, Greece"
+        arxiv: "https://arxiv.org/abs/2303.10667"
+        bibtex_type: inproceedings
+
+      # --- 2022 ---
+      - key: kandpal2022music
+        title: "Music Enhancement Via Image Translation and Vocoding"
+        authors: "Kandpal, N., Nieto, O., Jin, Z."
+        venue: "Proc. of the 47th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2022
+        address: "Singapore"
+        arxiv: "https://arxiv.org/abs/2204.13289"
+        bibtex_type: inproceedings
+
+      # --- 2021 ---
+      - key: salamon2021deep
+        title: "Deep Embeddings and Section Fusion Improve Music Segmentation"
+        authors: "Salamon, J., Nieto, O., Bryan, N. J."
+        venue: "Proc. of the 22nd International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2021
+        pages: "594-601"
+        bibtex_type: inproceedings
+
+      - key: won2021multimodal
+        title: "Multimodal Metric Learning for Tag-Based Music Retrieval"
+        authors: "Won, M., Oramas, S., Nieto, O., Gouyon, F., Serra, X."
+        venue: "Proc. of the 46th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2021
+        address: "Toronto, Canada"
+        arxiv: "https://arxiv.org/abs/2010.16030"
+        bibtex_type: inproceedings
+
+      # --- 2020 ---
+      - key: nieto2020structure
+        title: "Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications"
+        authors: "Nieto, O., Mysore, G. J., Wang, C.-i., Smith, J. B. L., Schlüter, J., Grill, T., McFee, B."
+        venue: "Transactions of the International Society for Music Information Retrieval (TISMIR)"
+        year: 2020
+        volume: "3"
+        number: "1"
+        pages: "246-263"
+        doi: "10.5334/tismir.54"
+        bibtex_type: article
+
+      - key: korzeniowski2020mood
+        title: "Mood Classification Using Listening Data"
+        authors: "Korzeniowski, F., Nieto, O., McCallum, M., Won, M., Oramas, S., Schmidt, E."
+        venue: "Proc. of the 21st International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2020
+        address: "Montreal, Quebec, Canada"
+        arxiv: "https://arxiv.org/abs/2010.11512"
+        bibtex_type: inproceedings
+
+      - key: won2020harmonic
+        title: "Data-Driven Harmonic Filters For Audio Representation Learning"
+        authors: "Won, M., Chun, S., Nieto, O., Serra, X."
+        venue: "Proc. of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2020
+        address: "Barcelona, Spain"
+        bibtex_type: inproceedings
+
+      # --- 2019 ---
+      - key: nieto2019harmonix
+        title: "The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music"
+        authors: "Nieto, O., McCallum, M., Davies, M., Robertson, A., Stark, A., Egozy, E."
+        venue: "Proc. of the 20th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2019
+        address: "Delft, The Netherlands"
+        bibtex_type: inproceedings
+
+      # --- 2018 ---
+      - key: ren2018pattern
+        title: "Investigating Musical Pattern Ambiguity in a Human Annotated Dataset"
+        authors: "Ren, I. Y., Nieto, O., Hendrik, V. K., Volk, A., Swierstra, W."
+        venue: "Proc. of the 15th International Conference on Music Perception and Cognition (ICMPC)"
+        year: 2018
+        address: "Graz, Austria"
+        bibtex_type: inproceedings
+
+      - key: pons2018endtoend
+        title: "End-to-End Learning for Music Audio Tagging at Scale"
+        authors: "Pons, J., Nieto, O., Prockup, M., Schmidt, E., Ehmann, A., Serra, X."
+        venue: "Proc. of the 19th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2018
+        address: "Paris, France"
+        award: "Best Student Paper"
+        arxiv: "https://arxiv.org/abs/1711.02520"
+        bibtex_type: inproceedings
+
+      - key: oramas2018multimodal
+        title: "Multimodal Deep Learning for Music Genre Classification"
+        authors: "Oramas, S., Barbieri, F., Nieto, O., Serra, X."
+        venue: "Transactions of the International Society for Music Information Retrieval (TISMIR)"
+        year: 2018
+        arxiv: "https://arxiv.org/abs/1707.04916"
+        bibtex_type: article
+
+      # --- 2017 ---
+      # TODO: The following entries from ~2013-2017 were truncated in the source.
+      # Please verify and add any missing publications from this period.
+      # The truncated section started with:
+      #   "Ebrahimi, S., Hossein, V., Prock..."
+      # and ended just before the ISMIR 2012 entry.
+
+      - key: oramas2017deep
+        title: "A Deep Multimodal Approach for Cold-start Music Recommendation"
+        authors: "Oramas, S., Nieto, O., Sordo, M., Serra, X."
+        venue: "Proc. of the 2nd Workshop on Deep Learning for Recommender Systems (DLRS), at RecSys"
+        year: 2017
+        address: "Como, Italy"
+        arxiv: "https://arxiv.org/abs/1706.09739"
+        bibtex_type: inproceedings
+
+      - key: ebrahimi2017predictive
+        title: "A Predictive Model for Music Based on Learned Note Encodings"
+        authors: "Ebrahimi, S., Hosseini Nasab, V., Prockup, M., Nieto, O., Schmidt, E. M., Ehmann, A. F."
+        venue: "Proc. of the Workshop on Machine Learning for Music Discovery (ML4MD), at ICML"
+        year: 2017
+        address: "Sydney, Australia"
+        bibtex_type: inproceedings
+
+      # --- 2016 ---
+      - key: nieto2016systematic
+        title: "Systematic Exploration of Computational Music Structure Research"
+        authors: "Nieto, O., Bello, J. P."
+        venue: "Proc. of the 17th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2016
+        address: "New York City, NY, USA"
+        bibtex_type: inproceedings
+
+      # --- 2015 ---
+      - key: prockup2015modeling
+        title: "Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features"
+        authors: "Prockup, M., Ehmann, A. F., Gouyon, F., Schmidt, E. M., Nieto, O."
+        venue: "Proc. of the 16th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2015
+        address: "Málaga, Spain"
+        bibtex_type: inproceedings
+
+      - key: nieto2015convex
+        title: "Convex Non-Negative Matrix Factorization for Automatic Music Structure Identification"
+        authors: "Nieto, O., Jehan, T."
+        venue: "Proc. of the 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2013
+        address: "Vancouver, BC, Canada"
+        bibtex_type: inproceedings
+
+      # --- 2014 ---
+      - key: nieto2014music
+        title: "Music Segment Similarity Using 2D-Fourier Magnitude Coefficients"
+        authors: "Nieto, O., Bello, J. P."
+        venue: "Proc. of the 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2014
+        address: "Florence, Italy"
+        bibtex_type: inproceedings
+
+      - key: nieto2014perceptual
+        title: "Identifying Polyphonic Patterns from Audio Recordings Using Music Segmentation Techniques"
+        authors: "Nieto, O., Farbood, M."
+        venue: "Proc. of the 15th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2014
+        address: "Taipei, Taiwan"
+        bibtex_type: inproceedings
+
+      # --- 2013 ---
+      - key: humphrey2013data
+        title: "Data Driven and Discriminative Projections for Large-Scale Cover Song Identification"
+        authors: "Humphrey, E. J., Nieto, O., Bello, J. P."
+        venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2013
+        address: "Curitiba, Brazil"
+        bibtex_type: inproceedings
+
+      - key: nieto2013compressed
+        title: "Compressed Music Information Retrieval"
+        authors: "Nieto, O., Humphrey, E. J., Bello, J. P."
+        venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2013
+        address: "Curitiba, Brazil"
+        bibtex_type: inproceedings
+
+      # --- 2012 ---
+      - key: nieto2012musicstructure
+        title: "Music Structure Estimation Using the Homogeneity-Based Approach"
+        authors: "Nieto, O., Bello, J. P."
+        venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2012
+        pages: "313-318"
+        address: "Porto, Portugal"
+        bibtex_type: inproceedings
+
+      - key: nieto2012perceptual
+        title: "Perceptual Evaluation of Automatically Extracted Musical Motives"
+        authors: "Nieto, O., Farbood, M."
+        venue: "Proc. of the 12th International Conference on Music Perception and Cognition (ICMPC)"
+        year: 2012
+        pages: "723-727"
+        address: "Thessaloniki, Greece"
+        bibtex_type: inproceedings
+
+  # ===========================================================================
+  # ALGORITHMS
+  # ===========================================================================
+  - name: "Algorithms"
+    id: "algorithms"
+    entries:
+      - key: nieto2016mirex
+        title: "MIREX 2016 Entry: MSAF V0.1.0 Submission"
+        authors: "Nieto, O."
+        venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
+        year: 2016
+        address: "New York City, NY, USA"
+        code: "https://github.com/urinieto/msaf"
+        bibtex_type: misc
+
+      - key: nieto2014mirex2d
+        title: "MIREX 2014 Entry: 2D Fourier Magnitude Coefficients"
+        authors: "Nieto, O., Bello, J. P."
+        venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
+        year: 2014
+        address: "Taipei, Taiwan"
+        code: "https://github.com/urinieto/msaf"
+        bibtex_type: misc
+
+      - key: nieto2014mirexseg
+        title: "MIREX 2014 Entry: Music Segmentation Techniques and Greedy Path Finder Algorithm to Discover Musical Patterns"
+        authors: "Nieto, O., Farbood, M."
+        venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
+        year: 2014
+        address: "Taipei, Taiwan"
+        code: "https://github.com/urinieto/msaf"
+        bibtex_type: misc
+
+      - key: nieto2014mirexcnmf
+        title: "MIREX 2014 Entry: Convex Non-negative Matrix Factorization"
+        authors: "Nieto, O., Jehan, T."
+        venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
+        year: 2014
+        address: "Taipei, Taiwan"
+        code: "https://github.com/urinieto/msaf"
+        bibtex_type: misc
+
+      - key: nieto2013mirex
+        title: "MIREX 2013: Discovering Musical Patterns Using Audio Structural Segmentation Techniques"
+        authors: "Nieto, O., Farbood, M."
+        venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
+        year: 2013
+        address: "Curitiba, Brazil"
+        bibtex_type: misc
+
+  # ===========================================================================
+  # THESES
+  # ===========================================================================
+  - name: "Theses"
+    id: "theses"
+    entries:
+      - key: nieto2015phd
+        title: "Discovering Structure in Music: Automatic Approaches and Perceptual Evaluations"
+        authors: "Nieto, O."
+        venue: "New York University. PhD Dissertation"
+        year: 2015
+        slides: ""
+        video: ""
+        bibtex_type: phdthesis
+
+      - key: nieto2008masters
+        title: "Voice Transformations for Extreme Vocal Effects"
+        authors: "Nieto, O."
+        venue: "Pompeu Fabra University. Master's Thesis"
+        year: 2008
+        bibtex_type: mastersthesis
+
+      - key: nieto2007undergrad
+        title: "Desenvolupament Open Source per a E-Learning-II"
+        authors: "Nieto, O."
+        venue: "Polytechnic University of Catalonia. Undergrad's Thesis"
+        year: 2007
+        bibtex_type: mastersthesis
+
+  # ===========================================================================
+  # SELECTED TALKS
+  # ===========================================================================
+  - name: "Selected Talks"
+    id: "talks"
+    entries:
+      - key: nieto2021wimir
+        title: "Overview, Challenges, and Applications of Audio-based Music Structure Analysis"
+        authors: "Nieto, O."
+        venue: "Women in Music Information Retrieval Workshop (ISMIR)"
+        year: 2021
+        address: "Virtual"
+        slides: ""
+        bibtex_type: misc
+
+      - key: nieto2020globalai
+        title: "Music Recommendation with Waveform-based Architectures"
+        authors: "Nieto, O."
+        venue: "4th Global AI Conference"
+        year: 2020
+        address: "Santa Clara, CA, USA"
+        slides: ""
+        bibtex_type: misc
+
+      - key: nieto2019upf
+        title: "Spectral Analysis and Detection of Extreme Vocal Effects (with CNNs)"
+        authors: "Nieto, O."
+        venue: "Research Seminar. Universitat Pompeu Fabra"
+        year: 2019
+        address: "Barcelona, Spain"
+        slides: ""
+        bibtex_type: misc
+
+      - key: nieto2019brazil
+        title: "Spectral Analysis and Detection of Extreme Vocal Effects"
+        authors: "Nieto, O."
+        venue: "2nd International Symposium on Distorted Voices"
+        year: 2019
+        address: "São Paulo, Brazil"
+        slides: ""
+        bibtex_type: misc
+
+      - key: nieto2019usf
+        title: "Recommending Music with Waveform Architectures at Scale (Extended Version)"
+        authors: "Nieto, O."
+        venue: "Seminar Series in Data Science. University of San Francisco"
+        year: 2019
+        address: "San Francisco, CA, USA"
+        slides: ""
+        bibtex_type: misc
+
+      - key: nieto2018dlbcn
+        title: "Recommending Music with Waveform Architectures at Scale"
+        authors: "Nieto, O."
+        venue: "Deep Learning Barcelona Symposium. Pompeu Fabra University"
+        year: 2018
+        address: "Barcelona, Spain"
+        slides: ""
+        video: ""
+        bibtex_type: misc
+
+      - key: nieto2017coldstart
+        title: "Cold-Start Music Recommendation Using Multimodal Deep Architectures"
+        authors: "Nieto, O."
+        venue: "Systematic Approaches to Deep Learning Methods for Audio. Erwin Schrödinger Institute, University of Vienna"
+        year: 2017
+        address: "Vienna, Austria"
+        bibtex_type: misc
+
+      - key: nieto2017longtail
+        title: "Long Tail Music Recommendation Using Deep Architectures"
+        authors: "Nieto, O."
+        venue: "International Workshop on Deep Learning for Music (IJCNN)"
+        year: 2017
+        address: "Anchorage, AK, USA"
+        bibtex_type: misc
+
+      - key: nieto2017stanford
+        title: "Deep Learning for Large-Scale Music Recommendation"
+        authors: "Nieto, O."
+        venue: "Data-Driven Research in Music Cognition. Stanford University"
+        year: 2017
+        address: "Stanford, CA, USA"
+        bibtex_type: misc
+
+      - key: nieto2016upf
+        title: "Deep Learning for Music Recommendation: Machine Listening and Collaborative Filtering"
+        authors: "Nieto, O."
+        venue: "Seminar on Music Knowledge Extraction Using Machine Learning. Pompeu Fabra University"
+        year: 2016
+        address: "Barcelona, Spain"
+        bibtex_type: misc
+
+      - key: nieto2016stanford
+        title: "Deep Learning for Large Scale Music Recommendation"
+        authors: "Nieto, O."
+        venue: "Biostat Seminar. Stanford University"
+        year: 2016
+        address: "Stanford, CA, USA"
+        bibtex_type: misc
+
+      - key: nieto2014cogmir
+        title: "Multiple Annotations and Subjectivity in the Identification of Segment Boundaries in Music"
+        authors: "Nieto, O., Farbood, M."
+        venue: "Cognitive Music Information Retrieval (CogMIR)"
+        year: 2014
+        address: "Toronto, ON, Canada"
+        bibtex_type: misc
+
+      - key: nieto2014nemisig
+        title: "Music Segment Similarity Using 2D-Fourier Magnitude Coefficients"
+        authors: "Nieto, O., Bello, J. P."
+        venue: "North East Music Information Special Interest Group (NEMISIG)"
+        year: 2014
+        address: "New York, NY, USA"
+        bibtex_type: misc
+
+      - key: nieto2013cogmir
+        title: "A Perceptually Based Evaluation of Music Boundaries"
+        authors: "Nieto, O., Farbood, M., Bello, J. P."
+        venue: "Cognitive Music Information Retrieval (CogMIR)"
+        year: 2013
+        address: "Toronto, ON, Canada"
+        bibtex_type: misc
+
+      - key: nieto2013upf
+        title: "Music Structure Analysis and New Musical Interfaces"
+        authors: "Nieto, O."
+        venue: "Pompeu Fabra University"
+        year: 2013
+        address: "Barcelona, Spain"
+        bibtex_type: misc
+
+      - key: nieto2013nemisig
+        title: "Music Structure Analysis by Matrix Factorization"
+        authors: "Nieto, O., Jehan, T."
+        venue: "North East Music Information Special Interest Group (NEMISIG)"
+        year: 2013
+        address: "Boston, MA, USA"
+        bibtex_type: misc
+
+  # ===========================================================================
+  # MUSIC
+  # ===========================================================================
+  - name: "Music"
+    id: "music"
+    entries:
+      - key: bolsa2022bossa1
+        title: "La Bossa d'Urina: El Primer Disc"
+        authors: "Bolsa, D., Nieto, O."
+        venue: "Published by Record Union"
+        year: 2022
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: cobo2021rumbahia2
+        title: "Rumbahía: Casi al Compás"
+        authors: "Cobo, L. C., Cardona, J., Grant, E. E., Melendo, D., Nieto, O."
+        venue: "Published by CDBaby"
+        year: 2021
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: cobo2019rumbahia1
+        title: "Rumbahía: Aprendiendo"
+        authors: "Cobo, L. C., Cardona, J., Gallegos, J., Melendo, D., Nieto, O."
+        venue: "Published by CDBaby"
+        year: 2019
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: bolsa2018merda
+        title: "La Bossa d'Urina: Merda Fina"
+        authors: "Bolsa, D., Nieto, O."
+        venue: "Published by Record Union"
+        year: 2018
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "iTunes"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: henson2017arkaen
+        title: "Arkaen: Arkaen"
+        authors: "Henson, S., Nieto, O., Nuñez, J., Remas, E., Rickher, G."
+        venue: "Published by Record Union"
+        year: 2017
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "iTunes"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: bolsa2015bossa
+        title: "La Bossa d'Urina: La Bossa d'Urina"
+        authors: "Bolsa, D., Nieto, O."
+        venue: "Published by Cydonia Records"
+        year: 2015
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "iTunes"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: ferreiro2009vida
+        title: "Sargon: Vida"
+        authors: "Ferreiro, C., Llobet, J., Nieto, O., Prim, M."
+        venue: "Album edited by Weight Recordings"
+        year: 2009
+        bibtex_type: misc
+        links:
+          - name: "Pandora"
+            url: ""
+          - name: "iTunes"
+            url: ""
+          - name: "Spotify"
+            url: ""
+          - name: "Amazon"
+            url: ""
+
+      - key: ferreiro2005sargon
+        title: "Sargon: Transcriptions"
+        authors: "Ferreiro, C., Llobet, J., Nieto, O., Prim, M."
+        venue: "Album edited by Big Bang Records"
+        year: 2005
+        bibtex_type: misc
+
+  # ===========================================================================
+  # OTHER
+  # ===========================================================================
+  - name: "Other"
+    id: "other"
+    entries:
+      - key: won2019tagging
+        title: "Automatic Music Tagging with Harmonic CNN"
+        authors: "Won, M., Sanghyuk, C., Nieto, O., Serra, X."
+        venue: "Late Breaking Session of the International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2019
+        address: "Delft, The Netherlands"
+        bibtex_type: misc
+
+      - key: nieto2015msaf
+        title: "MSAF: Music Structure Analysis Framework"
+        authors: "Nieto, O., Bello, J. P."
+        venue: "International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2015
+        address: "Málaga, Spain"
+        bibtex_type: misc
+
+      - key: nieto2013latebreak
+        title: "2013 Late Break Session on Music Segmentation"
+        authors: "Nieto, O., Smith, J. B. L."
+        venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2013
+        address: "Curitiba, Brazil"
+        bibtex_type: misc
+
+      - key: rocha2012latebreak
+        title: "Late-break Session on Music Structure Analysis"
+        authors: "Rocha, B., Smith, J. B. L., Peeters, G., Ross, J. C., Nieto, O., Van Balen, J."
+        venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2012
+        address: "Porto, Portugal"
+        bibtex_type: misc
+
+      - key: nieto2007sistemas
+        title: "Sistemas Operativos: Cuaderno de Laboratorio"
+        authors: "Nieto, O., Pajuelo, A., López, D., Millan, A., Heredero, A., Duran, A., Herrero, J. R., Verdú, X., Becerra, Y., Morancho, E."
+        venue: "Department of Computer Architecture. Polytechnic University of Catalonia"
+        year: 2007
+        isbn: "978-84-612-1002-2"
+        bibtex_type: book
