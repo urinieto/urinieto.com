@@ -23,7 +23,7 @@ html[data-theme='dark'] {
     --heading-color: rgb(169, 169, 179);
     --body-color: rgb(169, 169, 179);
     --post-color: rgba(0, 0, 0, 0.44);
-    --border-color: rgb(38, 38, 38);
+    --border-color: rgba(255, 255, 255, 0.15);
     --pre-bg-color: rgb(33, 33, 45);
     --nav-text-color: rgb(191, 191, 191);
     --tag-color: rgb(191, 191, 191);

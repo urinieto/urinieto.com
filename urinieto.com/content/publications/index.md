@@ -7,7 +7,7 @@ outputs:
   - html
 
 ---
-For further stats and detaisl, check out my [Google Scholar Profile][1].
+For further stats and details, check out my [Google Scholar Profile][1].
 
 {{< publications >}}
 
