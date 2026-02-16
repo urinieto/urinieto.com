@@ -105,7 +105,7 @@
           {{ end }}
         {{ end }}
 
-        {{ $hasLinks := or .pdf .arxiv .code .slides .video .links $bibString }}
+        {{ $hasLinks := or .pdf .arxiv .code .slides .video .demo .links $bibString }}
         {{ if $hasLinks }}
         <span class="pub-links">
           {{ with .pdf }}
@@ -131,6 +131,11 @@
           {{ with .video }}
             <a href="{{ . }}" class="pub-link pub-link-video" target="_blank" rel="noopener">
               <i class="fa-solid fa-video"></i> Video
+            </a>
+          {{ end }}
+          {{ with .demo }}
+            <a href="{{ . }}" class="pub-link pub-link-demo" target="_blank" rel="noopener">
+              <i class="fa-solid fa-globe"></i> Demo
             </a>
           {{ end }}
           {{ range .links }}

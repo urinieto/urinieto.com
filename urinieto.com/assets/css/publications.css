@@ -222,6 +222,18 @@
     color: #a93226 !important;
 }
 
+/* Demo link */
+.pub-link-demo {
+    color: #7c3aed !important;
+    background-color: rgba(124, 58, 237, 0.08);
+    border: 1px solid rgba(124, 58, 237, 0.25);
+}
+
+.pub-link-demo:hover {
+    background-color: rgba(124, 58, 237, 0.18);
+    color: #6d28d9 !important;
+}
+
 /* BibTeX copy button */
 .pub-link-bib {
     color: #1e8449 !important;
@@ -338,6 +350,16 @@ html[data-theme='dark'] .pub-link-video {
 
 html[data-theme='dark'] .pub-link-video:hover {
     background-color: rgba(232, 116, 104, 0.22);
+}
+
+html[data-theme='dark'] .pub-link-demo {
+    color: #a78bfa !important;
+    background-color: rgba(167, 139, 250, 0.12);
+    border-color: rgba(167, 139, 250, 0.3);
+}
+
+html[data-theme='dark'] .pub-link-demo:hover {
+    background-color: rgba(167, 139, 250, 0.22);
 }
 
 html[data-theme='dark'] .pub-link-bib {

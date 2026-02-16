@@ -18,6 +18,7 @@
 #   code:         URL to code repository (optional)
 #   slides:       URL to slides (optional)
 #   video:        URL to video (optional)
+#   demo:         URL to demo page (optional)
 #   award:        Award text, e.g. "Best Student Paper" (optional)
 #   bibtex_type:  BibTeX entry type: inproceedings, article, phdthesis, mastersthesis, misc, book (optional, default: inproceedings)
 #   links:        Additional named links as list of {name, url} (optional)
@@ -40,6 +41,7 @@ sections:
         address: "Tahoe City, CA, USA"
         arxiv: "https://arxiv.org/abs/2412.09789"
         bibtex_type: inproceedings
+        demo: "https://sonalkum.github.io/SILA/"
 
       - key: wu2025flam
         title: "FLAM: Frame-Wise Language-Audio Modeling"
@@ -49,6 +51,8 @@ sections:
         address: "Vancouver, BC, Canada"
         arxiv: "https://arxiv.org/abs/2505.05335"
         bibtex_type: inproceedings
+        demo: "https://flam-model.github.io/"
+        code: "https://github.com/adobe-research/openflam"
 
       - key: chen2025foley
         title: "Video-Guided Foley Sound Generation with Multimodal Controls"
@@ -58,6 +62,7 @@ sections:
         address: "Nashville, TN, USA"
         arxiv: "https://arxiv.org/abs/2411.17698"
         bibtex_type: inproceedings
+        demo: "https://ificl.github.io/MultiFoley/"
 
       - key: ghosh2025vdg
         title: "Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs"
@@ -67,6 +72,7 @@ sections:
         address: "Singapore"
         arxiv: "https://arxiv.org/abs/2405.15683"
         bibtex_type: inproceedings
+        demo: "https://sreyan88.github.io/VDGD/"
 
       - key: sakshi2025mmau
         title: "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark"
