@@ -32,6 +32,62 @@ sections:
   - name: "Peer Reviewed Articles"
     id: "peer-reviewed"
     entries:
+      # --- 2026 ---
+      - key: chu2026mix2morph
+        title: "Generative Audio Extension and Morphing"
+        authors: "Seetharaman, P.,* Nieto, O.,* Salamon, J."
+        venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2026
+        address: "Barcelona, Spain"
+        bibtex_type: inproceedings
+        demo: "https://sites.google.com/view/genextendblend/home"
+
+      - key: chu2026mix2morph
+        title: "Mix2Morph: Learning Sound Morphing From Noisy Mixes"
+        authors: "Chu, A., Flores-García, H., Nieto, O., Salamon, J., Pardo, B., Seetharaman, P."
+        venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2026
+        address: "Barcelona, Spain"
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2601.20426"
+        demo: "https://anniejchu.github.io/mix2morph/"
+
+      - key: wen2026promptsep
+        title: "PromptSep: Generative Audio Separation Via Multimodal Prompting"
+        authors: "Wen, Y., Chen, K., Seetharaman, P., Nieto, O., Su, J., Kumar, R., Kim, M., Smaragdis, P., Jin, Z., Salamon, J."
+        venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2026
+        address: "Barcelona, Spain"
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2511.04623"
+        demo: "https://yutongwen.github.io/PromptSep/"
+
+      - key: sridhar2026audiocards
+        title: "AudioCards: Structured Metadata Improves Audio Language Models For Sound Design"
+        authors: "Sridhar, S., Seetharaman, P., Nieto, O., Cartwright, M., Salamon, J."
+        venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2026
+        address: "Barcelona, Spain"
+        bibtex_type: inproceedings
+
+      - key: sridhar2026audiocards
+        title: "Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning"
+        authors: "Yang, C.-H. H., Ghosh, S., Wang, Q., Kim, J., Hong, H., Kumar, S., Zhong, G., Kong, Z., Sakshi, S., Lokegaonkar, V., Nieto, O., Duraiswami, R., Manocha, D., Kim, G., Du, J., Valle, R., Catanzaro, B."
+        venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2026
+        address: "Barcelona, Spain"
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2505.07365"
+
+      - key: yoo2026soundsculptor
+        title: "SoundSculptor: Interactive Design of Story-Driven GenAI Soundscapes for Video"
+        authors: "Yoo, S., Hernandez-Sebastian, A., Seetharaman, P., Salamon, J., Nieto, O., Truong, A."
+        venue: "Proc. of the ACM Conference on Human Factors in Computing Systems (CHI)"
+        year: 2026
+        address: "Barcelona, Spain"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/CHI26-soundscultpor.pdf"
+        bibtex_type: inproceedings
+
       # --- 2025 ---
       - key: kumar2025sila
         title: "SILA: Signal-to-Language Augmentation for Enhanced Control in Text-to-Audio Generation"

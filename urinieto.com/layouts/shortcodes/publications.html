@@ -41,7 +41,7 @@
         {{ end }}
 
         {{/* Title */}}
-        <span class="pub-title">{{ .title }}</span>
+        <span class="pub-title">{{ .title }}</span>,
 
         {{/* Authors — highlight the specified author */}}
         <span class="pub-authors">
@@ -54,7 +54,7 @@
           {{- else -}}
             {{- .authors -}}
           {{- end -}}
-        </span>
+        </span>,
 
         {{/* Venue, location, year */}}
         <span class="pub-venue">
