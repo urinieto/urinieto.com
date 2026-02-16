@@ -75,7 +75,7 @@
           {{ $type := .bibtex_type | default "inproceedings" }}
           {{ $authors := replaceRE `\., ` ". and " .authors }}
           {{ if eq $type "article" }}
-            {{ $bibString = printf "@article{%s,\n  author    = {%s},\n  title     = {%s},\n  journal   = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
+            {{ $bibString = printf "@article{%s,\n  author    = {%s},\n  title     = {{%s}},\n  journal   = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
             {{ with .volume }}{{ $bibString = printf "%s,\n  volume    = {%s}" $bibString . }}{{ end }}
             {{ with .number }}{{ $bibString = printf "%s,\n  number    = {%s}" $bibString . }}{{ end }}
             {{ with .pages }}{{ $bibString = printf "%s,\n  pages     = {%s}" $bibString (replace . "-" "--") }}{{ end }}
@@ -83,20 +83,20 @@
             {{ with .award }}{{ $bibString = printf "%s,\n  note      = {%s}" $bibString . }}{{ end }}
             {{ $bibString = printf "%s\n}" $bibString }}
           {{ else if eq $type "phdthesis" }}
-            {{ $bibString = printf "@phdthesis{%s,\n  author    = {%s},\n  title     = {%s},\n  school    = {%s},\n  year      = {%d}\n}" .key $authors .title .venue .year }}
+            {{ $bibString = printf "@phdthesis{%s,\n  author    = {%s},\n  title     = {{%s}},\n  school    = {%s},\n  year      = {%d}\n}" .key $authors .title .venue .year }}
           {{ else if eq $type "mastersthesis" }}
-            {{ $bibString = printf "@mastersthesis{%s,\n  author    = {%s},\n  title     = {%s},\n  school    = {%s},\n  year      = {%d}\n}" .key $authors .title .venue .year }}
+            {{ $bibString = printf "@mastersthesis{%s,\n  author    = {%s},\n  title     = {{%s}},\n  school    = {%s},\n  year      = {%d}\n}" .key $authors .title .venue .year }}
           {{ else if eq $type "book" }}
-            {{ $bibString = printf "@book{%s,\n  author    = {%s},\n  title     = {%s},\n  publisher = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
+            {{ $bibString = printf "@book{%s,\n  author    = {%s},\n  title     = {{%s}},\n  publisher = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
             {{ with .isbn }}{{ $bibString = printf "%s,\n  isbn      = {%s}" $bibString . }}{{ end }}
             {{ $bibString = printf "%s\n}" $bibString }}
           {{ else if eq $type "misc" }}
-            {{ $bibString = printf "@misc{%s,\n  author       = {%s},\n  title        = {%s},\n  howpublished = {%s},\n  year         = {%d}" .key $authors .title .venue .year }}
+            {{ $bibString = printf "@misc{%s,\n  author       = {%s},\n  title        = {{%s}},\n  howpublished = {%s},\n  year         = {%d}" .key $authors .title .venue .year }}
             {{ with .address }}{{ $bibString = printf "%s,\n  address      = {%s}" $bibString . }}{{ end }}
             {{ with .award }}{{ $bibString = printf "%s,\n  note         = {%s}" $bibString . }}{{ end }}
             {{ $bibString = printf "%s\n}" $bibString }}
           {{ else }}
-            {{ $bibString = printf "@inproceedings{%s,\n  author    = {%s},\n  title     = {%s},\n  booktitle = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
+            {{ $bibString = printf "@inproceedings{%s,\n  author    = {%s},\n  title     = {{%s}},\n  booktitle = {%s},\n  year      = {%d}" .key $authors .title .venue .year }}
             {{ with .address }}{{ $bibString = printf "%s,\n  address   = {%s}" $bibString . }}{{ end }}
             {{ with .pages }}{{ $bibString = printf "%s,\n  pages     = {%s}" $bibString (replace . "-" "--") }}{{ end }}
             {{ with .doi }}{{ $bibString = printf "%s,\n  doi       = {%s}" $bibString . }}{{ end }}

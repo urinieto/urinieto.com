@@ -180,6 +180,7 @@ sections:
         venue: "Proc. of the 22nd International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2021
         pages: "594-601"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR2021-DeepEmbeddings.pdf"
         bibtex_type: inproceedings
 
       - key: won2021multimodal
@@ -201,6 +202,7 @@ sections:
         number: "1"
         pages: "246-263"
         doi: "10.5334/tismir.54"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/TISMIR2020.pdf"
         bibtex_type: article
 
       - key: korzeniowski2020mood
@@ -218,6 +220,7 @@ sections:
         venue: "Proc. of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2020
         address: "Barcelona, Spain"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ICASSP2020_Won.pdf"
         bibtex_type: inproceedings
 
       # --- 2019 ---
@@ -227,7 +230,9 @@ sections:
         venue: "Proc. of the 20th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2019
         address: "Delft, The Netherlands"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR2019-Nieto-Harmonix.pdf"
         bibtex_type: inproceedings
+        code: "https://github.com/urinieto/harmonixset"
 
       # --- 2018 ---
       - key: ren2018pattern
@@ -236,6 +241,7 @@ sections:
         venue: "Proc. of the 15th International Conference on Music Perception and Cognition (ICMPC)"
         year: 2018
         address: "Graz, Austria"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/icmpc2018v2.pdf"
         bibtex_type: inproceedings
 
       - key: pons2018endtoend
@@ -278,6 +284,7 @@ sections:
         venue: "Proc. of the Workshop on Machine Learning for Music Discovery (ML4MD), at ICML"
         year: 2017
         address: "Sydney, Australia"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ML4AudioNIPS17.pdf"
         bibtex_type: inproceedings
 
       # --- 2016 ---
@@ -287,6 +294,7 @@ sections:
         venue: "Proc. of the 17th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2016
         address: "New York City, NY, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR2016-NietoBello.pdf"
         bibtex_type: inproceedings
 
       # --- 2015 ---
@@ -304,6 +312,7 @@ sections:
         venue: "Proc. of the 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2013
         address: "Vancouver, BC, Canada"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ICASSP13.pdf"
         bibtex_type: inproceedings
 
       # --- 2014 ---
@@ -313,6 +322,7 @@ sections:
         venue: "Proc. of the 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2014
         address: "Florence, Italy"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoBello-ICASSP14.pdf"
         bibtex_type: inproceedings
 
       - key: nieto2014perceptual
@@ -321,6 +331,7 @@ sections:
         venue: "Proc. of the 15th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2014
         address: "Taipei, Taiwan"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoFarbood-ISMIR2014.pdf"
         bibtex_type: inproceedings
 
       # --- 2013 ---
@@ -330,6 +341,7 @@ sections:
         venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2013
         address: "Curitiba, Brazil"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/HumphreyNietoBello-ISMIR2013.pdf"
         bibtex_type: inproceedings
 
       - key: nieto2013compressed
@@ -338,6 +350,7 @@ sections:
         venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2013
         address: "Curitiba, Brazil"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ISMIR2012.pdf"
         bibtex_type: inproceedings
 
       # --- 2012 ---
@@ -348,6 +361,7 @@ sections:
         year: 2012
         pages: "313-318"
         address: "Porto, Portugal"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ISMIR2012.pdf"
         bibtex_type: inproceedings
 
       - key: nieto2012perceptual
@@ -357,6 +371,7 @@ sections:
         year: 2012
         pages: "723-727"
         address: "Thessaloniki, Greece"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ICMPC2012.pdf"
         bibtex_type: inproceedings
 
   # ===========================================================================
@@ -371,6 +386,7 @@ sections:
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2016
         address: "New York City, NY, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/MIREX2016-Nieto.pdf"
         code: "https://github.com/urinieto/msaf"
         bibtex_type: misc
 
@@ -380,6 +396,7 @@ sections:
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2014
         address: "Taipei, Taiwan"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/MIREX2014-NietoBello.pdf"
         code: "https://github.com/urinieto/msaf"
         bibtex_type: misc
 
@@ -389,6 +406,7 @@ sections:
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2014
         address: "Taipei, Taiwan"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/MIREX2014-NietoFarbood.pdf"
         code: "https://github.com/urinieto/msaf"
         bibtex_type: misc
 
@@ -398,6 +416,7 @@ sections:
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2014
         address: "Taipei, Taiwan"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/MIREX2014-NietoJehan.pdf"
         code: "https://github.com/urinieto/msaf"
         bibtex_type: misc
 
@@ -407,6 +426,7 @@ sections:
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2013
         address: "Curitiba, Brazil"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoFarbood-PatDiscoMIREX2013.pdf"
         bibtex_type: misc
 
   # ===========================================================================
@@ -420,8 +440,9 @@ sections:
         authors: "Nieto, O."
         venue: "New York University. PhD Dissertation"
         year: 2015
-        slides: ""
-        video: ""
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-Dissertation.pdf"
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-Dissertation-Defense.pdf"
+        video: "https://youtu.be/l7cu9aFKt-g"
         bibtex_type: phdthesis
 
       - key: nieto2008masters
@@ -429,6 +450,7 @@ sections:
         authors: "Nieto, O."
         venue: "Pompeu Fabra University. Master's Thesis"
         year: 2008
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-MasterThesis.pdf"
         bibtex_type: mastersthesis
 
       - key: nieto2007undergrad
@@ -436,6 +458,7 @@ sections:
         authors: "Nieto, O."
         venue: "Polytechnic University of Catalonia. Undergrad's Thesis"
         year: 2007
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-BS-Thesis.pdf"
         bibtex_type: mastersthesis
 
   # ===========================================================================
@@ -450,7 +473,7 @@ sections:
         venue: "Women in Music Information Retrieval Workshop (ISMIR)"
         year: 2021
         address: "Virtual"
-        slides: ""
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/20211025-WiMIRWorkshop.pdf"
         bibtex_type: misc
 
       - key: nieto2020globalai
@@ -459,7 +482,7 @@ sections:
         venue: "4th Global AI Conference"
         year: 2020
         address: "Santa Clara, CA, USA"
-        slides: ""
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-20200121-GlobalAI.pdf"
         bibtex_type: misc
 
       - key: nieto2019upf
@@ -468,7 +491,7 @@ sections:
         venue: "Research Seminar. Universitat Pompeu Fabra"
         year: 2019
         address: "Barcelona, Spain"
-        slides: ""
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ExtremeVocalEffects-UPF.pdf"
         bibtex_type: misc
 
       - key: nieto2019brazil
@@ -477,7 +500,7 @@ sections:
         venue: "2nd International Symposium on Distorted Voices"
         year: 2019
         address: "São Paulo, Brazil"
-        slides: ""
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ExtremeVocalEffects-Slides-July2019.pdf"
         bibtex_type: misc
 
       - key: nieto2019usf
@@ -486,7 +509,7 @@ sections:
         venue: "Seminar Series in Data Science. University of San Francisco"
         year: 2019
         address: "San Francisco, CA, USA"
-        slides: ""
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-USF-DataScience.pdf"
         bibtex_type: misc
 
       - key: nieto2018dlbcn
@@ -495,8 +518,8 @@ sections:
         venue: "Deep Learning Barcelona Symposium. Pompeu Fabra University"
         year: 2018
         address: "Barcelona, Spain"
-        slides: ""
-        video: ""
+        slides: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-DLBCN18.pdf"
+        video: "https://www.youtube.com/watch?v=yMq_VMu-7nM"
         bibtex_type: misc
 
       - key: nieto2017coldstart
@@ -505,6 +528,7 @@ sections:
         venue: "Systematic Approaches to Deep Learning Methods for Audio. Erwin Schrödinger Institute, University of Vienna"
         year: 2017
         address: "Vienna, Austria"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/20170915-ESIWorkshop.pdf"
         bibtex_type: misc
 
       - key: nieto2017longtail
@@ -513,6 +537,7 @@ sections:
         venue: "International Workshop on Deep Learning for Music (IJCNN)"
         year: 2017
         address: "Anchorage, AK, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/20170518-IJCNN.pdf"
         bibtex_type: misc
 
       - key: nieto2017stanford
@@ -521,6 +546,7 @@ sections:
         venue: "Data-Driven Research in Music Cognition. Stanford University"
         year: 2017
         address: "Stanford, CA, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/20170224-CCRMA.pdf"
         bibtex_type: misc
 
       - key: nieto2016upf
@@ -529,6 +555,7 @@ sections:
         venue: "Seminar on Music Knowledge Extraction Using Machine Learning. Pompeu Fabra University"
         year: 2016
         address: "Barcelona, Spain"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/20161204-UPFSeminar.pdf"
         bibtex_type: misc
 
       - key: nieto2016stanford
@@ -537,6 +564,7 @@ sections:
         venue: "Biostat Seminar. Stanford University"
         year: 2016
         address: "Stanford, CA, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-20161020-BiostatSeminar.pdf"
         bibtex_type: misc
 
       - key: nieto2014cogmir
@@ -545,6 +573,7 @@ sections:
         venue: "Cognitive Music Information Retrieval (CogMIR)"
         year: 2014
         address: "Toronto, ON, Canada"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoFarbood-CogMIR2014.pdf"
         bibtex_type: misc
 
       - key: nieto2014nemisig
@@ -553,6 +582,7 @@ sections:
         venue: "North East Music Information Special Interest Group (NEMISIG)"
         year: 2014
         address: "New York, NY, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoBello-NEMISIG2014.pdf"
         bibtex_type: misc
 
       - key: nieto2013cogmir
@@ -561,6 +591,7 @@ sections:
         venue: "Cognitive Music Information Retrieval (CogMIR)"
         year: 2013
         address: "Toronto, ON, Canada"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoBelloFarbood-CogMIR2013.pdf"
         bibtex_type: misc
 
       - key: nieto2013upf
@@ -569,6 +600,7 @@ sections:
         venue: "Pompeu Fabra University"
         year: 2013
         address: "Barcelona, Spain"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-UPF2013.pdf"
         bibtex_type: misc
 
       - key: nieto2013nemisig
@@ -577,6 +609,7 @@ sections:
         venue: "North East Music Information Special Interest Group (NEMISIG)"
         year: 2013
         address: "Boston, MA, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoJehan-NEMISIG2013.pdf"
         bibtex_type: misc
 
   # ===========================================================================
@@ -593,11 +626,11 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://pandora.app.link/wnH6X3clvCb"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/album/6JeQSOrGoCx8PcrkdsgsAk?si=jv9bx8aQTxW0evX3-hsxYQ"
           - name: "Amazon"
-            url: ""
+            url: "https://music.amazon.com/albums/B0BPM8DSQC"
 
       - key: cobo2021rumbahia2
         title: "Rumbahía: Casi al Compás"
@@ -607,11 +640,11 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://www.pandora.com/artist/rumbahia/casi-al-compas/AL7lVPrqpr6lmt4"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/album/31yd10VNPe7SRwT5MoDIKT?si=f5Y2Cgw2QcisaBrFSnhbng"
           - name: "Amazon"
-            url: ""
+            url: "https://www.amazon.com/Casi-al-Comp%C3%A1s-Rumbah%C3%ADa/dp/B09GMTW5HZ"
 
       - key: cobo2019rumbahia1
         title: "Rumbahía: Aprendiendo"
@@ -621,11 +654,11 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://www.pandora.com/artist/rumbahia/aprendiendo-explicit/ALmmxnhPrj3fqnw"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/album/1YqJZJbQrjAc9qWfLMFCmH?si=WmyNDaZyT5mT_42YyjbCTQ"
           - name: "Amazon"
-            url: ""
+            url: "https://www.amazon.com/Aprendiendo-Explicit-Rumbah%C3%ADa/dp/B07PLCNTZJ"
 
       - key: bolsa2018merda
         title: "La Bossa d'Urina: Merda Fina"
@@ -635,13 +668,13 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://www.pandora.com/artist/la-bossa-durina/merda-fina/AL3jn2df67l7kzV"
           - name: "iTunes"
-            url: ""
+            url: "https://itunes.apple.com/us/album/merda-fina/1434521495"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/album/4XWTjpFBQsUC683wtVu7hI?si=xT-L6BV6T86nAA7ctTr9mg"
           - name: "Amazon"
-            url: ""
+            url: "https://www.amazon.com/Merda-Fina-bossa-durina/dp/B07GXKQMX5"
 
       - key: henson2017arkaen
         title: "Arkaen: Arkaen"
@@ -651,13 +684,13 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://www.pandora.com/artist/arkaen/arkaen/ALvqwxJ2jkgpPpV"
           - name: "iTunes"
-            url: ""
+            url: "https://itunes.apple.com/us/album/arkaen-ep/1224479319"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/artist/0JrPYalpR8Tnzln37ZQUSI?si=w8jyRwEaQZqGY_STMecIQQ"
           - name: "Amazon"
-            url: ""
+            url: "https://www.amazon.com/Arkaen/dp/B06Y18R8Z9/"
 
       - key: bolsa2015bossa
         title: "La Bossa d'Urina: La Bossa d'Urina"
@@ -667,13 +700,13 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://www.pandora.com/artist/la-bossa-durina/la-bossa-durina/AL5h4rz9xlfqhXJ"
           - name: "iTunes"
-            url: ""
+            url: "https://itunes.apple.com/us/artist/la-bossa-durina/id1054613406"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/album/4CE2GrmJd4rdW7tWdxJtvq"
           - name: "Amazon"
-            url: ""
+            url: "https://www.amazon.com/bossa-durina/dp/B017EX02J4"
 
       - key: ferreiro2009vida
         title: "Sargon: Vida"
@@ -683,13 +716,13 @@ sections:
         bibtex_type: misc
         links:
           - name: "Pandora"
-            url: ""
+            url: "https://www.pandora.com/artist/sargon/vida/ALbXXJ7wtf49hvK"
           - name: "iTunes"
-            url: ""
+            url: "https://itunes.apple.com/us/album/vida/id307980479"
           - name: "Spotify"
-            url: ""
+            url: "https://open.spotify.com/album/6pxxMWLg198h3zCmNpShrL"
           - name: "Amazon"
-            url: ""
+            url: "https://www.amazon.com/Vida-Sargon/dp/B001ZF3Y66"
 
       - key: ferreiro2005sargon
         title: "Sargon: Transcriptions"
@@ -697,6 +730,11 @@ sections:
         venue: "Album edited by Big Bang Records"
         year: 2005
         bibtex_type: misc
+        links:
+          - name: "iTunes"
+            url: "https://music.apple.com/in/album/transcriptions/1774402653"
+          - name: "Spotify"
+            url: "https://open.spotify.com/album/716LtWoKA8rhxMDT3sXaL8?si=sgXql-yBTFG1-vHc59oGhw"
 
   # ===========================================================================
   # OTHER
@@ -710,6 +748,7 @@ sections:
         venue: "Late Breaking Session of the International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2019
         address: "Delft, The Netherlands"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR_2019_LBD__Automatic_Music_Tagging_with_Harmonic_CNN.pdf"
         bibtex_type: misc
 
       - key: nieto2015msaf
@@ -718,6 +757,7 @@ sections:
         venue: "International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2015
         address: "Málaga, Spain"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoBello-ISMIR2015.pdf"
         bibtex_type: misc
 
       - key: nieto2013latebreak
@@ -726,6 +766,7 @@ sections:
         venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2013
         address: "Curitiba, Brazil"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR2013-LateBreakSegmentation.pdf"
         bibtex_type: misc
 
       - key: rocha2012latebreak
@@ -734,6 +775,7 @@ sections:
         venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2012
         address: "Porto, Portugal"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ISMIR2012-LB.pdf"
         bibtex_type: misc
 
       - key: nieto2007sistemas
