@@ -80,16 +80,16 @@ url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
       url = "/"
 
     [[menu.main]]
-      name = "Music Videos"
-      weight = 200
-      identifier = "music-videos"
-      url = "/music-videos/"
-
-    [[menu.main]]
       name = "Publications"
       weight = 300
       identifier = "publications"
       url = "/publications/"
+
+    [[menu.main]]
+      name = "Music Videos"
+      weight = 200
+      identifier = "music-videos"
+      url = "/music-videos/"
 
     [[menu.main]]
         identifier = "cv"
