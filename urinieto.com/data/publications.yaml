@@ -80,12 +80,12 @@ sections:
         arxiv: "https://arxiv.org/abs/2505.07365"
 
       - key: yoo2026soundsculptor
-        title: "SoundSculptor: Interactive Design of Story-Driven GenAI Soundscapes for Video"
+        title: "SoundStager: Interactive Design of Story-Driven GenAI Soundscapes for Video"
         authors: "Yoo, S., Hernandez-Sebastian, A., Seetharaman, P., Salamon, J., Nieto, O., Truong, A."
         venue: "Proc. of the ACM Conference on Human Factors in Computing Systems (CHI)"
         year: 2026
         address: "Barcelona, Spain"
-        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/CHI26-soundscultpor.pdf"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/CHI26-soundstager.pdf"
         bibtex_type: inproceedings
 
       # --- 2025 ---
