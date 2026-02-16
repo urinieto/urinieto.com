@@ -83,6 +83,8 @@ sections:
         award: "Top 5.1% conference paper (spotlighted)"
         arxiv: "https://arxiv.org/abs/2410.19168"
         bibtex_type: inproceedings
+        demo: "https://mmaubench.github.io/"
+        code: "https://github.com/Sakshi113/MMAU"
 
       - key: flores2025sketch2sound
         title: "Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations"
@@ -92,6 +94,7 @@ sections:
         address: "Hyderabad, India"
         arxiv: "https://arxiv.org/abs/2412.08550"
         bibtex_type: inproceedings
+        demo: "https://hugofloresgarcia.art/sketch2sound/"
 
       - key: ghosh2025reclap
         title: "ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds"
@@ -101,6 +104,7 @@ sections:
         address: "Hyderabad, India"
         arxiv: "https://arxiv.org/abs/2409.09213"
         bibtex_type: inproceedings
+        code: "https://github.com/Sreyan88/ReCLAP"
 
       # --- 2024 ---
       - key: manco2024augment
@@ -121,6 +125,8 @@ sections:
         award: "Top 5% conference paper (oral)"
         arxiv: "https://arxiv.org/abs/2406.11768"
         bibtex_type: inproceedings
+        demo: "https://sreyan88.github.io/gamaaudio/"
+        code: "https://github.com/Sreyan88/GAMA"
 
       - key: ghosh2024compa
         title: "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models"
@@ -130,6 +136,8 @@ sections:
         address: "Vienna, Austria"
         arxiv: "https://arxiv.org/abs/2310.08753"
         bibtex_type: inproceedings
+        demo: "https://sreyan88.github.io/compa_iclr/"
+        code: "https://github.com/Sreyan88/CompA"
 
       # --- 2023 ---
       - key: wilkins2023bridging
@@ -140,6 +148,7 @@ sections:
         address: "New Paltz, NY, USA"
         arxiv: "https://arxiv.org/abs/2308.09089"
         bibtex_type: inproceedings
+        demo: "https://juliawilkins.github.io/sound-effects-retrieval-from-video/"
 
       - key: nieto2023efficient
         title: "Efficient Spoken Language Recognition via Multilabel Classification"
@@ -159,6 +168,7 @@ sections:
         award: "Top 10% conference paper (highlighted)"
         arxiv: "https://arxiv.org/abs/2303.16342"
         bibtex_type: inproceedings
+        code: "https://github.com/rxtan2/AVSeT"
 
       - key: wu2023audiotext
         title: "Audio-Text Models Do Not Yet Leverage Natural Language"
@@ -178,6 +188,7 @@ sections:
         address: "Singapore"
         arxiv: "https://arxiv.org/abs/2204.13289"
         bibtex_type: inproceedings
+        code: "https://github.com/nkandpa2/music_enhancement"
 
       # --- 2021 ---
       - key: salamon2021deep
@@ -302,6 +313,7 @@ sections:
         address: "New York City, NY, USA"
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR2016-NietoBello.pdf"
         bibtex_type: inproceedings
+        code: "https://github.com/urinieto/msaf"
 
       # --- 2015 ---
       - key: prockup2015modeling
