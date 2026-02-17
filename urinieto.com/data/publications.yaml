@@ -541,6 +541,15 @@ sections:
   - name: "Selected Talks"
     id: "talks"
     entries:
+      - key: nieto2025soundstager
+        title: "Project Sound Stager"
+        authors: "Nieto, O."
+        venue: "Adobe MAX Sneaks 2025"
+        year: 2025
+        address: "Los Angeles, CA, USA"
+        video: "https://www.youtube.com/watch?v=QOz_CsQKcz8"
+        bibtex_type: misc
+
       - key: nieto2021wimir
         title: "Overview, Challenges, and Applications of Audio-based Music Structure Analysis"
         authors: "Nieto, O."
