@@ -212,14 +212,14 @@
 
 /* Video link */
 .pub-link-video {
-    color: #c0392b !important;
-    background-color: rgba(231, 76, 60, 0.08);
-    border: 1px solid rgba(231, 76, 60, 0.25);
+    color: #d63384 !important;
+    background-color: rgba(214, 51, 132, 0.08);
+    border: 1px solid rgba(214, 51, 132, 0.25);
 }
 
 .pub-link-video:hover {
-    background-color: rgba(231, 76, 60, 0.18);
-    color: #a93226 !important;
+    background-color: rgba(214, 51, 132, 0.18);
+    color: #b52870 !important;
 }
 
 /* Demo link */
@@ -343,13 +343,13 @@ html[data-theme='dark'] .pub-link-slides:hover {
 }
 
 html[data-theme='dark'] .pub-link-video {
-    color: #e87468 !important;
-    background-color: rgba(232, 116, 104, 0.12);
-    border-color: rgba(232, 116, 104, 0.3);
+    color: #e685b5 !important;
+    background-color: rgba(230, 133, 181, 0.12);
+    border-color: rgba(230, 133, 181, 0.3);
 }
 
 html[data-theme='dark'] .pub-link-video:hover {
-    background-color: rgba(232, 116, 104, 0.22);
+    background-color: rgba(230, 133, 181, 0.22);
 }
 
 html[data-theme='dark'] .pub-link-demo {
