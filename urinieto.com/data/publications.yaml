@@ -70,6 +70,8 @@ sections:
         year: 2026
         address: "Barcelona, Spain"
         bibtex_type: inproceedings
+        arxiv: "https://www.arxiv.org/abs/2602.13835"
+        demo: "https://sites.google.com/view/audiocards/"
 
       - key: sridhar2026audiocards
         title: "Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning"
