@@ -32,42 +32,37 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 [[params.socialIcons]]
-icon = "fa-linkedin"
+icon = "linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/urinieto/"
 
 [[params.socialIcons]]
-icon = "fa-github"
+icon = "github"
 title = "GitHub"
 url = "https://github.com/urinieto/"
 
 [[params.socialIcons]]
-icon = "fa-instagram"
+icon = "instagram"
 title = "instagram"
 url = "https://www.instagram.com/urinieto/"
 
 [[params.socialIcons]]
-icon = "fa-brands fa-bluesky"
+icon = "bluesky"
 title = "BlueSky"
 url = "https://bsky.app/profile/urinieto.bsky.social"
 
-# [[params.socialIcons]]
-# icon = "fa-twitter"
-# title = "X"
-# url = "https://www.x.com/urinieto/"
-
 [[params.socialIcons]]
-icon = "fa-youtube"
+icon = "youtube"
 title = "youtube"
 url = "https://www.youtube.com/channel/UC_8n33wIclFtmwORvURYYHA"
 
 [[params.socialIcons]]
-icon = "fa-soundcloud"
+icon = "soundcloud"
 title = "soundcloud"
 url = "https://soundcloud.com/urinieto"
 
 [[params.socialIcons]]
-icon = "fa-graduation-cap"
+icon = "graduation-cap"
 title = "google-scholar"
 url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
 

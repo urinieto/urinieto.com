@@ -1029,10 +1029,31 @@ print {
     }
 }
 
-.fa.fa-twitter{
-	font-family:sans-serif;
+/* Inline SVG icons */
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+    fill: currentColor;
 }
-.fa.fa-twitter::before{
-	content:"𝕏";
-	font-size:1.2em;
+
+.social-links .icon {
+    width: 2em;
+    height: 2em;
+}
+
+.info .icon {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.15em;
+}
+
+.pub-link .icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+}
+
+.theme-switch .icon {
+    width: 1em;
+    height: 1em;
 }

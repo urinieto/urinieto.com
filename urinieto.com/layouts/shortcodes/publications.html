@@ -110,32 +110,32 @@
         <span class="pub-links">
           {{ with .pdf }}
             <a href="{{ . }}" class="pub-link pub-link-pdf" target="_blank" rel="noopener">
-              <i class="fa-solid fa-file-pdf"></i> PDF
+              {{ partial "icon.html" "file-pdf" }} PDF
             </a>
           {{ end }}
           {{ with .arxiv }}
             <a href="{{ . }}" class="pub-link pub-link-arxiv" target="_blank" rel="noopener">
-              <i class="fa-solid fa-book-open"></i> arXiv
+              {{ partial "icon.html" "book-open" }} arXiv
             </a>
           {{ end }}
           {{ with .code }}
             <a href="{{ . }}" class="pub-link pub-link-code" target="_blank" rel="noopener">
-              <i class="fa-solid fa-code"></i> Code
+              {{ partial "icon.html" "code" }} Code
             </a>
           {{ end }}
           {{ with .slides }}
             <a href="{{ . }}" class="pub-link pub-link-slides" target="_blank" rel="noopener">
-              <i class="fa-solid fa-display"></i> Slides
+              {{ partial "icon.html" "display" }} Slides
             </a>
           {{ end }}
           {{ with .video }}
             <a href="{{ . }}" class="pub-link pub-link-video" target="_blank" rel="noopener">
-              <i class="fa-solid fa-video"></i> Video
+              {{ partial "icon.html" "video" }} Video
             </a>
           {{ end }}
           {{ with .demo }}
             <a href="{{ . }}" class="pub-link pub-link-demo" target="_blank" rel="noopener">
-              <i class="fa-solid fa-globe"></i> Demo
+              {{ partial "icon.html" "globe" }} Demo
             </a>
           {{ end }}
           {{ range .links }}
@@ -147,7 +147,7 @@
           {{ end }}
           {{ if $bibString }}
             <button class="pub-link pub-link-bib" onclick="copyBibtex(this)" data-bibtex="{{ $bibString | htmlEscape }}">
-              <i class="fa-solid fa-quote-right"></i> BibTeX
+              {{ partial "icon.html" "quote-right" }} BibTeX
             </button>
           {{ end }}
         </span>

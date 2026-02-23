@@ -14,7 +14,7 @@
                 </div>
                 <div class="post-footer">
                     <div class="meta">
-                        <div class="info"><em class="fa fa-sun-o"></em><span
+                        <div class="info">{{ partial "icon.html" "sun" }}<span
                                     class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
                             {{ with .Params.categories }}
                                 {{- range $index, $el := . -}}
