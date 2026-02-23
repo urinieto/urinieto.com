@@ -90,6 +90,7 @@ sections:
         address: "Barcelona, Spain"
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/CHI26-soundstager.pdf"
         bibtex_type: inproceedings
+        video: "https://www.youtube.com/watch?v=QOz_CsQKcz8"
 
       # --- 2025 ---
       - key: kumar2025sila
