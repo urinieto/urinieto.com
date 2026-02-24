@@ -376,6 +376,7 @@ sections:
         address: "Suzhou, China"
         arxiv: "https://arxiv.org/abs/1707.04916"
         bibtex_type: inproceedings
+        award: "Best Presentation"
 
       # --- 2016 ---
       - key: nieto2016systematic
@@ -426,6 +427,7 @@ sections:
         address: "Taipei, Taiwan"
         pdf: "https://www.ee.columbia.edu/~dpwe/pubs/RaffMHS14-mireval.pdf"
         bibtex_type: inproceedings
+        award: "Best Poster Presentation"
 
       - key: nieto2014perceptual
         title: "Identifying Polyphonic Patterns from Audio Recordings Using Music Segmentation Techniques"
