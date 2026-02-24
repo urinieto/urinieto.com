@@ -339,12 +339,15 @@ sections:
         arxiv: "https://arxiv.org/abs/1707.04916"
         bibtex_type: article
 
+      - key: ebrahimi18ads
+        title: "Predicting Audio Advertisement Quality"
+        authors: "Ebrahimi, S., Vahabi, H., Prockup, M., Nieto, O."
+        venue: "Proc. of the 11th ACM International Conference on Web Search and Data Mining (WSDM)"
+        year: 2018
+        arxiv: "https://arxiv.org/abs/1802.03319"
+        bibtex_type: inproceedings
+
       # --- 2017 ---
-      # TODO: The following entries from ~2013-2017 were truncated in the source.
-      # Please verify and add any missing publications from this period.
-      # The truncated section started with:
-      #   "Ebrahimi, S., Hossein, V., Prock..."
-      # and ended just before the ISMIR 2012 entry.
 
       - key: oramas2017deep
         title: "A Deep Multimodal Approach for Cold-start Music Recommendation"
@@ -354,6 +357,26 @@ sections:
         address: "Como, Italy"
         arxiv: "https://arxiv.org/abs/1706.09739"
         bibtex_type: inproceedings
+
+      - key: mcfee2017hier
+        title: "Evaluating Hierarchical Structure in Music Annotations"
+        authors: "McFee, B., Nieto, O., Farbood, M. M., Bello, J. P."
+        venue: "Frontiers in Psychology"
+        year: 2017
+        volume: 8
+        doi: "10.3389/fpsyg.2017.01337"
+        pdf: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01337/full"
+        bibtex_type: article
+
+      - key: oramas2017genre
+        title: "Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features"
+        authors: "Oramas, S., Nieto, O., Barbieri, F., Serra, X."
+        venue: "Proc. of the 18th International Society of Music Information Retrieval Conference (ISMIR)"
+        year: 2017
+        address: "Suzhou, China"
+        arxiv: "https://arxiv.org/abs/1707.04916"
+        bibtex_type: inproceedings
+
 
       - key: ebrahimi2017predictive
         title: "A Predictive Model for Music Based on Learned Note Encodings"
@@ -376,22 +399,24 @@ sections:
         code: "https://github.com/urinieto/msaf"
 
       # --- 2015 ---
-      - key: prockup2015modeling
-        title: "Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features"
-        authors: "Prockup, M., Ehmann, A. F., Gouyon, F., Schmidt, E. M., Nieto, O."
+      - key: mcfee2015hier
+        title: "Hierarchical Evaluation of Segment Boundary Detection"
+        authors: "McFee, B., Nieto, O., Bello, J. P."
         venue: "Proc. of the 16th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2015
         address: "Málaga, Spain"
+        pdf: "https://archives.ismir.net/ismir2015/paper/000174.pdf"
         bibtex_type: inproceedings
 
-      - key: nieto2015convex
-        title: "Convex Non-Negative Matrix Factorization for Automatic Music Structure Identification"
-        authors: "Nieto, O., Jehan, T."
-        venue: "Proc. of the 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
-        year: 2013
-        address: "Vancouver, BC, Canada"
-        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ICASSP13.pdf"
+      - key: mcfee2015librosa
+        title: "librosa: Audio and Music Signal Analysis in Python"
+        authors: "McFee, B., Raffel, C., Liang, D., Ellis, D. P. W., McVicar, M., Battenberg, E., Nieto, O."
+        venue: "Proc. of the 14th Python in Science Conference (SciPy)"
+        year: 2015
+        address: Austin, TX, USA
+        pdf: "https://proceedings.scipy.org/articles/Majora-7b98e3ed-003.pdf"
         bibtex_type: inproceedings
+
 
       # --- 2014 ---
       - key: nieto2014music
@@ -403,6 +428,15 @@ sections:
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoBello-ICASSP14.pdf"
         bibtex_type: inproceedings
 
+      - key: raffel2014mir_eval
+        title: "MIR_EVAL: A Transparent Implementation of Common MIR Metrics."
+        authors: "Raffel, C., McFee, B., Humphrey, E. J., Salamon, J., Nieto, O., Liang, D., Ellis, D. P. W."
+        venue: "Proc. of the 15th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2014
+        address: "Taipei, Taiwan"
+        pdf: "https://www.ee.columbia.edu/~dpwe/pubs/RaffMHS14-mireval.pdf"
+        bibtex_type: inproceedings
+
       - key: nieto2014perceptual
         title: "Identifying Polyphonic Patterns from Audio Recordings Using Music Segmentation Techniques"
         authors: "Nieto, O., Farbood, M."
@@ -412,7 +446,25 @@ sections:
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/NietoFarbood-ISMIR2014.pdf"
         bibtex_type: inproceedings
 
+      - key: ballus2014cogsci
+        title: "Embodying Theoretical Research in Music Cognition: Four Proposals for Theory-Driven Experimentation"
+        authors: "Ballus, A., Arnau, E., Nieto, O., Font, F., Torrents, A."
+        venue: "Proc. of the Annual Meeting of the Cognitive Science Society"
+        year: 2014
+        address: "Quebec City, Quebec, Canada"
+        pdf: "https://escholarship.org/content/qt109651cz/qt109651cz.pdf"
+        bibtex_type: inproceedings
+
       # --- 2013 ---
+      - key: nieto2013convex
+        title: "Convex Non-Negative Matrix Factorization for Automatic Music Structure Identification"
+        authors: "Nieto, O., Jehan, T."
+        venue: "Proc. of the 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        year: 2013
+        address: "Vancouver, BC, Canada"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ICASSP13.pdf"
+        bibtex_type: inproceedings
+
       - key: humphrey2013data
         title: "Data Driven and Discriminative Projections for Large-Scale Cover Song Identification"
         authors: "Humphrey, E. J., Nieto, O., Bello, J. P."
@@ -422,26 +474,34 @@ sections:
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/HumphreyNietoBello-ISMIR2013.pdf"
         bibtex_type: inproceedings
 
-      - key: nieto2013compressed
-        title: "Compressed Music Information Retrieval"
-        authors: "Nieto, O., Humphrey, E. J., Bello, J. P."
-        venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
+      - key: nieto2013screams
+        title: "Unsupervised Clustering of Extreme Vocal Effects"
+        authors: "Nieto, O."
+        venue: "Proc. of the 10th International Conference on Advances in Quantitative Laryngology, Voice and Speech Research (AQL)"
         year: 2013
-        address: "Curitiba, Brazil"
-        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ISMIR2012.pdf"
+        address: "Cincinnati, OH, USA"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-AQL2013.pdf"
+        bibtex_type: inproceedings
+
+      - key: park2013fortissimo
+        title: "Fortissimo: Force-Feedback for Mobile Devices"
+        authors: "Park, T. H., Nieto, O."
+        venue: "Proc. of the 13th International Conference on New Interfaces for Musical Expression (NIME)"
+        year: 2013
+        address: "Daejeon and Seoul, Korea"
+        pdf: "https://www.nime.org/proceedings/2013/nime2013_233.pdf"
+        bibtex_type: inproceedings
+
+      - key: park2013tactile
+        title: "Even More Tactile Feedback for Mobile Devices"
+        authors: "Park, T. H., Crawford, L., Nieto, O."
+        venue: "Proc. of the 39th International Computer Music Conference (ICMC)"
+        year: 2013
+        address: "Perth, Australia"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ParkCrawfordNieto-ICMC2013.pdf"
         bibtex_type: inproceedings
 
       # --- 2012 ---
-      - key: nieto2012musicstructure
-        title: "Music Structure Estimation Using the Homogeneity-Based Approach"
-        authors: "Nieto, O., Bello, J. P."
-        venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
-        year: 2012
-        pages: "313-318"
-        address: "Porto, Portugal"
-        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ISMIR2012.pdf"
-        bibtex_type: inproceedings
-
       - key: nieto2012perceptual
         title: "Perceptual Evaluation of Automatically Extracted Musical Motives"
         authors: "Nieto, O., Farbood, M."
@@ -450,6 +510,16 @@ sections:
         pages: "723-727"
         address: "Thessaloniki, Greece"
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ICMPC2012.pdf"
+        bibtex_type: inproceedings
+
+      - key: nieto2012summaries
+        title: "Compressing Music Recordings Into Audio Summaries"
+        authors: "Nieto, O., Humphrey, E. J., Bello, J. P."
+        venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2012
+        address: "Porto, Portugal"
+        pages: "313-318"
+        pdf: "https://www.researchgate.net/profile/Oriol-Nieto-2/publication/266169839_Compressing_music_recordings_into_audio_summaries/links/5572c13908ae7536374e0e76/Compressing-music-recordings-into-audio-summaries.pdf"
         bibtex_type: inproceedings
 
   # ===========================================================================
