@@ -377,16 +377,6 @@ sections:
         arxiv: "https://arxiv.org/abs/1707.04916"
         bibtex_type: inproceedings
 
-
-      - key: ebrahimi2017predictive
-        title: "A Predictive Model for Music Based on Learned Note Encodings"
-        authors: "Ebrahimi, S., Hosseini Nasab, V., Prockup, M., Nieto, O., Schmidt, E. M., Ehmann, A. F."
-        venue: "Proc. of the Workshop on Machine Learning for Music Discovery (ML4MD), at ICML"
-        year: 2017
-        address: "Sydney, Australia"
-        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ML4AudioNIPS17.pdf"
-        bibtex_type: inproceedings
-
       # --- 2016 ---
       - key: nieto2016systematic
         title: "Systematic Exploration of Computational Music Structure Research"
@@ -452,7 +442,7 @@ sections:
         venue: "Proc. of the Annual Meeting of the Cognitive Science Society"
         year: 2014
         address: "Quebec City, Quebec, Canada"
-        pdf: "https://escholarship.org/content/qt109651cz/qt109651cz.pdf"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/BallusArnauNietoFontTorrents-ICMPC14.pdf"
         bibtex_type: inproceedings
 
       # --- 2013 ---
@@ -519,7 +509,7 @@ sections:
         year: 2012
         address: "Porto, Portugal"
         pages: "313-318"
-        pdf: "https://www.researchgate.net/profile/Oriol-Nieto-2/publication/266169839_Compressing_music_recordings_into_audio_summaries/links/5572c13908ae7536374e0e76/Compressing-music-recordings-into-audio-summaries.pdf"
+        pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-ISMIR2012.pdf"
         bibtex_type: inproceedings
 
   # ===========================================================================
@@ -622,6 +612,15 @@ sections:
         year: 2025
         address: "Los Angeles, CA, USA"
         video: "https://www.youtube.com/watch?v=QOz_CsQKcz8"
+        bibtex_type: misc
+
+      - key: nieto2025gensfx
+        title: "GenAI for Sound Design"
+        authors: "Nieto, O."
+        venue: "Conversational AI Reading Group at Mila"
+        year: 2025
+        address: "Montreal, Quebec, Canada"
+        video: "https://www.youtube.com/watch?v=DWzlf0ZYoIA"
         bibtex_type: misc
 
       - key: nieto2021wimir
