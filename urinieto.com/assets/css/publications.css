@@ -104,13 +104,6 @@
     color: var(--heading-color, #333);
 }
 
-.pub-title::before {
-    content: '"';
-}
-
-.pub-title::after {
-    content: '"';
-}
 
 /* --- Authors --- */
 .pub-authors {
