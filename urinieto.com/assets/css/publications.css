@@ -105,11 +105,11 @@
 }
 
 .pub-title::before {
-    content: open-quote;
+    content: '"';
 }
 
 .pub-title::after {
-    content: close-quote;
+    content: '"';
 }
 
 /* --- Authors --- */
