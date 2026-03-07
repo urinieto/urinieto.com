@@ -33,6 +33,15 @@ sections:
     id: "peer-reviewed"
     entries:
       # --- 2026 ---
+      - key: chen2026audiochat
+        title: "AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing"
+        authors: "William Chen, Prem Seetharaman, Rithesh Kumar, Oriol Nieto, Shinji Watanabe, Justin Salamon, Zeyu Jin"
+        venue: "(under review)"
+        year: 2026
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2602.17097"
+        demo: "https://wanchichen.github.io/audiochat/"
+
       - key: kumar2026tac
         title: "TAC: Timestamped Audio Captioning"
         authors: "Sonal Kumar, Prem Seetharaman, Ke Chen, Oriol Nieto, Jiaqi Su, Zhepei Wang, Rithesh Kumar, Dinesh Manocha, Nicholas J. Bryan, Zeyu Jin, Justin Salamon"
