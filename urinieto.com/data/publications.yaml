@@ -23,7 +23,7 @@
 #   bibtex_type:  BibTeX entry type: inproceedings, article, phdthesis, mastersthesis, misc, book (optional, default: inproceedings)
 #   links:        Additional named links as list of {name, url} (optional)
 
-highlight_author: "Nieto, O."
+highlight_author: "Oriol Nieto"
 
 sections:
   # ===========================================================================
@@ -44,7 +44,7 @@ sections:
 
       - key: seetharaman2026genextend
         title: "Generative Audio Extension and Morphing"
-        authors: "Seetharaman, P.,* Nieto, O.,* Salamon, J."
+        authors: "Prem Seetharaman,* Oriol Nieto,* Justin Salamon"
         venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2026
         address: "Barcelona, Spain"
@@ -54,7 +54,7 @@ sections:
 
       - key: chu2026mix2morph
         title: "Mix2Morph: Learning Sound Morphing From Noisy Mixes"
-        authors: "Chu, A., Flores-García, H., Nieto, O., Salamon, J., Pardo, B., Seetharaman, P."
+        authors: "Annie Chu, Hugo Flores García, Oriol Nieto, Justin Salamon, Bryan Pardo, Prem Seetharaman"
         venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2026
         address: "Barcelona, Spain"
@@ -64,7 +64,7 @@ sections:
 
       - key: wen2026promptsep
         title: "PromptSep: Generative Audio Separation Via Multimodal Prompting"
-        authors: "Wen, Y., Chen, K., Seetharaman, P., Nieto, O., Su, J., Kumar, R., Kim, M., Smaragdis, P., Jin, Z., Salamon, J."
+        authors: "Yutong Wen, Ke Chen, Prem Seetharaman, Oriol Nieto, Jiaqi Su, Rithesh Kumar, Minje Kim, Paris Smaragdis, Zeyu Jin, Justin Salamon"
         venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2026
         address: "Barcelona, Spain"
@@ -74,7 +74,7 @@ sections:
 
       - key: sridhar2026audiocards
         title: "AudioCards: Structured Metadata Improves Audio Language Models For Sound Design"
-        authors: "Sridhar, S., Seetharaman, P., Nieto, O., Cartwright, M., Salamon, J."
+        authors: "Sripathi Sridhar, Prem Seetharaman, Oriol Nieto, Mark Cartwright, Justin Salamon"
         venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2026
         address: "Barcelona, Spain"
@@ -84,7 +84,7 @@ sections:
 
       - key: sridhar2026audiocards
         title: "Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning"
-        authors: "Yang, C.-H. H., Ghosh, S., Wang, Q., Kim, J., Hong, H., Kumar, S., Zhong, G., Kong, Z., Sakshi, S., Lokegaonkar, V., Nieto, O., Duraiswami, R., Manocha, D., Kim, G., Du, J., Valle, R., Catanzaro, B."
+        authors: "Chao-Han Huck Yang, Sreyan Ghosh, Qing Wang, Jaeyeon Kim, Hengyi Hong, Sonal Kumar, Guirui Zhong, Zhifeng Kong, S. Sakshi, Vaibhavi Lokegaonkar, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha, Gunhee Kim, Jun Du, Rafael Valle, Bryan Catanzaro"
         venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2026
         address: "Barcelona, Spain"
@@ -93,7 +93,7 @@ sections:
 
       - key: yoo2026soundsculptor
         title: "SoundStager: Interactive Design of Story-Driven GenAI Soundscapes for Video"
-        authors: "Yoo, S., Hernandez-Sebastian, A., Seetharaman, P., Salamon, J., Nieto, O., Truong, A."
+        authors: "Suhyeon Yoo, Adolfo Hernandez-Sebastian, Prem Seetharaman, Justin Salamon, Oriol Nieto, Anh Truong"
         venue: "Proc. of the ACM Conference on Human Factors in Computing Systems (CHI)"
         year: 2026
         address: "Barcelona, Spain"
@@ -104,7 +104,7 @@ sections:
       # --- 2025 ---
       - key: kumar2025sila
         title: "SILA: Signal-to-Language Augmentation for Enhanced Control in Text-to-Audio Generation"
-        authors: "Kumar, S., Seetharaman, P., Salamon, J., Manocha, D., Nieto, O."
+        authors: "Sonal Kumar, Prem Seetharaman, Justin Salamon, Dinesh Manocha, Oriol Nieto"
         venue: "Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
         year: 2025
         address: "Tahoe City, CA, USA"
@@ -114,7 +114,7 @@ sections:
 
       - key: wu2025flam
         title: "FLAM: Frame-Wise Language-Audio Modeling"
-        authors: "Wu, Y., Tsirigotis, C., Chen, K., Huang, C. A., Courville, A., Nieto, O., Seetharaman, P., Salamon, J."
+        authors: "Yusong Wu, Christos Tsirigotis, Ke Chen, Cheng-Zhi Anna Huang, Aaron Courville, Oriol Nieto, Prem Seetharaman, Justin Salamon"
         venue: "Proc. of the 47th International Conference on Machine Learning (ICML)"
         year: 2025
         address: "Vancouver, BC, Canada"
@@ -125,7 +125,7 @@ sections:
 
       - key: chen2025foley
         title: "Video-Guided Foley Sound Generation with Multimodal Controls"
-        authors: "Chen, Z., Seetharaman, P., Russell, B., Nieto, O., Bourgin, D., Owens, A., Salamon, J."
+        authors: "Ziyang Chen, Prem Seetharaman, Bryan Russell, Oriol Nieto, David Bourgin, Andrew Owens, Justin Salamon"
         venue: "The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)"
         year: 2025
         address: "Nashville, TN, USA"
@@ -135,7 +135,7 @@ sections:
 
       - key: ghosh2025vdg
         title: "Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs"
-        authors: "Ghosh, S., Evuru, C. K. R., Kumar, S., Tyagi, U., Nieto, O., Jin, Z., Manocha, D."
+        authors: "Sreyan Ghosh, Chandra Kiran Reddy Evuru, Sonal Kumar, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha"
         venue: "Proc. of the 13th International Conference on Learning Representations (ICLR)"
         year: 2025
         address: "Singapore"
@@ -145,7 +145,7 @@ sections:
 
       - key: sakshi2025mmau
         title: "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark"
-        authors: "Sakshi, S., Tyagi, U., Kumar, S., Seth, A., Selvakumar, R., Nieto, O., Duraiswami, R., Ghosh, S., Manocha, D."
+        authors: "S. Sakshi, Utkarsh Tyagi, Sonal Kumar, Ashish Seth, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, Sreyan Ghosh, Dinesh Manocha"
         venue: "Proc. of the 13th International Conference on Learning Representations (ICLR)"
         year: 2025
         address: "Singapore"
@@ -157,7 +157,7 @@ sections:
 
       - key: flores2025sketch2sound
         title: "Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations"
-        authors: "Flores García, H., Nieto, O., Salamon, J., Pardo, B., Seetharaman, P."
+        authors: "Hugo Flores García, Oriol Nieto, Justin Salamon, Bryan Pardo, Prem Seetharaman"
         venue: "Proc. of the 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2025
         address: "Hyderabad, India"
@@ -167,7 +167,7 @@ sections:
 
       - key: ghosh2025reclap
         title: "ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds"
-        authors: "Ghosh, S., Kumar, S., Evuru, C. K. R., Nieto, O., Duraiswami, R., Manocha, D."
+        authors: "Sreyan Ghosh, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha"
         venue: "Proc. of the 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2025
         address: "Hyderabad, India"
@@ -178,7 +178,7 @@ sections:
       # --- 2024 ---
       - key: manco2024augment
         title: "Augment, Drop & Swap: Improving Diversity in LLM Captions for Efficient Music-Text Representation Learning"
-        authors: "Manco, I., Salamon, J., Nieto, O."
+        authors: "Ilaria Manco, Justin Salamon, Oriol Nieto"
         venue: "Proc. of the 25th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2024
         address: "San Francisco, CA, USA"
@@ -187,7 +187,7 @@ sections:
 
       - key: ghosh2024gama
         title: "GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities"
-        authors: "Ghosh, S., Kumar, S., Seth, A., Kiran, C., Evuru, R., Tyagi, U., Sakshi, S., Nieto, O., Duraiswami, R., Manocha, D."
+        authors: "Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S. Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha"
         venue: "Proc. of the 19th Empirical Methods in Natural Language Processing Conference (EMNLP)"
         year: 2024
         address: "Miami, Florida, USA"
@@ -199,7 +199,7 @@ sections:
 
       - key: ghosh2024compa
         title: "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models"
-        authors: "Ghosh, S., Seth, A., Kumar, S., Tyagi, U., Evuru, C. K., Ramaneswaran, S., Sakshi, S., Nieto, O., Duraiswami, R., Manocha, D."
+        authors: "Sreyan Ghosh, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Evuru, S. Ramaneswaran, S. Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha"
         venue: "Proc. of the 12th International Conference on Learning Representations (ICLR)"
         year: 2024
         address: "Vienna, Austria"
@@ -211,7 +211,7 @@ sections:
       # --- 2023 ---
       - key: wilkins2023bridging
         title: "Bridging High-Quality Audio and Video via Language for Sound Effects Retrieval from Visual Queries"
-        authors: "Wilkins, J., Salamon, J., Fuentes, M., Bello, J. P., Nieto, O."
+        authors: "Julia Wilkins, Justin Salamon, Magdalena Fuentes, Juan Pablo Bello, Oriol Nieto"
         venue: "Proc. of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
         year: 2023
         address: "New Paltz, NY, USA"
@@ -221,7 +221,7 @@ sections:
 
       - key: nieto2023efficient
         title: "Efficient Spoken Language Recognition via Multilabel Classification"
-        authors: "Nieto, O., Jin, Z., Dernoncourt, F., Salamon, J."
+        authors: "Oriol Nieto, Zeyu Jin, Franck Dernoncourt, Justin Salamon"
         venue: "Proc. of the 24th InterSpeech Conference"
         year: 2023
         address: "Dublin, Ireland"
@@ -230,7 +230,7 @@ sections:
 
       - key: tan2023trimodal
         title: "Language-Guided Audio-Visual Source Separation via Trimodal Consistency"
-        authors: "Tan, R., Burns, A., Ray, A., Plummer, B. A., Nieto, O., Salamon, J., Russell, B., Saenko, K."
+        authors: "Reuben Tan, Andrea Burns, Arijit Ray, Bryan A. Plummer, Oriol Nieto, Justin Salamon, Bryan Russell, Kate Saenko"
         venue: "Proc. of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)"
         year: 2023
         address: "Vancouver, BC, Canada"
@@ -241,7 +241,7 @@ sections:
 
       - key: wu2023audiotext
         title: "Audio-Text Models Do Not Yet Leverage Natural Language"
-        authors: "Wu, H., Nieto, O., Bello, J. P., Salamon, J."
+        authors: "Ho-Hsiang Wu, Oriol Nieto, Juan Pablo Bello, Justin Salamon"
         venue: "Proc. of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2023
         address: "Rhodes, Greece"
@@ -251,7 +251,7 @@ sections:
       # --- 2022 ---
       - key: kandpal2022music
         title: "Music Enhancement Via Image Translation and Vocoding"
-        authors: "Kandpal, N., Nieto, O., Jin, Z."
+        authors: "Nikhil Kandpal, Oriol Nieto, Zeyu Jin"
         venue: "Proc. of the 47th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2022
         address: "Singapore"
@@ -262,7 +262,7 @@ sections:
       # --- 2021 ---
       - key: salamon2021deep
         title: "Deep Embeddings and Section Fusion Improve Music Segmentation"
-        authors: "Salamon, J., Nieto, O., Bryan, N. J."
+        authors: "Justin Salamon, Oriol Nieto, Nicholas J. Bryan"
         venue: "Proc. of the 22nd International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2021
         pages: "594-601"
@@ -271,7 +271,7 @@ sections:
 
       - key: won2021multimodal
         title: "Multimodal Metric Learning for Tag-Based Music Retrieval"
-        authors: "Won, M., Oramas, S., Nieto, O., Gouyon, F., Serra, X."
+        authors: "Minz Won, Sergio Oramas, Oriol Nieto, Fabien Gouyon, Xavier Serra"
         venue: "Proc. of the 46th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2021
         address: "Toronto, Canada"
@@ -281,7 +281,7 @@ sections:
       # --- 2020 ---
       - key: nieto2020structure
         title: "Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications"
-        authors: "Nieto, O., Mysore, G. J., Wang, C.-i., Smith, J. B. L., Schlüter, J., Grill, T., McFee, B."
+        authors: "Oriol Nieto, Gautham J. Mysore, Cheng-i Wang, Jordan B. L. Smith, Jan Schlüter, Thomas Grill, Brian McFee"
         venue: "Transactions of the International Society for Music Information Retrieval (TISMIR)"
         year: 2020
         volume: "3"
@@ -293,7 +293,7 @@ sections:
 
       - key: korzeniowski2020mood
         title: "Mood Classification Using Listening Data"
-        authors: "Korzeniowski, F., Nieto, O., McCallum, M., Won, M., Oramas, S., Schmidt, E."
+        authors: "Filip Korzeniowski, Oriol Nieto, Matthew McCallum, Minz Won, Sergio Oramas, Erik Schmidt"
         venue: "Proc. of the 21st International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2020
         address: "Montreal, Quebec, Canada"
@@ -302,7 +302,7 @@ sections:
 
       - key: won2020harmonic
         title: "Data-Driven Harmonic Filters For Audio Representation Learning"
-        authors: "Won, M., Chun, S., Nieto, O., Serra, X."
+        authors: "Minz Won, Sanghyuk Chun, Oriol Nieto, Xavier Serra"
         venue: "Proc. of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2020
         address: "Barcelona, Spain"
@@ -312,7 +312,7 @@ sections:
       # --- 2019 ---
       - key: nieto2019harmonix
         title: "The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music"
-        authors: "Nieto, O., McCallum, M., Davies, M., Robertson, A., Stark, A., Egozy, E."
+        authors: "Oriol Nieto, Matthew McCallum, Matthew Davies, Andrew Robertson, Adam Stark, Eran Egozy"
         venue: "Proc. of the 20th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2019
         address: "Delft, The Netherlands"
@@ -323,7 +323,7 @@ sections:
       # --- 2018 ---
       - key: ren2018pattern
         title: "Investigating Musical Pattern Ambiguity in a Human Annotated Dataset"
-        authors: "Ren, I. Y., Nieto, O., Hendrik, V. K., Volk, A., Swierstra, W."
+        authors: "Iris Yuping Ren, Oriol Nieto, Hendrik Vincent Koops, Anja Volk, Wouter Swierstra"
         venue: "Proc. of the 15th International Conference on Music Perception and Cognition (ICMPC)"
         year: 2018
         address: "Graz, Austria"
@@ -332,7 +332,7 @@ sections:
 
       - key: pons2018endtoend
         title: "End-to-End Learning for Music Audio Tagging at Scale"
-        authors: "Pons, J., Nieto, O., Prockup, M., Schmidt, E., Ehmann, A., Serra, X."
+        authors: "Jordi Pons, Oriol Nieto, Matthew Prockup, Erik Schmidt, Andreas Ehmann, Xavier Serra"
         venue: "Proc. of the 19th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2018
         address: "Paris, France"
@@ -342,7 +342,7 @@ sections:
 
       - key: oramas2018multimodal
         title: "Multimodal Deep Learning for Music Genre Classification"
-        authors: "Oramas, S., Barbieri, F., Nieto, O., Serra, X."
+        authors: "Sergio Oramas, Francesco Barbieri, Oriol Nieto, Xavier Serra"
         venue: "Transactions of the International Society for Music Information Retrieval (TISMIR)"
         year: 2018
         arxiv: "https://arxiv.org/abs/1707.04916"
@@ -350,7 +350,7 @@ sections:
 
       - key: ebrahimi18ads
         title: "Predicting Audio Advertisement Quality"
-        authors: "Ebrahimi, S., Vahabi, H., Prockup, M., Nieto, O."
+        authors: "Samaneh Ebrahimi, Hossein Vahabi, Matthew Prockup, Oriol Nieto"
         venue: "Proc. of the 11th ACM International Conference on Web Search and Data Mining (WSDM)"
         year: 2018
         arxiv: "https://arxiv.org/abs/1802.03319"
@@ -360,7 +360,7 @@ sections:
 
       - key: oramas2017deep
         title: "A Deep Multimodal Approach for Cold-start Music Recommendation"
-        authors: "Oramas, S., Nieto, O., Sordo, M., Serra, X."
+        authors: "Sergio Oramas, Oriol Nieto, Mohamed Sordo, Xavier Serra"
         venue: "Proc. of the 2nd Workshop on Deep Learning for Recommender Systems (DLRS), at RecSys"
         year: 2017
         address: "Como, Italy"
@@ -369,7 +369,7 @@ sections:
 
       - key: mcfee2017hier
         title: "Evaluating Hierarchical Structure in Music Annotations"
-        authors: "McFee, B., Nieto, O., Farbood, M. M., Bello, J. P."
+        authors: "Brian McFee, Oriol Nieto, Morwaread M. Farbood, Juan Pablo Bello"
         venue: "Frontiers in Psychology"
         year: 2017
         volume: 8
@@ -379,7 +379,7 @@ sections:
 
       - key: oramas2017genre
         title: "Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features"
-        authors: "Oramas, S., Nieto, O., Barbieri, F., Serra, X."
+        authors: "Sergio Oramas, Oriol Nieto, Francesco Barbieri, Xavier Serra"
         venue: "Proc. of the 18th International Society of Music Information Retrieval Conference (ISMIR)"
         year: 2017
         address: "Suzhou, China"
@@ -390,7 +390,7 @@ sections:
       # --- 2016 ---
       - key: nieto2016systematic
         title: "Systematic Exploration of Computational Music Structure Research"
-        authors: "Nieto, O., Bello, J. P."
+        authors: "Oriol Nieto, Juan Pablo Bello"
         venue: "Proc. of the 17th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2016
         address: "New York City, NY, USA"
@@ -401,7 +401,7 @@ sections:
       # --- 2015 ---
       - key: mcfee2015hier
         title: "Hierarchical Evaluation of Segment Boundary Detection"
-        authors: "McFee, B., Nieto, O., Bello, J. P."
+        authors: "Brian McFee, Oriol Nieto, Juan Pablo Bello"
         venue: "Proc. of the 16th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2015
         address: "Málaga, Spain"
@@ -410,7 +410,7 @@ sections:
 
       - key: mcfee2015librosa
         title: "librosa: Audio and Music Signal Analysis in Python"
-        authors: "McFee, B., Raffel, C., Liang, D., Ellis, D. P. W., McVicar, M., Battenberg, E., Nieto, O."
+        authors: "Brian McFee, Colin Raffel, Dawen Liang, Daniel P. W. Ellis, Matt McVicar, Eric Battenberg, Oriol Nieto"
         venue: "Proc. of the 14th Python in Science Conference (SciPy)"
         year: 2015
         address: Austin, TX, USA
@@ -421,7 +421,7 @@ sections:
       # --- 2014 ---
       - key: nieto2014music
         title: "Music Segment Similarity Using 2D-Fourier Magnitude Coefficients"
-        authors: "Nieto, O., Bello, J. P."
+        authors: "Oriol Nieto, Juan Pablo Bello"
         venue: "Proc. of the 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2014
         address: "Florence, Italy"
@@ -430,7 +430,7 @@ sections:
 
       - key: raffel2014mir_eval
         title: "MIR_EVAL: A Transparent Implementation of Common MIR Metrics."
-        authors: "Raffel, C., McFee, B., Humphrey, E. J., Salamon, J., Nieto, O., Liang, D., Ellis, D. P. W."
+        authors: "Colin Raffel, Brian McFee, Eric J. Humphrey, Justin Salamon, Oriol Nieto, Dawen Liang, Daniel P. W. Ellis"
         venue: "Proc. of the 15th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2014
         address: "Taipei, Taiwan"
@@ -440,7 +440,7 @@ sections:
 
       - key: nieto2014perceptual
         title: "Identifying Polyphonic Patterns from Audio Recordings Using Music Segmentation Techniques"
-        authors: "Nieto, O., Farbood, M."
+        authors: "Oriol Nieto, Morwaread M. Farbood"
         venue: "Proc. of the 15th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2014
         address: "Taipei, Taiwan"
@@ -449,7 +449,7 @@ sections:
 
       - key: ballus2014cogsci
         title: "Embodying Theoretical Research in Music Cognition: Four Proposals for Theory-Driven Experimentation"
-        authors: "Ballus, A., Arnau, E., Nieto, O., Font, F., Torrents, A."
+        authors: "Andreu Ballús, Eric Arnau, Oriol Nieto, Frederic Font, Alba G. Torrents"
         venue: "Proc. of the Annual Meeting of the Cognitive Science Society"
         year: 2014
         address: "Quebec City, Quebec, Canada"
@@ -459,7 +459,7 @@ sections:
       # --- 2013 ---
       - key: nieto2013convex
         title: "Convex Non-Negative Matrix Factorization for Automatic Music Structure Identification"
-        authors: "Nieto, O., Jehan, T."
+        authors: "Oriol Nieto, Tristan Jehan"
         venue: "Proc. of the 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         year: 2013
         address: "Vancouver, BC, Canada"
@@ -468,7 +468,7 @@ sections:
 
       - key: humphrey2013data
         title: "Data Driven and Discriminative Projections for Large-Scale Cover Song Identification"
-        authors: "Humphrey, E. J., Nieto, O., Bello, J. P."
+        authors: "Eric J. Humphrey, Oriol Nieto, Juan Pablo Bello"
         venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2013
         address: "Curitiba, Brazil"
@@ -477,7 +477,7 @@ sections:
 
       - key: nieto2013screams
         title: "Unsupervised Clustering of Extreme Vocal Effects"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Proc. of the 10th International Conference on Advances in Quantitative Laryngology, Voice and Speech Research (AQL)"
         year: 2013
         address: "Cincinnati, OH, USA"
@@ -486,7 +486,7 @@ sections:
 
       - key: park2013fortissimo
         title: "Fortissimo: Force-Feedback for Mobile Devices"
-        authors: "Park, T. H., Nieto, O."
+        authors: "Tae Hong Park, Oriol Nieto"
         venue: "Proc. of the 13th International Conference on New Interfaces for Musical Expression (NIME)"
         year: 2013
         address: "Daejeon and Seoul, Korea"
@@ -495,7 +495,7 @@ sections:
 
       - key: park2013tactile
         title: "Even More Tactile Feedback for Mobile Devices"
-        authors: "Park, T. H., Crawford, L., Nieto, O."
+        authors: "Tae Hong Park, Langdon Crawford, Oriol Nieto"
         venue: "Proc. of the 39th International Computer Music Conference (ICMC)"
         year: 2013
         address: "Perth, Australia"
@@ -505,7 +505,7 @@ sections:
       # --- 2012 ---
       - key: nieto2012perceptual
         title: "Perceptual Evaluation of Automatically Extracted Musical Motives"
-        authors: "Nieto, O., Farbood, M."
+        authors: "Oriol Nieto, Morwaread M. Farbood"
         venue: "Proc. of the 12th International Conference on Music Perception and Cognition (ICMPC)"
         year: 2012
         pages: "723-727"
@@ -515,7 +515,7 @@ sections:
 
       - key: nieto2012summaries
         title: "Compressing Music Recordings Into Audio Summaries"
-        authors: "Nieto, O., Humphrey, E. J., Bello, J. P."
+        authors: "Oriol Nieto, Eric J. Humphrey, Juan Pablo Bello"
         venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2012
         address: "Porto, Portugal"
@@ -531,7 +531,7 @@ sections:
     entries:
       - key: nieto2016mirex
         title: "MIREX 2016 Entry: MSAF V0.1.0 Submission"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2016
         address: "New York City, NY, USA"
@@ -541,7 +541,7 @@ sections:
 
       - key: nieto2014mirex2d
         title: "MIREX 2014 Entry: 2D Fourier Magnitude Coefficients"
-        authors: "Nieto, O., Bello, J. P."
+        authors: "Oriol Nieto, Juan Pablo Bello"
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2014
         address: "Taipei, Taiwan"
@@ -551,7 +551,7 @@ sections:
 
       - key: nieto2014mirexseg
         title: "MIREX 2014 Entry: Music Segmentation Techniques and Greedy Path Finder Algorithm to Discover Musical Patterns"
-        authors: "Nieto, O., Farbood, M."
+        authors: "Oriol Nieto, Morwaread M. Farbood"
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2014
         address: "Taipei, Taiwan"
@@ -561,7 +561,7 @@ sections:
 
       - key: nieto2014mirexcnmf
         title: "MIREX 2014 Entry: Convex Non-negative Matrix Factorization"
-        authors: "Nieto, O., Jehan, T."
+        authors: "Oriol Nieto, Tristan Jehan"
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2014
         address: "Taipei, Taiwan"
@@ -571,7 +571,7 @@ sections:
 
       - key: nieto2013mirex
         title: "MIREX 2013: Discovering Musical Patterns Using Audio Structural Segmentation Techniques"
-        authors: "Nieto, O., Farbood, M."
+        authors: "Oriol Nieto, Morwaread M. Farbood"
         venue: "Music Information Retrieval Evaluation eXchange (MIREX)"
         year: 2013
         address: "Curitiba, Brazil"
@@ -586,7 +586,7 @@ sections:
     entries:
       - key: nieto2015phd
         title: "Discovering Structure in Music: Automatic Approaches and Perceptual Evaluations"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "New York University. PhD Dissertation"
         year: 2015
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-Dissertation.pdf"
@@ -596,7 +596,7 @@ sections:
 
       - key: nieto2008masters
         title: "Voice Transformations for Extreme Vocal Effects"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Pompeu Fabra University. Master's Thesis"
         year: 2008
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-MasterThesis.pdf"
@@ -604,7 +604,7 @@ sections:
 
       - key: nieto2007undergrad
         title: "Desenvolupament Open Source per a E-Learning-II"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Polytechnic University of Catalonia. Undergrad's Thesis"
         year: 2007
         pdf: "https://ccrma.stanford.edu/~urinieto/MARL/publications/Nieto-BS-Thesis.pdf"
@@ -618,7 +618,7 @@ sections:
     entries:
       - key: nieto2025soundstager
         title: "Project Sound Stager"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Adobe MAX Sneaks 2025"
         year: 2025
         address: "Los Angeles, CA, USA"
@@ -627,7 +627,7 @@ sections:
 
       - key: nieto2025gensfx
         title: "GenAI for Sound Design"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Conversational AI Reading Group at Mila"
         year: 2025
         address: "Montreal, Quebec, Canada"
@@ -636,7 +636,7 @@ sections:
 
       - key: nieto2021wimir
         title: "Overview, Challenges, and Applications of Audio-based Music Structure Analysis"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Women in Music Information Retrieval Workshop (ISMIR)"
         year: 2021
         address: "Virtual"
@@ -645,7 +645,7 @@ sections:
 
       - key: nieto2020globalai
         title: "Music Recommendation with Waveform-based Architectures"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "4th Global AI Conference"
         year: 2020
         address: "Santa Clara, CA, USA"
@@ -654,7 +654,7 @@ sections:
 
       - key: nieto2019upf
         title: "Spectral Analysis and Detection of Extreme Vocal Effects (with CNNs)"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Research Seminar. Universitat Pompeu Fabra"
         year: 2019
         address: "Barcelona, Spain"
@@ -663,7 +663,7 @@ sections:
 
       - key: nieto2019brazil
         title: "Spectral Analysis and Detection of Extreme Vocal Effects"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "2nd International Symposium on Distorted Voices"
         year: 2019
         address: "São Paulo, Brazil"
@@ -672,7 +672,7 @@ sections:
 
       - key: nieto2019usf
         title: "Recommending Music with Waveform Architectures at Scale (Extended Version)"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Seminar Series in Data Science. University of San Francisco"
         year: 2019
         address: "San Francisco, CA, USA"
@@ -681,7 +681,7 @@ sections:
 
       - key: nieto2018dlbcn
         title: "Recommending Music with Waveform Architectures at Scale"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Deep Learning Barcelona Symposium. Pompeu Fabra University"
         year: 2018
         address: "Barcelona, Spain"
@@ -691,7 +691,7 @@ sections:
 
       - key: nieto2017coldstart
         title: "Cold-Start Music Recommendation Using Multimodal Deep Architectures"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Systematic Approaches to Deep Learning Methods for Audio. Erwin Schrödinger Institute, University of Vienna"
         year: 2017
         address: "Vienna, Austria"
@@ -700,7 +700,7 @@ sections:
 
       - key: nieto2017longtail
         title: "Long Tail Music Recommendation Using Deep Architectures"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "International Workshop on Deep Learning for Music (IJCNN)"
         year: 2017
         address: "Anchorage, AK, USA"
@@ -709,7 +709,7 @@ sections:
 
       - key: nieto2017stanford
         title: "Deep Learning for Large-Scale Music Recommendation"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Data-Driven Research in Music Cognition. Stanford University"
         year: 2017
         address: "Stanford, CA, USA"
@@ -718,7 +718,7 @@ sections:
 
       - key: nieto2016upf
         title: "Deep Learning for Music Recommendation: Machine Listening and Collaborative Filtering"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Seminar on Music Knowledge Extraction Using Machine Learning. Pompeu Fabra University"
         year: 2016
         address: "Barcelona, Spain"
@@ -727,7 +727,7 @@ sections:
 
       - key: nieto2016stanford
         title: "Deep Learning for Large Scale Music Recommendation"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Biostat Seminar. Stanford University"
         year: 2016
         address: "Stanford, CA, USA"
@@ -736,7 +736,7 @@ sections:
 
       - key: nieto2014cogmir
         title: "Multiple Annotations and Subjectivity in the Identification of Segment Boundaries in Music"
-        authors: "Nieto, O., Farbood, M."
+        authors: "Oriol Nieto, Morwaread M. Farbood"
         venue: "Cognitive Music Information Retrieval (CogMIR)"
         year: 2014
         address: "Toronto, ON, Canada"
@@ -745,7 +745,7 @@ sections:
 
       - key: nieto2014nemisig
         title: "Music Segment Similarity Using 2D-Fourier Magnitude Coefficients"
-        authors: "Nieto, O., Bello, J. P."
+        authors: "Oriol Nieto, Juan Pablo Bello"
         venue: "North East Music Information Special Interest Group (NEMISIG)"
         year: 2014
         address: "New York, NY, USA"
@@ -754,7 +754,7 @@ sections:
 
       - key: nieto2013cogmir
         title: "A Perceptually Based Evaluation of Music Boundaries"
-        authors: "Nieto, O., Farbood, M., Bello, J. P."
+        authors: "Oriol Nieto, Morwaread M. Farbood, Juan Pablo Bello"
         venue: "Cognitive Music Information Retrieval (CogMIR)"
         year: 2013
         address: "Toronto, ON, Canada"
@@ -763,7 +763,7 @@ sections:
 
       - key: nieto2013upf
         title: "Music Structure Analysis and New Musical Interfaces"
-        authors: "Nieto, O."
+        authors: "Oriol Nieto"
         venue: "Pompeu Fabra University"
         year: 2013
         address: "Barcelona, Spain"
@@ -772,7 +772,7 @@ sections:
 
       - key: nieto2013nemisig
         title: "Music Structure Analysis by Matrix Factorization"
-        authors: "Nieto, O., Jehan, T."
+        authors: "Oriol Nieto, Tristan Jehan"
         venue: "North East Music Information Special Interest Group (NEMISIG)"
         year: 2013
         address: "Boston, MA, USA"
@@ -787,7 +787,7 @@ sections:
     entries:
       - key: bolsa2022bossa1
         title: "La Bossa d'Urina: El Primer Disc"
-        authors: "Bolsa, D., Nieto, O."
+        authors: "Daniel Bolsa, Oriol Nieto"
         venue: "Published by Record Union"
         year: 2022
         bibtex_type: misc
@@ -801,7 +801,7 @@ sections:
 
       - key: cobo2021rumbahia2
         title: "Rumbahía: Casi al Compás"
-        authors: "Cobo, L. C., Cardona, J., Grant, E. E., Melendo, D., Nieto, O."
+        authors: "Luis Carlos Cobo, Javier Cardona, Erin E. Grant, Diego Melendo, Oriol Nieto"
         venue: "Published by CDBaby"
         year: 2021
         bibtex_type: misc
@@ -815,7 +815,7 @@ sections:
 
       - key: cobo2019rumbahia1
         title: "Rumbahía: Aprendiendo"
-        authors: "Cobo, L. C., Cardona, J., Gallegos, J., Melendo, D., Nieto, O."
+        authors: "Luis Carlos Cobo, Javier Cardona, Jess Gallegos, Diego Melendo, Oriol Nieto"
         venue: "Published by CDBaby"
         year: 2019
         bibtex_type: misc
@@ -829,7 +829,7 @@ sections:
 
       - key: bolsa2018merda
         title: "La Bossa d'Urina: Merda Fina"
-        authors: "Bolsa, D., Nieto, O."
+        authors: "Daniel Bolsa, Oriol Nieto"
         venue: "Published by Record Union"
         year: 2018
         bibtex_type: misc
@@ -845,7 +845,7 @@ sections:
 
       - key: henson2017arkaen
         title: "Arkaen: Arkaen"
-        authors: "Henson, S., Nieto, O., Nuñez, J., Remas, E., Rickher, G."
+        authors: "Oriol Nieto, Sean Henson, Joey Nuñez, Eli Remas, Garey Rickher"
         venue: "Published by Record Union"
         year: 2017
         bibtex_type: misc
@@ -861,7 +861,7 @@ sections:
 
       - key: bolsa2015bossa
         title: "La Bossa d'Urina: La Bossa d'Urina"
-        authors: "Bolsa, D., Nieto, O."
+        authors: "Daniel Bolsa, Oriol Nieto"
         venue: "Published by Cydonia Records"
         year: 2015
         bibtex_type: misc
@@ -877,7 +877,7 @@ sections:
 
       - key: ferreiro2009vida
         title: "Sargon: Vida"
-        authors: "Ferreiro, C., Llobet, J., Nieto, O., Prim, M."
+        authors: "Carles Ferreiro, Jordi Llobet, Oriol Nieto, Marc Prim"
         venue: "Album edited by Weight Recordings"
         year: 2009
         bibtex_type: misc
@@ -893,7 +893,7 @@ sections:
 
       - key: ferreiro2005sargon
         title: "Sargon: Transcriptions"
-        authors: "Ferreiro, C., Llobet, J., Nieto, O., Prim, M."
+        authors: "Carles Ferreiro, Jordi Llobet, Oriol Nieto, Marc Prim"
         venue: "Album edited by Big Bang Records"
         year: 2005
         bibtex_type: misc
@@ -911,7 +911,7 @@ sections:
     entries:
       - key: won2019tagging
         title: "Automatic Music Tagging with Harmonic CNN"
-        authors: "Won, M., Sanghyuk, C., Nieto, O., Serra, X."
+        authors: "Minz Won, Sanghyuk Chun, Oriol Nieto, Xavier Serra"
         venue: "Late Breaking Session of the International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2019
         address: "Delft, The Netherlands"
@@ -920,7 +920,7 @@ sections:
 
       - key: nieto2015msaf
         title: "MSAF: Music Structure Analysis Framework"
-        authors: "Nieto, O., Bello, J. P."
+        authors: "Oriol Nieto, Juan Pablo Bello"
         venue: "International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2015
         address: "Málaga, Spain"
@@ -929,7 +929,7 @@ sections:
 
       - key: nieto2013latebreak
         title: "2013 Late Break Session on Music Segmentation"
-        authors: "Nieto, O., Smith, J. B. L."
+        authors: "Oriol Nieto, Jordan B. L. Smith"
         venue: "Proc. of the 14th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2013
         address: "Curitiba, Brazil"
@@ -938,7 +938,7 @@ sections:
 
       - key: rocha2012latebreak
         title: "Late-break Session on Music Structure Analysis"
-        authors: "Rocha, B., Smith, J. B. L., Peeters, G., Ross, J. C., Nieto, O., Van Balen, J."
+        authors: "Bruno Rocha, Jordan B. L. Smith, Geoffroy Peeters, Joe Cheri Ross, Oriol Nieto, Jan Van Balen"
         venue: "Proc. of the 13th International Society for Music Information Retrieval Conference (ISMIR)"
         year: 2012
         address: "Porto, Portugal"
@@ -947,7 +947,7 @@ sections:
 
       - key: nieto2007sistemas
         title: "Sistemas Operativos: Cuaderno de Laboratorio"
-        authors: "Nieto, O., Pajuelo, A., López, D., Millan, A., Heredero, A., Duran, A., Herrero, J. R., Verdú, X., Becerra, Y., Morancho, E."
+        authors: "Oriol Nieto, Àlex Pajuelo, David López, Amador Millan, A. Heredero, Alex Duran, José R. Herrero, Xavier Verdú, Yolanda Becerra, Enric Morancho"
         venue: "Department of Computer Architecture. Polytechnic University of Catalonia"
         year: 2007
         isbn: "978-84-612-1002-2"
