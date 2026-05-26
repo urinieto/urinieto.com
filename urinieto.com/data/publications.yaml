@@ -48,6 +48,7 @@ sections:
         authors: "William Chen, Prem Seetharaman, Rithesh Kumar, Oriol Nieto, Shinji Watanabe, Justin Salamon, Zeyu Jin"
         venue: "Proc. of the 43rd International Conference on Machine Learning (ICML)"
         year: 2026
+        address: Seoul, South Korea
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2602.17097"
         demo: "https://wanchichen.github.io/audiochat/"
