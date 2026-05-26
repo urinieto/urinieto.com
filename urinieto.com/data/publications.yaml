@@ -46,7 +46,7 @@ sections:
       - key: chen2026audiochat
         title: "AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing"
         authors: "William Chen, Prem Seetharaman, Rithesh Kumar, Oriol Nieto, Shinji Watanabe, Justin Salamon, Zeyu Jin"
-        venue: "Proc. of the 43rd International Conference on Machine Learning"
+        venue: "Proc. of the 43rd International Conference on Machine Learning (ICML)"
         year: 2026
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2602.17097"
