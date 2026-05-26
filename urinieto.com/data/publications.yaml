@@ -19,6 +19,7 @@
 #   slides:       URL to slides (optional)
 #   video:        URL to video (optional)
 #   demo:         URL to demo page (optional)
+#   poster:       URL to poster (optional)
 #   award:        Award text, e.g. "Best Student Paper" (optional)
 #   bibtex_type:  BibTeX entry type: inproceedings, article, phdthesis, mastersthesis, misc, book (optional, default: inproceedings)
 #   links:        Additional named links as list of {name, url} (optional)
@@ -33,15 +34,6 @@ sections:
     id: "peer-reviewed"
     entries:
       # --- 2026 ---
-      - key: chen2026audiochat
-        title: "AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing"
-        authors: "William Chen, Prem Seetharaman, Rithesh Kumar, Oriol Nieto, Shinji Watanabe, Justin Salamon, Zeyu Jin"
-        venue: "(under review)"
-        year: 2026
-        bibtex_type: inproceedings
-        arxiv: "https://arxiv.org/abs/2602.17097"
-        demo: "https://wanchichen.github.io/audiochat/"
-
       - key: kumar2026tac
         title: "TAC: Timestamped Audio Captioning"
         authors: "Sonal Kumar, Prem Seetharaman, Ke Chen, Oriol Nieto, Jiaqi Su, Zhepei Wang, Rithesh Kumar, Dinesh Manocha, Nicholas J. Bryan, Zeyu Jin, Justin Salamon"
@@ -50,6 +42,15 @@ sections:
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2602.15766"
         demo: "https://sonalkum.github.io/tacmodel/"
+
+      - key: chen2026audiochat
+        title: "AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing"
+        authors: "William Chen, Prem Seetharaman, Rithesh Kumar, Oriol Nieto, Shinji Watanabe, Justin Salamon, Zeyu Jin"
+        venue: "Proc. of the 43rd International Conference on Machine Learning"
+        year: 2026
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2602.17097"
+        demo: "https://wanchichen.github.io/audiochat/"
 
       - key: seetharaman2026genextend
         title: "Generative Audio Extension and Morphing"
@@ -60,6 +61,7 @@ sections:
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2602.16790"
         demo: "https://urinieto.github.io/genextend_html"
+        poster: "https://urinieto.github.io/genextend_html/poster.png"
 
       - key: chu2026mix2morph
         title: "Mix2Morph: Learning Sound Morphing From Noisy Mixes"
