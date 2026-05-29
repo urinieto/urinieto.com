@@ -62,7 +62,7 @@ sections:
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2602.16790"
         demo: "https://urinieto.github.io/genextend_html"
-        poster: "https://urinieto.github.io/genextend_html/poster.png"
+        poster: "https://ccrma.stanford.edu/~urinieto/MARL/publications/ICASSP2026_Poster_GenExtend.pdf"
 
       - key: chu2026mix2morph
         title: "Mix2Morph: Learning Sound Morphing From Noisy Mixes"
