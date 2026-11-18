@@ -26,6 +26,16 @@ E.g.,
     hugo new posts/2024-01-13-incrediblepost.md
 
 
+## To Add News
+
+Add an item to `urinieto.com/data/news.yaml`:
+
+    - date: "2026-11-17"
+      emoji: "🎉"
+      text: "My paper [Cool Paper](/publications/#pub-<key>) was accepted to **ICASSP**!"
+
+Items are sorted by date automatically. The latest ones (`newsOnHome` in `config.toml`) appear at the top of the home page; all of them are at `/news/`.
+
 ## To Run the Hugo Server Locally
 
     hugo server --disableFastRender -D
