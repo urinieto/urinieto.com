@@ -1,0 +1,85 @@
+/* ============================================================
+   News Styles — homepage block and /news/ page
+   ============================================================ */
+
+.news {
+    margin: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.news-heading {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1;
+    font-weight: 600;
+    color: var(--heading-color);
+    font-size: 22px;
+    margin: 0 0 0.6em 0;
+}
+
+.news-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.news-item {
+    display: flex;
+    gap: 1em;
+    padding: 0.45em 0;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+
+.news-date {
+    flex: 0 0 6.5em;
+    white-space: nowrap;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--heading-color);
+    padding-top: 0.15em;
+}
+
+.news-emoji {
+    display: inline-block;
+    width: 1.3em;
+}
+
+.news-text p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+
+.news-text a,
+.news-more a {
+    color: #2660ab;
+    text-decoration: none;
+}
+
+.news-text a:hover,
+.news-more a:hover {
+    text-decoration: underline;
+}
+
+.news-more {
+    margin: 0.8em 0 0 0;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 600px) {
+    .news {
+        margin: 30px 16px;
+    }
+
+    .news-item {
+        flex-direction: column;
+        gap: 0.1em;
+    }
+
+    .news-date {
+        flex-basis: auto;
+    }
+}

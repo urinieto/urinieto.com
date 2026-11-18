@@ -1,0 +1,22 @@
+{{/*
+  News list — reads data/news.yaml.
+  Usage: {{ partial "news.html" (dict "site" .Site "limit" 5) }}
+  limit: number of items to show (0 or omitted = all).
+*/}}
+{{ $data := .site.Data.news }}
+{{ $limit := .limit | default 0 }}
+{{ if and $data $data.items }}
+  {{ $items := sort $data.items "date" "desc" }}
+  {{ if gt $limit 0 }}{{ $items = first $limit $items }}{{ end }}
+  <ul class="news-list">
+    {{ range $items }}
+    <li class="news-item">
+      <span class="news-date">
+        {{- with .emoji }}<span class="news-emoji" aria-hidden="true">{{ . }}</span> {{ end -}}
+        {{- dateFormat "Jan 2006" .date -}}
+      </span>
+      <span class="news-text">{{ .text | markdownify }}</span>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}
