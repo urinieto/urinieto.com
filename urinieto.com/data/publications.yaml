@@ -33,15 +33,63 @@ sections:
   - name: "Peer Reviewed Articles"
     id: "peer-reviewed"
     entries:
+      # --- 2027 ---
+      - key: morais2027foleyforge
+        title: "FoleyForge: Free-form, Controllable, Rectified-flow Editing of Sound Effects"
+        authors: "Giovana Morais, Hugo Flores García, Prem Seetharaman, Johannes Imort, Justin Salamon, Magdalena Fuentes, Oriol Nieto"
+        venue: "(under review at ICASSP)"
+        year: 2027
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2611.08695"
+        demo: "https://giovana-morais.github.io/2027_icassp_foleyforge_demo/"
+
+      - key: chen2027crossedit
+        title: "CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing"
+        authors: "William Chen, Prem Seetharaman, Ke Chen, Oriol Nieto, Kevin Duarte, Siddharth Srinivasan Iyer, Mamshad Nayeem Rizve, Zhiwen Cao, Shinji Watanabe, Yuanjun Xiong, Jianming Zhang, Zeyu Jin, Justin Salamon"
+        venue: "(under review at ICLR)"
+        year: 2027
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2610.10264"
+        demo: "https://wanchichen.github.io/crossedit/"
+
+      - key: wen2027promptsepspeaker
+        title: "PromptSep-Speaker: Generative Target Speaker Extraction via Multimodal Prompting and Semantic Alignment"
+        authors: "Yutong Wen, Ke Chen, Prem Seetharaman, Haonan Chen, Oriol Nieto, Paris Smaragdis, Justin Salamon, Zeyu Jin"
+        venue: "(under review at ICASSP)"
+        year: 2027
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2610.23066"
+        demo: "https://yutongwen.github.io/PromptSep-Speaker/"
+
       # --- 2026 ---
       - key: kumar2026tac
         title: "TAC: Timestamped Audio Captioning"
         authors: "Sonal Kumar, Prem Seetharaman, Ke Chen, Oriol Nieto, Jiaqi Su, Zhepei Wang, Rithesh Kumar, Dinesh Manocha, Nicholas J. Bryan, Zeyu Jin, Justin Salamon"
-        venue: "(under review)"
+        venue: "Proc. of the 40th Conference on Neural Information Processing Systems (NeurIPS)"
+        address: "Sydney, Australia"
         year: 2026
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2602.15766"
         demo: "https://sonalkum.github.io/tacmodel/"
+
+      - key: chu2026smorph
+        title: "Smorph: Playable Sound Morphing with Diffusion Models"
+        authors: "Annie Chu, Hugo Flores García, Johannes Imort, Oriol Nieto, Bryan Pardo, Jordan Rudess, Prem Seetharaman, Justin Salamon"
+        venue: "Proc. of the 27th International Society for Music Information Retrieval Conference (ISMIR)"
+        year: 2026
+        address: "Abu Dhabi, UAE"
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2610.06478"
+        demo: "https://smorphspace.github.io/"
+
+      - key: benharrak2026dramarrator
+        title: "Dramarrator: Object-Based Audio Editing for Audio Drama Production from Books"
+        authors: "Karim Benharrak, Oriol Nieto, Bryan Wang, Zeyu Jin, Amy Pavel"
+        venue: "Proc. of the 39th Annual ACM Symposium on User Interface Software and Technology (UIST)"
+        year: 2026
+        address: "Detroit, MI, USA"
+        bibtex_type: inproceedings
+        arxiv: "https://arxiv.org/abs/2608.08349"
 
       - key: chen2026audiochat
         title: "AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing"
@@ -94,7 +142,7 @@ sections:
         arxiv: "https://www.arxiv.org/abs/2602.13835"
         demo: "https://sites.google.com/view/audiocards/"
 
-      - key: sridhar2026audiocards
+      - key: yang2026audioqa
         title: "Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning"
         authors: "Chao-Han Huck Yang, Sreyan Ghosh, Qing Wang, Jaeyeon Kim, Hengyi Hong, Sonal Kumar, Guirui Zhong, Zhifeng Kong, S. Sakshi, Vaibhavi Lokegaonkar, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha, Gunhee Kim, Jun Du, Rafael Valle, Bryan Catanzaro"
         venue: "Proc. of the 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
