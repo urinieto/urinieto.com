@@ -46,6 +46,10 @@ items:
     emoji: "🍻"
     text: "Organized the **MIR Happy Hour** at **ICASSP 2026** in Barcelona."
 
+  - date: "2026-01-25"
+    emoji: "🔓"
+    text: "[OpenFLAM](https://github.com/adobe-research/openflam) is out: we open-sourced the code for our ICML 2025 paper [FLAM: Frame-Wise Language-Audio Modeling](/publications/#pub-wu2025flam). More in the [blog post](/openflam/)."
+
   - date: "2026-02-16"
     emoji: "📄"
     text: "Five papers accepted to **ICASSP 2026** in Barcelona (including [Generative Audio Extension and Morphing](/publications/#pub-seetharaman2026genextend)), plus [SoundStager](/publications/#pub-yoo2026soundsculptor) at **CHI 2026**."
