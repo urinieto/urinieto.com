@@ -12,5 +12,30 @@
             </div>
             {{ partial "news.html" (dict "site" .Site "limit" (.Site.Params.newsOnHome | default 6)) }}
         </div>
+
+        {{/* Random photo of Mica: drop .jpg files in static/mica/ and they're picked up automatically */}}
+        {{ $mica := slice }}
+        {{ range readDir "static/mica" }}
+            {{ if strings.HasSuffix (lower .Name) ".jpg" }}{{ $mica = $mica | append (printf "mica/%s" .Name | relURL) }}{{ end }}
+        {{ end }}
+        {{ with $mica }}
+        <div class="home-mica">
+            <div class="home-section-header">
+                <h2 class="home-section-label">Mandatory Mica Content 🐾</h2>
+            </div>
+            <figure class="mica-figure">
+                <img id="mica-photo" alt="Mica, a small scruffy dog" data-photos="{{ . | jsonify }}">
+                <noscript><img src="{{ index . 0 }}" alt="Mica, a small scruffy dog"></noscript>
+                <figcaption>This is Mica. Refresh the page for another Mica.</figcaption>
+            </figure>
+            <script>
+                (function () {
+                    var img = document.getElementById("mica-photo");
+                    var photos = JSON.parse(img.getAttribute("data-photos"));
+                    img.src = photos[Math.floor(Math.random() * photos.length)];
+                })();
+            </script>
+        </div>
+        {{ end }}
     </div>
 {{ end }}
