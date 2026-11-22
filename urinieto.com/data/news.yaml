@@ -11,12 +11,19 @@
 #            [TAC](/publications/#pub-kumar2026tac)
 #   emoji: Optional emoji shown before the date (e.g. "🎉", "🎤", "🎸").
 #
-# All items are shown on the landing page (/), newest first.
+# The landing page (/) shows the latest few items (`newsOnHome` in
+# config.toml); the full list is at /news/.
 #
-# footer: Markdown shown after the last (oldest) item, marking where the
-#         news timeline begins. Delete it to hide.
+# posts_since: Blog posts dated on/after this date show up in the feed
+#              automatically as "New blog post: <title>". If a news item
+#              below already links to a post (e.g. "(/openflam/)"), the
+#              automatic one is skipped, so you can write a richer item.
+# footer:      Markdown shown at the end of /news/, marking where the
+#              timeline begins. Delete it to hide.
 
-footer: "🌱 This is where the news page begins (it launched in November 2026). For older stuff, check out the [Blog](/blog/), the [Archive](/posts/), and my [Publications](/publications/)."
+posts_since: "2026-01-01"
+
+footer: "🌱 This is where the news begins. For older stuff, check out the [Blog](/blog/), the [Archive](/posts/), and my [Publications](/publications/)."
 
 items:
   - date: "2026-11-11"
