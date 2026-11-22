@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
 sectionPagesMenu = "main"
-Paginate = 8 # Number of posts to show in the home page
+Paginate = 8 # Number of posts per page on /blog/
 googleAnalytics = ""
 
 [params]
@@ -20,7 +20,8 @@ description = "Audio Researcher. Musician. Titan."
 profilePicture = "wp-content/uploads/2023/uri-side.jpg"
 keywords = ""
 favicon = "favicons/"
-customCss = ["css/uri.css", "css/publications.css"]
+customCss = ["css/uri.css", "css/publications.css", "css/news.css"]
+newsOnHome = 6 # Number of news items on the home page (full list at /news/)
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
@@ -68,11 +69,18 @@ url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
 
 [menu]
     [[menu.main]]
-      name = "Posts"
+      name = "Home"
       weight = 100
-      identifier = "posts"
+      identifier = "home"
       title = "Home"
       url = "/"
+
+    [[menu.main]]
+      name = "Blog"
+      weight = 150
+      identifier = "blog"
+      title = "Blog"
+      url = "/blog/"
 
     [[menu.main]]
       name = "Publications"
@@ -103,6 +111,6 @@ url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
     [[menu.main]]
       name = "Archive"
       weight = 600
-      identifier = "archive"
+      identifier = "posts" # must match the posts section so sectionPagesMenu doesn't add a duplicate "Posts" tab
       url = "/posts/"
 

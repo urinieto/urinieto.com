@@ -1,0 +1,71 @@
+# News data file for urinieto.com
+#
+# Each item is one line of news. Items are sorted by date automatically
+# (newest first), so you can add new ones anywhere — top is easiest.
+#
+# Fields:
+#   date:  "YYYY-MM-DD" (required, keep the quotes). Shown as "Nov 2026".
+#   text:  The news itself, in Markdown (required). Links work as usual:
+#            [link text](https://example.com)
+#          To point at a paper, link to its anchor on the publications page:
+#            [TAC](/publications/#pub-kumar2026tac)
+#   emoji: Optional emoji shown before the date (e.g. "🎉", "🎤", "🎸").
+#
+# The landing page (/) shows the latest few items (`newsOnHome` in
+# config.toml); the full list is at /news/.
+#
+# posts_since: Blog posts dated on/after this date show up in the feed
+#              automatically as "New blog post: <title>". If a news item
+#              below already links to a post (e.g. "(/openflam/)"), the
+#              automatic one is skipped, so you can write a richer item.
+# footer:      Markdown shown at the end of /news/, marking where the
+#              timeline begins. Delete it to hide.
+
+posts_since: "2026-01-01"
+
+footer: "🌱 This is where the news begins. For older stuff, check out the [Blog](/blog/), the [Archive](/posts/), and my [Publications](/publications/)."
+
+items:
+  - date: "2026-11-11"
+    emoji: "🔊"
+    text: "My team presented **Project Sound Bender** at the **Adobe MAX 2026** Sneaks: describe a sound, pull it out of a finished mix, and shape it in real time on an interactive canvas. [Watch the video](https://video.tv.adobe.com/v/3508313)."
+
+  - date: "2026-11-05"
+    emoji: "📝"
+    text: "Three new preprints out: [FoleyForge](/publications/#pub-morais2027foleyforge) and [PromptSep-Speaker](/publications/#pub-wen2027promptsepspeaker) (under review at ICASSP 2027), and [CrossEdit](/publications/#pub-chen2027crossedit) (under review at ICLR 2027)."
+
+  - date: "2026-10-15"
+    emoji: "🎤"
+    text: "Gave an invited talk, **Sound Design AI**, at the [Conversational AI Reading Group](https://poonehmousavi.github.io/rg) at Mila. [Watch the recording](https://www.youtube.com/watch?v=sJOuuqaEKyA)."
+
+  - date: "2026-10-06"
+    emoji: "🎉"
+    text: "[TAC: Timestamped Audio Captioning](/publications/#pub-kumar2026tac) was accepted to **NeurIPS 2026**!"
+
+  - date: "2026-10-05"
+    emoji: "🎹"
+    text: "[Smorph: Playable Sound Morphing with Diffusion Models](/publications/#pub-chu2026smorph) will appear at **ISMIR 2026** in Abu Dhabi."
+
+  - date: "2026-08-08"
+    emoji: "🎭"
+    text: "[Dramarrator](/publications/#pub-benharrak2026dramarrator), an object-based audio editor for audio drama production, was accepted to **UIST 2026**."
+
+  - date: "2026-06-15"
+    emoji: "🎬"
+    text: "Keynote speaker at the [+RAIN Film Festival](https://www.upf.edu/web/rainfilmfest) in Barcelona, the first AI film festival in Europe."
+
+  - date: "2026-05-26"
+    emoji: "🎉"
+    text: "[AudioChat](/publications/#pub-chen2026audiochat) was accepted to **ICML 2026**!"
+
+  - date: "2026-05-04"
+    emoji: "🍻"
+    text: "Organized the **MIR Happy Hour** at **ICASSP 2026** in Barcelona."
+
+  - date: "2026-01-25"
+    emoji: "🔓"
+    text: "[OpenFLAM](https://github.com/adobe-research/openflam) is out: we open-sourced the code for our ICML 2025 paper [FLAM: Frame-Wise Language-Audio Modeling](/publications/#pub-wu2025flam). More in the [blog post](/openflam/)."
+
+  - date: "2026-02-16"
+    emoji: "📄"
+    text: "Five papers accepted to **ICASSP 2026** in Barcelona (including [Generative Audio Extension and Morphing](/publications/#pub-seetharaman2026genextend)), plus [SoundStager](/publications/#pub-yoo2026soundsculptor) at **CHI 2026**."

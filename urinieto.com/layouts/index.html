@@ -1,39 +1,16 @@
+{{/* Landing page: short intro (content/_index.md) + recent news. */}}
 {{ define "main" }}
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-    {{ range $paginator.Pages }}
-        <div class="post animated fadeInDown preview">
-            <div class="post-text">
-                <div class="post-title">
-                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                    </h3>
-                </div>
-                <div class="post-content">
-                    <div class="p_part"><p>{{ .Summary }}</p></div>
-
-                    <div class="p_part"><p></p></div>
-                </div>
-                <div class="post-footer">
-                    <div class="meta">
-                        <div class="info">{{ partial "icon.html" "sun" }}<span
-                                    class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-                            {{ with .Params.categories }}
-                                {{- range $index, $el := . -}}
-                                    <a class="category"
-                                    href="{{ ( printf "categories/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
-                                {{- end -}}
-                            {{ end }}
-                        </div>
-                    </div>
-                </div>
-            </div>
-                {{ with .Params.thumbnail }}
-                    <div class="thumbnail">
-                        <img src="{{  .src | absURL }}" alt="{{ .alt | default "" }}" loading="lazy">
-                    </div>
-                {{ end }}
+    <div class="post animated fadeInDown">
+        <div class="post-content home-intro">
+            {{ .Content }}
         </div>
-    {{ end }}
-    <div class="pagination">
-        {{ template "_internal/pagination.html" . }}
+
+        <div class="home-news">
+            <div class="home-section-header">
+                <h2 class="home-section-label">Recent news</h2>
+                <a class="home-section-more" href="{{ "news/" | relURL }}">All news →</a>
+            </div>
+            {{ partial "news.html" (dict "site" .Site "limit" (.Site.Params.newsOnHome | default 6)) }}
+        </div>
     </div>
 {{ end }}

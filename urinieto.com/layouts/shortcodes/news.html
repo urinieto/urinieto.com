@@ -1,0 +1,2 @@
+{{/* Full news feed with closing note — see data/news.yaml */}}
+{{ partial "news.html" (dict "site" .Site "limit" (.Get "limit" | default 0) "footer" true) }}

@@ -1,0 +1,143 @@
+/* ============================================================
+   Home page (intro + recent news) and News feed styles
+   ============================================================ */
+
+/* --- Intro (content/_index.md) --- */
+.home-intro p {
+    font-size: 15px;
+    line-height: 1.9em;
+}
+
+.home-intro p:first-child {
+    margin-top: 0.4em;
+}
+
+/* The theme letter-spaces every link in post content; undo that for
+   links inside running text so they read like normal words. */
+.post .post-content.home-intro a,
+.post .post-content .news-text a,
+.post .post-content .news-footer a,
+.news-text a,
+.news-footer a {
+    letter-spacing: normal;
+}
+
+.news-text a,
+.news-footer a {
+    color: #2660ab;
+    text-decoration: none;
+}
+
+.news-text a:hover,
+.news-footer a:hover {
+    text-decoration: underline;
+}
+
+/* --- "Recent news" header --- */
+.home-news {
+    margin-top: 2.2em;
+}
+
+.home-section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1em;
+    padding-bottom: 0.6em;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.home-section-label {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1;
+    color: var(--heading-color);
+}
+
+.home-section-more {
+    font-size: 13px;
+    font-weight: 600;
+    color: #2660ab;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.home-section-more:hover {
+    text-decoration: underline;
+}
+
+.home-news .news-list {
+    margin-top: 0.3em;
+}
+
+.home-news {
+    padding-bottom: 1em;
+}
+
+.news-list {
+    list-style: none;
+    margin: 1.2em 0 0 0;
+    padding: 0;
+}
+
+.news-item {
+    display: flex;
+    gap: 1em;
+    margin: 0;
+    padding: 0.7em 0;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+
+.news-item + .news-item {
+    border-top: 1px solid var(--border-color);
+}
+
+.news-date {
+    flex: 0 0 104px;
+    min-width: 104px;
+    white-space: nowrap;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: var(--heading-color);
+    padding-top: 0.1em;
+}
+
+.news-emoji {
+    display: inline-block;
+    width: 1.5em;
+}
+
+.news-text p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+
+/* --- Closing note after the oldest item --- */
+.news-footer {
+    margin: 0.4em 0 0 0;
+    padding: 1em 0 0 0;
+    border-top: 1px dashed var(--border-color);
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+/* --- Narrow screens: date stacks above the text --- */
+@media screen and (max-width: 600px) {
+    .news-item {
+        flex-direction: column;
+        gap: 0.15em;
+    }
+
+    .news-date {
+        flex-basis: auto;
+        min-width: 0;
+    }
+}
