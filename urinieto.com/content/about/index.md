@@ -22,7 +22,7 @@ I love seeing research end up in the hands of creators. Some of the features I h
 - [**Generative Sound Effects**](https://research.adobe.com/news/adobe-researchers-pioneer-the-future-of-sound-design-with-gensfx/) in Firefly.
 - [**Generative Extend**](https://helpx.adobe.com/premiere-pro/using/generative-extend.html) in Premiere Pro. One of two lead researchers.
 - **Semantic Audio Search** in [Adobe Stock](https://stock.adobe.com/) and [Premiere Pro](https://blog.adobe.com/en/publish/2025/11/19/adobe-premiere-adds-smarter-search-faster-edits-seamless-collaboration). Lead researcher.
-- [**Audio Category Tagging**][5] in Premiere Pro.
+- [**Audio Category Tagging**][5] in Premiere Pro. Lead researcher.
 
 {{< img src="/wp-content/uploads/2025/uri_sneak5.png" alt="" width="600" >}}
 
