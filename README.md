@@ -11,10 +11,6 @@ Clone this repo and activate the submodules:
     git submodule init
     git submodule update
 
-Remove the `!` character from `urinieto.com/themes/anatole/assets/js/jquery.js` in line 521.
-
-(#hacks)
-
 ## To Add A New Post
 
 Go to the root of the hugo page (urinieto.com/) and type:
