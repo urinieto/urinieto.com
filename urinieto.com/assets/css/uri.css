@@ -1069,3 +1069,26 @@ h1, h2, h3, h4, h5, h6,
 .home-section-label {
     font-family: var(--font-heading);
 }
+
+/* Easter egg at the bottom of About: a tiny 🤫 that opens an audio player */
+.easter-egg {
+  margin-top: 30px;
+  font-size: 13px;
+}
+.easter-egg summary {
+  list-style: none;
+  cursor: pointer;
+  opacity: 0.45;
+  width: fit-content;
+}
+.easter-egg summary::-webkit-details-marker {
+  display: none;
+}
+.easter-egg summary:hover,
+.easter-egg[open] summary {
+  opacity: 1;
+}
+.easter-egg audio {
+  width: 100%;
+  max-width: 420px;
+}

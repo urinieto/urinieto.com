@@ -46,6 +46,15 @@ At NYU, I taught [C Programming for Music Technology][6] and [Applications on iO
 
 The [Blog](/blog/) is about technology, music, traveling, books, politics, geek stuff, and other ineffectual things that give meaning to my life. For more, see [my formal CV][11].
 
+{{< rawhtml >}}
+<details class="easter-egg">
+  <summary title="psst">🤫</summary>
+  <p>Psst. My face is hidden in this sound. Give it a listen, or load it into a spectrogram viewer to see me (a mel spectrogram works best).</p>
+  <audio controls preload="none" src="/audio/face-in-music.wav"></audio>
+  <p><a href="/audio/face-in-music.wav" download>Download the WAV</a></p>
+</details>
+{{< /rawhtml >}}
+
  [1]: https://research.adobe.com/
  [2]: https://librosa.org/
  [3]: https://github.com/urinieto/msaf

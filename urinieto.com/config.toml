@@ -27,7 +27,7 @@ mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 # Link previews (WhatsApp, iMessage, Slack...): image and description used for the home page
 # (and as a fallback for pages without their own thumbnail/description)
-shareImage = "images/uri-share.jpg"
+shareImage = "images/share-melspec-face.jpg"  # 1200x630 link-preview image
 shareDescription = "Researcher building human-centered AI for audio-visual creators."
 
 ## Math settings
