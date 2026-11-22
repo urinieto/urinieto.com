@@ -13,7 +13,7 @@ categories:
 ---
 I love the snow. I hate the cold. I love the snow. Damn, I love this city.
 
-{{< youtube zJcABdLrgl8 >}}</iframe>
+{{< youtube zJcABdLrgl8 >}}
 
 ([snow in new york][1])
 

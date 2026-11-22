@@ -225,7 +225,7 @@ If you&#8217;ve done everything correctly, you will be able to create a new .c f
 
 Please, let me know if you have any questions. I hope you enjoy your new IDE!
 
- [1]: https://mrozekma.com/editor-learning-curve.png
+ [1]: https://web.archive.org/web/20150103121218im_/http://mrozekma.com/editor-learning-curve.png
  [2]: https://github.com/b4winckler/macvim/releases
  [3]: https://www.vim.org/scripts/script.php?script_id=2332
  [4]: https://github.com/scrooloose/syntastic

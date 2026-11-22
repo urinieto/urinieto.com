@@ -18,7 +18,7 @@ Nueve semanas des de que empecé la nueva universidad. Nueve semanas esperando a
 A disfrutar!
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=N1kA9k6ZF8w&rel=1&#8243;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

@@ -14,7 +14,7 @@ categories:
 ---
 Here it is titanics. The song we grew up with. The song that made us humans. The song that made us wanna search for Dragon Balls instead of fucking Pokémons. Here it is for you, titans, in all it&#8217;s glory (in Japanese, Polish, or Catalan).
 
-{{< youtube FyRefx2yh4E >}}</iframe>
+{{< youtube FyRefx2yh4E >}}
 
 Guitars, Bass, Drums, Keyboards, Mixing, and Everything Else: [The Only Deer Alive][1]. WHAT A TITAN, RIGHT?
 

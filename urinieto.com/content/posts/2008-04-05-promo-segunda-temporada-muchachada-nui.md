@@ -15,7 +15,7 @@ categories:
 ---
 Ya queda menos de una semana titanes!
 
-[youtube=https://www.youtube.com/watch?v=triu9lTGWJQ&hl=es] 
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)* 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

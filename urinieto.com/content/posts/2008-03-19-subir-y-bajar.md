@@ -15,7 +15,7 @@ categories:
 ---
 Este es, sin duda, uno de los mejores cortos de animación que haya visto nunca. Me encanta.
 
-[youtube=https://www.youtube.com/watch?v=ZnBF5tej9J8&hl=es]
+*(Este vídeo ya no está disponible en YouTube.)*
 
 &#8220;Now in this world of ups and downs, so nice to know there are jackalopes around.&#8221;  
 Conejílopes, ¿dónde estáis? 

@@ -17,7 +17,7 @@ categories:
 Esto es demasiado impresionante como para no bloggearlo.  
 Atención al pianista judío.
 
-[youtube=https://www.youtube.com/watch?v=rBBCJ68mC4c]
+{{< youtube gwgOUzodS6E >}}
 
 Porcierto.  
 Jeff Healey es ciego.

@@ -16,7 +16,7 @@ date: 2011-03-07T21:03:27+00:00
 **Past Shows** (I will update this archive anytime soon&#8230;):
 
 ### Uri Nieto 
-		<span class="gigpress-artist-subscriptions"> <a href="http://urinieto.com/?feed=gigpress&artist=1" title="Uri Nieto RSS"><img src="http://urinieto.com/wp-content/plugins/gigpress/images/feed-icon-12x12.png" alt="" /></a> &nbsp; <a href="webcal://urinieto.com/?feed=gigpress-ical&artist=1" title="Uri Nieto iCalendar"><img src="http://urinieto.com/wp-content/plugins/gigpress/images/icalendar-icon.gif" alt="" /></a> </span>  {#artist-1.gigpress-artist-heading}
+		  {#artist-1.gigpress-artist-heading}
 
 <table class="gigpress-table past" cellspacing="0">
   <tr class="gigpress-header">
@@ -273,7 +273,7 @@ date: 2011-03-07T21:03:27+00:00
 </table>
 
 ### Sargon 
-		<span class="gigpress-artist-subscriptions"> <a href="http://urinieto.com/?feed=gigpress&artist=4" title="Sargon RSS"><img src="http://urinieto.com/wp-content/plugins/gigpress/images/feed-icon-12x12.png" alt="" /></a> &nbsp; <a href="webcal://urinieto.com/?feed=gigpress-ical&artist=4" title="Sargon iCalendar"><img src="http://urinieto.com/wp-content/plugins/gigpress/images/icalendar-icon.gif" alt="" /></a> </span>  {#artist-4.gigpress-artist-heading}
+		  {#artist-4.gigpress-artist-heading}
 
 <table class="gigpress-table past" cellspacing="0">
   <tr class="gigpress-header">

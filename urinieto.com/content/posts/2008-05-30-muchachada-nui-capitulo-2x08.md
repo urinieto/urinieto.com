@@ -16,7 +16,7 @@ categories:
 Cómo dices eso nena, soy un Volcán.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=2JffA2PEcAo&hl=es] 
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)* 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

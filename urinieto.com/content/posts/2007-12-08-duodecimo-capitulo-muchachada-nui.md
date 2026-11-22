@@ -16,7 +16,7 @@ categories:
 Perdón por el retraso. [He estado en París][1] y la semana que viene tengo exámenes finales. Así que nada, mientras procrastino os dejo con el capítulo del miércoles pasado que sigue en la magnífica línea de la temporada. Los Klamstein suben y suben y suben.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=ZD8MR9CSw4M&rel=1&#8243;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

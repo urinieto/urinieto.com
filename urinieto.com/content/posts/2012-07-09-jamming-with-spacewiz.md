@@ -17,7 +17,7 @@ Jordan Rudess and the guys at Wizdom Music did it again. SpaceWiz is the new iPa
 
 Here a little jam with [Juan Astasio][1]:
 
-{{< youtube _PxJYrSA0_Q >}}</iframe>
+{{< youtube _PxJYrSA0_Q >}}
 
 Really, this app is beautiful.
 

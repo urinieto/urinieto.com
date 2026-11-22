@@ -20,7 +20,7 @@ Por cierto. Me han tocado \*mucho\* la fibra con el Spectrum.
 ahhhhh
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=Lf3LERZ6PsE&hl=es] 
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)* 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

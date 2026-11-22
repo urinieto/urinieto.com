@@ -16,7 +16,7 @@ categories:
 Este es para tí. Yo diría que incluso mejor que el primero. Me encantó. Mi nueva vida no me permite escribir mucho, pero siempre habrá un sitio para los más grandes, los <span style="font-weight:bold;"><span style="font-style:italic;">monty python</span> españoles</span>.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=vL-fXhYJBhc&#8221;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

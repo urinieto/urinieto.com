@@ -16,7 +16,7 @@ categories:
 Grandiosos, están a la altura. Bono y las aventuras del joven Rappel, sin duda lo mejor del capítulo. ¡Larga vida al humor chanante!
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=ok4JDaH6FRc&#8221;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

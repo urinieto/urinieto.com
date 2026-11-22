@@ -16,7 +16,7 @@ categories:
 La primera obra maestra de nuestro grupo cómico-dantesco RUSOMOSKA.  
 En esta ocasión, y a modo de introducción de la serie, nos encontramos con la historia de una pequeña niña rural que siente curiosidad por su pequeño saltamontes.
 
-[youtube=https://www.youtube.com/watch?v=mjcwg-JOJMM&hl=es] 
+{{< youtube mjcwg-JOJMM >}} 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}
