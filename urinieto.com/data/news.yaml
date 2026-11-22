@@ -50,6 +50,10 @@ items:
     emoji: "🎭"
     text: "[Dramarrator](/publications/#pub-benharrak2026dramarrator), an object-based audio editor for audio drama production, was accepted to **UIST 2026**."
 
+  - date: "2026-06-15"
+    emoji: "🎬"
+    text: "Keynote speaker at the [+RAIN Film Festival](https://www.upf.edu/web/rainfilmfest) in Barcelona, the first AI film festival in Europe."
+
   - date: "2026-05-26"
     emoji: "🎉"
     text: "[AudioChat](/publications/#pub-chen2026audiochat) was accepted to **ICML 2026**!"
