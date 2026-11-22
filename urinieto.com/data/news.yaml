@@ -12,6 +12,11 @@
 #   emoji: Optional emoji shown before the date (e.g. "🎉", "🎤", "🎸").
 #
 # All items are shown on the landing page (/), newest first.
+#
+# footer: Markdown shown after the last (oldest) item, marking where the
+#         news timeline begins. Delete it to hide.
+
+footer: "🌱 This is where the news page begins (it launched in November 2026). For older stuff, check out the [Blog](/blog/), the [Archive](/posts/), and my [Publications](/publications/)."
 
 items:
   - date: "2026-11-11"

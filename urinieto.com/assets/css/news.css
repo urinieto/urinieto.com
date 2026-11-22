@@ -43,6 +43,17 @@
     line-height: 1.7em;
 }
 
+/* --- Closing note after the oldest item --- */
+.news-footer {
+    margin: 0.4em 0 0 0;
+    padding: 1em 0 0 0;
+    border-top: 1px dashed var(--border-color);
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    opacity: 0.8;
+}
+
 /* --- Narrow screens: date stacks above the text --- */
 @media screen and (max-width: 600px) {
     .news-item {

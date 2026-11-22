@@ -19,4 +19,7 @@
     </li>
     {{ end }}
   </ul>
+  {{ with $data.footer }}
+  <p class="news-footer">{{ . | markdownify }}</p>
+  {{ end }}
 {{ end }}
