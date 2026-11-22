@@ -34,7 +34,7 @@ Add an item to `urinieto.com/data/news.yaml`:
       emoji: "🎉"
       text: "My paper [Cool Paper](/publications/#pub-<key>) was accepted to **ICASSP**!"
 
-Items are sorted by date automatically. The latest ones (`newsOnHome` in `config.toml`) appear at the top of the home page; all of them are at `/news/`.
+Items are sorted by date automatically and shown on the landing page (`/`). Blog posts live at `/blog/`.
 
 ## To Run the Hugo Server Locally
 

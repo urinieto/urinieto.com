@@ -11,8 +11,7 @@
 #            [TAC](/publications/#pub-kumar2026tac)
 #   emoji: Optional emoji shown before the date (e.g. "🎉", "🎤", "🎸").
 #
-# The homepage shows the latest `newsOnHome` items (set in config.toml);
-# the full list lives at /news/.
+# All items are shown on the landing page (/), newest first.
 
 items:
   - date: "2026-11-11"
