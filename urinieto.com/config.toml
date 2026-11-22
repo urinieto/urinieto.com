@@ -28,7 +28,7 @@ images = ["images/site-feature-image.png"]
 # Link previews (WhatsApp, iMessage, Slack...): image and description used for the home page
 # (and as a fallback for pages without their own thumbnail/description)
 shareImage = "images/uri-share.jpg"
-shareDescription = "Researcher at Adobe Research building human-centered AI for audio-visual creators. One of the original authors of librosa and msaf. I also make music."
+shareDescription = "Researcher building human-centered AI for audio-visual creators."
 
 ## Math settings
 [params.math]
