@@ -21,6 +21,7 @@ profilePicture = "wp-content/uploads/2023/uri-side.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = ["css/uri.css", "css/publications.css", "css/news.css"]
+newsOnHome = 6 # Number of news items on the home page (full list at /news/)
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
@@ -68,10 +69,10 @@ url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
 
 [menu]
     [[menu.main]]
-      name = "News"
+      name = "Home"
       weight = 100
-      identifier = "news"
-      title = "News"
+      identifier = "home"
+      title = "Home"
       url = "/"
 
     [[menu.main]]

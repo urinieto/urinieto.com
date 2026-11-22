@@ -1,12 +1,40 @@
 {{/*
-  News list — reads data/news.yaml.
-  Usage: {{ partial "news.html" (dict "site" .Site "limit" 5) }}
-  limit: number of items to show (0 or omitted = all).
+  News feed — items from data/news.yaml merged with blog posts.
+
+  Usage: {{ partial "news.html" (dict "site" .Site "limit" 6 "footer" false) }}
+    limit:  number of items to show (0 or omitted = all)
+    footer: show data/news.yaml's `footer` note after the list
+
+  Blog posts dated on/after `posts_since` (in news.yaml) appear automatically
+  as "New blog post" items. A post is skipped if a news item already links to
+  it, so you can write a richer item by hand instead.
 */}}
 {{ $data := .site.Data.news }}
 {{ $limit := .limit | default 0 }}
-{{ if and $data $data.items }}
-  {{ $items := sort $data.items "date" "desc" }}
+{{ if $data }}
+  {{ $all := slice }}
+  {{ range $data.items }}
+    {{ $all = $all | append (dict "date" .date "emoji" .emoji "text" .text) }}
+  {{ end }}
+
+  {{ with $data.posts_since }}
+    {{ $since := . }}
+    {{ range where $.site.RegularPages "Type" "in" $.site.Params.mainSections }}
+      {{ $post := . }}
+      {{ $date := .Date.Format "2006-01-02" }}
+      {{ if ge $date $since }}
+        {{ $linked := false }}
+        {{ range $data.items }}
+          {{ if in .text (printf "(%s)" $post.RelPermalink) }}{{ $linked = true }}{{ end }}
+        {{ end }}
+        {{ if not $linked }}
+          {{ $all = $all | append (dict "date" $date "emoji" "✍️" "text" (printf "New blog post: [%s](%s)" $post.Title $post.RelPermalink)) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $items := sort $all "date" "desc" }}
   {{ if gt $limit 0 }}{{ $items = first $limit $items }}{{ end }}
   <ul class="news-list">
     {{ range $items }}
@@ -19,7 +47,7 @@
     </li>
     {{ end }}
   </ul>
-  {{ with $data.footer }}
+  {{ if .footer }}{{ with $data.footer }}
   <p class="news-footer">{{ . | markdownify }}</p>
-  {{ end }}
+  {{ end }}{{ end }}
 {{ end }}

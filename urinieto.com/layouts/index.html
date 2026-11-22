@@ -1,11 +1,16 @@
-{{/* Landing page: News (data/news.yaml). The blog lives at /blog/. */}}
+{{/* Landing page: short intro (content/_index.md) + recent news. */}}
 {{ define "main" }}
     <div class="post animated fadeInDown">
-        <div class="post-content">
-            <div class="post-title">
-                <h3>News</h3>
+        <div class="post-content home-intro">
+            {{ .Content }}
+        </div>
+
+        <div class="home-news">
+            <div class="home-section-header">
+                <h2 class="home-section-label">Recent news</h2>
+                <a class="home-section-more" href="{{ "news/" | relURL }}">All news →</a>
             </div>
-            {{ partial "news.html" (dict "site" .Site) }}
+            {{ partial "news.html" (dict "site" .Site "limit" (.Site.Params.newsOnHome | default 6)) }}
         </div>
     </div>
 {{ end }}
