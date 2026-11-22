@@ -42,6 +42,11 @@
                 <meta name="twitter:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}" />
         {{ end }}
 
+    <!-- Fonts: Inter (body) + Montserrat (headings, nav) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@500;600;700&display=swap">
+
     <!-- CSS -->
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet"
