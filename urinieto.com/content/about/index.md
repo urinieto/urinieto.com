@@ -49,7 +49,7 @@ The [Blog](/blog/) is about technology, music, traveling, books, politics, geek 
 {{< rawhtml >}}
 <details class="easter-egg">
   <summary title="psst">🤫</summary>
-  <p>Psst. My face is hidden in this sound. Give it a listen, or load it into a spectrogram viewer to see me (a mel spectrogram works best).</p>
+  <p>Psst. There's a silly thing hidden in this sound. Give it a listen, then load it into a spectrogram viewer to find it (a mel spectrogram works best).</p>
   <audio controls preload="none" src="/audio/face-in-music.wav"></audio>
   <p><a href="/audio/face-in-music.wav" download>Download the WAV</a></p>
 </details>
