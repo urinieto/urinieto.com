@@ -584,6 +584,92 @@ sections:
         bibtex_type: inproceedings
 
   # ===========================================================================
+  # PATENTS (newest first; year = grant year, or publication year if pending)
+  # ===========================================================================
+  - name: "Patents"
+    id: "patents"
+    entries:
+      - key: salamon2026patentgensfx
+        title: "Generative Sound Effects for Video Editing"
+        authors: "Justin Salamon, Prem Seetharaman, Oriol Nieto, Hugo Flores García, Lee Brimelow, Yaniv De Ridder, Adolfo Hernandez Santisteban, Gabriela Duncombe, Mary Le Tran"
+        venue: "U.S. Patent 12,682,933 B2 (Adobe Inc.)"
+        year: 2026
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US12682933B2/en"
+
+      - key: salamon2026patentmusictext
+        title: "Generating Diverse Training Data for Training Music-Text Embedding Models"
+        authors: "Justin Salamon, Oriol Nieto, Nicholas J. Bryan, Ilaria Manco"
+        venue: "U.S. Patent Application Pub. US 2026/0148123 A1 (Adobe Inc.), pending"
+        year: 2026
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US20260148123A1/en"
+
+      - key: seetharaman2026patentgenextend
+        title: "Generative Audio Extension"
+        authors: "Prem Seetharaman, Oriol Nieto, Justin Salamon"
+        venue: "U.S. Patent Application Pub. US 2026/0105906 A1 (Adobe Inc.), pending"
+        year: 2026
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US20260105906A1/en"
+
+      - key: salamon2026patentsegmentation
+        title: "Multi-Level Audio Segmentation Using Deep Embeddings"
+        authors: "Justin Salamon, Oriol Nieto, Nicholas J. Bryan"
+        venue: "U.S. Patent 12,586,552 B2 (Adobe Inc.)"
+        year: 2026
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US12586552B2/en"
+
+      - key: kandpal2026patentenhancement
+        title: "Music Enhancement Systems"
+        authors: "Nikhil Kandpal, Oriol Nieto, Zeyu Jin"
+        venue: "U.S. Patent 12,579,961 B2 (Adobe Inc.)"
+        year: 2026
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US12579961B2/en"
+
+      - key: wilkins2025patentsfxrec
+        title: "Multi-Modal Sound Effects Recommendation"
+        authors: "Julia Wilkins, Oriol Nieto, Justin Salamon"
+        venue: "U.S. Patent 12,505,149 B2 (Adobe Inc.)"
+        year: 2025
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US12505149B2/en"
+
+      - key: nieto2025patentlangid
+        title: "Spoken Language Recognition"
+        authors: "Oriol Nieto, Zeyu Jin, Justin Salamon, Franck Dernoncourt"
+        venue: "U.S. Patent 12,406,656 B2 (Adobe Inc.)"
+        year: 2025
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US12406656B2/en"
+
+      - key: wu2024patentcrossmodal
+        title: "Systems and Methods for Cross-Modal Retrieval Based on a Sound Modality and a Non-Sound Modality"
+        authors: "Ho-Hsiang Wu, Oriol Nieto, Justin Salamon"
+        venue: "U.S. Patent Application Pub. US 2024/0362269 A1 (Adobe Inc.), pending"
+        year: 2024
+        bibtex_type: misc
+        links:
+          - name: "Google Patents"
+            url: "https://patents.google.com/patent/US20240362269A1/en"
+
+  # ===========================================================================
   # ALGORITHMS
   # ===========================================================================
   - name: "Algorithms"
