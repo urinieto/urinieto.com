@@ -5,42 +5,48 @@
     <meta charset="utf-8">
     {{- hugo.Generator -}}
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-    <meta name="description" content="{{ .Site.Params.description }}">
+    {{/* Link previews (WhatsApp, iMessage, Slack, LinkedIn, Bluesky, X...).
+         Home: site title + shareDescription + shareImage (config.toml).
+         Pages/posts: their title, description (or summary), and thumbnail
+         (falling back to shareImage). */}}
+    {{- $shareImage := .Site.Params.shareImage | default "images/uri-share.jpg" -}}
+    {{- $desc := .Site.Params.shareDescription | default .Site.Params.description -}}
+    {{- if not .IsHome -}}
+        {{- with .Description -}}{{- $desc = . -}}
+        {{- else -}}{{- if .IsPage -}}{{- with .Summary | plainify | htmlUnescape -}}{{- $desc = . | replaceRE `\s+` " " | truncate 200 -}}{{- end -}}{{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{- $title := cond .IsHome .Site.Params.title .Title -}}
+    {{- $image := "" -}}
+    {{- with .Params.thumbnail -}}{{- with .src -}}{{- $image = . | absURL -}}{{- end -}}{{- end -}}
+    {{- $isDefaultImage := not $image -}}
+    {{- if $isDefaultImage -}}{{- $image = $shareImage | absURL -}}{{- end }}
+    <meta name="description" content="{{ $desc }}">
     {{- if .Site.Params.googleSiteVerify }}
     <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
     {{- end -}}
 
 
     {{ "<!-- Open Graph meta -->" | safeHTML }}
-
-        <meta property="og:site_name" content="Oriol Nieto">
+        <meta property="og:site_name" content="{{ .Site.Params.title }}">
         <meta property="og:locale" content="{{ $.Site.LanguageCode }}">
-        <meta property="og:url" content="{{ .Site.BaseURL }}">
-        {{ if isset .Params "author" }}
-                <meta property="og:type" content="article">
-                <meta property="og:title" content="{{ $.Params.title }}">
-                <meta property="og:image" content="{{ $.Params.thumbnail.src | absURL }}">
-                <meta property="og:description" content="{{ .Summary }}">
-                <meta property="article:publisher" content="{{ $.Site.BaseURL }}">
-        {{ else }}
-                <meta property="og:type" content="website">
-                <meta property="og:title" content="{{ .Title }}">
-                <meta property="og:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}">
-                <meta property="og:description" content="Music, Science, Technology, and Everything Else">
-        {{ end }}
+        <meta property="og:url" content="{{ .Permalink }}">
+        <meta property="og:type" content="{{ if and .IsPage (eq .Type "post") }}article{{ else }}website{{ end }}">
+        <meta property="og:title" content="{{ $title }}">
+        <meta property="og:description" content="{{ $desc }}">
+        <meta property="og:image" content="{{ $image }}">
+        {{- if $isDefaultImage }}
+        <meta property="og:image:width" content="800">
+        <meta property="og:image:height" content="800">
+        <meta property="og:image:alt" content="Painted portrait of Uri Nieto">
+        {{- end }}
 
         {{ "<!-- Twitter Card Meta -->" | safeHTML }}
         <meta name="twitter:card" content="summary"/>
         <meta name="twitter:site" content="@urinieto" />
-        {{ if isset .Params "author" }}
-                <meta name="twitter:title" content="{{ $.Params.title }}" />
-                <meta name="twitter:description" content="{{ .Summary }}" />
-                <meta name="twitter:image" content="{{ $.Params.thumbnail.src | absURL }}" />
-        {{ else }}
-                <meta name="twitter:title" content="{{ .Title }}" />
-                <meta name="twitter:description" content="Music, Science, Technology, and Everything Else" />
-                <meta name="twitter:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}" />
-        {{ end }}
+        <meta name="twitter:title" content="{{ $title }}" />
+        <meta name="twitter:description" content="{{ $desc }}" />
+        <meta name="twitter:image" content="{{ $image }}" />
 
     <!-- Fonts: Inter (body) + Montserrat (headings, nav) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
