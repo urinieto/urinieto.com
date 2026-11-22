@@ -16,6 +16,6 @@ categories:
 ---
 ¿Cómo Björk hace estos vídeos?
 
-[youtube=https://www.youtube.com/watch?v=wioa74MsBYA]
+{{< youtube WOE-EjeDg94 >}}
 
 Ah claro, es Islandesa.

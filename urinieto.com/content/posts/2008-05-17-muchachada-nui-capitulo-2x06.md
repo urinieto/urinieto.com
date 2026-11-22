@@ -18,7 +18,7 @@ nananaa nanana nanana na nana
 Tragedyyyy
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=OXa-m5hXTQ8&hl=es] 
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)* 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

@@ -5,7 +5,7 @@ type: post
 date: 2012-10-12T14:21:07+00:00
 url: /2012/10/showing-off-n/
 thumbnail:
-  src: "https://img.youtube.com/vi/51139791/0.jpg"
+  src: "https://i.vimeocdn.com/video/352538490-9a7e50cfa1e57ecb07345c539d64e7afd1fb909281ba656a3dfc575fee10569f-d_640"
   alt: Thumbnail image
 categories:
   - mobivery
@@ -15,7 +15,7 @@ Four years ago I worked at a really nice startup in Spain called [Mobivery][1], 
 
 These guys now asked me to make short video about me in NY, as an ex-coworker. And here is the result (in Spanish). They have also [blogged about it][2].
 
-{{< youtube 51139791 >}}</iframe> 
+{{< vimeo 51139791 >}} 
 
 [Mobiveryanos por el Mundo: Oriol Nieto, Nueva York][3] from [Mobivery][4] on [Vimeo][5].
 

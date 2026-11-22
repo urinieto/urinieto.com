@@ -12,7 +12,7 @@ categories:
   - ollas
 
 ---
-[youtube=https://www.youtube.com/watch?v=vNTRZ31VgiM&rel=1]
+{{< youtube vNTRZ31VgiM >}}
 
 Odio el arte.  
 Joder todo es demasiado perfecto.

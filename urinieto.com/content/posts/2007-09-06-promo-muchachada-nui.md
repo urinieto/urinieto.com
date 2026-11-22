@@ -20,7 +20,7 @@ La propia RTVE ha sido la encargada de subir la promoción de la nueva serie <sp
 
 Vidente:
 
-[youtube=https://www.youtube.com/watch?v=0xr541Sz930&#8243;>
+{{< youtube 0xr541Sz930 >}}
 
 Ricker Esproken, inventor del bajón:
 

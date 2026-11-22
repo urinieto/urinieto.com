@@ -16,6 +16,6 @@ Halloween is coming. Like winter. So a new cover had to be made in order to cele
 
 Alrighght titans! (And thanks to Nathalie Shrimp for recording my video!)
 
-{{< youtube SV3aE6Rry8E >}}</iframe>
+{{< youtube SV3aE6Rry8E >}}
 
 Kisses with jet lag from Taipei!

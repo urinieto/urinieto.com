@@ -16,7 +16,7 @@ categories:
 No. No lo he visto todavía. Me siento mal. Se ha roto algo dentro de mí. Pero, aún así, aquí lo dejo.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=UHBJigjC3X0&rel=1&#8243;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

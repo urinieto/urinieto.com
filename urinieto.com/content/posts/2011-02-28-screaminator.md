@@ -15,7 +15,7 @@ categories:
 ---
 A couple of weeks ago, the [Music Hack Day took place in New York][1]. I attended with some fellows from NYU and Stanford, and it was an extremely amazing time. It was my first time I attended to a MHD, and I had a lot of fun, I made a lot of new contacts in the field, and&#8230; I created the [Screaminator][2], and iOS scream detector that won the [SoundCloud][3] prize!
 
-{{< img alt="" src="https://wiki.musichackday.org/images/4/48/Screaminator22.PNG" title="Screaminator" class="aligncenter" width="320" height="480" >}} 
+{{< img alt="" src="https://web.archive.org/web/20110902101254im_/http://wiki.musichackday.org/images/4/48/Screaminator22.PNG" title="Screaminator" class="aligncenter" width="320" height="480" >}} 
 
 Here you have some links that talk about it:
 
@@ -24,7 +24,7 @@ Here you have some links that talk about it:
 
 Here the video:
 
-{{< youtube MwvCl4H0LOc >}}</iframe>
+{{< youtube MwvCl4H0LOc >}}
 
 (https://www.youtube.com/embed/MwvCl4H0LOc)  
 Thank you Hannes for the recording!

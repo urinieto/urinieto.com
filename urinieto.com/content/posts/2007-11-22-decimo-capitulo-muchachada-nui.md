@@ -17,7 +17,7 @@ Lamento decir que el capítulo de ayer fue, en mi opinión, el peor hasta la fec
 En fin, esperemos que la semana que siguiente sí me hagan reír como siempre.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=zfsHAjKEwRc&rel=1&#8243;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

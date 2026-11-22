@@ -18,7 +18,7 @@ Me gustó más el segundo. Pero este mundo viejuno me hizo llorar bastante. Hech
 De todas maneras grandioso lo del Skritch, lo del Marilyn Manson, lo de Paris Hilton, lo de Nieves Herrero, lo de Enjuto Mojamuto y los Klamstein. ¿La mejor frase? Difícil, pero seguramente sea &#8220;<span style="font-style:italic;">Mi primo es un poco cortimer</span>&#8220;.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=_ScD008TuoY&#8221;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

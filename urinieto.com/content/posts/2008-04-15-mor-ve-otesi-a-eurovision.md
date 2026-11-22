@@ -22,7 +22,7 @@ o
 
 En fin. Sea como sea, este año, y por vez primera, voy a votar en Eurovisión. Por Turquía claro. Disfrutad de la canción (no es de sus mejores, pero está muy muy bien):
 
-[youtube=https://www.youtube.com/watch?v=xV0aaiHJrNA&hl=es] 
+{{< youtube A__hliu_9UE >}} 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

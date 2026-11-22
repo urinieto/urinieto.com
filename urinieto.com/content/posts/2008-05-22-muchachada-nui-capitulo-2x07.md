@@ -23,7 +23,7 @@ of gaylords!
 Happy new year for you and me
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=YvjvUIs2vBc&hl=es] 
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)* 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

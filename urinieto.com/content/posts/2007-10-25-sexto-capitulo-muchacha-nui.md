@@ -18,7 +18,7 @@ Muy, muy bueno. No sé si fue por la cerveza o qué. Pero con esta Celebridad ll
 Ojete nuiiiiiii!
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=iBCArAEn9fI&rel=1&#8243;>
+*(Este vídeo ya no está disponible en YouTube.)*
 
 Parte 2:
 

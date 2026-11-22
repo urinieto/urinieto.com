@@ -15,7 +15,7 @@ categories:
 ---
 Aunque parecía que Muchachada Nui volvían el [26 de Marzo][1], será finalmente el <span style="font-weight:bold;">9 de Abril</span> cuando volverán a la pequeña pero adictiva y tonta pantalla.
 
-[youtube=https://www.youtube.com/watch?v=JXtdLAMbnMI&hl=es]
+{{< youtube JXtdLAMbnMI >}}
 
 Por Dios no puedo aguantar más.  
 Gràcies titan per avisar-me.  

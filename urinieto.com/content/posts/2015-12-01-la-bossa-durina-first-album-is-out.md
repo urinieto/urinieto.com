@@ -27,7 +27,7 @@ You can listen to La Bossa d&#8217;Urina here:
  [2]: https://www.thenewraemon.com/
  [3]: https://www.facebook.com/cydoniarecs/
  [4]: https://open.spotify.com/album/4CE2GrmJd4rdW7tWdxJtvq
- [5]: https://www.youtube.com/watch?v=D7dWPpXmybM&list=PLUSRfoOcUe4Y2c8rELQlofb_0liTQC1u2
+ [5]: https://www.youtube.com/watch?v=D7dWPpXmybM
  [6]: https://labossadurina.bandcamp.com/
  [7]: https://itun.es/us/Gvw3-
  [8]: https://www.amazon.com/bossa-durina/dp/B017EX02J4/ref=sr_1_1?ie=UTF8&qid=1448952162&sr=8-1&keywords=la+bossa+d%27urina

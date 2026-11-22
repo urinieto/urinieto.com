@@ -17,7 +17,7 @@ Primer capítulo de la segunda temporada. Dios. Me encantan los zombis.
 WEEEAPOOOONS. No me botan las tetas por que las tengo como zepelineeeeeers.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=k1wcselc3E0&hl=es]
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Voy finidísima.  
 Gracias ed1115, one more time. 

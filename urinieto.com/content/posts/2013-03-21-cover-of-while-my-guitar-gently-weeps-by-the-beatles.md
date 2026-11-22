@@ -16,6 +16,6 @@ I look at the world,
 but it sucks  
 without Google Glass.
 
-{{< youtube blCkVdxoRz0 >}}</iframe>
+{{< youtube blCkVdxoRz0 >}}
 
 I&#8217;m a poet.

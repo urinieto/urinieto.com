@@ -16,7 +16,7 @@ categories:
 Este es el mejor vídeo de Todo Internet.  
 Se trata del documental de Zarpucio Larachi, el inventor de los números.
 
-[youtube=https://www.youtube.com/watch?v=Lf6v_1fXsD8&hl=es]
+{{< youtube Lf6v_1fXsD8 >}}
 
 Rusomoska es por la mañana. 
 

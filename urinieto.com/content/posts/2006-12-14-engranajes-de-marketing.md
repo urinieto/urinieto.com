@@ -18,4 +18,4 @@ categories:
 
 Malditas campañas de publicidad vírica&#8230;
 
-[youtube=https://www.youtube.com/watch?v=TFnsjDDnLck]
+{{< youtube TFnsjDDnLck >}}

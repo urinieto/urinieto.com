@@ -5,7 +5,7 @@ type: post
 date: 2011-10-04T20:34:19+00:00
 url: /2011/10/new-song-haunter/
 thumbnail:
-  src: "https://img.youtube.com/vi/5biC-t0av8M/0.jpg"
+  src: "https://img.youtube.com/vi/kBmW3bF4_-E/0.jpg"
   alt: Thumbnail image
 categories:
   - music
@@ -17,9 +17,8 @@ My voice is on the 9th track of the album, a song called **Haunter**. The lyrics
 
 Here you have the song:
 
-{{< youtube 5biC-t0av8M >}}</iframe>
+{{< youtube kBmW3bF4_-E >}}
 
-( https://www.youtube.com/embed/5biC-t0av8M )
 
 The voices were recorded at **Jarl&#8217;em All Studios**, where the rest of the music was recorded, mixed and mastered by Andy Feehan somewhere in the UK.
 

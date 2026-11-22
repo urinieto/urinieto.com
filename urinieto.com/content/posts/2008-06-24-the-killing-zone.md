@@ -15,7 +15,7 @@ categories:
 ---
 What the fuck is wrong with this incredibly stupid human race?
 
-[youtube=https://www.youtube.com/watch?v=Y5RAxay3jg8&hl=en] 
+*(This video is no longer available on YouTube.)* 
 
 <div class="blogger-post-footer">
   {{< img width='1' height='1' >}}

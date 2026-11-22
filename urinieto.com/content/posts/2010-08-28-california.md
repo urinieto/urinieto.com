@@ -71,7 +71,7 @@ Diferencias entre California y mi país, sin ningún orden aparente:
 
 Hasta aquí las diferencias. Gracias a Diana por ayudarme a recopilar esta lista. Y si alguien que haya estado por allí quiere añadir alguna otra diferencia, estaré encantado de editar el post.
 
- [1]: https://www.hesterinc.com/images/california_flag_lg.gif
+ [1]: https://web.archive.org/web/20040407041602im_/http://hesterinc.com:80/images/california_flag_lg.gif
  [2]: https://es.wikipedia.org/wiki/Yosemite
  [3]: https://www.stonebrew.com/
  [4]: https://www.russianriverbrewing.com/

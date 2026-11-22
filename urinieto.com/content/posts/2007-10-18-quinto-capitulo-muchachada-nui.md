@@ -16,7 +16,7 @@ categories:
 ¿Quinto ya? Madre mía, estas cinco semanas han pasado demasiado deprisa. Todo va demasiado deprisa. Pero Muchachada Nui sigue aquí. Y [ed115][1] los sigue colgando todos. Enjuto Mojamuto por la vena.
 
 Parte 1:  
-[youtube=https://www.youtube.com/watch?v=3ICweWd-YeQ&rel=1&#8243;>
+*(Este vídeo ya no está disponible en YouTube. Los capítulos de Muchachada Nui se pueden ver en [RTVE Play](https://www.rtve.es/play/videos/muchachada-nui/).)*
 
 Parte 2:
 

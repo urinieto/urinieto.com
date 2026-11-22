@@ -9,7 +9,7 @@ blogger_blog:
 blogger_permalink:
   - /2006/09/moodleing.html
 thumbnail:
-  src: "https://moodle.org/theme/moodleorange/hat.gif"
+  src: "https://web.archive.org/web/20050616010253im_/http://moodle.org/theme/moodleorange/hat.gif"
   alt: Thumbnail image
 categories:
   - moodle
@@ -20,7 +20,7 @@ Después de sufrir mucho y luego menos gracias a la vaselina, he llegado casi al
 
 Y mi PFC (Proyecto Final de Carrera) trata sobre <a href="https://moodle.org" target="_blank">Moodle</a>.
 
-<a href="https://moodle.org" target="_blank">{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://moodle.org/theme/moodleorange/hat.gif" border="0" alt="" >}}</a>
+<a href="https://moodle.org" target="_blank">{{< img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="https://web.archive.org/web/20050616010253im_/http://moodle.org/theme/moodleorange/hat.gif" border="0" alt="" >}}</a>
 
 De momento la cosa es hacer un módulo para Moodle que sirva para crear libros digitales a partir de las páginas wiki que hayan creado los usuarios. Y todo con AJAX y Javascript virguero (vale, Javascript está implícito en AJAX, pero cuando dices AJAX no dices Transparencias Que Te Cagas y/o Redimensión De Imágenes En Tiempo Real Que Lo Flipas). No está mal. 
 
