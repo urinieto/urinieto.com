@@ -25,6 +25,10 @@ newsOnHome = 6 # Number of news items on the home page (full list at /news/)
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
+# Link previews (WhatsApp, iMessage, Slack...): image and description used for the home page
+# (and as a fallback for pages without their own thumbnail/description)
+shareImage = "images/uri-share.jpg"
+shareDescription = "Researcher building human-centered AI for audio-visual creators."
 
 ## Math settings
 [params.math]
