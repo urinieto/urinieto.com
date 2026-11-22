@@ -19,6 +19,10 @@ items:
     emoji: "📝"
     text: "Three new preprints out: [FoleyForge](/publications/#pub-morais2027foleyforge) and [PromptSep-Speaker](/publications/#pub-wen2027promptsepspeaker) (under review at ICASSP 2027), and [CrossEdit](/publications/#pub-chen2027crossedit) (under review at ICLR 2027)."
 
+  - date: "2026-10-15"
+    emoji: "🎤"
+    text: "Gave an invited talk, **Sound Design AI**, at the [Conversational AI Reading Group](https://poonehmousavi.github.io/rg) at Mila. [Watch the recording](https://www.youtube.com/watch?v=sJOuuqaEKyA)."
+
   - date: "2026-10-06"
     emoji: "🎉"
     text: "[TAC: Timestamped Audio Captioning](/publications/#pub-kumar2026tac) was accepted to **NeurIPS 2026**!"

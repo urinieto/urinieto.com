@@ -69,11 +69,17 @@ url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
 
 [menu]
     [[menu.main]]
-      name = "Posts"
+      name = "Home"
       weight = 100
       identifier = "posts"
       title = "Home"
       url = "/"
+
+    [[menu.main]]
+      name = "News"
+      weight = 150
+      identifier = "news"
+      url = "/news/"
 
     [[menu.main]]
       name = "Publications"

@@ -2,10 +2,15 @@
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
     {{ if and (eq $paginator.PageNumber 1) .Site.Data.news }}
         <section class="news animated fadeInDown" id="news">
-            <h3 class="news-heading">News</h3>
+            <div class="home-section-header">
+                <h2 class="home-section-label">News</h2>
+                <a class="home-section-more" href="{{ "news/" | relURL }}">All news →</a>
+            </div>
             {{ partial "news.html" (dict "site" .Site "limit" (.Site.Params.newsOnHome | default 5)) }}
-            <p class="news-more"><a href="{{ "news/" | relURL }}">All news →</a></p>
         </section>
+        <div class="home-section-header home-section-posts animated fadeInDown">
+            <h2 class="home-section-label">Latest posts</h2>
+        </div>
     {{ end }}
     {{ range $paginator.Pages }}
         <div class="post animated fadeInDown preview">
