@@ -42,6 +42,11 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/urinieto/"
 
 [[params.socialIcons]]
+icon = "graduation-cap"
+title = "google-scholar"
+url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
+
+[[params.socialIcons]]
 icon = "github"
 title = "GitHub"
 url = "https://github.com/urinieto/"
@@ -65,11 +70,6 @@ url = "https://www.youtube.com/channel/UC_8n33wIclFtmwORvURYYHA"
 icon = "soundcloud"
 title = "soundcloud"
 url = "https://soundcloud.com/urinieto"
-
-[[params.socialIcons]]
-icon = "graduation-cap"
-title = "google-scholar"
-url = "https://scholar.google.com/citations?user=7CyUUcMAAAAJ&hl=en"
 
 [menu]
     [[menu.main]]
