@@ -7,8 +7,9 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
     {{/* Link previews (WhatsApp, iMessage, Slack, LinkedIn, Bluesky, X...).
          Home: site title + shareDescription + shareImage (config.toml).
-         Pages/posts: their title, description (or summary), and thumbnail
-         (falling back to shareImage). */}}
+         Pages/posts: their title, description (or summary), and image:
+         thumbnail > first image in the post > first YouTube video's thumbnail
+         > shareImage. */}}
     {{- $shareImage := .Site.Params.shareImage | default "images/share-melspec-face.jpg" -}}
     {{- $desc := .Site.Params.shareDescription | default .Site.Params.description -}}
     {{- if not .IsHome -}}
@@ -19,6 +20,15 @@
     {{- $title := cond .IsHome .Site.Params.title .Title -}}
     {{- $image := "" -}}
     {{- with .Params.thumbnail -}}{{- with .src -}}{{- $image = . | absURL -}}{{- end -}}{{- end -}}
+    {{- if and (not $image) .IsPage (eq .Type "post") -}}
+        {{- with findRE `<img[^>]+src="[^"]+"` .Content 1 -}}
+            {{- $image = index . 0 | replaceRE `(?s).*src="([^"]+)".*` "$1" | absURL -}}
+        {{- else -}}
+            {{- with findRE `youtube(?:-nocookie)?\.com/embed/[A-Za-z0-9_-]{11}` .Content 1 -}}
+                {{- $image = printf "https://img.youtube.com/vi/%s/hqdefault.jpg" (index . 0 | replaceRE `.*/embed/` "") -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
     {{- $isDefaultImage := not $image -}}
     {{- if $isDefaultImage -}}{{- $image = $shareImage | absURL -}}{{- end }}
     <meta name="description" content="{{ $desc }}">
