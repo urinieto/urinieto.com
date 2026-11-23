@@ -71,6 +71,11 @@ icon = "soundcloud"
 title = "soundcloud"
 url = "https://soundcloud.com/urinieto"
 
+[[params.socialIcons]]
+icon = "spotify"
+title = "spotify"
+url = "https://open.spotify.com/album/0FyrS9J820Rf4SGRpTDrDi"  # La Bossa d'Urina: L'últim disc de La Bossa d'Urina - part 2
+
 [menu]
     [[menu.main]]
       name = "Home"

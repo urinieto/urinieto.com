@@ -931,6 +931,20 @@ sections:
   - name: "Music"
     id: "music"
     entries:
+      - key: bolsa2026ultimdisc
+        title: "La Bossa d'Urina: L'últim disc de La Bossa d'Urina - part 2"
+        authors: "Daniel Bolsa, Oriol Nieto, Víctor Valiente"
+        venue: "Self-released EP"
+        year: 2026
+        bibtex_type: misc
+        links:
+          - name: "Spotify"
+            url: "https://open.spotify.com/album/0FyrS9J820Rf4SGRpTDrDi"
+          - name: "Amazon"
+            url: "https://www.amazon.com/music/player/albums/B0GX65KQ92"
+          - name: "Bandcamp"
+            url: "https://labossadurina.bandcamp.com/album/l-ltim-disc-de-la-bossa-durina-part-2"
+
       - key: bolsa2022bossa1
         title: "La Bossa d'Urina: El Primer Disc"
         authors: "Daniel Bolsa, Oriol Nieto"
@@ -944,6 +958,8 @@ sections:
             url: "https://open.spotify.com/album/6JeQSOrGoCx8PcrkdsgsAk?si=jv9bx8aQTxW0evX3-hsxYQ"
           - name: "Amazon"
             url: "https://music.amazon.com/albums/B0BPM8DSQC"
+          - name: "Bandcamp"
+            url: "https://labossadurina.bandcamp.com/album/el-primer-disc"
 
       - key: cobo2021rumbahia2
         title: "Rumbahía: Casi al Compás"
@@ -988,6 +1004,8 @@ sections:
             url: "https://open.spotify.com/album/4XWTjpFBQsUC683wtVu7hI?si=xT-L6BV6T86nAA7ctTr9mg"
           - name: "Amazon"
             url: "https://www.amazon.com/Merda-Fina-bossa-durina/dp/B07GXKQMX5"
+          - name: "Bandcamp"
+            url: "https://labossadurina.bandcamp.com/album/merda-fina"
 
       - key: henson2017arkaen
         title: "Arkaen: Arkaen"
@@ -1020,6 +1038,8 @@ sections:
             url: "https://open.spotify.com/album/4CE2GrmJd4rdW7tWdxJtvq"
           - name: "Amazon"
             url: "https://www.amazon.com/bossa-durina/dp/B017EX02J4"
+          - name: "Bandcamp"
+            url: "https://labossadurina.bandcamp.com/album/la-bossa-durina"
 
       - key: ferreiro2009vida
         title: "Sargon: Vida"
