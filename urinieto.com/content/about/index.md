@@ -49,9 +49,13 @@ The [Blog](/blog/) is about technology, music, traveling, books, politics, geek 
 {{< rawhtml >}}
 <details class="easter-egg">
   <summary title="psst">🤫</summary>
-  <p>Psst. There's a silly thing hidden in this sound. Give it a listen, then load it into a spectrogram viewer to find it (a mel spectrogram works best).</p>
-  <audio controls preload="none" src="/audio/face-in-music.wav"></audio>
-  <p><a href="/audio/face-in-music.wav" download>Download the WAV</a></p>
+  <p>Psst. There's a cute little thing hidden in this sound. Give it a listen, then load it into a spectrogram viewer to find it (a mel spectrogram works best).</p>
+  <audio controls preload="none" src="/audio/mica-in-music.wav"></audio>
+  <p><a href="/audio/mica-in-music.wav" download>Download the WAV</a></p>
+  <details class="easter-egg-spoiler">
+    <summary>Give up? Peek at the spectrogram</summary>
+    <img src="/images/mica-melspec.jpg" alt="Mel spectrogram of the sound: a scruffy dog's face appears between two music passages" loading="lazy">
+  </details>
 </details>
 {{< /rawhtml >}}
 

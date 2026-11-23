@@ -1092,3 +1092,15 @@ h1, h2, h3, h4, h5, h6,
   width: 100%;
   max-width: 420px;
 }
+.easter-egg-spoiler summary {
+  cursor: pointer;
+  font-style: italic;
+  opacity: 0.7;
+  width: fit-content;
+}
+.easter-egg-spoiler img {
+  display: block;
+  margin-top: 10px;
+  max-width: 100%;
+  border-radius: 6px;
+}
