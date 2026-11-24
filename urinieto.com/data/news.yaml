@@ -46,6 +46,10 @@ items:
     emoji: "🎹"
     text: "[Smorph: Playable Sound Morphing with Diffusion Models](/publications/#pub-chu2026smorph) will appear at **ISMIR 2026** in Abu Dhabi."
 
+  - date: "2026-09-25"
+    emoji: "🧭"
+    text: "[AI and Music at a Crossroads](/publications/#pub-serra2026crossroads) is out in **TISMIR**: a paper by 49 MIR researchers on how our community can help shape trustworthy, open, and culturally inclusive music AI."
+
   - date: "2026-08-08"
     emoji: "🎭"
     text: "[Dramarrator](/publications/#pub-benharrak2026dramarrator), an object-based audio editor for audio drama production, was accepted to **UIST 2026**."

@@ -91,6 +91,18 @@ sections:
         bibtex_type: inproceedings
         arxiv: "https://arxiv.org/abs/2608.08349"
 
+      - key: serra2026crossroads
+        title: "AI and Music at a Crossroads: The Role of the Music Information Retrieval (MIR) Community in Shaping Trustworthy, Open, and Culturally Inclusive Music-AI"
+        authors: "Xavier Serra, Vinoo Alluri, Stefan Balke, Juan Pablo Bello, Emmanouil Benetos, Dmitry Bogdanov, Johanna Devaney, Simon Dixon, Zhiyao Duan, George Fazekas, Arthur Flexer, Frederic Font, Magdalena Fuentes, Ichiro Fujinaga, Emilia Gómez, Masataka Goto, Romain Hennequin, Dorien Herremans, Xiao Hu, Dasaem Jeong, Peter Knees, Filip Korzeniowski, Stefan Lattner, Jin Ha Lee, Alexander Lerch, Cynthia Liem, Brian McFee, Emilio Molina, Meinard Müller, Tomoyasu Nakano, Juhan Nam, Oriol Nieto, Sergio Oramas, Bryan Pardo, Geoffroy Peeters, Preeti Rao, Gaël Richard, Martín Rocamora, Ajay Srinivasamurthy, Li Su, Bob L. T. Sturm, George Tzanetakis, Anja Volk, Ye Wang, Gerhard Widmer, Frans Wiering, Christof Weiß, Yi-Hsuan Yang, Eva Zangerle"
+        venue: "Transactions of the International Society for Music Information Retrieval (TISMIR)"
+        year: 2026
+        volume: "9"
+        number: "1"
+        pages: "510-525"
+        doi: "10.5334/tismir.372"
+        pdf: "https://transactions.ismir.net/articles/372/files/6aba68c527512.pdf"
+        bibtex_type: article
+
       - key: chen2026audiochat
         title: "AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing"
         authors: "William Chen, Prem Seetharaman, Rithesh Kumar, Oriol Nieto, Shinji Watanabe, Justin Salamon, Zeyu Jin"
